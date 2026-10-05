@@ -1,0 +1,74 @@
+rules_version = '2';
+
+// Deploy these in the Firebase Console under Firestore Database > Rules,
+// or via `firebase deploy --only firestore:rules` if you use the CLI.
+//
+// Setup for the admin dashboard (/admin) to be able to read every enquiry:
+// 1. Go to Firestore Database > Data.
+// 2. Create a collection called "admins".
+// 3. Add one document per admin, where the Document ID is that admin's
+//    Firebase Authentication UID (Authentication > Users tab has this).
+//    The document's fields don't matter — its existence is the check.
+//
+// Without this collection set up, only signed-in users can read their own
+// enquiries (by matching email), and the /admin page will show no data.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() &&
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+
+    match /inquiries/{inquiryId} {
+      // Anyone (including anonymous visitors) can submit a new enquiry.
+      allow create: if true;
+
+      // Only the signed-in owner of an enquiry, or an admin, can read it.
+      allow read: if isAdmin() ||
+        (isSignedIn() && resource.data.email == request.auth.token.email);
+
+      // No client-side updates or deletes — manage enquiries from the
+      // Firebase Console or a future admin-write feature.
+      allow update, delete: if false;
+    }
+
+    match /admins/{uid} {
+      // Admin membership itself is only manageable from the Firebase Console.
+      allow read: if isSignedIn() && request.auth.uid == uid;
+      allow write: if false;
+    }
+
+    match /reviews/{reviewId} {
+      // Public reviews: anyone can submit and anyone can read (shown on the
+      // homepage and /reviews page). Admins can moderate (delete) reviews.
+      allow create: if true;
+      allow read: if true;
+      allow update: if false;
+      allow delete: if isAdmin();
+    }
+
+    match /gallery/{itemId} {
+      // Public gallery: anyone can view, only admins can add/remove photos.
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /categories/{categoryId} {
+      // Public: anyone can view the list of tour categories; only admins add/remove them.
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /customTours/{tourId} {
+      // Public tour listings: anyone can view, only admins can manage.
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+  }
+}
