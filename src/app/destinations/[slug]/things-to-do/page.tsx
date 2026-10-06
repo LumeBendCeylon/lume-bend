@@ -34,9 +34,13 @@ export default async function ThingsToDoPage({
   const destination = destinations.find((d) => d.slug === slug);
   if (!destination) notFound();
 
-  const items = destination.thingsToDo?.length
-    ? destination.thingsToDo
-    : destination.activities.map((a) => ({ title: a, description: "" }));
+const items = destination.thingsToDo?.length
+  ? destination.thingsToDo
+  : destination.activities.map((a) => ({
+      title: a,
+      description: "",
+      imageUrl: "",
+    }));
 
   return (
     <>
