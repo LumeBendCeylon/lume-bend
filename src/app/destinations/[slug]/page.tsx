@@ -35,9 +35,9 @@ export default async function DestinationDetailPage({
   const destination = destinations.find((d) => d.slug === slug);
   if (!destination) notFound();
 
-  const cards = destination.highlightCards?.length
+ const cards = destination.highlightCards?.length
     ? destination.highlightCards
-    : destination.highlights.slice(0, 3).map((h) => ({ title: h }));
+    : destination.highlights.slice(0, 3).map((h) => ({ title: h, imageUrl: undefined as string | undefined }));
 
   // Up to 5 article sections, sourced from thingsToDo; falls back to
   // activities/highlights (paired with the description) if not set.
