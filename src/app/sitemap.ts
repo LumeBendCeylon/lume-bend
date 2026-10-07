@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { destinations, tours } from "@/lib/data";
 
-const siteUrl = "https://www.goldenpalmceylon.com";
+const siteUrl = "https://www.lumebendceylon.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [

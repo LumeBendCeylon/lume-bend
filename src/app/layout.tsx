@@ -20,7 +20,7 @@ const poppins = Poppins({
   display: "swap",
 });
 
-const siteUrl = "https://www.goldenpalmceylon.com";
+const siteUrl = "https://www.lumebendceylon.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -70,7 +70,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               "Bespoke, privately guided luxury tours across Sri Lanka.",
             areaServed: "Sri Lanka",
             telephone: "+94771234567",
-            email: "hello@goldenpalmceylon.com",
+            email: "hello@lumebendceylon.com",
             address: {
               "@type": "PostalAddress",
               addressLocality: "Colombo",

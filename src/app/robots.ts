@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.goldenpalmceylon.com/sitemap.xml",
+    sitemap: "https://www.lumebendceylon.com/sitemap.xml",
   };
 }

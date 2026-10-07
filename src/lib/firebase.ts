@@ -40,7 +40,7 @@ const firebaseConfig = {
 
 // Add the email addresses that should have admin access to
 // NEXT_PUBLIC_ADMIN_EMAILS in .env.local, comma-separated,
-// e.g. NEXT_PUBLIC_ADMIN_EMAILS=you@goldenpalmceylon.com,partner@goldenpalmceylon.com
+// e.g. NEXT_PUBLIC_ADMIN_EMAILS=you@lumebendceylon.com,partner@lumebendceylon.com
 export const ADMIN_EMAILS = (process.env.NEXT_PUBLIC_ADMIN_EMAILS || "")
   .split(",")
   .map((e) => e.trim().toLowerCase())

@@ -25,7 +25,7 @@ const SECTIONS = [
   },
   {
     title: "5. Your Rights",
-    body: "You may request access to, correction of, or deletion of your personal information at any time by contacting hello@goldenpalmceylon.com.",
+    body: "You may request access to, correction of, or deletion of your personal information at any time by contacting hello@lumebendceylon.com.",
   },
   {
     title: "6. Cookies",
