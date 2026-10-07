@@ -25,11 +25,11 @@ const siteUrl = "https://www.lumebendceylon.com";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Golden Palm Ceylon | Luxury Private Tours in Sri Lanka",
-    template: "%s | Golden Palm Ceylon",
+    default: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
+    template: "%s | lume bend ceylon",
   },
   description:
-    "Golden Palm Ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
+    "lume bend ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
   keywords: [
     "Sri Lanka luxury tours",
     "Sri Lanka private tour operator",
@@ -37,19 +37,19 @@ export const metadata: Metadata = {
     "luxury travel Sri Lanka",
     "Sri Lanka honeymoon tours",
   ],
-  authors: [{ name: "Golden Palm Ceylon" }],
+  authors: [{ name: "lume bend ceylon" }],
   openGraph: {
     type: "website",
     url: siteUrl,
-    siteName: "Golden Palm Ceylon",
-    title: "Golden Palm Ceylon | Luxury Private Tours in Sri Lanka",
+    siteName: "lume bend ceylon",
+    title: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
     description:
       "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Golden Palm Ceylon | Luxury Private Tours in Sri Lanka",
+    title: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
     description:
       "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
   },
@@ -64,7 +64,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           data={{
             "@context": "https://schema.org",
             "@type": "TravelAgency",
-            name: "Golden Palm Ceylon",
+            name: "lume bend ceylon",
             url: siteUrl,
             description:
               "Bespoke, privately guided luxury tours across Sri Lanka.",
