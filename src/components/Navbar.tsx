@@ -63,14 +63,16 @@ export default function Navbar() {
       }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center gap-8 px-6 py-5 lg:gap-12 lg:px-10">
-       <Link href="/" aria-label="Lume Bend Ceylon" className="flex items-center">
-  {/* eslint-disable-next-line @next/next/no-img-element */}
-  <img
-    src={solid ? "/logo-dark.svg" : "/logo2.svg"}
-    alt="Lume Bend Ceylon"
-    className="h-14 w-auto"
-  />
-</Link>
+        <Link href="/" className="flex items-baseline gap-1">
+          <span
+            className={`font-display text-2xl tracking-wide transition-colors ${
+              solid ? "text-forest" : "text-white"
+            }`}
+          >
+            LUME BEND
+          </span>
+          <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
+        </Link>
 
         <ul className="hidden items-center gap-9 lg:flex">
           {/* Tours mega-menu trigger */}
