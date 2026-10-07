@@ -14,7 +14,7 @@ function walk(dir) {
 
 for (const file of walk("public")) {
   const ext = path.extname(file).toLowerCase();
-  if (![".jpg", ".jpeg", ".png"].includes(ext)) continue;
+    if (ext !== ".png") continue;
 
   try {
     const input = fs.readFileSync(file);
@@ -23,7 +23,7 @@ for (const file of walk("public")) {
 
     let img = sharp(input).rotate().resize({ width: MAX_WIDTH, withoutEnlargement: true });
     img = ext === ".png"
-      ? img.png({ compressionLevel: 9 })
+            ? img.png({ palette: true, quality: 80, compressionLevel: 9 })
       : img.jpeg({ quality: 80, mozjpeg: true });
 
     const buf = await img.toBuffer();
