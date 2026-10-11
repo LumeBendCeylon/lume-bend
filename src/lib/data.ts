@@ -8676,34 +8676,7 @@ export const services: Service[] = [
 ];
 
 export const testimonials = [
-  {
-    name: "Charlotte Hayes",
-    country: "United Kingdom",
-    quote:
-      "Every detail was considered before we even thought to ask. The most effortless travel experience we've had in years.",
-    trip: "The Golden Palm Grand Ceylon",
-  },
-  {
-    name: "Marco Bianchi",
-    country: "Australia",
-    quote:
-      "Our guide's knowledge of Sigiriya turned a photo stop into the highlight of the entire trip.",
-    trip: "Kingdoms of the Triangle",
-  },
-  {
-    name: "Emily & Noah Carter",
-    country: "Canada",
-    quote:
-      "From the private villa to the sunset cruise, Golden Palm Ceylon planned the honeymoon we didn't know how to ask for.",
-    trip: "Ceylon Honeymoon Retreat",
-  },
-  {
-    name: "Lena Fischer",
-    country: "Germany",
-    quote:
-      "Genuinely five-star service. Our chauffeur felt like a friend by day three.",
-    trip: "Hills of Ceylon",
-  },
+  
 ];
 
 export const faqs = [
