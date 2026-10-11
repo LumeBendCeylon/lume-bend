@@ -4346,7 +4346,7 @@ export const destinations: Destination[] = [
       title: "Colombo's Culture & Local Life",
       imageUrl: "/documents/destination_explore_Image/colombo_culture.jpg",
     },
-
+   
     {
       title: "Oceanfront Colombo",
       imageUrl: "/documents/destination_explore_Image/colombo_ocean.jpg",
@@ -4462,14 +4462,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/colombo_food.jpg",
     },
 
-    {
-      title: "Explore Colombo by Tuk-Tuk",
-
-      description:
-        "See the city from a local perspective with a tuk-tuk journey through historic streets, markets, neighbourhoods and lively parts of Colombo.",
-
-      imageUrl: "/documents/thingstodo/colombo_tuktuk.jpg",
-    },
+    
 
     {
       title: "Enjoy Colombo's Shopping & Lifestyle",
@@ -4489,14 +4482,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/colombo_dining.jpg",
     },
 
-    {
-      title: "Explore Colombo's Art & Galleries",
-
-      description:
-        "Discover the city's contemporary creative side through art spaces, galleries, design stores and cultural venues that showcase Sri Lankan artists and modern creativity.",
-
-      imageUrl: "/documents/thingstodo/colombo_art.jpg",
-    },
+   
   ],
 },
 
@@ -4718,7 +4704,7 @@ export const destinations: Destination[] = [
       description:
         "Pinnawala is closely associated with Sri Lanka's Asian elephants, making it a special destination for travellers who want to experience these magnificent animals at close range. The elephants are at the heart of the destination, and seeing them together in their familiar surroundings creates a memorable introduction to one of Sri Lanka's most iconic animals. The experience offers travellers a chance to appreciate the size, character and gentle nature of these remarkable creatures.",
 
-      imageUrl: "/documents/destination_explore_Image/pinnawala_elephants.jpg",
+      imageUrl: "/documents/destination_explore_Image/pinnawala_elephants1.jpg",
     },
 
     {
@@ -4727,7 +4713,7 @@ export const destinations: Destination[] = [
       description:
         "One of the most memorable aspects of visiting Pinnawala is seeing elephants as they move through their daily routines, particularly around the river. Watching the herd gather, walk and interact with one another creates a more immersive experience than simply viewing wildlife from a distance. Surrounded by the tropical landscape of central Sri Lanka, these moments allow travellers to observe the natural behaviour and social character of the elephants in a distinctive setting.",
 
-      imageUrl: "/documents/destination_explore_Image/pinnawala_river.jpg",
+      imageUrl: "/documents/destination_explore_Image/pinnawala_river2.jpg",
     },
 
     {
@@ -4736,7 +4722,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond the memorable photographs, Pinnawala provides an opportunity to understand the importance of elephant care and conservation in Sri Lanka. Travellers can learn about the challenges surrounding the protection of Asian elephants and the role of dedicated care in supporting animals that require human assistance. For visitors with an interest in wildlife, Pinnawala offers a meaningful perspective on Sri Lanka's enduring relationship with its elephants.",
 
-      imageUrl: "/documents/destination_explore_Image/pinnawala_conservation.jpg",
+      imageUrl: "/documents/destination_explore_Image/pinnawala_conservation3.jpg",
     },
   ],
 
@@ -4747,7 +4733,7 @@ export const destinations: Destination[] = [
       description:
         "Spend time observing the magnificent elephants of Pinnawala and experience one of Sri Lanka's most distinctive wildlife encounters.",
 
-      imageUrl: "/documents/thingstodo/pinnawala_elephants.jpg",
+      imageUrl: "/documents/thingstodo/pinnawala_elephants (2).jpg",
     },
 
     {
@@ -4830,7 +4816,7 @@ export const destinations: Destination[] = [
       description:
         "The mountains around Riverston offer some of the most atmospheric landscapes in central Sri Lanka. As the road climbs through the hills, the scenery changes into a world of misty peaks, rolling grasslands, forests and wide-open valleys. The journey towards Riverston and Pitawala Pathana is as memorable as the viewpoints themselves, with changing weather and dramatic mountain scenery creating a sense of discovery at every turn. For travellers who enjoy walking, photography and untouched highland landscapes, this quieter corner of the Knuckles region offers an experience far removed from the island's busier tourist routes.",
 
-      imageUrl: "/documents/destination_explore_Image/riverston.jpg",
+      imageUrl: "/documents/destination_explore_Image/riverston1.jpg",
     },
 
     {
@@ -4839,7 +4825,7 @@ export const destinations: Destination[] = [
       description:
         "Tucked among the hills of Matale, Sembuwatta Lake is surrounded by forests, tea-covered slopes and peaceful highland scenery. The journey to the lake winds through the countryside, revealing a softer side of Sri Lanka's mountains where cool air and green landscapes replace the bustle of the lowlands. The combination of the calm lake, surrounding hills and nearby tea country makes Sembuwatta an appealing escape for travellers looking to slow down and experience the natural beauty of the central highlands at an unhurried pace.",
 
-      imageUrl: "/documents/destination_explore_Image/sembuwatta.jpg",
+      imageUrl: "/documents/destination_explore_Image/sembuwatta1.jpg",
     },
 
     {
@@ -4848,7 +4834,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond its mountains, Matale carries a rich cultural character shaped by centuries of Buddhist heritage and traditional spice cultivation. The ancient Aluvihare Rock Temple is closely connected with Sri Lanka's religious and literary history, while the surrounding countryside is known for fragrant cinnamon, pepper, cardamom and other spices that have long formed part of the island's identity. Visiting a spice garden and exploring the heritage of Aluvihare allows travellers to discover a more intimate side of Sri Lanka, where history, agriculture and everyday traditions remain closely connected.",
 
-      imageUrl: "/documents/destination_explore_Image/matale_spice.jpg",
+      imageUrl: "/documents/destination_explore_Image/matale_spice1.jpg",
     },
   ],
 
@@ -4859,7 +4845,7 @@ export const destinations: Destination[] = [
       description:
         "Travel into the misty highlands of Riverston and enjoy dramatic mountain scenery, cool air and panoramic views across the Knuckles region.",
 
-      imageUrl: "/documents/thingstodo/riverston.jpg",
+      imageUrl: "/documents/thingstodo/riverston2.jpg",
     },
 
     {
@@ -4877,7 +4863,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the peaceful mountain lake surrounded by forests, tea country and the cool green landscapes of the Matale highlands.",
 
-      imageUrl: "/documents/thingstodo/sembuwatta.jpg",
+      imageUrl: "/documents/thingstodo/sembuwatta2.jpg",
     },
 
     {
@@ -4886,7 +4872,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the fragrant world of Sri Lankan spices and learn how cinnamon, pepper, cardamom and other spices are traditionally cultivated.",
 
-      imageUrl: "/documents/thingstodo/matale_spice_garden.jpg",
+      imageUrl: "/documents/thingstodo/matale_spice.jpg",
     },
 
     {
@@ -4898,14 +4884,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/aluvihare.jpg",
     },
 
-    {
-      title: "Drive Through the Knuckles Region",
 
-      description:
-        "Take a scenic journey through the mountains and countryside of the Knuckles region, with changing views of forests, valleys and mist-covered peaks.",
-
-      imageUrl: "/documents/thingstodo/knuckles_drive.jpg",
-    },
   ],
 },
   {
@@ -5255,7 +5234,7 @@ export const destinations: Destination[] = [
   aboutText:
     "Kitulgala brings together the wild beauty of Sri Lanka's rainforest and the excitement of outdoor adventure. The Kelani River flows through the heart of the region, creating ideal conditions for white-water rafting while the surrounding forests offer opportunities for trekking, birdwatching and discovering waterfalls and caves. With its lush landscapes, rushing rivers and adventurous character, Kitulgala provides a refreshing contrast to Sri Lanka's cultural cities and coastal resorts, making it an excellent choice for travellers who want to experience the island's natural side in a more active way.",
 
-  imageUrl: "/documents/destination image/kitulgala.jpg",
+  imageUrl: "/documents/destination image/kithulgala.jpg",
 
   galleryImageUrl: "/documents/gallery image/kithulgala.jpg",
 
@@ -5275,7 +5254,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond the river, Kitulgala opens into a rich rainforest environment filled with towering trees, streams, birds and hidden corners waiting to be explored. Walking through the forest reveals a quieter side of the destination, where the sounds of flowing water and wildlife replace the noise of busy towns. For travellers who enjoy nature, photography and immersive outdoor experiences, the rainforest provides a beautiful opportunity to discover the biodiversity and atmosphere of Sri Lanka's wet zone.",
 
-      imageUrl: "/documents/destination_explore_Image/kitulgala_rainforest.jpg",
+      imageUrl: "/documents/destination_explore_Image/kitulgala_rainforest1.jpg",
     },
 
     {
@@ -5284,7 +5263,7 @@ export const destinations: Destination[] = [
       description:
         "Kitulgala offers more than a single adventure, with caves, waterfalls, forest trails and scenic rivers creating a varied experience for active travellers. The surrounding countryside can be explored at a relaxed pace between more adventurous activities, while the combination of rainforest and river landscapes creates a strong sense of being immersed in nature. Whether travelling for an adrenaline-filled day or a deeper connection with Sri Lanka's wilderness, Kitulgala provides an experience that feels distinctly different from the island's more traditional destinations.",
 
-      imageUrl: "/documents/destination_explore_Image/kitulgala_nature.jpg",
+      imageUrl: "/documents/destination_explore_Image/kitulgala_nature1.jpg",
     },
   ],
 
@@ -5295,7 +5274,7 @@ export const destinations: Destination[] = [
       description:
         "Experience the rapids of the Kelani River on one of Sri Lanka's most exciting outdoor adventures, surrounded by lush rainforest and dramatic river scenery.",
 
-      imageUrl: "/documents/thingstodo/kitulgala_rafting.jpg",
+      imageUrl: "/documents/thingstodo/kitulgala_rafting2.jpg",
     },
 
     {
@@ -5304,7 +5283,7 @@ export const destinations: Destination[] = [
       description:
         "Venture into the lush rainforest surrounding Kitulgala and discover a rich natural environment filled with tropical vegetation, streams and wildlife.",
 
-      imageUrl: "/documents/thingstodo/kitulgala_rainforest.jpg",
+      imageUrl: "/documents/thingstodo/kitulgala_rainforest2.jpg",
     },
 
     {
@@ -5313,7 +5292,7 @@ export const destinations: Destination[] = [
       description:
         "Follow nature trails through the wet-zone forest and experience the peaceful atmosphere and biodiversity of Kitulgala's surrounding wilderness.",
 
-      imageUrl: "/documents/thingstodo/kitulgala_trekking.jpg",
+      imageUrl: "/documents/thingstodo/kitulgala_trekking1.jpg",
     },
 
     {
@@ -5322,7 +5301,7 @@ export const destinations: Destination[] = [
       description:
         "Explore the forested surroundings of Kitulgala in search of beautiful waterfalls and quiet natural pools tucked away among the greenery.",
 
-      imageUrl: "/documents/thingstodo/kitulgala_waterfall.jpg",
+      imageUrl: "/documents/thingstodo/kitulgala_waterfall2.jpg",
     },
 
     {
@@ -5405,7 +5384,7 @@ export const destinations: Destination[] = [
       description:
         "Walking into Sinharaja feels like entering another world, where towering trees form a dense green canopy above trails surrounded by ferns, vines and tropical vegetation. The rainforest is alive with the sounds of birds, insects and flowing streams, while mist and changing light give the forest an atmospheric quality throughout the day. Exploring with a knowledgeable guide reveals details that can easily be missed, from tiny forest creatures to ancient trees and the interconnected life of this remarkable ecosystem.",
 
-      imageUrl: "/documents/destination_explore_Image/sinharaja_rainforest.jpg",
+      imageUrl: "/documents/destination_explore_Image/sinharaja_rainforest1.jpg",
     },
 
     {
@@ -5414,7 +5393,7 @@ export const destinations: Destination[] = [
       description:
         "Sinharaja is one of Sri Lanka's most important habitats for endemic wildlife, making it a particularly rewarding destination for birdwatchers and nature enthusiasts. The forest is home to many species found nowhere else in the world, and patient observation can reveal colourful birds, reptiles, amphibians and other creatures hidden among the dense vegetation. Rather than offering wildlife encounters from a vehicle, Sinharaja invites travellers to slow down, listen carefully and experience the forest as a living ecosystem.",
 
-      imageUrl: "/documents/destination_explore_Image/sinharaja_birdlife.jpg",
+      imageUrl: "/documents/destination_explore_Image/sinharaja_birdlife1.jpg",
     },
 
     {
@@ -5423,7 +5402,7 @@ export const destinations: Destination[] = [
       description:
         "A journey through Sinharaja is as much about the atmosphere of the forest as the wildlife itself. Trails cross small streams, pass beneath enormous trees and lead through layers of vegetation shaped by centuries of tropical growth. The experience is active yet deeply peaceful, offering travellers a chance to disconnect from busy routes and spend meaningful time surrounded by nature. For those seeking an authentic rainforest experience in Sri Lanka, Sinharaja provides a rare opportunity to explore one of the island's most precious natural landscapes.",
 
-      imageUrl: "/documents/destination_explore_Image/sinharaja_trekking.jpg",
+      imageUrl: "/documents/destination_explore_Image/sinharaja_trekking1.jpg",
     },
   ],
 
@@ -5434,7 +5413,7 @@ export const destinations: Destination[] = [
       description:
         "Enter the ancient rainforest and discover a world of towering trees, dense vegetation, flowing streams and remarkable biodiversity.",
 
-      imageUrl: "/documents/thingstodo/sinharaja_rainforest.jpg",
+      imageUrl: "/documents/thingstodo/sinharaja_rainforest2.jpg",
     },
 
     {
@@ -5443,7 +5422,7 @@ export const destinations: Destination[] = [
       description:
         "Follow forest trails with a knowledgeable local guide and discover the hidden wildlife, plants and natural details of Sinharaja.",
 
-      imageUrl: "/documents/thingstodo/sinharaja_trekking.jpg",
+      imageUrl: "/documents/thingstodo/sinharaja_trekking2.jpg",
     },
 
     {
@@ -5452,7 +5431,7 @@ export const destinations: Destination[] = [
       description:
         "Look and listen for Sri Lanka's endemic birds as they move through the dense canopy and forest surroundings.",
 
-      imageUrl: "/documents/thingstodo/sinharaja_birdwatching.jpg",
+      imageUrl: "/documents/thingstodo/sinharaja_birdwatching2.jpg",
     },
 
     {
@@ -5571,7 +5550,7 @@ export const destinations: Destination[] = [
       description:
         "Discover Ella’s iconic Nine Arch Bridge, an impressive railway viaduct surrounded by lush jungle and tea-covered hills. Walk to the viewpoints around the bridge and, when a train passes, experience one of the most memorable railway scenes in Sri Lanka.",
 
-      imageUrl: "/documents/thingstodo/nine_arch.jpg",
+      imageUrl: "/documents/thingstodo/nine_arch1.jpg",
     },
 
     {
@@ -5580,7 +5559,7 @@ export const destinations: Destination[] = [
       description:
         "Take an enjoyable walk through tea plantations to the summit of Little Adam’s Peak and enjoy sweeping views across Ella’s green mountains and valleys. The relatively gentle hike makes it one of the most accessible ways to experience the spectacular scenery around Ella.",
 
-      imageUrl: "/documents/thingstodo/little_adams.jpg",
+      imageUrl: "/documents/thingstodo/little_adams1.jpg",
     },
 
     {
@@ -5589,7 +5568,7 @@ export const destinations: Destination[] = [
       description:
         "Embark on a rewarding hike to Ella Rock through tea plantations, forest paths, and beautiful highland scenery. The trail offers a more adventurous experience than Little Adam’s Peak, with spectacular panoramic views across the surrounding mountains and valleys from the summit.",
 
-      imageUrl: "/documents/thingstodo/ella_rock.jpg",
+      imageUrl: "/documents/thingstodo/ella_rock2.jpg",
     },
 
     {
@@ -5655,31 +5634,15 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/flying_ravana.jpg",
     },
 
-    {
-      title: "Ella Local Village Experience",
-
-      description:
-        "Step beyond the popular attractions and discover the quieter side of Ella through its surrounding villages and countryside. Meet local communities, experience traditional lifestyles, explore small farms, and enjoy the peaceful atmosphere of everyday life in Sri Lanka’s highlands.",
-
-      imageUrl: "/documents/thingstodo/village.jpg",
-    },
-
-    {
-      title: "Ella Spice Garden",
-
-      description:
-        "Discover Sri Lanka’s traditional spices and medicinal plants in a peaceful garden setting. Learn about the uses of cinnamon, cardamom, pepper, cloves, and other tropical plants while gaining an insight into the island’s long-standing connection with spices and traditional remedies.",
-
-      imageUrl: "/documents/thingstodo/spice.jpg",
-    },
-
+   
+   
     {
       title: "Ayurvedic Massage & Wellness",
 
       description:
         "Slow down and relax with a traditional Ayurvedic wellness experience in the peaceful surroundings of Ella. Enjoy a soothing massage or wellness treatment inspired by Sri Lanka’s ancient healing traditions after a day of exploring the mountains.",
 
-      imageUrl: "/documents/thingstodo/ayurveda.jpg",
+      imageUrl: "/documents/thingstodo/ayurveda (2).jpg",
     },
 
     {
@@ -5768,7 +5731,7 @@ export const destinations: Destination[] = [
       description:
         "A Yala experience begins early, often with the soft light of the morning revealing the first signs of life across the wilderness. Travellers can explore the park by safari jeep, following natural tracks through forests, grasslands, lagoons, and rocky terrain while watching for wildlife along the way. From quiet moments beside a lagoon filled with birds to distant elephant sightings and the possibility of seeing a leopard moving through the landscape, the experience is shaped by patience and nature. Beyond the animals themselves, Yala’s dramatic scenery and peaceful atmosphere make it an unforgettable escape for travellers seeking adventure, photography, and a deeper connection with Sri Lanka’s wild landscapes.",
 
-      imageUrl: "/documents/destination_explore_Image/yala_safari.jpg",
+      imageUrl: "/documents/destination_explore_Image/yala_safari (2).jpg",
     },
   ],
 
@@ -5779,7 +5742,7 @@ export const destinations: Destination[] = [
       description:
         "Explore the wilderness of Yala National Park on a guided safari through forests, grasslands, lagoons, and rocky landscapes. Travel by safari jeep in search of Sri Lanka’s remarkable wildlife while experiencing the changing scenery and peaceful atmosphere of the park.",
 
-      imageUrl: "/documents/thingstodo/yala_safari.jpg",
+      imageUrl: "/documents/thingstodo/yala_safari1.jpg",
     },
 
     {
@@ -5788,7 +5751,7 @@ export const destinations: Destination[] = [
       description:
         "Yala is internationally known for its opportunities to encounter the Sri Lankan leopard in its natural habitat. Join an experienced safari guide and explore the park's different landscapes while patiently watching for these elusive and powerful big cats.",
 
-      imageUrl: "/documents/thingstodo/yala_leopard.jpg",
+      imageUrl: "/documents/thingstodo/yala_leopard (2).jpg",
     },
 
     {
@@ -5851,7 +5814,7 @@ export const destinations: Destination[] = [
       description:
         "Experience the diverse landscapes that make Yala unique, from dry forests and open plains to rocky outcrops, lagoons, and coastal environments. Even between wildlife sightings, the changing scenery offers a fascinating glimpse into Sri Lanka’s southern wilderness.",
 
-      imageUrl: "/documents/thingstodo/yala_landscape.jpg",
+      imageUrl: "/documents/thingstodo/yala_landscape2.jpg",
     },
 
     {
@@ -5924,7 +5887,7 @@ export const destinations: Destination[] = [
       description:
         "The landscapes of Udawalawe National Park are shaped by open grasslands, forests, wetlands and the vast Udawalawe Reservoir, creating excellent conditions for wildlife viewing. Safari drives take travellers through these varied habitats in search of elephants and other animals moving through the park. The open terrain often provides beautiful opportunities to observe wildlife from a respectful distance, while the changing light of early morning and late afternoon adds a memorable atmosphere to the experience.",
 
-      imageUrl: "/documents/destination_explore_Image/udawalawe_national_park.jpg",
+      imageUrl: "/documents/destination_explore_Image/udawalawe_national_park1.jpg",
     },
 
     {
@@ -5933,7 +5896,7 @@ export const destinations: Destination[] = [
       description:
         "Elephants are at the heart of the Udawalawe experience, with the region supporting one of Sri Lanka's most important wild elephant populations. During a safari, travellers may see herds gathering around water, moving across open grasslands or disappearing into the surrounding forest. Alongside elephants, the park offers opportunities to encounter water buffalo, deer, crocodiles, monkeys and numerous bird species, making each game drive a constantly changing encounter with Sri Lanka's wildlife.",
 
-      imageUrl: "/documents/destination_explore_Image/udawalawe_elephants.jpg",
+      imageUrl: "/documents/destination_explore_Image/udawalawe_elephants1.jpg",
     },
 
     {
@@ -5942,7 +5905,7 @@ export const destinations: Destination[] = [
       description:
         "Udawalawe also offers an opportunity to understand the relationship between wildlife and conservation through the Elephant Transit Home. The centre cares for orphaned young elephants with the long-term goal of returning suitable animals to the wild. Together with the national park and its surrounding landscapes, this conservation story adds a deeper dimension to a visit, allowing travellers to experience not only the beauty of Sri Lanka's wildlife but also the efforts made to protect it for the future.",
 
-      imageUrl: "/documents/destination_explore_Image/udawalawe_transit_home.jpg",
+      imageUrl: "/documents/destination_explore_Image/udawalawe_transit_home1.jpg",
     },
   ],
 
@@ -5953,7 +5916,7 @@ export const destinations: Destination[] = [
       description:
         "Explore Udawalawe National Park by safari vehicle and discover elephants, buffalo, deer, crocodiles and a rich variety of birdlife.",
 
-      imageUrl: "/documents/thingstodo/udawalawe_safari.jpg",
+      imageUrl: "/documents/thingstodo/udawalawe_safari2.jpg",
     },
 
     {
@@ -5962,7 +5925,7 @@ export const destinations: Destination[] = [
       description:
         "Watch herds of wild elephants moving through the open grasslands and natural habitats of Udawalawe National Park.",
 
-      imageUrl: "/documents/thingstodo/udawalawe_elephants.jpg",
+      imageUrl: "/documents/thingstodo/udawalawe_elephants2.jpg",
     },
 
     {
@@ -5971,7 +5934,7 @@ export const destinations: Destination[] = [
       description:
         "Learn about elephant rehabilitation and conservation at the Elephant Transit Home, where orphaned young elephants are cared for before potential release into the wild.",
 
-      imageUrl: "/documents/thingstodo/udawalawe_transit_home.jpg",
+      imageUrl: "/documents/thingstodo/udawalawe_transit_home2.jpg",
     },
 
     {
@@ -6067,7 +6030,7 @@ export const destinations: Destination[] = [
       description:
         "Haputale sits along one of Sri Lanka's most dramatic mountain ridges, where tea plantations stretch across misty slopes and the landscape opens into sweeping views of the surrounding valleys. A journey towards Lipton's Seat offers one of the region's most memorable highland experiences, while Adisham Bungalow and the surrounding tea estates reveal another layer of the area's colonial and agricultural heritage. The changing weather, cool mountain air and endless green slopes give Haputale a distinctive atmosphere that rewards slow exploration.",
 
-      imageUrl: "/documents/destination_explore_Image/haputale_liptons_seat.jpg",
+      imageUrl: "/documents/destination_explore_Image/haputale_liptons_seat1.jpg",
     },
 
     {
@@ -6076,7 +6039,7 @@ export const destinations: Destination[] = [
       description:
         "Bandarawela offers a calmer perspective on Sri Lanka's hill country, surrounded by green valleys, tea gardens and peaceful countryside. The town and its surrounding landscapes provide opportunities to experience the everyday rhythm of highland life, from scenic drives through mountain roads to quiet walks among tea-covered hills and villages. Its relaxed character makes it an ideal part of a journey through the Uva Highlands, connecting the dramatic landscapes of Haputale with the heritage and natural beauty found further towards Badulla.",
 
-      imageUrl: "/documents/destination_explore_Image/bandarawela_highlands.jpg",
+      imageUrl: "/documents/destination_explore_Image/bandarawela_highlands1.jpg",
     },
 
     {
@@ -6085,7 +6048,7 @@ export const destinations: Destination[] = [
       description:
         "Further into the Uva Highlands, Badulla combines cultural heritage with some of the region's most beautiful natural scenery. The historic Muthiyangana Raja Maha Vihara and Dhowa Rock Temple offer glimpses into the area's long religious history, while Dunhinda Falls creates one of the most impressive natural experiences around the town. The historic Bogoda Wooden Bridge and surrounding valleys add to the sense of discovery, making Badulla a rewarding destination for travellers interested in the connection between Sri Lanka's heritage and mountain landscapes.",
 
-      imageUrl: "/documents/destination_explore_Image/badulla_dunhinda.jpg",
+      imageUrl: "/documents/destination_explore_Image/badulla_dunhinda1.jpg",
     },
   ],
 
@@ -6096,7 +6059,7 @@ export const destinations: Destination[] = [
       description:
         "Travel through the tea-covered mountains of Haputale to Lipton's Seat for spectacular views across the surrounding highlands and plantations.",
 
-      imageUrl: "/documents/thingstodo/liptons_seat.jpg",
+      imageUrl: "/documents/thingstodo/liptons_seat2.jpg",
     },
 
     {
@@ -6123,7 +6086,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the peaceful highland town of Bandarawela and its surrounding countryside, tea gardens and scenic mountain landscapes.",
 
-      imageUrl: "/documents/thingstodo/bandarawela.jpg",
+      imageUrl: "/documents/thingstodo/bandarawela_highlands1.jpg",
     },
 
     {
@@ -6171,14 +6134,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/uva_highlands_drive.jpg",
     },
 
-    {
-      title: "Experience Highland Village Life",
-
-      description:
-        "Spend time in the peaceful villages around the highlands and discover local traditions, gardens, tea-growing communities and everyday rural life.",
-
-      imageUrl: "/documents/thingstodo/highland_village.jpg",
-    },
+ 
   ],
 },
 
@@ -6269,7 +6225,7 @@ export const destinations: Destination[] = [
       description:
         "Relax on one of Sri Lanka’s most beautiful southern beaches, where golden sand, swaying coconut palms, and turquoise waters create a peaceful tropical setting. Enjoy a swim, a leisurely beach walk, or simply slow down and take in the relaxed atmosphere of the coast.",
 
-      imageUrl: "/documents/thingstodo/mirissa_beach.jpg",
+      imageUrl: "/documents/thingstodo/mirissa_beach1.jpg",
     },
 
     {
@@ -6278,7 +6234,7 @@ export const destinations: Destination[] = [
       description:
         "Set out from Mirissa harbour on an early morning ocean excursion in search of whales and dolphins. The waters off the southern coast are known for marine life including blue whales and several species of dolphins, making the journey an unforgettable experience on the Indian Ocean.",
 
-      imageUrl: "/documents/thingstodo/mirissa_whale.jpg",
+      imageUrl: "/documents/thingstodo/mirissa_whale1.jpg",
     },
 
     {
@@ -6287,7 +6243,7 @@ export const destinations: Destination[] = [
       description:
         "Visit the famous Coconut Tree Hill and enjoy beautiful views across the Indian Ocean from a hillside framed by tall coconut palms. The peaceful setting and dramatic coastal scenery make it one of Mirissa’s most memorable places for photography and enjoying the landscape.",
 
-      imageUrl: "/documents/thingstodo/coconut_tree_hill.jpg",
+      imageUrl: "/documents/thingstodo/coconut_tree_hill1.jpg",
     },
 
     {
@@ -6296,7 +6252,7 @@ export const destinations: Destination[] = [
       description:
         "Walk across the shallow coastal stretch to Parrot Rock and enjoy panoramic views over Mirissa Beach and the surrounding ocean. The small rocky viewpoint offers a different perspective of the coastline and is especially beautiful during the softer light of the evening.",
 
-      imageUrl: "/documents/thingstodo/parrot_rock.jpg",
+      imageUrl: "/documents/thingstodo/parrot_rock1.jpg",
     },
 
     {
@@ -6332,7 +6288,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the traditional side of Mirissa by exploring its fishing heritage and observing the daily rhythm of the local coastal community. From fishing boats along the shore to the fresh catch brought into the harbour, the experience offers an authentic glimpse into life beside the ocean.",
 
-      imageUrl: "/documents/thingstodo/mirissa_fishing.jpg",
+      imageUrl: "/documents/thingstodo/mirissa_fishing1.jpg",
     },
 
     {
@@ -6430,7 +6386,7 @@ export const destinations: Destination[] = [
       description:
         "One of Bentota’s most distinctive features is the meeting of the Bentota River and the Indian Ocean, creating a beautiful landscape of waterways, mangroves, wetlands, small islands, and tropical vegetation. A boat journey along the river offers a completely different perspective of the region, passing through quiet waterways where travellers may encounter water monitors, birds, colourful butterflies, and other wildlife among the mangroves. The peaceful river environment provides a wonderful contrast to the open beach, while exploring the surrounding waterways allows visitors to experience a quieter and more natural side of Bentota away from the main coastal resorts. Together, the river and ocean give Bentota a unique landscape that combines tropical relaxation with gentle adventure.",
 
-      imageUrl: "/documents/destination_explore_Image/bentota_river.jpg",
+      imageUrl: "/documents/destination_explore_Image/bentota_river1.jpg",
     },
 
     {
@@ -6450,7 +6406,7 @@ export const destinations: Destination[] = [
       description:
         "Relax along the golden sands of Bentota Beach and enjoy the warm waters of the Indian Ocean. Spend a peaceful morning swimming, take a leisurely walk along the shoreline, or simply unwind beneath the tropical palms while enjoying the relaxed atmosphere of Sri Lanka’s southwestern coast.",
 
-      imageUrl: "/documents/thingstodo/bentota_beach.jpg",
+      imageUrl: "/documents/thingstodo/bentota_beach (2).jpg",
     },
 
     {
@@ -6459,16 +6415,15 @@ export const destinations: Destination[] = [
       description:
         "Explore the peaceful waterways of the Bentota River on a guided boat safari through mangroves, wetlands, islands, and tropical vegetation. Look out for water monitors, birds, butterflies, and other wildlife while discovering a quieter side of the coastal landscape.",
 
-      imageUrl: "/documents/thingstodo/bentota_river.jpg",
+      imageUrl: "/documents/thingstodo/Bentota_river (2).jpg",
     },
-
     {
       title: "Bentota Mangrove Experience",
 
       description:
         "Discover the delicate mangrove ecosystems surrounding Bentota’s waterways and learn about the importance of these natural habitats. Glide through narrow channels surrounded by dense tropical vegetation while observing the wildlife that lives among the roots and waterways.",
 
-      imageUrl: "/documents/thingstodo/bentota_mangroves.jpg",
+      imageUrl: "/documents/thingstodo/Bentota_mangroves.jpg",
     },
 
     {
@@ -6585,15 +6540,15 @@ export const destinations: Destination[] = [
   highlightCards: [
     {
       title: "Galle Fort & Ramparts",
-      imageUrl: "/documents/destination_explore_Image/galle_fort.jpg",
+      imageUrl: "/documents/destination_explore_Image/galle_fort1.jpg",
     },
     {
       title: "Colonial Galle",
-      imageUrl: "/documents/destination_explore_Image/galle_colonial.jpg",
+      imageUrl: "/documents/destination_explore_Image/galle_colonial1.jpg",
     },
     {
       title: "Galle's Coastal Heritage",
-      imageUrl: "/documents/destination_explore_Image/galle_coast.jpg",
+      imageUrl: "/documents/destination_explore_Image/galle_coast1.jpg",
     },
   ],
 
@@ -6640,7 +6595,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the historic heart of Galle by wandering through its atmospheric streets, colonial buildings, courtyards, boutique properties and local shops while experiencing the unique character of this UNESCO World Heritage city.",
 
-      imageUrl: "/documents/thingstodo/galle_fort.jpg",
+      imageUrl: "/documents/thingstodo/galle_fort2.jpg",
     },
 
     {
@@ -6806,7 +6761,7 @@ export const destinations: Destination[] = [
       description:
         "Hikkaduwa has a character all its own, where golden sands meet warm tropical waters and the relaxed rhythm of southern coastal life creates an inviting atmosphere. The beach is surrounded by a lively mix of small restaurants, cafés and beachfront spaces, while the coastline itself offers plenty of room to slow down and enjoy the tropical setting. Whether spending a peaceful morning beside the ocean, taking a walk along the shore or enjoying the changing colours of the evening sky, Hikkaduwa gives travellers an easy and enjoyable introduction to Sri Lanka's southern coast.",
 
-      imageUrl: "/documents/destination_explore_Image/hikkaduwa_beach.jpg",
+      imageUrl: "/documents/destination_explore_Image/hikkaduwa_beach1.jpg",
     },
 
     {
@@ -6815,7 +6770,7 @@ export const destinations: Destination[] = [
       description:
         "The marine environment is one of the defining experiences of Hikkaduwa. Its coral-rich waters provide opportunities to discover colourful tropical fish and other marine life through snorkelling and relaxed boat excursions. Travellers can experience the coastline from a completely different perspective by exploring beneath the surface or viewing the reef from a glass-bottom boat. The combination of warm waters, coral formations and tropical marine life makes Hikkaduwa especially appealing to those who enjoy connecting with Sri Lanka's natural environment.",
 
-      imageUrl: "/documents/destination_explore_Image/hikkaduwa_coral.jpg",
+      imageUrl: "/documents/destination_explore_Image/hikkaduwa_coral1.jpg",
     },
 
     {
@@ -6949,7 +6904,7 @@ export const destinations: Destination[] = [
       description:
         "Weligama is shaped by its beautiful sweeping bay, wide sandy beach and relaxed tropical atmosphere. The sheltered coastline creates a welcoming setting for swimming, beach walks and enjoying the warm waters of the southern coast, while the surrounding landscape combines palm-lined shores with the everyday character of a traditional coastal town. From a quiet morning beside the ocean to an evening watching the changing colours across the bay, Weligama gives travellers an opportunity to slow down and enjoy the simple beauty of life by the sea.",
 
-      imageUrl: "/documents/destination_explore_Image/weligama_bay.jpg",
+      imageUrl: "/documents/destination_explore_Image/weligama_bay1.jpg",
     },
 
     {
@@ -6958,7 +6913,7 @@ export const destinations: Destination[] = [
       description:
         "Weligama has become one of Sri Lanka's best-known places for experiencing the island's surf culture, particularly for travellers learning to surf for the first time. Alongside its modern surf scene, the town retains a strong connection with traditional coastal life, where fishing remains an important part of the local character. Exploring the streets, meeting local communities and watching the rhythm of life around the bay allows travellers to experience a side of the South Coast that feels both welcoming and authentic.",
 
-      imageUrl: "/documents/destination_explore_Image/weligama_surf.jpg",
+      imageUrl: "/documents/destination_explore_Image/weligama_surf1.jpg",
     },
 
     {
@@ -6967,7 +6922,7 @@ export const destinations: Destination[] = [
       description:
         "Just offshore, the distinctive Taprobane Island adds a unique character to Weligama's coastal scenery. The surrounding waters and coastline also create opportunities for boat experiences, coastal exploration and peaceful moments beside the ocean. Travellers can combine a relaxed beach stay with surfing, seafood, sunset views and exploration of nearby coastal areas, making Weligama a versatile destination for those who want both activity and time to unwind.",
 
-      imageUrl: "/documents/destination_explore_Image/taprobane.jpg",
+      imageUrl: "/documents/destination_explore_Image/taprobane1.jpg",
     },
   ],
 
@@ -6978,7 +6933,7 @@ export const destinations: Destination[] = [
       description:
         "Experience the waves of Weligama Bay, one of Sri Lanka's most welcoming surf destinations and a popular place for both beginners and experienced surfers.",
 
-      imageUrl: "/documents/thingstodo/weligama_surf.jpg",
+      imageUrl: "/documents/thingstodo/weligama_surf2.jpg",
     },
 
     {
@@ -7005,7 +6960,7 @@ export const destinations: Destination[] = [
       description:
         "Admire the distinctive Taprobane Island just offshore and enjoy one of the most recognisable coastal views around Weligama Bay.",
 
-      imageUrl: "/documents/thingstodo/taprobane.jpg",
+      imageUrl: "/documents/thingstodo/taprobane2.jpg",
     },
 
     {
@@ -7017,14 +6972,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/weligama_fishing.jpg",
     },
 
-    {
-      title: "Explore Weligama Town",
-
-      description:
-        "Walk through the town to discover local shops, cafés, restaurants and the everyday atmosphere of one of Sri Lanka's lively southern coastal communities.",
-
-      imageUrl: "/documents/thingstodo/weligama_town.jpg",
-    },
+  
 
     {
       title: "Enjoy Fresh Seafood",
@@ -7050,7 +6998,7 @@ export const destinations: Destination[] = [
       description:
         "Take a scenic journey along the South Coast and discover the smaller beaches and coastal villages surrounding Weligama.",
 
-      imageUrl: "/documents/thingstodo/weligama_coast.jpg",
+      imageUrl: "/documents/thingstodo/weligama_coast1.jpg",
     },
 
     {
@@ -7071,14 +7019,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/weligama_sunset.jpg",
     },
 
-    {
-      title: "Enjoy the South Coast Lifestyle",
-
-      description:
-        "Slow down and experience the relaxed rhythm of Weligama through its beaches, cafés, local food, surf culture and welcoming coastal atmosphere.",
-
-      imageUrl: "/documents/thingstodo/weligama_lifestyle.jpg",
-    },
+   
   ],
 },
 
@@ -7146,7 +7087,7 @@ export const destinations: Destination[] = [
       description:
         "Koggala Lake is one of the defining natural features of the area, creating a peaceful landscape of calm waters, tropical vegetation and small islands just inland from the coast. A boat journey across the lagoon offers travellers an opportunity to slow down and observe the natural surroundings, with birds, mangroves and local life forming part of the experience. The quiet atmosphere of the lake provides a beautiful contrast to the more lively beach destinations along the southern coast and allows visitors to experience Sri Lanka's tropical environment at a gentler pace.",
 
-      imageUrl: "/documents/destination_explore_Image/koggala_lake.jpg",
+      imageUrl: "/documents/destination_explore_Image/koggala_lake1.jpg",
     },
 
     {
@@ -7164,7 +7105,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond the lake and coastline, Koggala is surrounded by tropical gardens, village communities and cinnamon-growing areas that reveal another side of southern Sri Lanka. Visitors can learn about the traditional production of cinnamon, explore the countryside and enjoy the peaceful rhythm of rural life. Combined with nature experiences, local food and the nearby beach, these activities make Koggala a destination where travellers can discover the authentic landscapes and traditions of the South Coast.",
 
-      imageUrl: "/documents/destination_explore_Image/koggala_cinnamon.jpg",
+      imageUrl: "/documents/destination_explore_Image/koggala_cinnamon1.jpg",
     },
   ],
 
@@ -7175,7 +7116,7 @@ export const destinations: Destination[] = [
       description:
         "Cruise across the peaceful waters of Koggala Lake and discover its tropical landscapes, mangroves, wildlife and quiet island surroundings.",
 
-      imageUrl: "/documents/thingstodo/koggala_lake.jpg",
+      imageUrl: "/documents/thingstodo/koggala_lake2.jpg",
     },
 
     {
@@ -7193,7 +7134,7 @@ export const destinations: Destination[] = [
       description:
         "See one of the South Coast's most recognisable traditional fishing practices and learn about the coastal heritage behind fishing from wooden stilts.",
 
-      imageUrl: "/documents/thingstodo/stilt_fishing.jpg",
+      imageUrl: "/documents/thingstodo/stilt_fishing2.jpg",
     },
 
     {
@@ -7202,7 +7143,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the traditional cultivation and processing of cinnamon and learn why this fragrant spice has been an important part of Sri Lanka's agricultural heritage.",
 
-      imageUrl: "/documents/thingstodo/koggala_cinnamon.jpg",
+      imageUrl: "/documents/thingstodo/koggala_cinnamon2.jpg",
     },
 
     {
@@ -7238,17 +7179,10 @@ export const destinations: Destination[] = [
       description:
         "Spend time beside the ocean at Koggala Beach and enjoy the spacious shoreline, tropical scenery and peaceful coastal atmosphere.",
 
-      imageUrl: "/documents/thingstodo/koggala_beach.jpg",
+      imageUrl: "/documents/thingstodo/koggala_beach2.jpg",
     },
 
-    {
-      title: "Discover the Coastal Countryside",
-
-      description:
-        "Take a scenic journey through the countryside around Koggala and enjoy views of tropical gardens, villages, lagoons and the southern coastline.",
-
-      imageUrl: "/documents/thingstodo/koggala_countryside.jpg",
-    },
+    
 
     {
       title: "Experience Local Food",
@@ -7343,7 +7277,7 @@ export const destinations: Destination[] = [
       description:
         "Ahangama is surrounded by some of the most beautiful coastal scenery in southern Sri Lanka, with palm-lined shores, golden beaches and open views across the Indian Ocean. Kabalana is one of the area's best-known surf beaches, attracting both experienced surfers and travellers looking to learn. Away from the main surf spots, quieter stretches of coastline offer peaceful places to walk, relax and enjoy the tropical character of the South Coast.",
 
-      imageUrl: "/documents/destination_explore_Image/kabalana.jpg",
+      imageUrl: "/documents/destination_explore_Image/kabalana1.jpg",
     },
 
     {
@@ -7352,7 +7286,7 @@ export const destinations: Destination[] = [
       description:
         "Ahangama has developed a distinctive coastal lifestyle where traditional Sri Lankan surroundings meet a growing community of surfers, creatives, cafés and boutique hospitality. Travellers can discover relaxed restaurants, small cafés and stylish spaces while still seeing the everyday rhythm of local villages and coastal communities. This combination gives Ahangama a character that feels contemporary without losing its connection to the landscape and culture of southern Sri Lanka.",
 
-      imageUrl: "/documents/destination_explore_Image/ahangama_cafes.jpg",
+      imageUrl: "/documents/destination_explore_Image/ahangama_cafes1.jpg",
     },
 
     {
@@ -7361,7 +7295,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond surfing, Ahangama is a destination for slowing down and enjoying the simple pleasures of coastal life. Visitors can cycle through palm-lined roads, explore nearby beaches, enjoy fresh food and watch the changing colours of the ocean at sunset. Its location along the southern coast also makes it an easy base for discovering nearby destinations while returning to a quieter and more relaxed atmosphere at the end of the day.",
 
-      imageUrl: "/documents/destination_explore_Image/ahangama_coast.jpg",
+      imageUrl: "/documents/destination_explore_Image/ahangama_coast1.jpg",
     },
   ],
 
@@ -7372,7 +7306,7 @@ export const destinations: Destination[] = [
       description:
         "Experience one of the South Coast's best-known surf spots, with waves that attract surfers from around the world and a beautiful tropical setting beside the ocean.",
 
-      imageUrl: "/documents/thingstodo/kabalana.jpg",
+      imageUrl: "/documents/thingstodo/kabalana2.jpg",
     },
 
     {
@@ -7393,22 +7327,14 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/ahangama_beach.jpg",
     },
 
-    {
-      title: "Explore the Coastal Roads",
-
-      description:
-        "Take a scenic drive or bicycle ride through Ahangama's palm-lined roads and discover beaches, local homes and quiet coastal landscapes.",
-
-      imageUrl: "/documents/thingstodo/ahangama_coast.jpg",
-    },
-
+  
     {
       title: "Discover Local Cafés",
 
       description:
         "Explore Ahangama's growing café scene and enjoy fresh coffee, tropical drinks, local flavours and relaxed meals in beautiful coastal surroundings.",
 
-      imageUrl: "/documents/thingstodo/ahangama_cafes.jpg",
+      imageUrl: "/documents/thingstodo/ahangama_cafe.jpg",
     },
 
     {
@@ -7429,14 +7355,8 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/ahangama_surf_spots.jpg",
     },
 
-    {
-      title: "Cycle Through the Countryside",
-
-      description:
-        "Ride through palm-lined village roads and enjoy a slower journey through the tropical landscapes surrounding Ahangama.",
-
-      imageUrl: "/documents/thingstodo/ahangama_cycling.jpg",
-    },
+    
+    
 
     {
       title: "Discover Nearby Beaches",
@@ -7447,14 +7367,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/ahangama_beaches.jpg",
     },
 
-    {
-      title: "Enjoy a Slow Coastal Morning",
-
-      description:
-        "Start the day beside the ocean with a relaxed walk, a quiet breakfast or a peaceful moment overlooking the tropical coastline.",
-
-      imageUrl: "/documents/thingstodo/ahangama_morning.jpg",
-    },
+   
 
     {
       title: "Watch the Sunset by the Ocean",
@@ -7465,14 +7378,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/ahangama_sunset.jpg",
     },
 
-    {
-      title: "Experience Ahangama's Coastal Lifestyle",
-
-      description:
-        "Spend time discovering the combination of surfing, food, cafés, tropical scenery and relaxed local life that gives Ahangama its distinctive character.",
-
-      imageUrl: "/documents/thingstodo/ahangama_lifestyle.jpg",
-    },
+    
   ],
 }, 
 {
@@ -7541,7 +7447,7 @@ export const destinations: Destination[] = [
       description:
         "Matara combines a rich historical character with the natural beauty of Sri Lanka's southern coastline. The old fortifications of Matara Fort and the distinctive Star Fort reflect the town's colonial past, while the surrounding streets reveal the everyday character of a traditional coastal community. Along the shoreline, places such as Polhena offer a more relaxed tropical experience, with warm waters, sandy beaches and beautiful coastal scenery providing a peaceful contrast to the historic heart of the town.",
 
-      imageUrl: "/documents/destination_explore_Image/matara_fort.jpg",
+      imageUrl: "/documents/destination_explore_Image/matara_fort1.jpg",
     },
 
     {
@@ -7570,7 +7476,7 @@ export const destinations: Destination[] = [
       description:
         "Walk through the historic fort area and discover the old walls, streets and coastal views that reflect Matara's colonial heritage.",
 
-      imageUrl: "/documents/thingstodo/matara_fort.jpg",
+      imageUrl: "/documents/thingstodo/matara_fort2.jpg",
     },
 
     {
@@ -7588,17 +7494,10 @@ export const destinations: Destination[] = [
       description:
         "Enjoy the calm waters and tropical surroundings of Polhena Beach, a popular coastal escape close to Matara.",
 
-      imageUrl: "/documents/thingstodo/polhena.jpg",
+      imageUrl: "/documents/thingstodo/polhena1.png",
     },
 
-    {
-      title: "Explore Matara Old Town",
-
-      description:
-        "Wander through the historic parts of Matara and experience the blend of colonial architecture, local shops and everyday southern coastal life.",
-
-      imageUrl: "/documents/thingstodo/matara_old_town.jpg",
-    },
+    
 
     {
       title: "Discover Dikwella Beach",
@@ -7618,14 +7517,8 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/hiriketiya.jpg",
     },
 
-    {
-      title: "Relax at Hiriketiya Beach",
-
-      description:
-        "Spend time beside the beautiful curved bay, enjoying the tropical scenery, relaxed beach atmosphere and surrounding cafés.",
-
-      imageUrl: "/documents/thingstodo/hiriketiya_beach.jpg",
-    },
+   
+    
 
     {
       title: "Explore Tangalle Beaches",
@@ -7636,23 +7529,8 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/tangalle_beach.jpg",
     },
 
-    {
-      title: "Explore Tangalle Lagoon",
-
-      description:
-        "Discover the peaceful lagoons and wetlands around Tangalle, where tropical vegetation and coastal wildlife create a different side of the Deep South.",
-
-      imageUrl: "/documents/thingstodo/tangalle_lagoon.jpg",
-    },
-
-    {
-      title: "Visit Mulkirigala Rock Temple",
-
-      description:
-        "Travel inland from the coast to explore the ancient Mulkirigala Rock Temple, known for its cave temples, Buddhist murals and elevated views across the surrounding landscape.",
-
-      imageUrl: "/documents/thingstodo/mulkirigala.jpg",
-    },
+   
+  
 
     {
       title: "Take a South Coast Coastal Drive",
@@ -7660,7 +7538,7 @@ export const destinations: Destination[] = [
       description:
         "Follow the scenic coastline from Matara towards Dikwella, Hiriketiya and Tangalle, discovering beaches, villages and changing coastal landscapes along the way.",
 
-      imageUrl: "/documents/thingstodo/south_coast_drive.jpg",
+      imageUrl: "/documents/thingstodo/southern_coast.jpg",
     },
 
     {
@@ -7669,7 +7547,7 @@ export const destinations: Destination[] = [
       description:
         "End the day beside the ocean and watch the warm evening light spread across the beaches and tropical coastline of southern Sri Lanka.",
 
-      imageUrl: "/documents/thingstodo/south_coast_sunset.jpg",
+      imageUrl: "/documents/thingstodo/south.jpg",
     },
   ],
 },
@@ -7733,7 +7611,7 @@ export const destinations: Destination[] = [
       description:
         "Kalpitiya has become one of Sri Lanka's best-known destinations for kitesurfing, thanks to its strong seasonal winds, open coastline and expansive stretches of water. The combination of ocean and lagoon creates a varied setting for water-based adventures, while the wide beaches and relaxed atmosphere give the area a distinctly different character from the island's more developed coastal resorts. Even for travellers who do not take to the kite themselves, watching the colourful sails move across the water is part of the unique energy of Kalpitiya.",
 
-      imageUrl: "/documents/destination_explore_Image/kalpitiya_kitesurfing.jpg",
+      imageUrl: "/documents/destination_explore_Image/kalpitiya_kitesurfing1.jpg",
     },
 
     {
@@ -7742,7 +7620,7 @@ export const destinations: Destination[] = [
       description:
         "The waters around Kalpitiya are home to an extraordinary variety of marine life, making the region particularly rewarding for travellers interested in the ocean. Dolphin-watching excursions can reveal large groups moving through the open sea, while boat journeys towards the Bar Reef offer opportunities to discover coral-rich waters and the diverse life beneath the surface. These experiences bring travellers closer to the natural character of Sri Lanka's north-western coastline and reveal a marine landscape that is very different from the island's traditional beach destinations.",
 
-      imageUrl: "/documents/destination_explore_Image/kalpitiya_dolphins.jpg",
+      imageUrl: "/documents/destination_explore_Image/kalpitiya_dolphins1.jpg",
     },
 
     {
@@ -7751,7 +7629,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond the open ocean, Kalpitiya is surrounded by the calm waters of Puttalam Lagoon, where mangroves, sandbanks and traditional fishing communities create a peaceful coastal landscape. Exploring the lagoon provides a slower perspective of the region, with local boats moving across the water and changing light reflecting across the wide lagoon environment. Combined with the peninsula's quiet beaches and rural coastal scenery, these experiences offer travellers a chance to discover a less familiar and more authentic side of Sri Lanka.",
 
-      imageUrl: "/documents/destination_explore_Image/kalpitiya_lagoon.jpg",
+      imageUrl: "/documents/destination_explore_Image/kalpitiya_lagoon1.jpg",
     },
   ],
 
@@ -7762,7 +7640,7 @@ export const destinations: Destination[] = [
       description:
         "Experience the strong seasonal winds and open waters that have made Kalpitiya one of Sri Lanka's leading destinations for kitesurfing.",
 
-      imageUrl: "/documents/thingstodo/kalpitiya_kitesurfing.jpg",
+      imageUrl: "/documents/thingstodo/kalpitiya_kitesurfing2.jpg",
     },
 
     {
@@ -7771,7 +7649,7 @@ export const destinations: Destination[] = [
       description:
         "Take a boat excursion into the waters around Kalpitiya and look for dolphins moving through the ocean in large and memorable groups.",
 
-      imageUrl: "/documents/thingstodo/kalpitiya_dolphins.jpg",
+      imageUrl: "/documents/thingstodo/kalpitiya_dolphins2.jpg",
     },
 
     {
@@ -7875,7 +7753,7 @@ export const destinations: Destination[] = [
       description:
         "Trincomalee is a beautiful coastal destination on Sri Lanka's northeast coast, known for its wide beaches, clear waters and relaxed tropical atmosphere. From the soft sands of Nilaveli and Uppuveli to the calm waters surrounding the natural harbour, the area offers a quieter side of Sri Lanka's coastline. The combination of warm sunshine, beautiful sea views and spacious beaches makes Trincomalee an ideal place to slow down and enjoy the natural beauty of the island. Whether spending a peaceful morning by the ocean or exploring the coastline by boat, travellers can experience a more relaxed and peaceful feeling here.",
 
-      imageUrl: "/documents/destination_explore_Image/nilaveli.jpg",
+      imageUrl: "/documents/destination_explore_Image/nilaveli1.jpg",
     },
 
     {
@@ -7884,7 +7762,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond its beaches, Trincomalee has a rich cultural and historical character shaped by centuries of maritime and religious traditions. Koneswaram Temple stands dramatically above the ocean on Swami Rock, offering both a deeply significant cultural experience and beautiful views across the sea. Nearby, Fort Frederick reflects the area's colonial history, while the old streets and religious sites around the town reveal the diverse communities that have shaped Trincomalee over time. Exploring these places gives travellers a chance to experience a side of Sri Lanka where spirituality, history and the ocean are closely connected.",
 
-      imageUrl: "/documents/destination_explore_Image/koneswaram.jpg",
+      imageUrl: "/documents/destination_explore_Image/koneswaram1.jpg",
     },
 
     {
@@ -7893,7 +7771,7 @@ export const destinations: Destination[] = [
       description:
         "Trincomalee is also a wonderful destination for travellers who want to experience Sri Lanka's marine environment. A boat trip from Nilaveli can take you to Pigeon Island National Park, where coral reefs, colourful reef fish and marine life can be discovered through snorkelling and swimming. The surrounding waters are also known for whale watching, diving and other ocean experiences, while Kanniya's hot springs offer a relaxing experience away from the coast. Together, these experiences make Trincomalee a destination where beautiful beaches, sacred places, wildlife and ocean adventures come together naturally.",
 
-      imageUrl: "/documents/destination_explore_Image/pigeon_island.jpg",
+      imageUrl: "/documents/destination_explore_Image/pigeon_island1.jpg",
     },
   ],
 
@@ -7904,7 +7782,7 @@ export const destinations: Destination[] = [
       description:
         "Relax on one of Trincomalee's most beautiful beaches, known for its wide sandy shoreline, clear waters and peaceful tropical atmosphere.",
 
-      imageUrl: "/documents/thingstodo/nilaveli.jpg",
+      imageUrl: "/documents/thingstodo/nilaveli2.jpg",
     },
 
     {
@@ -7913,7 +7791,7 @@ export const destinations: Destination[] = [
       description:
         "Take a boat trip to Pigeon Island National Park and discover colourful coral reefs, tropical fish and the marine environment surrounding the island through snorkelling.",
 
-      imageUrl: "/documents/thingstodo/pigeon_island.jpg",
+      imageUrl: "/documents/thingstodo/pigeon_island2.jpg",
     },
 
     {
@@ -7922,7 +7800,7 @@ export const destinations: Destination[] = [
       description:
         "Visit the sacred Koneswaram Temple on Swami Rock and experience its spiritual atmosphere together with spectacular views across the Indian Ocean.",
 
-      imageUrl: "/documents/thingstodo/koneswaram.jpg",
+      imageUrl: "/documents/thingstodo/koneswaram2.jpg",
     },
 
     {
@@ -7943,33 +7821,9 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/fort_frederick.jpg",
     },
 
-    {
-      title: "Whale Watching Experience",
+    
 
-      description:
-        "Join a boat excursion into the surrounding waters for the opportunity to observe whales and other marine life in their natural ocean environment.",
-
-      imageUrl: "/documents/thingstodo/trinco_whale.jpg",
-    },
-
-    {
-      title: "Dolphin Watching",
-
-      description:
-        "Enjoy a peaceful boat journey along the eastern coast with the possibility of encountering dolphins and other marine life in the open waters.",
-
-      imageUrl: "/documents/thingstodo/trinco_dolphin.jpg",
-    },
-
-    {
-      title: "Scuba Diving & Marine Exploration",
-
-      description:
-        "Explore Trincomalee's underwater world through diving experiences that reveal colourful reefs, tropical fish and the natural beauty beneath the eastern coast.",
-
-      imageUrl: "/documents/thingstodo/trinco_diving.jpg",
-    },
-
+    
     {
       title: "Visit Kanniya Hot Springs",
 
@@ -8039,7 +7893,7 @@ export const destinations: Destination[] = [
   highlightCards: [
     {
       title: "World-Class Surfing & Arugam Bay",
-      imageUrl: "/documents/destination_explore_Image/arugam_bay_surf.jpg",
+      imageUrl: "/documents/destination_explore_Image/arugam_bay_surf1.jpg",
     },
 
     {
@@ -8076,7 +7930,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond the surf, the landscape around Arugam Bay opens into a quieter world of lagoons, wetlands, villages and palm-fringed coastlines. A journey through Pottuvil Lagoon reveals a peaceful natural environment where waterways wind through mangroves and coastal vegetation, while nearby Panama offers glimpses of traditional village life and a more untouched side of the East Coast. These experiences allow travellers to slow down and discover the region beyond its famous beaches, with beautiful scenery and a strong sense of place throughout the surrounding countryside.",
 
-      imageUrl: "/documents/destination_explore_Image/pottuvil_lagoon.jpg",
+      imageUrl: "/documents/destination_explore_Image/pottuvil_lagoon1.jpg",
     },
 
     {
@@ -8085,7 +7939,7 @@ export const destinations: Destination[] = [
       description:
         "Arugam Bay is also a gateway to some of Sri Lanka's remarkable eastern wilderness areas. The surrounding region supports elephants, birds and other wildlife, while Kumana National Park offers opportunities to explore a landscape shaped by wetlands, forests and seasonal waterways. Ancient cultural sites such as Muhudu Maha Viharaya add another layer to the journey, creating a destination where surfing, nature, wildlife and heritage can be experienced within the same eastern coastal itinerary.",
 
-      imageUrl: "/documents/destination_explore_Image/arugam_wildlife.jpg",
+      imageUrl: "/documents/destination_explore_Image/arugam_wildlife1.jpg",
     },
   ],
 
@@ -8096,7 +7950,7 @@ export const destinations: Destination[] = [
       description:
         "Experience one of Sri Lanka's most famous surf destinations, with renowned waves and a relaxed coastal atmosphere that attracts surfers from around the world.",
 
-      imageUrl: "/documents/thingstodo/arugam_bay_surf.jpg",
+      imageUrl: "/documents/thingstodo/arugam_bay_surf2.jpg",
     },
 
     {
@@ -8105,7 +7959,7 @@ export const destinations: Destination[] = [
       description:
         "Take a peaceful journey through Pottuvil Lagoon and discover mangroves, waterways, birds and the quieter natural landscapes surrounding Arugam Bay.",
 
-      imageUrl: "/documents/thingstodo/pottuvil_lagoon.jpg",
+      imageUrl: "/documents/thingstodo/pottuvil_lagoon2.jpg",
     },
 
     {
@@ -8205,7 +8059,7 @@ export const destinations: Destination[] = [
       description:
         "Pasikuda's greatest attraction is its extraordinary coastline, where clear turquoise water extends across a broad, gently shelving bay. The shallow sea allows visitors to walk considerable distances into the water while remaining close to the shore, creating a distinctive beach experience that is particularly beautiful in the soft morning and evening light. The wide sandy shoreline and calm conditions give the bay an unhurried atmosphere, making it a natural choice for travellers who want to spend time swimming, walking and simply enjoying the warmth of the eastern coast.",
 
-      imageUrl: "/documents/destination_explore_Image/pasikuda_bay.jpg",
+      imageUrl: "/documents/destination_explore_Image/pasikuda_bay1.jpg",
     },
 
     {
@@ -8214,7 +8068,7 @@ export const destinations: Destination[] = [
       description:
         "Life in Pasikuda moves at a slower pace, with long beach days, warm ocean water and peaceful tropical surroundings defining the experience. The coastline is home to a collection of elegant beachfront resorts, allowing travellers to combine the natural beauty of the bay with a comfortable and private retreat. Whether enjoying a quiet morning beside the sea, taking a leisurely walk along the sand or watching the changing colours of the sky at sunset, Pasikuda offers the kind of relaxed coastal experience that encourages travellers to simply slow down.",
 
-      imageUrl: "/documents/destination_explore_Image/pasikuda_beach.jpg",
+      imageUrl: "/documents/destination_explore_Image/pasikuda_beach1.jpg",
     },
 
     {
@@ -8223,7 +8077,7 @@ export const destinations: Destination[] = [
       description:
         "The calm waters around Pasikuda also create opportunities to experience the eastern coastline from the water. Gentle boating and selected water activities allow travellers to discover the bay from a different perspective, while the surrounding marine environment adds another dimension to the beach experience. Combined with the area's warm climate, open coastline and peaceful atmosphere, these experiences make Pasikuda particularly appealing for travellers looking for a refined tropical escape where the ocean remains at the centre of the journey.",
 
-      imageUrl: "/documents/destination_explore_Image/pasikuda_marine.jpg",
+      imageUrl: "/documents/destination_explore_Image/pasikuda_marine1.jpg",
     },
   ],
 
@@ -8243,7 +8097,7 @@ export const destinations: Destination[] = [
       description:
         "Spend an unhurried day along the wide sandy shoreline, surrounded by turquoise water and the peaceful atmosphere of the eastern coast.",
 
-      imageUrl: "/documents/thingstodo/pasikuda_beach.jpg",
+      imageUrl: "/documents/thingstodo/pasikudah_Beach.jpg",
     },
 
     {
@@ -8261,7 +8115,7 @@ export const destinations: Destination[] = [
       description:
         "Take time to appreciate the clear waters and marine surroundings of Pasikuda while enjoying the natural beauty of the bay.",
 
-      imageUrl: "/documents/thingstodo/pasikuda_marine.jpg",
+      imageUrl: "/documents/thingstodo/pasikuda_marine (2).jpg",
     },
 
     {
@@ -8349,7 +8203,7 @@ export const destinations: Destination[] = [
       description:
         "Anuradhapura is one of Sri Lanka's most important ancient cities, where centuries of history, Buddhist traditions and peaceful natural surroundings come together. Once the capital of ancient Sri Lanka, the city is now home to magnificent stupas, ancient monasteries, sacred trees, stone carvings and the remains of a remarkable civilisation. Walking or cycling through the ancient city gives travellers a sense of stepping into another time, with enormous monuments rising among trees and quiet pathways. The peaceful atmosphere and deep spiritual character make Anuradhapura a very special place to experience Sri Lanka's cultural heritage.",
 
-      imageUrl: "/documents/destination_explore_Image/anuradhapura_ancient.jpg",
+      imageUrl: "/documents/destination_explore_Image/anuradhapura_ancient1.jpg",
     },
 
     {
@@ -8358,7 +8212,7 @@ export const destinations: Destination[] = [
       description:
         "The heart of Anuradhapura is closely connected with Buddhism, and many of its most important sites remain places of worship today. The sacred Sri Maha Bodhi, Ruwanwelisaya and other great stupas attract pilgrims throughout the year, while ancient monasteries such as Abhayagiri reveal the scale and sophistication of the city's religious life. Exploring these places offers more than an opportunity to see ancient architecture; it allows travellers to understand how religion, art, engineering and daily life were closely connected in the ancient kingdom. The combination of living spiritual traditions and centuries-old monuments gives Anuradhapura its unique character.",
 
-      imageUrl: "/documents/destination_explore_Image/ruwanwelisaya.jpg",
+      imageUrl: "/documents/destination_explore_Image/ruwanwelisaya1.jpg",
     },
 
     {
@@ -8378,7 +8232,7 @@ export const destinations: Destination[] = [
       description:
         "Visit one of the most sacred Buddhist sites in Sri Lanka and experience the peaceful atmosphere surrounding the ancient sacred Bodhi tree, an important centre of pilgrimage for centuries.",
 
-      imageUrl: "/documents/thingstodo/sri_maha_bodhi.jpg",
+      imageUrl: "/documents/thingstodo/sri_maha_bodhi2.jpg",
     },
 
     {
@@ -8387,7 +8241,7 @@ export const destinations: Destination[] = [
       description:
         "Admire one of Anuradhapura's most iconic white stupas and experience the calm spiritual atmosphere surrounding this important Buddhist monument.",
 
-      imageUrl: "/documents/thingstodo/ruwanwelisaya.jpg",
+      imageUrl: "/documents/thingstodo/ruwanweliseya2.jpg",
     },
 
     {
@@ -8396,7 +8250,7 @@ export const destinations: Destination[] = [
       description:
         "Explore the remains of the ancient Abhayagiri monastery complex and discover the impressive scale of one of the most important monastic centres of ancient Sri Lanka.",
 
-      imageUrl: "/documents/thingstodo/abhayagiri.jpg",
+      imageUrl: "/documents/thingstodo/abhayagiri (2).jpg",
     },
 
     {
@@ -8450,17 +8304,9 @@ export const destinations: Destination[] = [
       description:
         "Discover another historic stupa within the sacred city and enjoy the quieter atmosphere surrounding its ancient grounds.",
 
-      imageUrl: "/documents/thingstodo/mirisavetiya.jpg",
+      imageUrl: "/documents/thingstodo/mirisavetiya (2).jpg",
     },
 
-    {
-      title: "Take a Cycling Tour of the Ancient City",
-
-      description:
-        "Explore Anuradhapura's wide archaeological landscape by bicycle, travelling between ancient monuments, shaded paths, reservoirs and peaceful heritage sites at your own pace.",
-
-      imageUrl: "/documents/thingstodo/anuradhapura_cycling.jpg",
-    },
 
     {
       title: "Visit Mihintale",
@@ -8546,7 +8392,7 @@ export const destinations: Destination[] = [
       description:
         "Polonnaruwa takes travellers into the heart of Sri Lanka's medieval past, where ancient royal ruins, impressive monuments and peaceful landscapes tell the story of a once-powerful kingdom. Once the medieval capital of Sri Lanka, the city was carefully planned with royal palaces, temples, monasteries, gardens and reservoirs spread across a vast landscape. Today, visitors can walk or cycle through the ancient city, passing weathered stone buildings and enormous monuments surrounded by trees and open spaces. The atmosphere is peaceful, yet the scale of the ruins gives a strong impression of the civilisation that once flourished here.",
 
-      imageUrl: "/documents/destination_explore_Image/polonnaruwa_ancient.jpg",
+      imageUrl: "/documents/destination_explore_Image/polonnaruwa_ancient1.jpg",
     },
 
     {
@@ -8555,7 +8401,7 @@ export const destinations: Destination[] = [
       description:
         "One of Polonnaruwa's greatest attractions is its remarkable stone architecture and ancient craftsmanship. At Gal Vihara, beautifully carved Buddha figures have been created directly from a large rock face, showing the skill and artistic detail of the craftsmen of the period. Around the Sacred Quadrangle, visitors can discover beautifully preserved structures such as the Vatadage and other religious monuments, while temples such as Lankatilaka reveal the architectural ambition of the medieval kingdom. Exploring these sites offers more than a look at ancient ruins; it provides a chance to appreciate the art, beliefs and craftsmanship that shaped Sri Lanka's cultural heritage.",
 
-      imageUrl: "/documents/destination_explore_Image/gal_vihara.jpg",
+      imageUrl: "/documents/destination_explore_Image/gal_vihara1.jpg",
     },
 
     {
@@ -8575,7 +8421,7 @@ export const destinations: Destination[] = [
       description:
         "Admire the remarkable Buddha figures carved directly into a granite rock face and appreciate one of the finest examples of ancient Sri Lankan stone craftsmanship.",
 
-      imageUrl: "/documents/thingstodo/gal_vihara.jpg",
+      imageUrl: "/documents/thingstodo/Gal_vihara2.jpg",
     },
 
     {
@@ -8638,7 +8484,7 @@ export const destinations: Destination[] = [
       description:
         "Experience the vast ancient reservoir that reflects the remarkable irrigation knowledge and engineering achievements of medieval Sri Lanka.",
 
-      imageUrl: "/documents/thingstodo/parakrama_samudra.jpg",
+      imageUrl: "/documents/thingstodo/parakrama_samudra1.jpg",
     },
 
     {
@@ -8659,14 +8505,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/polonnaruwa_irrigation.jpg",
     },
 
-    {
-      title: "Visit Polonnaruwa Archaeological Museum",
-
-      description:
-        "Explore archaeological discoveries and historical displays that help explain the city's ancient monuments, royal history and cultural development.",
-
-      imageUrl: "/documents/thingstodo/polonnaruwa_museum.jpg",
-    },
+   
 
     {
       title: "Explore the Ancient Monastic Complexes",
@@ -8738,7 +8577,7 @@ export const destinations: Destination[] = [
       description:
         "Jaffna's identity is deeply connected to its Tamil heritage, with centuries-old religious traditions, distinctive architecture and local customs shaping everyday life across the peninsula. The magnificent Nallur Kandaswamy Kovil stands at the centre of this cultural landscape, while colourful temples, traditional homes and quiet streets reveal a character that feels distinctly different from other parts of Sri Lanka. For travellers, exploring Jaffna offers an opportunity to experience the island's cultural diversity through its living traditions rather than simply through historic monuments.",
 
-      imageUrl: "/documents/destination_explore_Image/jaffna_nallur.jpg",
+      imageUrl: "/documents/destination_explore_Image/jaffna_nallur1.jpg",
     },
 
     {
@@ -8747,7 +8586,7 @@ export const destinations: Destination[] = [
       description:
         "Jaffna's history is also written across its coastline and islands, where Portuguese and Dutch influences meet much older local traditions. Jaffna Fort overlooks the surrounding peninsula, while journeys towards Delft Island and the northern islands open up a quieter world of coral landscapes, open seas and remote communities. Travelling through these landscapes gives visitors a sense of the peninsula's maritime character and the remarkable variety of scenery found in Sri Lanka's far north.",
 
-      imageUrl: "/documents/destination_explore_Image/jaffna_fort.jpg",
+      imageUrl: "/documents/destination_explore_Image/jaffna_fort1.jpg",
     },
 
     {
@@ -8756,7 +8595,7 @@ export const destinations: Destination[] = [
       description:
         "Beyond its temples and historic sites, Jaffna is a destination best understood through its everyday life, food and landscapes. Palmyrah palms are a defining feature of the north, while the region's cuisine brings together bold spices, seafood, vegetables and distinctive Tamil culinary traditions. Exploring local markets, villages and coastal communities allows travellers to experience a slower rhythm of life and discover the warmth, flavours and traditions that make northern Sri Lanka so distinctive.",
 
-      imageUrl: "/documents/destination_explore_Image/jaffna_islands.jpg",
+      imageUrl: "/documents/destination_explore_Image/jaffna_islands1.jpg",
     },
   ],
 
@@ -8767,7 +8606,7 @@ export const destinations: Destination[] = [
       description:
         "Experience one of northern Sri Lanka's most important Hindu temples and discover the living religious traditions and striking architecture of Jaffna.",
 
-      imageUrl: "/documents/thingstodo/jaffna_nallur.jpg",
+      imageUrl: "/documents/thingstodo/jaffna_nallur2.jpg",
     },
 
     {
@@ -8776,7 +8615,7 @@ export const destinations: Destination[] = [
       description:
         "Walk through the historic fortifications overlooking the peninsula and discover layers of Portuguese, Dutch and British-era history.",
 
-      imageUrl: "/documents/thingstodo/jaffna_fort.jpg",
+      imageUrl: "/documents/thingstodo/jaffna_fort2.jpg",
     },
 
     {
@@ -8785,7 +8624,7 @@ export const destinations: Destination[] = [
       description:
         "Travel across the sea to Delft Island and explore its distinctive landscapes, historic remains, coral walls and traditional island communities.",
 
-      imageUrl: "/documents/thingstodo/delft_island.jpg",
+      imageUrl: "/documents/thingstodo/delft_island2.jpg",
     },
 
     {
@@ -8794,7 +8633,7 @@ export const destinations: Destination[] = [
       description:
         "Discover the quieter islands around the Jaffna Peninsula, where coastal scenery, lagoons and local communities create a different perspective on northern Sri Lanka.",
 
-      imageUrl: "/documents/thingstodo/jaffna_islands.jpg",
+      imageUrl: "/documents/thingstodo/jaffna_island.jpg",
     },
 
     {
@@ -8806,14 +8645,7 @@ export const destinations: Destination[] = [
       imageUrl: "/documents/thingstodo/nagadeepa.jpg",
     },
 
-    {
-      title: "Taste Jaffna Cuisine",
-
-      description:
-        "Explore the distinctive flavours of northern Sri Lanka through traditional Jaffna dishes, seafood, spices and local culinary traditions.",
-
-      imageUrl: "/documents/thingstodo/jaffna_food.jpg",
-    },
+    
   ],
 },
 ];

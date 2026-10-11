@@ -25,11 +25,11 @@ const siteUrl = "https://www.lumebendceylon.com";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
-    template: "%s | lume bend ceylon",
+    default: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
+    template: "%s | Lume Bend Ceylon",
   },
   description:
-    "lume bend ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
+    "Lume Bend Ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
   keywords: [
     "Sri Lanka luxury tours",
     "Sri Lanka private tour operator",
@@ -37,19 +37,19 @@ export const metadata: Metadata = {
     "luxury travel Sri Lanka",
     "Sri Lanka honeymoon tours",
   ],
-  authors: [{ name: "lume bend ceylon" }],
+  authors: [{ name: "Lume Bend Ceylon" }],
   openGraph: {
     type: "website",
     url: siteUrl,
-    siteName: "lume bend ceylon",
-    title: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
+    siteName: "Lume Bend Ceylon",
+    title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
     description:
       "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "lume bend ceylon | Luxury Private Tours in Sri Lanka",
+    title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
     description:
       "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
   },
@@ -58,22 +58,26 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${playfair.variable} ${poppins.variable}`}>
+    <html
+      lang="en"
+      data-scroll-behavior="smooth"
+      className={`${playfair.variable} ${poppins.variable}`}
+    >
       <body className="antialiased">
         <JsonLd
           data={{
             "@context": "https://schema.org",
             "@type": "TravelAgency",
-            name: "lume bend ceylon",
+            name: "Lume Bend Ceylon",
             url: siteUrl,
             description:
               "Bespoke, privately guided luxury tours across Sri Lanka.",
             areaServed: "Sri Lanka",
-            telephone: "+94771234567",
-            email: "hello@lumebendceylon.com",
+            telephone: "+94773446017",
+            email: "lumebendceylon@gmail.com",
             address: {
               "@type": "PostalAddress",
-              addressLocality: "Colombo",
+              addressLocality: "Matale",
               addressCountry: "LK",
             },
           }}

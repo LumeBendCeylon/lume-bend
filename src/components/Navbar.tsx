@@ -7,7 +7,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X, User as UserIcon, ChevronDown } from "lucide-react";
 import { useAuth } from "@/context/AuthContext";
 import Motif from "@/components/Motif";
-import { tours, type Tour } from "@/lib/data";
+import type { Tour } from "@/lib/data";
 
 const LINKS = [
   { href: "/", label: "Home" },
@@ -62,8 +62,8 @@ export default function Navbar() {
         solid ? "bg-white/95 backdrop-blur shadow-sm" : "bg-transparent"
       }`}
     >
-      <nav className="mx-auto flex max-w-7xl items-center gap-8 px-6 py-5 lg:gap-12 lg:px-10">
-        <Link href="/" className="flex items-baseline gap-1">
+      <nav className="mx-auto flex max-w-[90rem] items-center gap-4 px-6 py-4 lg:gap-5 lg:px-6 xl:gap-8 xl:px-10">
+        <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
               solid ? "text-forest" : "text-white"
@@ -74,7 +74,7 @@ export default function Navbar() {
           <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
         </Link>
 
-        <ul className="hidden items-center gap-9 lg:flex">
+        <ul className="hidden items-center gap-4 xl:gap-7 lg:flex">
           {/* Tours mega-menu trigger */}
           <li
             className="relative"
@@ -88,7 +88,9 @@ export default function Navbar() {
               } ${pathname.startsWith("/tours") ? "text-gold" : ""}`}
             >
               Tours
-              <ChevronDown className={`h-3.5 w-3.5 transition-transform ${toursMenuOpen ? "rotate-180" : ""}`} />
+              <ChevronDown
+                className={`h-3.5 w-3.5 transition-transform ${toursMenuOpen ? "rotate-180" : ""}`}
+              />
             </Link>
 
             <AnimatePresence>
@@ -110,11 +112,15 @@ export default function Navbar() {
                         >
                           <span className="flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br from-forest to-forest-dark transition-transform group-hover:scale-105">
                             {c.imageUrl ? (
-  // eslint-disable-next-line @next/next/no-img-element
-                             <img src={c.imageUrl} alt={c.category} className="h-full w-full rounded-full object-cover" />
-) : (
-  <Motif motif={c.motif} className="h-7 w-7 text-gold" />
-)}
+                              // eslint-disable-next-line @next/next/no-img-element
+                              <img
+                                src={c.imageUrl}
+                                alt={c.category}
+                                className="h-full w-full rounded-full object-cover"
+                              />
+                            ) : (
+                              <Motif motif={c.motif} className="h-7 w-7 text-gold" />
+                            )}
                           </span>
                           <span className="text-xs font-medium tracking-wide text-ink/80 group-hover:text-forest-dark">
                             {c.category}
@@ -148,7 +154,7 @@ export default function Navbar() {
           ))}
         </ul>
 
-        <div className="ml-auto hidden items-center gap-3 lg:flex">
+        <div className="ml-auto hidden shrink-0 items-center gap-3 lg:flex">
           <Link
             href={user ? "/account" : "/login"}
             aria-label={user ? "My Account" : "Sign In"}
@@ -162,7 +168,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="/plan"
-            className={`rounded-full border px-6 py-2.5 text-sm font-medium tracking-wide transition-colors ${
+            className={`shrink-0 whitespace-nowrap rounded-full border px-5 py-2.5 text-sm font-medium tracking-wide transition-colors xl:px-6 ${
               solid
                 ? "border-forest bg-forest text-white hover:bg-forest-light"
                 : "border-white/70 text-white hover:bg-white hover:text-forest"
@@ -202,7 +208,9 @@ export default function Navbar() {
                   className="flex w-full items-center justify-between py-3 text-base font-medium text-ink"
                 >
                   Tours
-                  <ChevronDown className={`h-4 w-4 transition-transform ${mobileToursOpen ? "rotate-180" : ""}`} />
+                  <ChevronDown
+                    className={`h-4 w-4 transition-transform ${mobileToursOpen ? "rotate-180" : ""}`}
+                  />
                 </button>
                 <AnimatePresence initial={false}>
                   {mobileToursOpen && (

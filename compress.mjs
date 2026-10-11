@@ -2,7 +2,7 @@ import sharp from "sharp";
 import fs from "fs";
 import path from "path";
 
-const MAX_WIDTH = 2000;
+const MAX_WIDTH = 1600;
 const MIN_SIZE = 500 * 1024;
 
 function walk(dir) {
@@ -14,17 +14,17 @@ function walk(dir) {
 
 for (const file of walk("public")) {
   const ext = path.extname(file).toLowerCase();
-    if (ext !== ".png") continue;
+  if (![".jpg", ".jpeg", ".png"].includes(ext)) continue;
 
   try {
     const input = fs.readFileSync(file);
     const before = input.length;
     if (before < MIN_SIZE) continue;
 
-    let img = sharp(input).rotate().resize({ width: MAX_WIDTH, withoutEnlargement: true });
+       let img = sharp(input, { failOn: "none" }).rotate().resize({ width: MAX_WIDTH, withoutEnlargement: true });
     img = ext === ".png"
-            ? img.png({ palette: true, quality: 80, compressionLevel: 9 })
-      : img.jpeg({ quality: 80, mozjpeg: true });
+      ? img.png({ palette: true, quality: 80, compressionLevel: 9 })
+      : img.jpeg({ quality: 75, mozjpeg: true });
 
     const buf = await img.toBuffer();
     if (buf.length < before) {

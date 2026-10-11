@@ -6,7 +6,7 @@ import Motif from "@/components/Motif";
 import CTASection from "@/components/CTASection";
 import JsonLd from "@/components/JsonLd";
 import { destinations } from "@/lib/data";
-
+import BackLink from "@/components/BackLink";
 export function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }));
 }
@@ -74,9 +74,12 @@ export default async function DestinationDetailPage({
           />
         )}
         <div className="relative mx-auto w-full max-w-5xl px-6 pb-16 lg:px-10">
-          <Link href="/destinations" className="mb-6 flex w-fit items-center gap-1 text-sm text-white/70 hover:text-gold-light">
+          <BackLink
+            href="/destinations"
+            className="mb-6 flex w-fit items-center gap-1 text-sm text-white/70 hover:text-gold-light"
+          >
             <ArrowLeft className="h-4 w-4" /> Back to Destinations
-          </Link>
+          </BackLink>
           <p className="eyebrow text-gold-light">It's time to visit</p>
           <h1 className="mt-2 font-display text-5xl text-white sm:text-7xl">{destination.name}</h1>
           <p className="mt-5 max-w-xl text-white/75">{destination.description}</p>

@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowRight } from "lucide-react";
 import Motif from "@/components/Motif";
 import CTASection from "@/components/CTASection";
 import { destinations } from "@/lib/data";
+import BackLink from "@/components/BackLink";
 
 export function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }));
@@ -34,27 +35,33 @@ export default async function ThingsToDoPage({
   const destination = destinations.find((d) => d.slug === slug);
   if (!destination) notFound();
 
-const items = destination.thingsToDo?.length
-  ? destination.thingsToDo
-  : destination.activities.map((a) => ({
-      title: a,
-      description: "",
-      imageUrl: "",
-    }));
+  const items = destination.thingsToDo?.length
+    ? destination.thingsToDo
+    : destination.activities.map((a) => ({
+        title: a,
+        description: "",
+        imageUrl: "",
+      }));
 
   return (
     <>
-      <section className="relative flex min-h-[36vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">
-        <Motif motif={destination.motif} className="absolute -right-8 -top-8 h-56 w-56 text-gold/10" strokeWidth={0.6} />
+      <section className="relative flex min-h-[36vh] items-center justify-center overflow-hidden bg-forest-dark pt-36">
+        <Motif
+          motif={destination.motif}
+          className="absolute -right-8 -top-8 h-56 w-56 text-gold/10"
+          strokeWidth={0.6}
+        />
         <div className="relative mx-auto max-w-3xl px-6 text-center">
           <p className="eyebrow text-gold-light">{destination.region}</p>
-          <h1 className="mt-4 font-display text-4xl text-white sm:text-5xl">Things to Do in {destination.name}</h1>
-          <Link
+          <h1 className="mt-4 font-display text-4xl text-white sm:text-5xl">
+            Things to Do in {destination.name}
+          </h1>
+                   <BackLink
             href={`/destinations/${destination.slug}`}
             className="mt-6 inline-flex items-center gap-1 text-sm text-white/70 hover:text-gold-light"
           >
             <ArrowLeft className="h-4 w-4" /> Back to {destination.name}
-          </Link>
+          </BackLink>
         </div>
       </section>
 
@@ -79,15 +86,19 @@ const items = destination.thingsToDo?.length
                       <span className="h-px w-8 bg-gold" />
                       <p className="eyebrow text-gold-light">Experience {i + 1}</p>
                     </div>
-                    <h2 className="mt-3 font-display text-3xl text-white sm:text-4xl">{item.title}</h2>
+                    <h2 className="mt-3 font-display text-3xl text-white sm:text-4xl">
+                      {item.title}
+                    </h2>
                     {item.description && (
-                      <p className="mt-5 max-w-md text-sm leading-relaxed text-white/60">{item.description}</p>
+                      <p className="mt-5 max-w-md text-sm leading-relaxed text-white/60">
+                        {item.description}
+                      </p>
                     )}
                     <Link
                       href={`/contact?tour=${encodeURIComponent(destination.name)}`}
                       className="mt-6 inline-flex items-center gap-1.5 text-sm font-medium text-gold-light hover:text-gold"
                     >
-                      
+                      Enquire about this <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </div>
