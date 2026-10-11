@@ -8,7 +8,7 @@ import ContactForm from "@/components/ContactForm";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Send Golden Palm Ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
+    "Send lume bend ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
   alternates: { canonical: "/contact" },
 };
 

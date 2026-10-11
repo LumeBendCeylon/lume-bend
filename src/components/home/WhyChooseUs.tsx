@@ -32,7 +32,7 @@ export default function WhyChooseUs() {
     <section className="bg-forest-dark py-24 text-white">
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         <SectionHeading
-          eyebrow="Why Golden Palm Ceylon"
+          eyebrow="Why lume bend Ceylon"
           title="Travel Planned With Precision"
           description="We design a small number of journeys exceptionally well, rather than many journeys adequately."
           light
