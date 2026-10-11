@@ -3,20 +3,11 @@
 import { useEffect, useState } from "react";
 import { Quote, Loader2, X, ChevronLeft, ChevronRight } from "lucide-react";
 import { getReviews, type Review } from "@/lib/firebase";
-import { testimonials } from "@/lib/data";
 import StarRatingDisplay from "@/components/StarRatingDisplay";
 
 const COMMENT_LIMIT = 160;
 
-const fallbackReviews: Review[] = testimonials.map((t, i) => ({
-  id: `fallback-${i}`,
-  name: t.name,
-  country: t.country,
-  rating: 5,
-  tourTitle: t.trip,
-  comment: t.quote,
-  createdAt: null,
-}));
+const fallbackReviews: Review[] = [];
 
 function ReviewComment({ comment }: { comment: string }) {
   const [expanded, setExpanded] = useState(false);
