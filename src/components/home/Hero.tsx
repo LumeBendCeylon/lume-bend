@@ -1,168 +1,94 @@
- "use client";
+"use client";
 
-import { motion } from "framer-motion";
+import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown } from "lucide-react";
-import Motif from "@/components/Motif";
+import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section className="relative flex h-screen min-h-[640px] w-full items-center justify-center overflow-hidden bg-forest-dark">
-
-      {/* =========================================================
-          HERO BACKGROUND IMAGE
-          Change only this image path if needed
-      ========================================================== */}
-      <div className="absolute inset-0">
-
-        {/* Main Hero Image */}
-        <img
+    <section className="relative w-full overflow-hidden bg-forest-dark pt-24 lg:h-screen lg:min-h-[640px] lg:pt-0">
+      {/* Photo: phone/tab = full-width 3:2 (whole photo visible), laptop = full-screen cover */}
+      <div className="relative aspect-[3/2] w-full lg:absolute lg:inset-0 lg:aspect-auto">
+        <Image
           src="/documents/images/tour/main2.png"
           alt="Sri Lanka luxury travel landscape"
-          className="absolute inset-0 h-full w-full object-cover object-center"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
         />
 
-        {/* Very light overlay - keeps image bright */}
-        <div className="absolute inset-0 bg-forest-dark/5" />
+        {/* Phone/tab: only the very bottom edge fades into the dark green */}
+        <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-forest-dark via-forest-dark/60 to-transparent lg:hidden" />
 
-        {/* Soft cinematic gradient for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-b from-forest-dark/25 via-transparent to-forest-dark/30" />
-
-        {/* Very subtle gold texture */}
-        <div
-          className="absolute inset-0 opacity-[0.04] [background-image:radial-gradient(circle_at_1px_1px,#D4AF37_1px,transparent_1px)] [background-size:26px_26px]"
-        />
-
-        
-
-        {/* Very soft bottom fade */}
-        <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-forest-dark/55 to-transparent" />
-
+        {/* Laptop: gradients over the full-screen photo */}
+        <div className="absolute inset-0 hidden bg-gradient-to-b from-forest-dark/40 via-transparent to-forest-dark/80 lg:block" />
+        <div className="absolute inset-0 hidden bg-gradient-to-r from-forest-dark/50 via-transparent to-transparent lg:block" />
       </div>
 
+      {/* Content: phone/tab = slightly overlapping the photo's bottom edge, laptop = bottom-left text, bottom-right buttons */}
+      <div className="relative z-10 mx-auto -mt-10 flex max-w-7xl flex-col gap-8 px-6 pb-10 lg:mt-0 lg:h-full lg:flex-row lg:items-end lg:justify-between lg:px-5 lg:pb-10">
+        {/* LEFT: text */}
+        <div className="max-w-2xl text-left">
+          <motion.p
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.5 }}
+            className="font-display text-2.8xl text-gold-light sm:text-4xl lg:text-5xl"
+          >
+            ආයුබෝවන්!
+          </motion.p>
 
-      {/* =========================================================
-          HERO CONTENT
-      ========================================================== */}
-      <div className="relative z-10 mx-auto max-w-4xl px-6 text-center">
+          <motion.h1
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.1 }}
+            className="mt-3 font-display text-3xl font-bold uppercase leading-none tracking-tight text-white sm:text-5xl lg:text-6xl"
+          >
+            Sri Lanka
+          </motion.h1>
 
-        {/* Sinhala Welcome */}
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{
-            duration: 0.7,
-            delay: 0.05,
-          }}
-        className="font-display text-2xl text-gold-light/181"
-        >
-          ආයුබෝවන්!
-        </motion.p>
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.2 }}
+            className="mt-3 font-display text-xl text-gold sm:text-2xl"
+          >
+            Beyond Ordinary
+          </motion.p>
 
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.3 }}
+            className="mt-4 max-w-md text-sm text-white/85 sm:text-base"
+          >
+            Bespoke journeys through ancient cities, misty tea hills, untamed
+            wilderness and sun-kissed shores, crafted entirely around you.
+          </motion.p>
+        </div>
 
-        {/* Eyebrow */}
-        <motion.p
-          initial={{ opacity: 0, y: 12 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{
-            duration: 0.7,
-          }}
-          className="eyebrow text-base font-bold text-gold-light/50"
-        >
-          Private Luxury Travel · Sri Lanka
-        </motion.p>
-
-
-        {/* Main Heading */}
-        <motion.h1
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{
-            duration: 0.9,
-            delay: 0.15,
-          }}
-          className="mt-6 font-display text-5xl leading-tight text-white sm:text-6xl lg:text-7xl"
-        >
-          The Island,{" "}
-          <span className="text-gold">
-            Uninterrupted
-          </span>
-        </motion.h1>
-
-
-        {/* Description */}
-        <motion.p
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{
-            duration: 0.9,
-            delay: 0.3,
-          }}
-          className="mx-auto mt-6 max-w-xl text-base text-white/85 sm:text-lg"
-        >
-          Bespoke journeys through Sri Lanka’s ancient cities, misty tea hills, untamed wilderness and sun-kissed shores — crafted entirely around you
-        </motion.p>
-
-
-        {/* =========================================================
-            BUTTONS
-        ========================================================== */}
+        {/* RIGHT: buttons */}
         <motion.div
-          initial={{ opacity: 0, y: 24 }}
+          initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{
-            duration: 0.9,
-            delay: 0.45,
-          }}
-          className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row"
+          transition={{ duration: 0.7, delay: 0.4 }}
+          className="flex flex-col gap-4 sm:flex-row"
         >
-
-          {/* Book Your Journey */}
           <Link
             href="/plan"
-            className="rounded-full bg-gold px-8 py-3.5 text-sm font-medium tracking-wide text-forest-dark shadow-lg transition-all duration-300 hover:scale-105 hover:bg-gold-light"
+            className="border border-white/80 bg-white/10 px-8 py-3.5 text-center text-xs font-medium uppercase tracking-[0.25em] text-white backdrop-blur-sm transition-colors duration-300 hover:bg-white hover:text-forest-dark"
           >
             Book Your Journey
           </Link>
-
-
-          {/* Explore Tours */}
           <Link
             href="/tours"
-            className="rounded-full border border-white/50 bg-black/10 px-8 py-3.5 text-sm font-medium tracking-wide text-white backdrop-blur-[2px] transition-all duration-300 hover:border-gold hover:bg-gold/10 hover:text-gold"
+            className="border border-white/50 px-8 py-3.5 text-center text-xs font-medium uppercase tracking-[0.25em] text-white transition-colors duration-300 hover:bg-white hover:text-forest-dark"
           >
             Explore Tours
           </Link>
-
         </motion.div>
-
       </div>
-
-
-      {/* =========================================================
-          SCROLL INDICATOR
-      ========================================================== */}
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{
-          opacity: 1,
-          y: [0, 8, 0],
-        }}
-        transition={{
-          opacity: {
-            delay: 1,
-            duration: 0.6,
-          },
-          y: {
-            repeat: Infinity,
-            duration: 1.8,
-          },
-        }}
-        className="absolute bottom-8 left-1/2 z-10 -translate-x-1/2 text-white/80"
-      >
-        <ChevronDown className="h-7 w-7" />
-      </motion.div>
-
     </section>
   );
 }

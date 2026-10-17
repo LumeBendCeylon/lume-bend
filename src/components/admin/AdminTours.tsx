@@ -391,20 +391,13 @@ export default function AdminTours() {
             placeholder="Highlights, comma-separated"
             className="rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
           />
-          <input
+                  <input
             name="imageUrl"
-            type="url"
+            type="text"
             defaultValue={editing?.imageUrl}
-            placeholder="Photo URL (optional — leave blank to use the illustration)"
+            placeholder="Photo URL or path, e.g. /documents/images/tour/road1.jpg (optional)"
             className="rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none sm:col-span-2"
           />
-          <p className="text-xs text-ink/45 sm:col-span-2">
-            No link yet? Upload the photo free at{" "}
-            <a href="https://imgbb.com/" target="_blank" rel="noopener noreferrer" className="text-gold-dark underline hover:text-forest-dark">
-              imgbb.com
-            </a>{" "}
-            (no account needed), then copy its <strong>&quot;Direct link&quot;</strong> here.
-          </p>
         </div>
         <textarea
           name="blurb"

@@ -9,6 +9,7 @@ import Testimonials from "@/components/Testimonials";
 import FindUsOnline from "@/components/home/FindUsOnline";
 import FAQSection from "@/components/home/FAQSection";
 import CTASection from "@/components/CTASection";
+import VacationCollage from "@/components/home/VacationCollage";
 
 export const metadata: Metadata = {
   title: "Luxury Private Tours in Sri Lanka",
@@ -19,11 +20,12 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   return (
-    <>
+        <>
       <Hero />
-      <FeaturedTours />
       <PopularDestinations />
       <WhyChooseUs />
+      <VacationCollage />
+      <FeaturedTours />
       <ServicesOverview />
       <ExperienceTimeline />
       <Testimonials />

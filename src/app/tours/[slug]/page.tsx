@@ -201,11 +201,9 @@ export default async function TourDetailPage({
                       </div>
                       <div className="p-6 sm:col-span-3">
                         <h3 className="font-display text-lg text-forest-dark">{day.title}</h3>
-                        <ul className="mt-3 space-y-1.5 text-sm text-ink/75">
-                          <li>• <span className="font-medium text-forest-dark">Morning —</span> {day.morning}</li>
-                          <li>• <span className="font-medium text-forest-dark">Afternoon —</span> {day.afternoon}</li>
-                          <li>• <span className="font-medium text-forest-dark">Evening —</span> {day.evening}</li>
-                        </ul>
+                         <p className="mt-3 text-sm leading-relaxed text-ink/75">
+                          {[day.morning, day.afternoon, day.evening].filter(Boolean).join(" ")}
+                        </p>
                         <p className="mt-3 text-xs text-ink/50">Overnight: {day.overnight}</p>
                       </div>
                     </div>

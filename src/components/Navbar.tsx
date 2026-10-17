@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { Menu, X, User as UserIcon, ChevronDown } from "lucide-react";
+import { Menu, X, User as UserIcon, ChevronDown, Search } from "lucide-react";
 import { useAuth } from "@/context/AuthContext";
 import Motif from "@/components/Motif";
 import type { Tour } from "@/lib/data";
@@ -36,9 +36,13 @@ const MEGA_MENU_CATEGORIES: { category: Tour["category"]; motif: Tour["motif"]; 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [deskSearchOpen, setDeskSearchOpen] = useState(false);
+  const [query, setQuery] = useState("");
   const [toursMenuOpen, setToursMenuOpen] = useState(false);
   const [mobileToursOpen, setMobileToursOpen] = useState(false);
   const pathname = usePathname();
+  const router = useRouter();
   const isHome = pathname === "/";
   const { user } = useAuth();
 
@@ -51,10 +55,22 @@ export default function Navbar() {
 
   useEffect(() => {
     setOpen(false);
+    setSearchOpen(false);
+    setDeskSearchOpen(false);
     setToursMenuOpen(false);
   }, [pathname]);
 
-  const solid = scrolled || !isHome || open;
+  const solid = scrolled || !isHome || open || deskSearchOpen;
+
+  const submitSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    const q = query.trim();
+    if (!q) return;
+    router.push(`/search?q=${encodeURIComponent(q)}`);
+    setSearchOpen(false);
+    setDeskSearchOpen(false);
+    setOpen(false);
+  };
 
   return (
     <header
@@ -62,7 +78,82 @@ export default function Navbar() {
         solid ? "bg-white/95 backdrop-blur shadow-sm" : "bg-transparent"
       }`}
     >
-      <nav className="mx-auto flex max-w-[90rem] items-center gap-4 px-6 py-4 lg:gap-5 lg:px-6 xl:gap-8 xl:px-10">
+      {/* ===================== PHONE / TAB (below lg) ===================== */}
+      <div className="lg:hidden">
+        {/* Row 1: logo + book button */}
+        <div className="flex items-center justify-between bg-forest-dark px-4 py-3">
+          <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
+            <span className="font-display text-lg tracking-wide text-white">LUME BEND</span>
+            <span className="font-display text-lg tracking-wide text-gold">Ceylon</span>
+          </Link>
+          <Link
+            href="/plan"
+            className="whitespace-nowrap rounded-full border border-gold px-3.5 py-1.5 text-xs font-medium tracking-wide text-gold transition-colors hover:bg-gold hover:text-forest-dark"
+          >
+            Book Your Journey
+          </Link>
+        </div>
+
+        {/* Row 2: hamburger (left half) + search (right half) */}
+        <div className="grid grid-cols-2">
+          <button
+            aria-label={open ? "Close menu" : "Open menu"}
+            aria-expanded={open}
+            onClick={() => {
+              setOpen((v) => !v);
+              setSearchOpen(false);
+            }}
+            className="flex h-11 items-center justify-center bg-forest text-white"
+          >
+            {open ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+          </button>
+          <button
+            aria-label="Search"
+            aria-expanded={searchOpen}
+            onClick={() => {
+              setSearchOpen((v) => !v);
+              setOpen(false);
+            }}
+            className="flex h-11 items-center justify-center bg-gold text-forest-dark"
+          >
+            <Search className="h-5 w-5" />
+          </button>
+        </div>
+
+        {/* Row 3: search box (opens when the search half is tapped) */}
+        <AnimatePresence>
+          {searchOpen && (
+            <motion.form
+              onSubmit={submitSearch}
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: "auto", opacity: 1 }}
+              exit={{ height: 0, opacity: 0 }}
+              transition={{ duration: 0.25 }}
+              className="overflow-hidden bg-forest-dark"
+            >
+              <div className="flex gap-2 px-4 py-3">
+                <input
+                  type="search"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  autoFocus
+                  placeholder="Search tours, destinations..."
+                  className="w-full rounded-full bg-white/15 px-4 py-2.5 text-sm text-white placeholder:text-white/60 focus:outline-none"
+                />
+                <button
+                  type="submit"
+                  className="rounded-full bg-gold px-5 py-2.5 text-sm font-medium text-forest-dark"
+                >
+                  Search
+                </button>
+              </div>
+            </motion.form>
+          )}
+        </AnimatePresence>
+      </div>
+
+      {/* ===================== LAPTOP (lg and up) ===================== */}
+      <nav className="mx-auto hidden max-w-[90rem] items-center gap-4 px-6 py-4 lg:flex lg:gap-5 lg:px-6 xl:gap-8 xl:px-10">
         <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
@@ -74,7 +165,7 @@ export default function Navbar() {
           <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
         </Link>
 
-        <ul className="hidden items-center gap-4 xl:gap-7 lg:flex">
+        <ul className="flex items-center gap-4 xl:gap-7">
           {/* Tours mega-menu trigger */}
           <li
             className="relative"
@@ -154,7 +245,7 @@ export default function Navbar() {
           ))}
         </ul>
 
-        <div className="ml-auto hidden shrink-0 items-center gap-3 lg:flex">
+        <div className="ml-auto flex shrink-0 items-center gap-3">
           <Link
             href={user ? "/account" : "/login"}
             aria-label={user ? "My Account" : "Sign In"}
@@ -166,6 +257,22 @@ export default function Navbar() {
           >
             <UserIcon className="h-4 w-4" />
           </Link>
+
+          {/* Search (laptop): icon opens a bar below the navbar */}
+          <button
+            type="button"
+            aria-label="Search"
+            aria-expanded={deskSearchOpen}
+            onClick={() => setDeskSearchOpen((v) => !v)}
+            className={`rounded-full border p-2.5 transition-colors ${
+              solid
+                ? "border-forest/20 text-forest-dark hover:border-gold hover:text-gold-dark"
+                : "border-white/40 text-white hover:border-gold hover:text-gold-light"
+            }`}
+          >
+            {deskSearchOpen ? <X className="h-4 w-4" /> : <Search className="h-4 w-4" />}
+          </button>
+
           <Link
             href="/plan"
             className={`shrink-0 whitespace-nowrap rounded-full border px-5 py-2.5 text-sm font-medium tracking-wide transition-colors xl:px-6 ${
@@ -177,21 +284,41 @@ export default function Navbar() {
             Book Your Journey
           </Link>
         </div>
-
-        <button
-          aria-label={open ? "Close menu" : "Open menu"}
-          aria-expanded={open}
-          onClick={() => setOpen((v) => !v)}
-          className="ml-auto lg:hidden"
-        >
-          {open ? (
-            <X className="h-7 w-7 text-forest" />
-          ) : (
-            <Menu className={`h-7 w-7 ${solid ? "text-forest" : "text-white"}`} />
-          )}
-        </button>
       </nav>
 
+      {/* ===================== LAPTOP SEARCH BAR (expands downward) ===================== */}
+      <AnimatePresence>
+        {deskSearchOpen && (
+          <motion.form
+            onSubmit={submitSearch}
+            initial={{ height: 0, opacity: 0 }}
+            animate={{ height: "auto", opacity: 1 }}
+            exit={{ height: 0, opacity: 0 }}
+            transition={{ duration: 0.25 }}
+            className="hidden overflow-hidden border-t border-forest/10 bg-white lg:block"
+          >
+            <div className="mx-auto flex max-w-3xl gap-3 px-6 py-4">
+              <input
+                type="search"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                onKeyDown={(e) => e.key === "Escape" && setDeskSearchOpen(false)}
+                autoFocus
+                placeholder="Search tours, destinations, services..."
+                className="w-full rounded-full border border-forest/20 bg-white px-5 py-3 text-sm text-ink placeholder:text-ink/50 focus:border-gold focus:outline-none"
+              />
+              <button
+                type="submit"
+                className="rounded-full bg-forest px-7 py-3 text-sm font-medium text-white transition-colors hover:bg-forest-light"
+              >
+                Search
+              </button>
+            </div>
+          </motion.form>
+        )}
+      </AnimatePresence>
+
+      {/* ===================== PHONE MENU DROPDOWN ===================== */}
       <AnimatePresence>
         {open && (
           <motion.div
@@ -258,14 +385,6 @@ export default function Navbar() {
                   className="block py-3 text-base font-medium text-ink"
                 >
                   {user ? "My Account" : "Sign In"}
-                </Link>
-              </li>
-              <li className="pt-2">
-                <Link
-                  href="/plan"
-                  className="inline-block rounded-full bg-forest px-6 py-2.5 text-sm font-medium text-white"
-                >
-                  Book Your Journey
                 </Link>
               </li>
             </ul>
