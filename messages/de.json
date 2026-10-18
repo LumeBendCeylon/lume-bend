@@ -35,5 +35,13 @@
     "svc4": "Professionelle Reiseleiter",
     "svc5": "Unterstützung bei Hotelbuchungen",
     "svc6": "Unterstützung bei Bahntickets"
+  },
+    "WhatsApp": {
+    "chat": "Schreiben Sie uns auf WhatsApp"
+  },
+  "NotFound": {
+    "title": "Dieser Pfad ist nicht auf der Karte",
+    "text": "Die gesuchte Seite wurde möglicherweise verschoben, oder die Adresse ist nicht korrekt.",
+    "home": "Zur Startseite"
   }
 }

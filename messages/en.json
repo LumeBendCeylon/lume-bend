@@ -35,5 +35,13 @@
     "svc4": "Professional Tour Guides",
     "svc5": "Hotel Booking Assistance",
     "svc6": "Train Ticket Assistance"
+  },
+    "WhatsApp": {
+    "chat": "Chat with us on WhatsApp"
+  },
+  "NotFound": {
+    "title": "This Path Isn't on the Map",
+    "text": "The page you're looking for may have moved, or the address may be incorrect.",
+    "home": "Return Home"
   }
 }
