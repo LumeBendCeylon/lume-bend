@@ -4574,7 +4574,7 @@ export const destinations: Destination[] = [
     
   },
    {
-    slug: "Dambulla",
+    slug: "dambulla",
     name: "Dambulla",
     region: "Cultural Triangle",
     description:
