@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Photo Credits | LUME BEND",
+  title: "Photo Credits",
   description:
     "Credits and attributions for photographs used on the LUME BEND website.",
 };

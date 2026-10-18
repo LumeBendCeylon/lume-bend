@@ -6,7 +6,7 @@ import Motif from "@/components/Motif";
 import CTASection from "@/components/CTASection";
 
 export const metadata: Metadata = {
-  title: "About Us | LUME BEND",
+  title: "About Us",
   description:
     "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers.",
   alternates: {
