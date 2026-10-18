@@ -16,5 +16,24 @@
     "searchPlaceholder": "Touren, Reiseziele suchen...",
     "myAccount": "Mein Konto",
     "signIn": "Anmelden"
+  },
+    "Footer": {
+    "tagline": "Maßgeschneiderte, privat geführte Reisen durch Sri Lanka – für Reisende, die erwarten, dass jedes Detail durchdacht ist.",
+    "quickLinks": "Schnellzugriff",
+    "servicesTitle": "Leistungen",
+    "stayInspired": "Inspiration",
+    "newsletter": "Abonnieren Sie unseren Newsletter für saisonale Reiserouten und Reisenotizen von der Insel.",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "join": "Abonnieren",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "photoCredits": "Bildnachweise",
+    "svc1": "Flughafentransfers",
+    "svc2": "Privater Chauffeur",
+    "svc3": "Luxusfahrzeuge",
+    "svc4": "Professionelle Reiseleiter",
+    "svc5": "Unterstützung bei Hotelbuchungen",
+    "svc6": "Unterstützung bei Bahntickets"
   }
 }

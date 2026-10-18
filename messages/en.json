@@ -16,5 +16,24 @@
     "searchPlaceholder": "Search tours, destinations...",
     "myAccount": "My Account",
     "signIn": "Sign In"
+  },
+    "Footer": {
+    "tagline": "Bespoke, private-guided journeys across Sri Lanka — crafted for travellers who expect every detail to be considered.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "stayInspired": "Stay Inspired",
+    "newsletter": "Join our newsletter for seasonal itineraries and island travel notes.",
+    "emailPlaceholder": "Your email",
+    "join": "Join",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "photoCredits": "Photo Credits",
+    "svc1": "Airport Transfers",
+    "svc2": "Private Chauffeur",
+    "svc3": "Luxury Vehicles",
+    "svc4": "Professional Tour Guides",
+    "svc5": "Hotel Booking Assistance",
+    "svc6": "Train Ticket Assistance"
   }
 }

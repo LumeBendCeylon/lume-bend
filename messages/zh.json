@@ -16,5 +16,25 @@
     "searchPlaceholder": "搜索行程、目的地...",
     "myAccount": "我的账户",
     "signIn": "登录"
+  }, 
+   "Footer": {
+    "tagline": "为您量身定制的斯里兰卡私享向导之旅，献给对每个细节都有高要求的旅行者。",
+    "quickLinks": "快速链接",
+    "servicesTitle": "服务",
+    "stayInspired": "灵感订阅",
+    "newsletter": "订阅我们的通讯，获取当季行程与岛屿旅行笔记。",
+    "emailPlaceholder": "您的电子邮箱",
+    "join": "订阅",
+    "rights": "版权所有。",
+    "privacy": "隐私政策",
+    "terms": "条款与条件",
+    "photoCredits": "图片来源",
+    "svc1": "机场接送",
+    "svc2": "专属司机",
+    "svc3": "豪华车辆",
+    "svc4": "专业导游",
+    "svc5": "酒店预订协助",
+    "svc6": "火车票协助"
   }
+
 }

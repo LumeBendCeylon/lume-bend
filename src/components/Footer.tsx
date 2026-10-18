@@ -1,14 +1,33 @@
-
 "use client";
 
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Mail, Phone, MapPin } from "lucide-react";
 import { FaFacebookF, FaInstagram, FaYoutube, FaTiktok } from "react-icons/fa";
-import { services } from "@/lib/data";
 
 export default function Footer() {
+  const t = useTranslations("Footer");
+  const nav = useTranslations("Nav");
   const year = new Date().getFullYear();
+
+  const quickLinks: [string, string][] = [
+    [nav("home"), "/"],
+    [nav("about"), "/about"],
+    [nav("tours"), "/tours"],
+    [nav("destinations"), "/destinations"],
+    [nav("gallery"), "/gallery"],
+    [nav("contact"), "/contact"],
+  ];
+
+  const serviceLabels = [
+    t("svc1"),
+    t("svc2"),
+    t("svc3"),
+    t("svc4"),
+    t("svc5"),
+    t("svc6"),
+  ];
 
   return (
     <footer className="relative overflow-hidden bg-forest-dark text-white">
@@ -30,8 +49,7 @@ export default function Footer() {
               Lume Bend <span className="text-gold">Ceylon</span>
             </Link>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/70">
-              Bespoke, private-guided journeys across Sri Lanka — crafted for travellers who
-              expect every detail to be considered.
+              {t("tagline")}
             </p>
             <div className="mt-6 flex gap-4">
               {[
@@ -59,16 +77,9 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="eyebrow text-gold-light">Quick Links</h3>
+            <h3 className="eyebrow text-gold-light">{t("quickLinks")}</h3>
             <ul className="mt-5 space-y-3 text-sm text-white/75">
-              {[
-                ["Home", "/"],
-                ["About Us", "/about"],
-                ["Tours", "/tours"],
-                ["Destinations", "/destinations"],
-                ["Gallery", "/gallery"],
-                ["Contact", "/contact"],
-              ].map(([label, href]) => (
+              {quickLinks.map(([label, href]) => (
                 <li key={href}>
                   <Link href={href} className="transition-colors hover:text-gold">
                     {label}
@@ -79,12 +90,12 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="eyebrow text-gold-light">Services</h3>
+            <h3 className="eyebrow text-gold-light">{t("servicesTitle")}</h3>
             <ul className="mt-5 space-y-3 text-sm text-white/75">
-              {services.slice(0, 6).map((s) => (
-                <li key={s.title}>
+              {serviceLabels.map((label) => (
+                <li key={label}>
                   <Link href="/services" className="transition-colors hover:text-gold">
-                    {s.title}
+                    {label}
                   </Link>
                 </li>
               ))}
@@ -92,22 +103,20 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="eyebrow text-gold-light">Stay Inspired</h3>
-            <p className="mt-5 text-sm text-white/75">
-              Join our newsletter for seasonal itineraries and island travel notes.
-            </p>
+            <h3 className="eyebrow text-gold-light">{t("stayInspired")}</h3>
+            <p className="mt-5 text-sm text-white/75">{t("newsletter")}</p>
             <form className="mt-4 flex" onSubmit={(e) => e.preventDefault()}>
               <input
                 type="email"
                 required
-                placeholder="Your email"
+                placeholder={t("emailPlaceholder")}
                 className="w-full rounded-l-full border border-white/20 bg-white/5 px-4 py-2.5 text-sm text-white placeholder:text-white/50 focus:outline-none"
               />
               <button
                 type="submit"
                 className="rounded-r-full bg-gold px-5 py-2.5 text-sm font-medium text-forest-dark transition-colors hover:bg-gold-light"
               >
-                Join
+                {t("join")}
               </button>
             </form>
 
@@ -127,16 +136,18 @@ export default function Footer() {
 
         <div className="border-t border-white/10">
           <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-6 py-6 text-xs text-white/60 sm:flex-row lg:px-10">
-            <p>© {year} Lume Bend Ceylon. All rights reserved.</p>
+            <p>
+              © {year} Lume Bend Ceylon. {t("rights")}
+            </p>
             <div className="flex gap-6">
               <Link href="/privacy-policy" className="hover:text-gold">
-                Privacy Policy
+                {t("privacy")}
               </Link>
               <Link href="/terms-conditions" className="hover:text-gold">
-                Terms & Conditions
+                {t("terms")}
               </Link>
               <Link href="/photo-credits" className="hover:text-gold">
-                Photo Credits
+                {t("photoCredits")}
               </Link>
             </div>
           </div>

@@ -16,5 +16,24 @@
     "searchPlaceholder": "Rechercher circuits, destinations...",
     "myAccount": "Mon compte",
     "signIn": "Se connecter"
+  },
+    "Footer": {
+    "tagline": "Des voyages sur mesure, guidés en privé à travers le Sri Lanka, pour les voyageurs qui exigent que chaque détail soit soigné.",
+    "quickLinks": "Liens rapides",
+    "servicesTitle": "Services",
+    "stayInspired": "Restez inspiré",
+    "newsletter": "Abonnez-vous à notre newsletter pour recevoir des itinéraires de saison et des notes de voyage sur l'île.",
+    "emailPlaceholder": "Votre e-mail",
+    "join": "S'abonner",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "photoCredits": "Crédits photo",
+    "svc1": "Transferts aéroport",
+    "svc2": "Chauffeur privé",
+    "svc3": "Véhicules de luxe",
+    "svc4": "Guides touristiques professionnels",
+    "svc5": "Aide à la réservation d'hôtels",
+    "svc6": "Aide pour les billets de train"
   }
 }
