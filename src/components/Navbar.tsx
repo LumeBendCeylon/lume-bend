@@ -81,19 +81,22 @@ export default function Navbar() {
       }`}
     >
       {/* ===================== PHONE / TAB (below lg) ===================== */}
-      <div className="lg:hidden">
+      <div className="xl:hidden">
         {/* Row 1: logo + book button */}
         <div className="flex items-center justify-between bg-forest-dark px-4 py-3">
           <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
             <span className="font-display text-lg tracking-wide text-white">LUME BEND</span>
             <span className="font-display text-lg tracking-wide text-gold">Ceylon</span>
           </Link>
-          <Link
-            href="/plan"
-            className="whitespace-nowrap rounded-full border border-gold px-3.5 py-1.5 text-xs font-medium tracking-wide text-gold transition-colors hover:bg-gold hover:text-forest-dark"
-          >
-            {t("book")}
-          </Link>
+          <div className="flex items-center gap-2">
+            <LanguageSwitcher dark compact />
+            <Link
+              href="/plan"
+              className="whitespace-nowrap rounded-full border border-gold px-3.5 py-1.5 text-xs font-medium tracking-wide text-gold transition-colors hover:bg-gold hover:text-forest-dark"
+            >
+              {t("book")}
+            </Link>
+          </div>
         </div>
 
         {/* Row 2: hamburger (left half) + search (right half) */}
@@ -155,7 +158,7 @@ export default function Navbar() {
       </div>
 
       {/* ===================== LAPTOP (lg and up) ===================== */}
-      <nav className="mx-auto hidden max-w-[90rem] items-center gap-4 px-6 py-4 lg:flex lg:gap-5 lg:px-6 xl:gap-8 xl:px-10">
+      <nav className="mx-auto hidden max-w-[110rem] items-center gap-3 px-6 py-4 xl:flex xl:gap-5 xl:px-6 2xl:gap-8 2xl:px-10">
         <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
@@ -167,7 +170,7 @@ export default function Navbar() {
           <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
         </Link>
 
-        <ul className="flex items-center gap-4 xl:gap-7">
+        <ul className="flex items-center gap-3 xl:gap-4 2xl:gap-7">
           {/* Tours mega-menu trigger */}
           <li
             className="relative"
@@ -176,7 +179,7 @@ export default function Navbar() {
           >
             <Link
               href="/tours"
-              className={`flex items-center gap-1 text-sm font-medium tracking-wide transition-colors hover:text-gold ${
+              className={`flex items-center gap-1 whitespace-nowrap text-sm font-medium tracking-wide transition-colors hover:text-gold ${
                 solid ? "text-ink" : "text-white"
               } ${pathname.startsWith("/tours") ? "text-gold" : ""}`}
             >
@@ -237,7 +240,7 @@ export default function Navbar() {
             <li key={link.href}>
               <Link
                 href={link.href}
-                className={`text-sm font-medium tracking-wide transition-colors hover:text-gold ${
+                className={`whitespace-nowrap text-sm font-medium tracking-wide transition-colors hover:text-gold ${
                   solid ? "text-ink" : "text-white"
                 } ${pathname === link.href ? "text-gold" : ""}`}
               >
@@ -299,7 +302,7 @@ export default function Navbar() {
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.25 }}
-            className="hidden overflow-hidden border-t border-forest/10 bg-white lg:block"
+            className="hidden overflow-hidden border-t border-forest/10 bg-white xl:block"
           >
             <div className="mx-auto flex max-w-3xl gap-3 px-6 py-4">
               <input
@@ -330,7 +333,7 @@ export default function Navbar() {
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.35, ease: "easeInOut" }}
-            className="overflow-hidden bg-white lg:hidden"
+            className="overflow-hidden bg-white xl:hidden"
           >
             <ul className="flex flex-col gap-1 px-6 pb-6">
               <li>

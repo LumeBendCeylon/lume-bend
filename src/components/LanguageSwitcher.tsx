@@ -12,10 +12,32 @@ const NAMES: Record<string, string> = {
   zh: "中文",
 };
 
-export default function LanguageSwitcher({ solid = true }: { solid?: boolean }) {
+const SHORT: Record<string, string> = {
+  en: "EN",
+  de: "DE",
+  fr: "FR",
+  ru: "RU",
+  zh: "中文",
+};
+
+export default function LanguageSwitcher({
+  solid = true,
+  dark = false,
+  compact = false,
+}: {
+  solid?: boolean;
+  dark?: boolean;
+  compact?: boolean;
+}) {
   const locale = useLocale();
   const pathname = usePathname();
   const router = useRouter();
+
+  const colors = dark
+    ? "border-white/40 text-white"
+    : solid
+      ? "border-forest/20 text-forest-dark"
+      : "border-white/40 text-white";
 
   return (
     <select
@@ -26,15 +48,13 @@ export default function LanguageSwitcher({ solid = true }: { solid?: boolean }) 
           locale: e.target.value as (typeof routing.locales)[number],
         })
       }
-      className={`cursor-pointer rounded-full border bg-transparent px-3 py-2 text-sm font-medium focus:outline-none [&>option]:text-ink ${
-        solid
-          ? "border-forest/20 text-forest-dark"
-          : "border-white/40 text-white"
-      }`}
+      className={`cursor-pointer rounded-full border bg-transparent font-medium focus:outline-none [&>option]:text-ink ${
+        compact ? "px-2 py-1.5 text-xs" : "px-3 py-2 text-sm"
+      } ${colors}`}
     >
       {routing.locales.map((l) => (
         <option key={l} value={l}>
-          {NAMES[l] ?? l}
+          {compact ? SHORT[l] ?? l : NAMES[l] ?? l}
         </option>
       ))}
     </select>
