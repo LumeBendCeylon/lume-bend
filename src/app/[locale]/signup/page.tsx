@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
-import { useRouter } from "next/navigation";
-import Link from "next/link";
+import { useRouter } from "@/i18n/navigation";
+import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 import { Loader2 } from "lucide-react";
 import { signUp } from "@/lib/firebase";

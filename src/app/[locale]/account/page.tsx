@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
-import Link from "next/link";
+import { useRouter } from "@/i18n/navigation";
+import { Link } from "@/i18n/navigation";
 import { LogOut, Loader2, Inbox } from "lucide-react";
 import { useAuth } from "@/context/AuthContext";
 import { getInquiriesByEmail, signOutUser, type Inquiry } from "@/lib/firebase";

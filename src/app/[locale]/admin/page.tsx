@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter } from "@/i18n/navigation";
 import { Loader2, ShieldAlert, MessageSquare, Star, Images, MapPinned } from "lucide-react";
 import { useAuth } from "@/context/AuthContext";
 import AdminEnquiries from "@/components/admin/AdminEnquiries";

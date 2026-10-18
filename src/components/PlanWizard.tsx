@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter } from "@/i18n/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, Loader2, ArrowRight, ArrowLeft, Check } from "lucide-react";
 import { submitInquiry } from "@/lib/firebase";
