@@ -1,12 +1,16 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Poppins } from "next/font/google";
-import "./globals.css";
+import "../globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import JsonLd from "@/components/JsonLd";
 import { AuthProvider } from "@/context/AuthContext";
 import { Analytics } from "@vercel/analytics/next";
+import { NextIntlClientProvider, hasLocale } from "next-intl";
+import { setRequestLocale } from "next-intl/server";
+import { notFound } from "next/navigation";
+import { routing } from "@/i18n/routing";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -57,10 +61,26 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
+
+export default async function RootLayout({
+  children,
+  params,
+}: {
+  children: React.ReactNode;
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) {
+    notFound();
+  }
+  setRequestLocale(locale);
+
   return (
     <html
-      lang="en"
+      lang={locale}
       data-scroll-behavior="smooth"
       className={`${playfair.variable} ${poppins.variable}`}
     >
@@ -89,13 +109,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
-        <AuthProvider>
-          <Navbar />
-          <main id="main-content">{children}</main>
-          <Footer />
-          <WhatsAppButton />
-        </AuthProvider>
-             <Analytics />
+        <NextIntlClientProvider>
+          <AuthProvider>
+            <Navbar />
+            <main id="main-content">{children}</main>
+            <Footer />
+            <WhatsAppButton />
+          </AuthProvider>
+        </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

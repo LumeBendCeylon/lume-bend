@@ -1,1 +1,20 @@
-{}
+{
+  "Common": { "bookNow": "Réserver" },
+  "Nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "destinations": "Destinations",
+    "services": "Services",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "sustainability": "Durabilité",
+    "contact": "Contact",
+    "tours": "Circuits",
+    "book": "Réserver votre voyage",
+    "viewAll": "Voir tous les circuits",
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher circuits, destinations...",
+    "myAccount": "Mon compte",
+    "signIn": "Se connecter"
+  }
+}

@@ -1,7 +1,8 @@
 "use client";
 
-import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
+import { useTranslations } from "next-intl";
+import { Link, usePathname, useRouter } from "@/i18n/navigation";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X, User as UserIcon, ChevronDown, Search } from "lucide-react";
@@ -10,15 +11,15 @@ import Motif from "@/components/Motif";
 import type { Tour } from "@/lib/data";
 
 const LINKS = [
-  { href: "/", label: "Home" },
-  { href: "/about", label: "About" },
-  { href: "/destinations", label: "Destinations" },
-  { href: "/services", label: "Services" },
-  { href: "/gallery", label: "Gallery" },
-  { href: "/reviews", label: "Reviews" },
-  { href: "/sustainability", label: "Sustainability" },
-  { href: "/contact", label: "Contact" },
-];
+  { href: "/", key: "home" },
+  { href: "/about", key: "about" },
+  { href: "/destinations", key: "destinations" },
+  { href: "/services", key: "services" },
+  { href: "/gallery", key: "gallery" },
+  { href: "/reviews", key: "reviews" },
+  { href: "/sustainability", key: "sustainability" },
+  { href: "/contact", key: "contact" },
+] as const;
 
 // All nine tour-type categories, shown as a 3x3 grid in the mega-menu.
 const MEGA_MENU_CATEGORIES: { category: Tour["category"]; motif: Tour["motif"]; imageUrl?: string }[] = [
@@ -41,6 +42,7 @@ export default function Navbar() {
   const [query, setQuery] = useState("");
   const [toursMenuOpen, setToursMenuOpen] = useState(false);
   const [mobileToursOpen, setMobileToursOpen] = useState(false);
+  const t = useTranslations("Nav");
   const pathname = usePathname();
   const router = useRouter();
   const isHome = pathname === "/";
@@ -90,7 +92,7 @@ export default function Navbar() {
             href="/plan"
             className="whitespace-nowrap rounded-full border border-gold px-3.5 py-1.5 text-xs font-medium tracking-wide text-gold transition-colors hover:bg-gold hover:text-forest-dark"
           >
-            Book Your Journey
+            {t("book")}
           </Link>
         </div>
 
@@ -137,14 +139,14 @@ export default function Navbar() {
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                   autoFocus
-                  placeholder="Search tours, destinations..."
+                  placeholder={t("searchPlaceholder")}
                   className="w-full rounded-full bg-white/15 px-4 py-2.5 text-sm text-white placeholder:text-white/60 focus:outline-none"
                 />
                 <button
                   type="submit"
                   className="rounded-full bg-gold px-5 py-2.5 text-sm font-medium text-forest-dark"
                 >
-                  Search
+                  {t("search")}
                 </button>
               </div>
             </motion.form>
@@ -178,7 +180,7 @@ export default function Navbar() {
                 solid ? "text-ink" : "text-white"
               } ${pathname.startsWith("/tours") ? "text-gold" : ""}`}
             >
-              Tours
+              {t("tours")}
               <ChevronDown
                 className={`h-3.5 w-3.5 transition-transform ${toursMenuOpen ? "rotate-180" : ""}`}
               />
@@ -223,7 +225,7 @@ export default function Navbar() {
                       href="/tours"
                       className="mt-5 flex items-center justify-center rounded-full border border-forest/20 py-2.5 text-sm font-medium text-forest-dark hover:border-gold hover:text-gold-dark"
                     >
-                      View All Tours
+                      {t("viewAll")}
                     </Link>
                   </div>
                 </motion.div>
@@ -239,7 +241,7 @@ export default function Navbar() {
                   solid ? "text-ink" : "text-white"
                 } ${pathname === link.href ? "text-gold" : ""}`}
               >
-                {link.label}
+                {t(link.key)}
               </Link>
             </li>
           ))}
@@ -273,6 +275,8 @@ export default function Navbar() {
             {deskSearchOpen ? <X className="h-4 w-4" /> : <Search className="h-4 w-4" />}
           </button>
 
+          <LanguageSwitcher solid={solid} />
+
           <Link
             href="/plan"
             className={`shrink-0 whitespace-nowrap rounded-full border px-5 py-2.5 text-sm font-medium tracking-wide transition-colors xl:px-6 ${
@@ -281,7 +285,7 @@ export default function Navbar() {
                 : "border-white/70 text-white hover:bg-white hover:text-forest"
             }`}
           >
-            Book Your Journey
+            {t("book")}
           </Link>
         </div>
       </nav>
@@ -304,14 +308,14 @@ export default function Navbar() {
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={(e) => e.key === "Escape" && setDeskSearchOpen(false)}
                 autoFocus
-                placeholder="Search tours, destinations, services..."
+                placeholder={t("searchPlaceholder")}
                 className="w-full rounded-full border border-forest/20 bg-white px-5 py-3 text-sm text-ink placeholder:text-ink/50 focus:border-gold focus:outline-none"
               />
               <button
                 type="submit"
                 className="rounded-full bg-forest px-7 py-3 text-sm font-medium text-white transition-colors hover:bg-forest-light"
               >
-                Search
+                {t("search")}
               </button>
             </div>
           </motion.form>
@@ -334,7 +338,7 @@ export default function Navbar() {
                   onClick={() => setMobileToursOpen((v) => !v)}
                   className="flex w-full items-center justify-between py-3 text-base font-medium text-ink"
                 >
-                  Tours
+                  {t("tours")}
                   <ChevronDown
                     className={`h-4 w-4 transition-transform ${mobileToursOpen ? "rotate-180" : ""}`}
                   />
@@ -360,7 +364,7 @@ export default function Navbar() {
                         ))}
                       </div>
                       <Link href="/tours" className="block pb-3 pl-2 text-sm font-medium text-gold-dark">
-                        View All Tours →
+                        {t("viewAll")} →
                       </Link>
                     </motion.div>
                   )}
@@ -375,7 +379,7 @@ export default function Navbar() {
                       pathname === link.href ? "text-gold" : "text-ink"
                     }`}
                   >
-                    {link.label}
+                    {t(link.key)}
                   </Link>
                 </li>
               ))}
@@ -384,8 +388,11 @@ export default function Navbar() {
                   href={user ? "/account" : "/login"}
                   className="block py-3 text-base font-medium text-ink"
                 >
-                  {user ? "My Account" : "Sign In"}
+                  {user ? t("myAccount") : t("signIn")}
                 </Link>
+              </li>
+              <li className="pt-2">
+                <LanguageSwitcher />
               </li>
             </ul>
           </motion.div>

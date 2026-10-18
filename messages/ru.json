@@ -1,1 +1,20 @@
-{}
+{
+  "Common": { "bookNow": "Забронировать" },
+  "Nav": {
+    "home": "Главная",
+    "about": "О нас",
+    "destinations": "Направления",
+    "services": "Услуги",
+    "gallery": "Галерея",
+    "reviews": "Отзывы",
+    "sustainability": "Устойчивое развитие",
+    "contact": "Контакты",
+    "tours": "Туры",
+    "book": "Забронировать поездку",
+    "viewAll": "Все туры",
+    "search": "Найти",
+    "searchPlaceholder": "Поиск туров, направлений...",
+    "myAccount": "Мой аккаунт",
+    "signIn": "Войти"
+  }
+}

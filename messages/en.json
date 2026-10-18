@@ -1,5 +1,20 @@
 {
-  "Common": {
-    "bookNow": "Book Now"
+  "Common": { "bookNow": "Book Now" },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "destinations": "Destinations",
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "sustainability": "Sustainability",
+    "contact": "Contact",
+    "tours": "Tours",
+    "book": "Book Your Journey",
+    "viewAll": "View All Tours",
+    "search": "Search",
+    "searchPlaceholder": "Search tours, destinations...",
+    "myAccount": "My Account",
+    "signIn": "Sign In"
   }
 }

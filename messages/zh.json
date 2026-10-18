@@ -1,1 +1,20 @@
-{}
+{
+  "Common": { "bookNow": "立即预订" },
+  "Nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "destinations": "目的地",
+    "services": "服务",
+    "gallery": "图库",
+    "reviews": "评价",
+    "sustainability": "可持续发展",
+    "contact": "联系我们",
+    "tours": "行程",
+    "book": "预订您的旅程",
+    "viewAll": "查看所有行程",
+    "search": "搜索",
+    "searchPlaceholder": "搜索行程、目的地...",
+    "myAccount": "我的账户",
+    "signIn": "登录"
+  }
+}

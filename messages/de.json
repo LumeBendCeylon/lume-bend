@@ -1,1 +1,20 @@
-{}
+{
+  "Common": { "bookNow": "Jetzt buchen" },
+  "Nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "destinations": "Reiseziele",
+    "services": "Leistungen",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "sustainability": "Nachhaltigkeit",
+    "contact": "Kontakt",
+    "tours": "Touren",
+    "book": "Reise buchen",
+    "viewAll": "Alle Touren ansehen",
+    "search": "Suchen",
+    "searchPlaceholder": "Touren, Reiseziele suchen...",
+    "myAccount": "Mein Konto",
+    "signIn": "Anmelden"
+  }
+}
