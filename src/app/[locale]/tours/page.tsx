@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import Motif from "@/components/Motif";
@@ -8,7 +9,7 @@ export const metadata: Metadata = {
   title: "Tours",
   description:
   "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/tours") },
 };
 
 export default function ToursPage() {

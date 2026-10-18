@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
 import SectionHeading from "@/components/SectionHeading";
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   title: "Services",
   description:
     "Airport transfers, private chauffeurs, professional guides, hotel booking assistance and fully customised tours across Sri Lanka.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/services") },
 };
 
 export default function ServicesPage() {

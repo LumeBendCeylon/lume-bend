@@ -1,9 +1,10 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "How Golden Palm Ceylon collects, uses and protects your personal information.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/privacy-policy") },
 };
 
 const SECTIONS = [

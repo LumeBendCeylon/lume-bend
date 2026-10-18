@@ -11,6 +11,7 @@ import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
+import { OG_LOCALES } from "@/i18n/metadata";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -27,51 +28,55 @@ const poppins = Poppins({
 
 const siteUrl = "https://www.lumebendceylon.com";
 
-export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
-  title: {
-    default: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
-    template: "%s | Lume Bend Ceylon",
-  },
-  description:
-    "Lume Bend Ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
-  keywords: [
-    "Sri Lanka luxury tours",
-    "Sri Lanka private tour operator",
-    "Ceylon travel agency",
-    "luxury travel Sri Lanka",
-    "Sri Lanka honeymoon tours",
-  ],
-  authors: [{ name: "Lume Bend Ceylon" }],
-  openGraph: {
-    type: "website",
-    url: siteUrl,
-    siteName: "Lume Bend Ceylon",
-    title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
-    description:
-      "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
-    locale: "en_US",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
-    description:
-      "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
-  },
-  robots: { index: true, follow: true },
+type Props = {
+  children: React.ReactNode;
+  params: Promise<{ locale: string }>;
 };
+
+export async function generateMetadata({
+  params,
+}: Pick<Props, "params">): Promise<Metadata> {
+  const { locale } = await params;
+
+  return {
+    metadataBase: new URL(siteUrl),
+    title: {
+      default: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
+      template: "%s | Lume Bend Ceylon",
+    },
+    description:
+      "Lume Bend Ceylon designs bespoke, privately guided luxury tours across Sri Lanka — cultural triangle, hill country, wildlife and coast, tailored to you.",
+    keywords: [
+      "Sri Lanka luxury tours",
+      "Sri Lanka private tour operator",
+      "Ceylon travel agency",
+      "luxury travel Sri Lanka",
+      "Sri Lanka honeymoon tours",
+    ],
+    authors: [{ name: "Lume Bend Ceylon" }],
+    openGraph: {
+      type: "website",
+      siteName: "Lume Bend Ceylon",
+      title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
+      description:
+        "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
+      locale: OG_LOCALES[locale] ?? "en_US",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Lume Bend Ceylon | Luxury Private Tours in Sri Lanka",
+      description:
+        "Bespoke, privately guided luxury journeys across Sri Lanka — designed around you.",
+    },
+    robots: { index: true, follow: true },
+  };
+}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
-export default async function RootLayout({
-  children,
-  params,
-}: {
-  children: React.ReactNode;
-  params: Promise<{ locale: string }>;
-}) {
+export default async function RootLayout({ children, params }: Props) {
   const { locale } = await params;
   if (!hasLocale(routing.locales, locale)) {
     notFound();

@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Hero from "@/components/home/Hero";
 import FeaturedTours from "@/components/home/FeaturedTours";
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
   title: "Luxury Private Tours in Sri Lanka",
   description:
     "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("") },
 };
 
 export default function HomePage() {

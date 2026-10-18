@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Link } from "@/i18n/navigation";
 import { Compass, MessageSquareText, Sparkles } from "lucide-react";
@@ -6,7 +7,7 @@ import Motif from "@/components/Motif";
 export const metadata: Metadata = {
   title: "Plan Your Journey",
   description: "Start planning your tailor-made Sri Lanka journey with Golden Palm Ceylon.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/plan") },
 };
 
 export default function PlanLandingPage() {

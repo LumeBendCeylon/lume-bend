@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
 import DestinationCard from "@/components/DestinationCard";
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   title: "Destinations",
   description:
     "Explore Sri Lanka's most remarkable destinations, from Sigiriya and Kandy to Yala and Mirissa, with Lume Bend Ceylon.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/destinations") },
 };
 
 export default function DestinationsPage() {

@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Compass, Heart, Leaf, ShieldCheck } from "lucide-react";
 import SectionHeading from "@/components/SectionHeading";
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers.",
   alternates: {
-    canonical: "./",
+    canonical: "./", languages: languageAlternates("/about"),
   },
 };
 

@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
@@ -22,7 +23,10 @@ export async function generateMetadata({
   return {
     title: destination.name,
     description: destination.description,
-    alternates: { canonical: "./" },
+    alternates: {
+  canonical: "./",
+  languages: languageAlternates(`/destinations/${destination.slug}`),
+},
   };
 }
 

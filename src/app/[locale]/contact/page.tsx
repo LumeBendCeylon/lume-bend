@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import { Mail, Phone, MapPin } from "lucide-react";
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
   title: "Contact",
   description:
     "Send lume bend ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/contact") },
 };
 
 const OTHER_PLATFORMS = [

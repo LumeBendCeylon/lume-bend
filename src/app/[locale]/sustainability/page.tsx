@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Download, Leaf, PlaneLanding } from "lucide-react";
 import Motif from "@/components/Motif";
@@ -8,7 +9,7 @@ export const metadata: Metadata = {
   title: "Sustainability",
   description:
     "Travel instructions for visiting Sri Lanka and Golden Palm Ceylon's sustainable tourism policies.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/sustainability") },
 };
 
 export default function SustainabilityPage() {

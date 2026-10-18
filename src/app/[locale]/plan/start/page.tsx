@@ -1,3 +1,4 @@
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
 import PlanWizard from "@/components/PlanWizard";
@@ -5,7 +6,7 @@ import PlanWizard from "@/components/PlanWizard";
 export const metadata: Metadata = {
   title: "Start Planning",
   description: "Answer a few questions about you and your travel preferences to start planning your Sri Lanka journey.",
-  alternates: { canonical: "./" },
+  alternates: { canonical: "./", languages: languageAlternates("/plan/start") },
 };
 
 export default function PlanStartPage() {
