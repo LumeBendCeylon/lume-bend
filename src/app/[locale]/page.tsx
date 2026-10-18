@@ -1,5 +1,6 @@
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
+import { setRequestLocale } from "next-intl/server";
 import Hero from "@/components/home/Hero";
 import FeaturedTours from "@/components/home/FeaturedTours";
 import PopularDestinations from "@/components/home/PopularDestinations";
@@ -19,9 +20,16 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("") },
 };
 
-export default function HomePage() {
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
   return (
-        <>
+    <>
       <Hero />
       <PopularDestinations />
       <WhyChooseUs />
