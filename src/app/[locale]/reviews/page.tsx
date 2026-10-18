@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import ReviewsPageContent from "@/components/ReviewsPageContent";
@@ -8,6 +9,8 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("/reviews") },
 };
 
-export default function ReviewsPage() {
+export default async function ReviewsPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return <ReviewsPageContent />;
 }

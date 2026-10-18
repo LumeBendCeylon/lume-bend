@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
@@ -13,7 +14,9 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("/services") },
 };
 
-export default function ServicesPage() {
+export default async function ServicesPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <>
       <section className="relative flex min-h-[42vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">

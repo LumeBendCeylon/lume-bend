@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Suspense } from "react";
@@ -21,7 +22,9 @@ const OTHER_PLATFORMS = [
   { Icon: FaTripadvisor, label: "TripAdvisor", href: "https://www.tripadvisor.com/" },
 ];
 
-export default function ContactPage() {
+export default async function ContactPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <>
       <section className="relative flex min-h-[36vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">

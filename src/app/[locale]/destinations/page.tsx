@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
@@ -13,7 +14,9 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("/destinations") },
 };
 
-export default function DestinationsPage() {
+export default async function DestinationsPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <>
       <ScrollRestore />

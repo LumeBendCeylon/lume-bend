@@ -1,6 +1,7 @@
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Suspense } from "react";
+import { setRequestLocale } from "next-intl/server";
 import Motif from "@/components/Motif";
 import ToursExplorer from "@/components/ToursExplorer";
 import CTASection from "@/components/CTASection";
@@ -8,11 +9,18 @@ import CTASection from "@/components/CTASection";
 export const metadata: Metadata = {
   title: "Tours",
   description:
-  "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
+    "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
   alternates: { canonical: "./", languages: languageAlternates("/tours") },
 };
 
-export default function ToursPage() {
+export default async function ToursPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
   return (
     <>
       <section className="relative flex min-h-[42vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">

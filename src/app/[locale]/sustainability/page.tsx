@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Download, Leaf, PlaneLanding } from "lucide-react";
@@ -12,7 +13,9 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("/sustainability") },
 };
 
-export default function SustainabilityPage() {
+export default async function SustainabilityPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <>
       <section className="relative flex min-h-[36vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">

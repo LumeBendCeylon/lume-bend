@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 
@@ -38,7 +39,9 @@ const SECTIONS = [
   },
 ];
 
-export default function PrivacyPolicyPage() {
+export default async function PrivacyPolicyPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <section className="bg-white py-32">
       <div className="mx-auto max-w-3xl px-6">

@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Compass, Heart, Leaf, ShieldCheck } from "lucide-react";
@@ -50,7 +51,9 @@ const TEAM = [
   },
 ];
 
-export default function AboutPage() {
+export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <>
       {/* Hero */}

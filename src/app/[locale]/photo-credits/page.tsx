@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -1980,7 +1981,9 @@ url: "https://commons.wikimedia.org/wiki/File.jpg",
  
 ];
 
-export default function PhotoCreditsPage() {
+export default async function PhotoCreditsPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <main className="mx-auto max-w-4xl px-6 py-32">
       <div className="mb-12">

@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { Link } from "@/i18n/navigation";
@@ -10,7 +11,9 @@ export const metadata: Metadata = {
   alternates: { canonical: "./", languages: languageAlternates("/plan") },
 };
 
-export default function PlanLandingPage() {
+export default async function PlanLandingPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <section className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-forest-dark px-6 pt-28 text-center">
       <Motif motif="rock" className="absolute -bottom-10 left-1/2 h-[46vh] w-[130vw] -translate-x-1/2 text-gold/10" strokeWidth={0.6} />
