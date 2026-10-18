@@ -10,7 +10,7 @@ export default function FindUsOnline() {
           Find Us on TripAdvisor
         </h2>
         <p className="mx-auto mt-3 max-w-lg text-sm text-ink/70">
-          Read independent traveller reviews of Golden Palm Ceylon, or leave your own after your trip.
+          Read independent traveller reviews of Lume Bend Ceylon, or leave your own after your trip.
         </p>
         <a
           href="https://www.tripadvisor.com/"
