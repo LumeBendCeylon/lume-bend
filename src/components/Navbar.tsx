@@ -81,7 +81,7 @@ export default function Navbar() {
       }`}
     >
       {/* ===================== PHONE / TAB (below lg) ===================== */}
-      <div className="xl:hidden">
+      <div className="2xl:hidden">
         {/* Row 1: logo + book button */}
         <div className="flex items-center justify-between bg-forest-dark px-4 py-3">
           <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
@@ -158,7 +158,7 @@ export default function Navbar() {
       </div>
 
       {/* ===================== LAPTOP (lg and up) ===================== */}
-      <nav className="mx-auto hidden max-w-[110rem] items-center gap-3 px-6 py-4 xl:flex xl:gap-5 xl:px-6 2xl:gap-8 2xl:px-10">
+      <nav className="mx-auto hidden max-w-[110rem] items-center gap-3 px-6 py-4 2xl:flex 2xl:gap-8 2xl:px-10">
         <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
@@ -302,7 +302,7 @@ export default function Navbar() {
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.25 }}
-            className="hidden overflow-hidden border-t border-forest/10 bg-white xl:block"
+            className="hidden overflow-hidden border-t border-forest/10 bg-white 2xl:block"
           >
             <div className="mx-auto flex max-w-3xl gap-3 px-6 py-4">
               <input
@@ -333,7 +333,7 @@ export default function Navbar() {
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.35, ease: "easeInOut" }}
-            className="overflow-hidden bg-white xl:hidden"
+            className="overflow-hidden bg-white 2xl:hidden"
           >
             <ul className="flex flex-col gap-1 px-6 pb-6">
               <li>
