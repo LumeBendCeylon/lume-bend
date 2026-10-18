@@ -22,7 +22,7 @@ export async function generateMetadata({
   return {
     title: `Things to Do in ${destination.name}`,
     description: `Top things to do and experiences in ${destination.name}, Sri Lanka.`,
-    alternates: { canonical: `/destinations/${destination.slug}/things-to-do` },
+    alternates: { canonical: "./" },
   };
 }
 

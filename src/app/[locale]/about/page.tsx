@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers.",
   alternates: {
-    canonical: "/about",
+    canonical: "./",
   },
 };
 

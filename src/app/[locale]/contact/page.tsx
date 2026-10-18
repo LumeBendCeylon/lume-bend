@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Contact",
   description:
     "Send lume bend ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
-  alternates: { canonical: "/contact" },
+  alternates: { canonical: "./" },
 };
 
 const OTHER_PLATFORMS = [

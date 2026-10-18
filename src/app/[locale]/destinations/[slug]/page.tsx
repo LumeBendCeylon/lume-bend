@@ -22,7 +22,7 @@ export async function generateMetadata({
   return {
     title: destination.name,
     description: destination.description,
-    alternates: { canonical: `/destinations/${destination.slug}` },
+    alternates: { canonical: "./" },
   };
 }
 

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Sustainability",
   description:
     "Travel instructions for visiting Sri Lanka and Golden Palm Ceylon's sustainable tourism policies.",
-  alternates: { canonical: "/sustainability" },
+  alternates: { canonical: "./" },
 };
 
 export default function SustainabilityPage() {

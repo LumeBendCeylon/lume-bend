@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Terms & Conditions",
   description: "Terms and conditions for enquiries and tours booked through Golden Palm Ceylon.",
-  alternates: { canonical: "/terms-conditions" },
+  alternates: { canonical: "./" },
 };
 
 const SECTIONS = [

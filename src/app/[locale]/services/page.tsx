@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Services",
   description:
     "Airport transfers, private chauffeurs, professional guides, hotel booking assistance and fully customised tours across Sri Lanka.",
-  alternates: { canonical: "/services" },
+  alternates: { canonical: "./" },
 };
 
 export default function ServicesPage() {

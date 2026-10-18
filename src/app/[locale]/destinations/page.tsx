@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Destinations",
   description:
     "Explore Sri Lanka's most remarkable destinations, from Sigiriya and Kandy to Yala and Mirissa, with Lume Bend Ceylon.",
-  alternates: { canonical: "/destinations" },
+  alternates: { canonical: "./" },
 };
 
 export default function DestinationsPage() {

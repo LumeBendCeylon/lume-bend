@@ -87,7 +87,7 @@ export async function generateMetadata({
   return {
     title: tour.title,
     description: tour.blurb,
-    alternates: { canonical: `/tours/${tour.slug}` },
+    alternates: { canonical: "./" },
   };
 }
 

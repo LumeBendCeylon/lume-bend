@@ -4,7 +4,7 @@ import ReviewsPageContent from "@/components/ReviewsPageContent";
 export const metadata: Metadata = {
   title: "Reviews",
   description: "Read what our guests say about travelling with Golden Palm Ceylon, and share your own trip review.",
-  alternates: { canonical: "/reviews" },
+  alternates: { canonical: "./" },
 };
 
 export default function ReviewsPage() {

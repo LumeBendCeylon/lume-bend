@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Tours",
   description:
   "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
-  alternates: { canonical: "/tours" },
+  alternates: { canonical: "./" },
 };
 
 export default function ToursPage() {

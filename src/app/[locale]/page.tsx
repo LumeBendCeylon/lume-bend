@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Luxury Private Tours in Sri Lanka",
   description:
     "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you.",
-  alternates: { canonical: "/" },
+  alternates: { canonical: "./" },
 };
 
 export default function HomePage() {

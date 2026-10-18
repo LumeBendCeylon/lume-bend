@@ -5,7 +5,7 @@ import PlanWizard from "@/components/PlanWizard";
 export const metadata: Metadata = {
   title: "Start Planning",
   description: "Answer a few questions about you and your travel preferences to start planning your Sri Lanka journey.",
-  alternates: { canonical: "/plan/start" },
+  alternates: { canonical: "./" },
 };
 
 export default function PlanStartPage() {

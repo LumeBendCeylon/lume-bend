@@ -6,7 +6,7 @@ import Motif from "@/components/Motif";
 export const metadata: Metadata = {
   title: "Plan Your Journey",
   description: "Start planning your tailor-made Sri Lanka journey with Golden Palm Ceylon.",
-  alternates: { canonical: "/plan" },
+  alternates: { canonical: "./" },
 };
 
 export default function PlanLandingPage() {
