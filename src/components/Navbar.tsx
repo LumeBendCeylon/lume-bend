@@ -158,7 +158,7 @@ export default function Navbar() {
       </div>
 
       {/* ===================== LAPTOP (lg and up) ===================== */}
-      <nav className="mx-auto hidden max-w-[110rem] items-center gap-3 px-6 py-4 2xl:flex 2xl:gap-8 2xl:px-10">
+        <nav className="mx-auto hidden max-w-[120rem] items-center gap-3 px-4 py-4 2xl:flex 2xl:gap-5 2xl:px-6">
         <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
@@ -170,7 +170,7 @@ export default function Navbar() {
           <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
         </Link>
 
-        <ul className="flex items-center gap-3 xl:gap-4 2xl:gap-7">
+        <ul className="flex items-center gap-3 2xl:gap-5 min-[1700px]:gap-7">
           {/* Tours mega-menu trigger */}
           <li
             className="relative"
@@ -179,7 +179,7 @@ export default function Navbar() {
           >
             <Link
               href="/tours"
-              className={`flex items-center gap-1 whitespace-nowrap text-sm font-medium tracking-wide transition-colors hover:text-gold ${
+                              className={`whitespace-nowrap text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors hover:text-gold ${
                 solid ? "text-ink" : "text-white"
               } ${pathname.startsWith("/tours") ? "text-gold" : ""}`}
             >
@@ -240,7 +240,7 @@ export default function Navbar() {
             <li key={link.href}>
               <Link
                 href={link.href}
-                className={`whitespace-nowrap text-sm font-medium tracking-wide transition-colors hover:text-gold ${
+                              className={`flex items-center gap-1 whitespace-nowrap text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors hover:text-gold ${
                   solid ? "text-ink" : "text-white"
                 } ${pathname === link.href ? "text-gold" : ""}`}
               >
@@ -278,11 +278,11 @@ export default function Navbar() {
             {deskSearchOpen ? <X className="h-4 w-4" /> : <Search className="h-4 w-4" />}
           </button>
 
-          <LanguageSwitcher solid={solid} />
+          <LanguageSwitcher solid={solid} compact />
 
           <Link
             href="/plan"
-            className={`shrink-0 whitespace-nowrap rounded-full border px-5 py-2.5 text-sm font-medium tracking-wide transition-colors xl:px-6 ${
+            className={`shrink-0 whitespace-nowrap rounded-full border px-4 py-2.5 text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors 2xl:px-5 ${
               solid
                 ? "border-forest bg-forest text-white hover:bg-forest-light"
                 : "border-white/70 text-white hover:bg-white hover:text-forest"
