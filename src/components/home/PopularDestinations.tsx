@@ -3,11 +3,13 @@
 import { Link } from "@/i18n/navigation";
 import Image from "next/image";
 import { useRef } from "react";
+import { useTranslations } from "next-intl";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import SectionHeading from "@/components/SectionHeading";
 import { destinations } from "@/lib/data";
 
 export default function PopularDestinations() {
+  const t = useTranslations("Home.destinations");
   const scroller = useRef<HTMLDivElement>(null);
   const popular = destinations.slice(0, 10);
 
@@ -19,21 +21,21 @@ export default function PopularDestinations() {
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         <div className="flex flex-wrap items-end justify-between gap-6">
           <SectionHeading
-            eyebrow="Where to Go"
-            title="The Wonders of Sri Lanka"
-            description="From ancient rock fortresses to whale-watching coastlines, the places our travellers return home talking about."
+            eyebrow={t("eyebrow")}
+            title={t("title")}
+            description={t("description")}
           />
           <div className="flex items-center gap-3">
             <button
               onClick={() => scrollBy(-1)}
-              aria-label="Previous destinations"
+              aria-label={t("prev")}
               className="flex h-11 w-11 items-center justify-center rounded-full border border-forest/25 text-forest-dark transition-colors hover:border-gold hover:bg-gold hover:text-forest-dark"
             >
               <ArrowLeft className="h-5 w-5" />
             </button>
             <button
               onClick={() => scrollBy(1)}
-              aria-label="Next destinations"
+              aria-label={t("next")}
               className="flex h-11 w-11 items-center justify-center rounded-full bg-gold text-forest-dark transition-colors hover:bg-gold-light"
             >
               <ArrowRight className="h-5 w-5" />
@@ -75,7 +77,7 @@ export default function PopularDestinations() {
             href="/destinations"
             className="inline-flex items-center gap-1 text-sm font-medium text-gold-dark hover:text-gold"
           >
-            View all destinations <ArrowRight className="h-4 w-4" />
+            {t("viewAll")} <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </div>

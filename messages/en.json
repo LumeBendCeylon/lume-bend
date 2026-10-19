@@ -119,6 +119,46 @@
     "meta": {
       "title": "Luxury Private Tours in Sri Lanka",
       "description": "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you."
+    },
+    "hero": {
+      "imageAlt": "Sri Lanka luxury travel landscape",
+      "greeting": "ආයුබෝවන්!",
+      "title": "Sri Lanka",
+      "tagline": "Beyond Ordinary",
+      "subtitle": "Bespoke journeys through ancient cities, misty tea hills, untamed wilderness and sun-kissed shores, crafted entirely around you.",
+      "bookCta": "Book Your Journey",
+      "toursCta": "Explore Tours"
+    },
+    "destinations": {
+      "eyebrow": "Where to Go",
+      "title": "The Wonders of Sri Lanka",
+      "description": "From ancient rock fortresses to whale-watching coastlines, the places our travellers return home talking about.",
+      "prev": "Previous destinations",
+      "next": "Next destinations",
+      "viewAll": "View all destinations"
+    },
+    "why": {
+      "eyebrow": "Why Lume Bend Ceylon",
+      "title": "Reasons For Choosing Us",
+      "description": "We design a small number of journeys exceptionally well, rather than many journeys adequately.",
+      "reasons": {
+        "bespoke": {
+          "title": "Genuinely Bespoke",
+          "description": "No fixed packages. Every itinerary is built from a blank page around your interests."
+        },
+        "trusted": {
+          "title": "Trusted On the Ground",
+          "description": "A locally based team with long-standing relationships across every region we visit."
+        },
+        "contact": {
+          "title": "One Point of Contact",
+          "description": "A dedicated specialist manages your journey from first enquiry to your flight home."
+        },
+        "support": {
+          "title": "24/7 In-Country Support",
+          "description": "Real assistance during your trip, not just before it, day or night."
+        }
+      }
     }
   }
 }

@@ -119,6 +119,46 @@
     "meta": {
       "title": "Private Luxusreisen in Sri Lanka",
       "description": "Maßgeschneiderte, privat geführte Luxusreisen durch Sri Lankas Kulturdreieck, Hochland, Tierwelt und Küste – ganz auf Sie zugeschnitten."
+    },
+    "hero": {
+      "imageAlt": "Luxusreise-Landschaft in Sri Lanka",
+      "greeting": "ආයුබෝවන්!",
+      "title": "Sri Lanka",
+      "tagline": "Jenseits des Gewöhnlichen",
+      "subtitle": "Maßgeschneiderte Reisen durch uralte Städte, nebelverhangene Teeberge, unberührte Wildnis und sonnenverwöhnte Küsten – ganz auf Sie zugeschnitten.",
+      "bookCta": "Ihre Reise buchen",
+      "toursCta": "Touren entdecken"
+    },
+    "destinations": {
+      "eyebrow": "Reiseziele",
+      "title": "Die Wunder Sri Lankas",
+      "description": "Von uralten Felsenfestungen bis zu Küsten für Walbeobachtung – die Orte, von denen unsere Reisenden nach ihrer Rückkehr schwärmen.",
+      "prev": "Vorherige Reiseziele",
+      "next": "Nächste Reiseziele",
+      "viewAll": "Alle Reiseziele ansehen"
+    },
+    "why": {
+      "eyebrow": "Warum Lume Bend Ceylon",
+      "title": "Gründe, sich für uns zu entscheiden",
+      "description": "Wir gestalten wenige Reisen außergewöhnlich gut, statt viele nur ausreichend.",
+      "reasons": {
+        "bespoke": {
+          "title": "Wirklich maßgeschneidert",
+          "description": "Keine festen Pakete. Jede Reiseroute entsteht auf einem leeren Blatt, rund um Ihre Interessen."
+        },
+        "trusted": {
+          "title": "Vertrauenswürdig vor Ort",
+          "description": "Ein lokal ansässiges Team mit langjährigen Beziehungen in jeder Region, die wir bereisen."
+        },
+        "contact": {
+          "title": "Ein Ansprechpartner",
+          "description": "Ein persönlicher Spezialist betreut Ihre Reise von der ersten Anfrage bis zum Heimflug."
+        },
+        "support": {
+          "title": "Support rund um die Uhr im Land",
+          "description": "Echte Unterstützung während Ihrer Reise, nicht nur davor – Tag und Nacht."
+        }
+      }
     }
   }
 }

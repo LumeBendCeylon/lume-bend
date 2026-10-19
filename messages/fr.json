@@ -119,6 +119,46 @@
     "meta": {
       "title": "Voyages privés de luxe au Sri Lanka",
       "description": "Voyages de luxe sur mesure, guidés en privé, à travers le triangle culturel, les hautes terres, la faune et le littoral du Sri Lanka, conçus entièrement autour de vous."
+    },
+    "hero": {
+      "imageAlt": "Paysage de voyage de luxe au Sri Lanka",
+      "greeting": "ආයුබෝවන්!",
+      "title": "Sri Lanka",
+      "tagline": "Au-delà de l'ordinaire",
+      "subtitle": "Des voyages sur mesure à travers des cités antiques, des collines de thé embrumées, une nature sauvage et des rivages baignés de soleil, conçus entièrement autour de vous.",
+      "bookCta": "Réserver votre voyage",
+      "toursCta": "Découvrir les circuits"
+    },
+    "destinations": {
+      "eyebrow": "Où aller",
+      "title": "Les merveilles du Sri Lanka",
+      "description": "Des forteresses rocheuses antiques aux côtes d'observation des baleines, les lieux dont nos voyageurs reviennent en parlant.",
+      "prev": "Destinations précédentes",
+      "next": "Destinations suivantes",
+      "viewAll": "Voir toutes les destinations"
+    },
+    "why": {
+      "eyebrow": "Pourquoi Lume Bend Ceylon",
+      "title": "Les raisons de nous choisir",
+      "description": "Nous concevons un petit nombre de voyages de façon exceptionnelle, plutôt que de nombreux voyages de façon correcte.",
+      "reasons": {
+        "bespoke": {
+          "title": "Véritablement sur mesure",
+          "description": "Aucun forfait figé. Chaque itinéraire est construit à partir d'une page blanche, autour de vos centres d'intérêt."
+        },
+        "trusted": {
+          "title": "Une équipe de confiance sur place",
+          "description": "Une équipe basée localement, avec des relations de longue date dans chaque région que nous visitons."
+        },
+        "contact": {
+          "title": "Un interlocuteur unique",
+          "description": "Un spécialiste dédié gère votre voyage de la première demande jusqu'à votre vol retour."
+        },
+        "support": {
+          "title": "Assistance 24h/24 sur place",
+          "description": "Une aide réelle pendant votre voyage, pas seulement avant, de jour comme de nuit."
+        }
+      }
     }
   }
 }
