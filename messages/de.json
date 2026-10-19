@@ -1,5 +1,7 @@
 {
-  "Common": { "bookNow": "Jetzt buchen" },
+  "Common": {
+    "bookNow": "Jetzt buchen"
+  },
   "Nav": {
     "home": "Startseite",
     "about": "Über uns",
@@ -7,7 +9,7 @@
     "services": "Leistungen",
     "gallery": "Galerie",
     "reviews": "Bewertungen",
-       "sustainability": "Nachhaltig",
+    "sustainability": "Nachhaltig",
     "contact": "Kontakt",
     "tours": "Touren",
     "book": "Reise buchen",
@@ -17,7 +19,7 @@
     "myAccount": "Mein Konto",
     "signIn": "Anmelden"
   },
-    "Footer": {
+  "Footer": {
     "tagline": "Maßgeschneiderte, privat geführte Reisen durch Sri Lanka – für Reisende, die erwarten, dass jedes Detail durchdacht ist.",
     "quickLinks": "Schnellzugriff",
     "servicesTitle": "Leistungen",
@@ -36,12 +38,81 @@
     "svc5": "Unterstützung bei Hotelbuchungen",
     "svc6": "Unterstützung bei Bahntickets"
   },
-    "WhatsApp": {
+  "WhatsApp": {
     "chat": "Schreiben Sie uns auf WhatsApp"
   },
   "NotFound": {
     "title": "Dieser Pfad ist nicht auf der Karte",
     "text": "Die gesuchte Seite wurde möglicherweise verschoben, oder die Adresse ist nicht korrekt.",
     "home": "Zur Startseite"
+  },
+  "About": {
+    "meta": {
+      "title": "Über uns",
+      "description": "LUME BEND ist ein privates Luxusreiseunternehmen in Sri Lanka und gestaltet maßgeschneiderte Reisen für anspruchsvolle internationale Reisende."
+    },
+    "hero": {
+      "eyebrow": "Über LUME BEND",
+      "title": "Von Menschen gegründet, die diese Insel ihr Zuhause nennen"
+    },
+    "story": {
+      "eyebrow": "Unsere Geschichte",
+      "title": "Eine andere Art, Sri Lanka zu entdecken",
+      "paragraphs": [
+        "LUME BEND entstand aus einer einfachen Überzeugung: Sri Lanka zu entdecken sollte sich persönlich, mühelos und wirklich unvergesslich anfühlen.",
+        "Eine großartige Reise besteht für uns nicht nur aus dem Besuch berühmter Orte. Es geht darum, wie ein Reiseziel sich anfühlt – ein ruhiger Morgen in den Bergen, ein unvergessliches Essen, eine bedeutungsvolle kulturelle Begegnung oder ein wunderschöner Moment, der nie Teil des ursprünglichen Plans war.",
+        "Deshalb gestalten wir Reisen rund um jeden einzelnen Gast. Wir nehmen uns die Zeit zu verstehen, wie Sie reisen möchten, und fügen dann sorgfältig die passenden Unterkünfte, Routen, Begegnungen und Erlebnisse zusammen.",
+        "Gemeinsam mit vertrauten lokalen Partnern, privaten Chauffeuren, sachkundigen Guides und sorgfältig ausgewählten Unterkünften kümmern wir uns um die Details hinter der Reise, damit Sie das Erlebnis einfach genießen können.",
+        "Ob Sie Sri Lanka zum ersten Mal entdecken oder zurückkehren, um es mit anderen Augen zu sehen – unser Anspruch bleibt derselbe: jede Reise durchdacht, nahtlos und einzigartig Ihre eigene sein zu lassen.",
+        "Denn Sri Lanka ist nicht einfach ein Ziel, das man besucht. Es ist eine Geschichte, die darauf wartet, erlebt zu werden."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Unser Anspruch",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "text": "Außergewöhnliche private Reisen durch Sri Lanka zu kuratieren, die authentische Erlebnisse, gepflegten Komfort und mühelosen Service vereinen – alles sorgfältig auf den einzelnen Reisenden zugeschnitten."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Bekannt zu sein für meisterhaft gestaltete Reisen, die das Beste Sri Lankas offenbaren – durch authentische Erlebnisse, aufmerksamen Service und mühelosen Luxus."
+      }
+    },
+    "values": {
+      "eyebrow": "Wofür wir stehen",
+      "title": "Unsere Werte",
+      "items": {
+        "craftsmanship": {
+          "title": "Handwerkskunst",
+          "text": "Jede Reiseroute wird individuell entworfen – niemals aus einer Vorlage kopiert."
+        },
+        "hospitality": {
+          "title": "Gastfreundschaft",
+          "text": "Sri-Lankische Herzlichkeit steht im Mittelpunkt des Erlebnisses, nicht am Rande."
+        },
+        "responsibility": {
+          "title": "Verantwortung",
+          "text": "Wir arbeiten in jeder Region mit Gemeinden und Naturschutzpartnern zusammen."
+        },
+        "trust": {
+          "title": "Vertrauen",
+          "text": "Transparente Preise und ein fester Ansprechpartner von Anfang bis Ende."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Warum wir",
+      "title": "Ein kleines Team – mit Absicht",
+      "description": "Wir übernehmen nur eine begrenzte Zahl von Reisen gleichzeitig, damit jede einzelne unsere volle Aufmerksamkeit erhält."
+    },
+    "team": {
+      "eyebrow": "Die Menschen",
+      "title": "Unser Team",
+      "roles": {
+        "tharusha": "Gründer & Reisedirektor",
+        "nadeesha": "Mitgründerin & Kreativdirektorin"
+      }
+    }
   }
 }

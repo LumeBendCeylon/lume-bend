@@ -1,0 +1,347 @@
+{
+  "en": {
+    "meta": {
+      "title": "About Us",
+      "description": "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers."
+    },
+    "hero": {
+      "eyebrow": "About LUME BEND",
+      "title": "Built By People Who Call This Island Home"
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "A Different Way to Discover Sri Lanka",
+      "paragraphs": [
+        "LUME BEND was created with a simple belief — that discovering Sri Lanka should feel personal, effortless and genuinely memorable.",
+        "We believe a great journey is about more than visiting famous places. It is about the way a destination makes you feel — a quiet morning in the hills, an unforgettable meal, a meaningful cultural encounter, or a beautiful moment that was never part of the original plan.",
+        "That is why we create journeys around each traveller. We take the time to understand how you want to travel, then carefully bring together the right places to stay, routes to take, people to meet and experiences to enjoy.",
+        "Working with trusted local partners, private chauffeurs, knowledgeable guides and carefully selected properties, we take care of the details behind the journey so you can simply enjoy the experience.",
+        "Whether you are discovering Sri Lanka for the first time or returning to see it differently, our purpose remains the same — to make every journey feel considered, seamless and uniquely yours.",
+        "Because Sri Lanka is not simply a destination to visit. It is a story waiting to be experienced."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Our Purpose",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "text": "To curate exceptional private journeys through Sri Lanka, bringing together authentic experiences, refined comfort and effortless service — all thoughtfully tailored to each traveller."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "To be recognised for creating beautifully crafted journeys that reveal the finest of Sri Lanka through authentic experiences, thoughtful service and effortless luxury."
+      }
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "Our Values",
+      "items": {
+        "craftsmanship": {
+          "title": "Craftsmanship",
+          "text": "Every itinerary is drawn up individually — never copied from a template."
+        },
+        "hospitality": {
+          "title": "Hospitality",
+          "text": "Sri Lankan warmth is central to the experience, not an afterthought."
+        },
+        "responsibility": {
+          "title": "Responsibility",
+          "text": "We work with communities and conservation partners across every region."
+        },
+        "trust": {
+          "title": "Trust",
+          "text": "Transparent pricing and a single dedicated contact from start to finish."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why Choose Us",
+      "title": "A Small Team, Deliberately",
+      "description": "We take on a limited number of journeys at a time so that every one of them receives full attention."
+    },
+    "team": {
+      "eyebrow": "The People",
+      "title": "Meet Our Team",
+      "roles": {
+        "tharusha": "Founder & Travel Director",
+        "nadeesha": "Co-Founder & Creative Director"
+      }
+    }
+  },
+  "de": {
+    "meta": {
+      "title": "Über uns",
+      "description": "LUME BEND ist ein privates Luxusreiseunternehmen in Sri Lanka und gestaltet maßgeschneiderte Reisen für anspruchsvolle internationale Reisende."
+    },
+    "hero": {
+      "eyebrow": "Über LUME BEND",
+      "title": "Von Menschen gegründet, die diese Insel ihr Zuhause nennen"
+    },
+    "story": {
+      "eyebrow": "Unsere Geschichte",
+      "title": "Eine andere Art, Sri Lanka zu entdecken",
+      "paragraphs": [
+        "LUME BEND entstand aus einer einfachen Überzeugung: Sri Lanka zu entdecken sollte sich persönlich, mühelos und wirklich unvergesslich anfühlen.",
+        "Eine großartige Reise besteht für uns nicht nur aus dem Besuch berühmter Orte. Es geht darum, wie ein Reiseziel sich anfühlt – ein ruhiger Morgen in den Bergen, ein unvergessliches Essen, eine bedeutungsvolle kulturelle Begegnung oder ein wunderschöner Moment, der nie Teil des ursprünglichen Plans war.",
+        "Deshalb gestalten wir Reisen rund um jeden einzelnen Gast. Wir nehmen uns die Zeit zu verstehen, wie Sie reisen möchten, und fügen dann sorgfältig die passenden Unterkünfte, Routen, Begegnungen und Erlebnisse zusammen.",
+        "Gemeinsam mit vertrauten lokalen Partnern, privaten Chauffeuren, sachkundigen Guides und sorgfältig ausgewählten Unterkünften kümmern wir uns um die Details hinter der Reise, damit Sie das Erlebnis einfach genießen können.",
+        "Ob Sie Sri Lanka zum ersten Mal entdecken oder zurückkehren, um es mit anderen Augen zu sehen – unser Anspruch bleibt derselbe: jede Reise durchdacht, nahtlos und einzigartig Ihre eigene sein zu lassen.",
+        "Denn Sri Lanka ist nicht einfach ein Ziel, das man besucht. Es ist eine Geschichte, die darauf wartet, erlebt zu werden."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Unser Anspruch",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "text": "Außergewöhnliche private Reisen durch Sri Lanka zu kuratieren, die authentische Erlebnisse, gepflegten Komfort und mühelosen Service vereinen – alles sorgfältig auf den einzelnen Reisenden zugeschnitten."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Bekannt zu sein für meisterhaft gestaltete Reisen, die das Beste Sri Lankas offenbaren – durch authentische Erlebnisse, aufmerksamen Service und mühelosen Luxus."
+      }
+    },
+    "values": {
+      "eyebrow": "Wofür wir stehen",
+      "title": "Unsere Werte",
+      "items": {
+        "craftsmanship": {
+          "title": "Handwerkskunst",
+          "text": "Jede Reiseroute wird individuell entworfen – niemals aus einer Vorlage kopiert."
+        },
+        "hospitality": {
+          "title": "Gastfreundschaft",
+          "text": "Sri-Lankische Herzlichkeit steht im Mittelpunkt des Erlebnisses, nicht am Rande."
+        },
+        "responsibility": {
+          "title": "Verantwortung",
+          "text": "Wir arbeiten in jeder Region mit Gemeinden und Naturschutzpartnern zusammen."
+        },
+        "trust": {
+          "title": "Vertrauen",
+          "text": "Transparente Preise und ein fester Ansprechpartner von Anfang bis Ende."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Warum wir",
+      "title": "Ein kleines Team – mit Absicht",
+      "description": "Wir übernehmen nur eine begrenzte Zahl von Reisen gleichzeitig, damit jede einzelne unsere volle Aufmerksamkeit erhält."
+    },
+    "team": {
+      "eyebrow": "Die Menschen",
+      "title": "Unser Team",
+      "roles": {
+        "tharusha": "Gründer & Reisedirektor",
+        "nadeesha": "Mitgründerin & Kreativdirektorin"
+      }
+    }
+  },
+  "fr": {
+    "meta": {
+      "title": "À propos",
+      "description": "LUME BEND est une compagnie de voyages de luxe privés au Sri Lanka, qui crée des voyages sur mesure pour des voyageurs internationaux exigeants."
+    },
+    "hero": {
+      "eyebrow": "À propos de LUME BEND",
+      "title": "Créé par des gens pour qui cette île est un foyer"
+    },
+    "story": {
+      "eyebrow": "Notre histoire",
+      "title": "Une autre façon de découvrir le Sri Lanka",
+      "paragraphs": [
+        "LUME BEND est né d'une conviction simple : découvrir le Sri Lanka doit être personnel, fluide et véritablement mémorable.",
+        "Pour nous, un beau voyage ne se résume pas à visiter des lieux célèbres. Il tient à ce qu'une destination vous fait ressentir : un matin paisible dans les collines, un repas inoubliable, une rencontre culturelle marquante, ou un moment magnifique qui n'était pas prévu.",
+        "C'est pourquoi nous concevons chaque voyage autour du voyageur. Nous prenons le temps de comprendre votre façon de voyager, puis nous réunissons avec soin les bons hébergements, les bons itinéraires, les rencontres et les expériences qui vous correspondent.",
+        "Avec des partenaires locaux de confiance, des chauffeurs privés, des guides érudits et des établissements soigneusement sélectionnés, nous nous occupons de tous les détails afin que vous n'ayez plus qu'à profiter.",
+        "Que vous découvriez le Sri Lanka pour la première fois ou que vous reveniez pour le voir autrement, notre vocation reste la même : faire de chaque voyage une expérience réfléchie, fluide et unique.",
+        "Car le Sri Lanka n'est pas simplement une destination à visiter. C'est une histoire qui n'attend qu'à être vécue."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Notre raison d'être",
+      "title": "Mission et vision",
+      "mission": {
+        "title": "Mission",
+        "text": "Concevoir des voyages privés d'exception à travers le Sri Lanka, alliant expériences authentiques, confort raffiné et service sans effort, le tout soigneusement adapté à chaque voyageur."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Être reconnus pour des voyages magnifiquement conçus, qui révèlent le meilleur du Sri Lanka grâce à des expériences authentiques, un service attentionné et un luxe sans effort."
+      }
+    },
+    "values": {
+      "eyebrow": "Nos engagements",
+      "title": "Nos valeurs",
+      "items": {
+        "craftsmanship": {
+          "title": "Savoir-faire",
+          "text": "Chaque itinéraire est dessiné sur mesure, jamais copié d'un modèle."
+        },
+        "hospitality": {
+          "title": "Hospitalité",
+          "text": "La chaleur sri-lankaise est au cœur de l'expérience, et non un détail accessoire."
+        },
+        "responsibility": {
+          "title": "Responsabilité",
+          "text": "Nous collaborons avec les communautés locales et des partenaires de conservation dans chaque région."
+        },
+        "trust": {
+          "title": "Confiance",
+          "text": "Des tarifs transparents et un interlocuteur unique du début à la fin."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Une petite équipe, par choix",
+      "description": "Nous n'acceptons qu'un nombre limité de voyages à la fois afin que chacun reçoive toute notre attention."
+    },
+    "team": {
+      "eyebrow": "Les personnes",
+      "title": "Notre équipe",
+      "roles": {
+        "tharusha": "Fondateur et directeur des voyages",
+        "nadeesha": "Cofondatrice et directrice de la création"
+      }
+    }
+  },
+  "ru": {
+    "meta": {
+      "title": "О нас",
+      "description": "LUME BEND — частная компания по организации роскошных путешествий по Шри-Ланке, создающая индивидуальные маршруты для взыскательных путешественников со всего мира."
+    },
+    "hero": {
+      "eyebrow": "О LUME BEND",
+      "title": "Создано людьми, для которых этот остров — дом"
+    },
+    "story": {
+      "eyebrow": "Наша история",
+      "title": "Другой способ открыть Шри-Ланку",
+      "paragraphs": [
+        "LUME BEND родился из простой веры: открытие Шри-Ланки должно быть личным, лёгким и по-настоящему запоминающимся.",
+        "Для нас хорошее путешествие — это не просто посещение известных мест. Это то, какие чувства рождает направление: тихое утро в горах, незабываемый ужин, значимая встреча с культурой или прекрасный момент, которого не было в первоначальном плане.",
+        "Поэтому мы создаём путешествия вокруг каждого гостя. Мы находим время понять, как вы хотите путешествовать, а затем бережно подбираем подходящие места проживания, маршруты, встречи и впечатления.",
+        "Работая с надёжными местными партнёрами, личными водителями, знающими гидами и тщательно отобранными отелями, мы берём на себя все детали, чтобы вы могли просто наслаждаться путешествием.",
+        "Приезжаете ли вы на Шри-Ланку впервые или возвращаетесь, чтобы увидеть её иначе, наша цель неизменна: сделать каждое путешествие продуманным, безупречным и неповторимо вашим.",
+        "Ведь Шри-Ланка — это не просто место для посещения. Это история, которая ждёт, чтобы её пережили."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Наше предназначение",
+      "title": "Миссия и видение",
+      "mission": {
+        "title": "Миссия",
+        "text": "Создавать исключительные частные путешествия по Шри-Ланке, объединяя подлинные впечатления, изысканный комфорт и безупречный сервис — всё это с заботой подобрано под каждого путешественника."
+      },
+      "vision": {
+        "title": "Видение",
+        "text": "Быть признанными за мастерски созданные путешествия, раскрывающие лучшее на Шри-Ланке через подлинные впечатления, внимательный сервис и непринуждённую роскошь."
+      }
+    },
+    "values": {
+      "eyebrow": "Наши принципы",
+      "title": "Наши ценности",
+      "items": {
+        "craftsmanship": {
+          "title": "Мастерство",
+          "text": "Каждый маршрут составляется индивидуально — никогда не копируется с шаблона."
+        },
+        "hospitality": {
+          "title": "Гостеприимство",
+          "text": "Шри-ланкийская теплота — суть путешествия, а не дополнение к нему."
+        },
+        "responsibility": {
+          "title": "Ответственность",
+          "text": "Мы сотрудничаем с местными сообществами и партнёрами по охране природы во всех регионах."
+        },
+        "trust": {
+          "title": "Доверие",
+          "text": "Прозрачные цены и один персональный менеджер от начала до конца."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Почему мы",
+      "title": "Небольшая команда — сознательно",
+      "description": "Мы берём ограниченное число поездок одновременно, чтобы каждая получала наше полное внимание."
+    },
+    "team": {
+      "eyebrow": "Наши люди",
+      "title": "Наша команда",
+      "roles": {
+        "tharusha": "Основатель и директор по путешествиям",
+        "nadeesha": "Соосновательница и креативный директор"
+      }
+    }
+  },
+  "zh": {
+    "meta": {
+      "title": "关于我们",
+      "description": "LUME BEND 是一家斯里兰卡高端私人定制旅行公司，为追求品质的国际旅客量身打造专属旅程。"
+    },
+    "hero": {
+      "eyebrow": "关于 LUME BEND",
+      "title": "由视这座岛屿为家的人们创立"
+    },
+    "story": {
+      "eyebrow": "我们的故事",
+      "title": "探索斯里兰卡的另一种方式",
+      "paragraphs": [
+        "LUME BEND 源于一个简单的信念：探索斯里兰卡应当是私人的、轻松的、真正令人难忘的。",
+        "我们相信，一次出色的旅程不只是造访著名景点，更在于目的地带给你的感受——山间宁静的清晨、一顿难忘的美食、一次有意义的文化邂逅，或是一个原本不在计划之中的美好瞬间。",
+        "因此，我们围绕每一位旅客来设计旅程。我们会花时间了解您想要的旅行方式，再精心为您安排合适的住宿、路线、相遇与体验。",
+        "我们与值得信赖的当地合作伙伴、专属司机、博学的向导以及精心挑选的住宿合作，打理旅程背后的每一个细节，让您只需尽情享受。",
+        "无论您是第一次来到斯里兰卡，还是再次归来、以不同的视角重新发现它，我们的初心始终不变：让每一段旅程都周到、顺畅，并且独一无二。",
+        "因为斯里兰卡不仅仅是一个可以到访的目的地，它是一个等待被亲身体验的故事。"
+      ]
+    },
+    "purpose": {
+      "eyebrow": "我们的宗旨",
+      "title": "使命与愿景",
+      "mission": {
+        "title": "使命",
+        "text": "精心策划斯里兰卡的非凡私人旅程，将地道体验、精致舒适与从容周到的服务融为一体，并为每位旅客量身定制。"
+      },
+      "vision": {
+        "title": "愿景",
+        "text": "以精心雕琢的旅程闻名，通过地道的体验、体贴的服务与从容的奢华，展现斯里兰卡的精华。"
+      }
+    },
+    "values": {
+      "eyebrow": "我们的信念",
+      "title": "我们的价值观",
+      "items": {
+        "craftsmanship": {
+          "title": "匠心",
+          "text": "每条行程都为您单独设计，绝不照搬模板。"
+        },
+        "hospitality": {
+          "title": "好客",
+          "text": "斯里兰卡的热情是体验的核心，而非点缀。"
+        },
+        "responsibility": {
+          "title": "责任",
+          "text": "我们在各个地区与当地社区和保护伙伴携手合作。"
+        },
+        "trust": {
+          "title": "信任",
+          "text": "价格透明，从始至终由一位专属顾问对接。"
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "为何选择我们",
+      "title": "刻意保持小团队",
+      "description": "我们同一时间只承接有限数量的旅程，确保每一次都得到全心投入。"
+    },
+    "team": {
+      "eyebrow": "团队成员",
+      "title": "认识我们的团队",
+      "roles": {
+        "tharusha": "创始人兼旅行总监",
+        "nadeesha": "联合创始人兼创意总监"
+      }
+    }
+  }
+}

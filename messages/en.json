@@ -1,5 +1,7 @@
 {
-  "Common": { "bookNow": "Book Now" },
+  "Common": {
+    "bookNow": "Book Now"
+  },
   "Nav": {
     "home": "Home",
     "about": "About",
@@ -17,7 +19,7 @@
     "myAccount": "My Account",
     "signIn": "Sign In"
   },
-    "Footer": {
+  "Footer": {
     "tagline": "Bespoke, private-guided journeys across Sri Lanka — crafted for travellers who expect every detail to be considered.",
     "quickLinks": "Quick Links",
     "servicesTitle": "Services",
@@ -36,12 +38,81 @@
     "svc5": "Hotel Booking Assistance",
     "svc6": "Train Ticket Assistance"
   },
-    "WhatsApp": {
+  "WhatsApp": {
     "chat": "Chat with us on WhatsApp"
   },
   "NotFound": {
     "title": "This Path Isn't on the Map",
     "text": "The page you're looking for may have moved, or the address may be incorrect.",
     "home": "Return Home"
+  },
+  "About": {
+    "meta": {
+      "title": "About Us",
+      "description": "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers."
+    },
+    "hero": {
+      "eyebrow": "About LUME BEND",
+      "title": "Built By People Who Call This Island Home"
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "A Different Way to Discover Sri Lanka",
+      "paragraphs": [
+        "LUME BEND was created with a simple belief — that discovering Sri Lanka should feel personal, effortless and genuinely memorable.",
+        "We believe a great journey is about more than visiting famous places. It is about the way a destination makes you feel — a quiet morning in the hills, an unforgettable meal, a meaningful cultural encounter, or a beautiful moment that was never part of the original plan.",
+        "That is why we create journeys around each traveller. We take the time to understand how you want to travel, then carefully bring together the right places to stay, routes to take, people to meet and experiences to enjoy.",
+        "Working with trusted local partners, private chauffeurs, knowledgeable guides and carefully selected properties, we take care of the details behind the journey so you can simply enjoy the experience.",
+        "Whether you are discovering Sri Lanka for the first time or returning to see it differently, our purpose remains the same — to make every journey feel considered, seamless and uniquely yours.",
+        "Because Sri Lanka is not simply a destination to visit. It is a story waiting to be experienced."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Our Purpose",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "text": "To curate exceptional private journeys through Sri Lanka, bringing together authentic experiences, refined comfort and effortless service — all thoughtfully tailored to each traveller."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "To be recognised for creating beautifully crafted journeys that reveal the finest of Sri Lanka through authentic experiences, thoughtful service and effortless luxury."
+      }
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "Our Values",
+      "items": {
+        "craftsmanship": {
+          "title": "Craftsmanship",
+          "text": "Every itinerary is drawn up individually — never copied from a template."
+        },
+        "hospitality": {
+          "title": "Hospitality",
+          "text": "Sri Lankan warmth is central to the experience, not an afterthought."
+        },
+        "responsibility": {
+          "title": "Responsibility",
+          "text": "We work with communities and conservation partners across every region."
+        },
+        "trust": {
+          "title": "Trust",
+          "text": "Transparent pricing and a single dedicated contact from start to finish."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why Choose Us",
+      "title": "A Small Team, Deliberately",
+      "description": "We take on a limited number of journeys at a time so that every one of them receives full attention."
+    },
+    "team": {
+      "eyebrow": "The People",
+      "title": "Meet Our Team",
+      "roles": {
+        "tharusha": "Founder & Travel Director",
+        "nadeesha": "Co-Founder & Creative Director"
+      }
+    }
   }
 }

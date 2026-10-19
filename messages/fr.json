@@ -1,5 +1,7 @@
 {
-  "Common": { "bookNow": "Réserver" },
+  "Common": {
+    "bookNow": "Réserver"
+  },
   "Nav": {
     "home": "Accueil",
     "about": "À propos",
@@ -17,7 +19,7 @@
     "myAccount": "Mon compte",
     "signIn": "Se connecter"
   },
-    "Footer": {
+  "Footer": {
     "tagline": "Des voyages sur mesure, guidés en privé à travers le Sri Lanka, pour les voyageurs qui exigent que chaque détail soit soigné.",
     "quickLinks": "Liens rapides",
     "servicesTitle": "Services",
@@ -36,12 +38,81 @@
     "svc5": "Aide à la réservation d'hôtels",
     "svc6": "Aide pour les billets de train"
   },
-    "WhatsApp": {
+  "WhatsApp": {
     "chat": "Discutez avec nous sur WhatsApp"
   },
   "NotFound": {
     "title": "Ce chemin n'est pas sur la carte",
     "text": "La page que vous recherchez a peut-être été déplacée, ou l'adresse est incorrecte.",
     "home": "Retour à l'accueil"
+  },
+  "About": {
+    "meta": {
+      "title": "À propos",
+      "description": "LUME BEND est une compagnie de voyages de luxe privés au Sri Lanka, qui crée des voyages sur mesure pour des voyageurs internationaux exigeants."
+    },
+    "hero": {
+      "eyebrow": "À propos de LUME BEND",
+      "title": "Créé par des gens pour qui cette île est un foyer"
+    },
+    "story": {
+      "eyebrow": "Notre histoire",
+      "title": "Une autre façon de découvrir le Sri Lanka",
+      "paragraphs": [
+        "LUME BEND est né d'une conviction simple : découvrir le Sri Lanka doit être personnel, fluide et véritablement mémorable.",
+        "Pour nous, un beau voyage ne se résume pas à visiter des lieux célèbres. Il tient à ce qu'une destination vous fait ressentir : un matin paisible dans les collines, un repas inoubliable, une rencontre culturelle marquante, ou un moment magnifique qui n'était pas prévu.",
+        "C'est pourquoi nous concevons chaque voyage autour du voyageur. Nous prenons le temps de comprendre votre façon de voyager, puis nous réunissons avec soin les bons hébergements, les bons itinéraires, les rencontres et les expériences qui vous correspondent.",
+        "Avec des partenaires locaux de confiance, des chauffeurs privés, des guides érudits et des établissements soigneusement sélectionnés, nous nous occupons de tous les détails afin que vous n'ayez plus qu'à profiter.",
+        "Que vous découvriez le Sri Lanka pour la première fois ou que vous reveniez pour le voir autrement, notre vocation reste la même : faire de chaque voyage une expérience réfléchie, fluide et unique.",
+        "Car le Sri Lanka n'est pas simplement une destination à visiter. C'est une histoire qui n'attend qu'à être vécue."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Notre raison d'être",
+      "title": "Mission et vision",
+      "mission": {
+        "title": "Mission",
+        "text": "Concevoir des voyages privés d'exception à travers le Sri Lanka, alliant expériences authentiques, confort raffiné et service sans effort, le tout soigneusement adapté à chaque voyageur."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Être reconnus pour des voyages magnifiquement conçus, qui révèlent le meilleur du Sri Lanka grâce à des expériences authentiques, un service attentionné et un luxe sans effort."
+      }
+    },
+    "values": {
+      "eyebrow": "Nos engagements",
+      "title": "Nos valeurs",
+      "items": {
+        "craftsmanship": {
+          "title": "Savoir-faire",
+          "text": "Chaque itinéraire est dessiné sur mesure, jamais copié d'un modèle."
+        },
+        "hospitality": {
+          "title": "Hospitalité",
+          "text": "La chaleur sri-lankaise est au cœur de l'expérience, et non un détail accessoire."
+        },
+        "responsibility": {
+          "title": "Responsabilité",
+          "text": "Nous collaborons avec les communautés locales et des partenaires de conservation dans chaque région."
+        },
+        "trust": {
+          "title": "Confiance",
+          "text": "Des tarifs transparents et un interlocuteur unique du début à la fin."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Une petite équipe, par choix",
+      "description": "Nous n'acceptons qu'un nombre limité de voyages à la fois afin que chacun reçoive toute notre attention."
+    },
+    "team": {
+      "eyebrow": "Les personnes",
+      "title": "Notre équipe",
+      "roles": {
+        "tharusha": "Fondateur et directeur des voyages",
+        "nadeesha": "Cofondatrice et directrice de la création"
+      }
+    }
   }
 }
