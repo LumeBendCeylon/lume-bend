@@ -1,0 +1,42 @@
+{
+  "en": {
+    "Home": {
+      "meta": {
+        "title": "Luxury Private Tours in Sri Lanka",
+        "description": "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you."
+      }
+    }
+  },
+  "de": {
+    "Home": {
+      "meta": {
+        "title": "Private Luxusreisen in Sri Lanka",
+        "description": "Maßgeschneiderte, privat geführte Luxusreisen durch Sri Lankas Kulturdreieck, Hochland, Tierwelt und Küste – ganz auf Sie zugeschnitten."
+      }
+    }
+  },
+  "fr": {
+    "Home": {
+      "meta": {
+        "title": "Voyages privés de luxe au Sri Lanka",
+        "description": "Voyages de luxe sur mesure, guidés en privé, à travers le triangle culturel, les hautes terres, la faune et le littoral du Sri Lanka, conçus entièrement autour de vous."
+      }
+    }
+  },
+  "ru": {
+    "Home": {
+      "meta": {
+        "title": "Роскошные частные туры по Шри-Ланке",
+        "description": "Индивидуальные роскошные путешествия с личным гидом по культурному треугольнику, горной местности, дикой природе и побережью Шри-Ланки — полностью созданные под вас."
+      }
+    }
+  },
+  "zh": {
+    "Home": {
+      "meta": {
+        "title": "斯里兰卡奢华私人定制之旅",
+        "description": "专属导游陪同的私人定制奢华旅程，遍览斯里兰卡文化三角、高地茶乡、野生动物与海岸风光，一切皆围绕您而设计。"
+      }
+    }
+  }
+}

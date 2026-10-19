@@ -1,6 +1,6 @@
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
-import { setRequestLocale } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import Hero from "@/components/home/Hero";
 import FeaturedTours from "@/components/home/FeaturedTours";
 import PopularDestinations from "@/components/home/PopularDestinations";
@@ -13,18 +13,20 @@ import FAQSection from "@/components/home/FAQSection";
 import CTASection from "@/components/CTASection";
 import VacationCollage from "@/components/home/VacationCollage";
 
-export const metadata: Metadata = {
-  title: "Luxury Private Tours in Sri Lanka",
-  description:
-    "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you.",
-  alternates: { canonical: "./", languages: languageAlternates("") },
-};
+type Props = { params: Promise<{ locale: string }> };
 
-export default async function HomePage({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Home" });
+
+  return {
+    title: t("meta.title"),
+    description: t("meta.description"),
+    alternates: { canonical: "./", languages: languageAlternates("") },
+  };
+}
+
+export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
 
