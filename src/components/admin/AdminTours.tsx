@@ -101,14 +101,17 @@ export default function AdminTours() {
     }
   }
 
+  // FIX 2: reads the latest data from Firestore (not React state) and blocks double-clicks
   async function handleImportBuiltIn() {
+    if (seeding) return;
     if (!confirm(`Import all ${builtInTours.length} built-in tours into Firestore so you can edit them here? Tours already imported (matching slug) will be skipped.`)) return;
     setSeeding(true);
     setSeedMessage("");
-    const existingSlugs = new Set(tours.map((t) => t.slug));
-    const toImport = builtInTours.filter((t) => !existingSlugs.has(t.slug));
-    let count = 0;
     try {
+      const existing = await getCustomToursAdmin();
+      const existingSlugs = new Set(existing.map((t) => t.slug));
+      const toImport = builtInTours.filter((t) => !existingSlugs.has(t.slug));
+      let count = 0;
       for (const t of toImport) {
         await addCustomTour({
           slug: t.slug,
@@ -165,11 +168,27 @@ export default function AdminTours() {
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
+    if (saving) return;
     setSaving(true);
     setSaveError("");
-    const form = new FormData(e.currentTarget);
+    const formEl = e.currentTarget;
+    const form = new FormData(formEl);
     const title = String(form.get("title") || "");
     const slug = editing?.slug || slugify(title);
+
+    // FIX 3: block adding a new tour whose slug already exists
+    if (!editing) {
+      const taken =
+        tours.some((t) => t.slug === slug) ||
+        builtInTours.some((t) => t.slug === slug);
+      if (taken) {
+        setSaveError(
+          `A tour with the slug "${slug}" already exists. Edit that one instead (use "Import Built-in Tours" first if it's a built-in tour), or change the title.`
+        );
+        setSaving(false);
+        return;
+      }
+    }
 
     const payload = {
       slug,
@@ -208,7 +227,7 @@ export default function AdminTours() {
       } else {
         await addCustomTour(payload);
       }
-      resetForm(e.target as HTMLFormElement);
+      resetForm(formEl);
       load();
     } catch (err) {
       setSaveError(err instanceof Error ? err.message : "Could not save tour.");
@@ -326,7 +345,12 @@ export default function AdminTours() {
         {seedMessage && <p className="mt-3 text-xs text-forest">{seedMessage}</p>}
       </div>
 
-      <form onSubmit={handleSubmit} className="mt-4 rounded-2xl border border-forest/10 bg-white p-6">
+      {/* FIX 1: key resets the form whenever a different tour is selected */}
+      <form
+        key={editing?.id ?? "new"}
+        onSubmit={handleSubmit}
+        className="mt-4 rounded-2xl border border-forest/10 bg-white p-6"
+      >
         <div className="flex items-center justify-between">
           <h3 className="font-display text-lg text-forest-dark">
             {editing ? `Edit Tour — ${editing.title}` : "Add a Tour"}
@@ -391,7 +415,7 @@ export default function AdminTours() {
             placeholder="Highlights, comma-separated"
             className="rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
           />
-                  <input
+          <input
             name="imageUrl"
             type="text"
             defaultValue={editing?.imageUrl}
