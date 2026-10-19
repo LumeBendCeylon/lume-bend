@@ -181,6 +181,22 @@
       "title": "Featured Tours",
       "description": "A selection of our most requested itineraries — each one fully customisable to your dates and pace.",
       "viewAll": "View all tours"
+    },
+    "timeline": {
+      "eyebrow": "How It Works",
+      "title": "Your Travel Experience, Step by Step",
+      "description": "A straightforward path from first message to the moment you land back home.",
+      "items": {}
+    },
+    "findUs": {
+      "eyebrow": "Trusted By Travellers",
+      "title": "Find Us on TripAdvisor",
+      "text": "Read independent traveller reviews of Lume Bend Ceylon, or leave your own after your trip.",
+      "cta": "View Our TripAdvisor Profile"
+    },
+    "faq": {
+      "eyebrow": "Good to Know",
+      "title": "Frequently Asked Questions"
     }
   },
   "TourCard": {
@@ -193,5 +209,15 @@
   },
   "ServicesGrid": {
     "items": {}
+  },
+  "Testimonials": {
+    "eyebrow": "Traveller Stories",
+    "title": "What Our Guests Say",
+    "readAll": "Read all reviews"
+  },
+  "CTA": {
+    "title": "Ready to Design Your Sri Lanka?",
+    "text": "Tell us your dates and interests — a specialist will reply with a tailored itinerary, usually within one business day.",
+    "button": "Start Your Enquiry"
   }
 }

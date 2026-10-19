@@ -181,6 +181,22 @@
       "title": "Circuits à la une",
       "description": "Une sélection de nos itinéraires les plus demandés, chacun entièrement personnalisable selon vos dates et votre rythme.",
       "viewAll": "Voir tous les circuits"
+    },
+    "timeline": {
+      "eyebrow": "Comment ça marche",
+      "title": "Votre expérience de voyage, étape par étape",
+      "description": "Un parcours simple, du premier message jusqu'au moment où vous atterrissez de retour chez vous.",
+      "items": {}
+    },
+    "findUs": {
+      "eyebrow": "Approuvé par les voyageurs",
+      "title": "Retrouvez-nous sur TripAdvisor",
+      "text": "Lisez les avis indépendants de voyageurs sur Lume Bend Ceylon, ou laissez le vôtre après votre voyage.",
+      "cta": "Voir notre profil TripAdvisor"
+    },
+    "faq": {
+      "eyebrow": "Bon à savoir",
+      "title": "Questions fréquentes"
     }
   },
   "TourCard": {
@@ -193,5 +209,15 @@
   },
   "ServicesGrid": {
     "items": {}
+  },
+  "Testimonials": {
+    "eyebrow": "Histoires de voyageurs",
+    "title": "Ce que disent nos clients",
+    "readAll": "Lire tous les avis"
+  },
+  "CTA": {
+    "title": "Prêt à imaginer votre Sri Lanka ?",
+    "text": "Indiquez-nous vos dates et vos centres d'intérêt : un spécialiste vous répondra avec un itinéraire sur mesure, généralement sous un jour ouvré.",
+    "button": "Démarrer votre demande"
   }
 }

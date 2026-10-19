@@ -181,6 +181,22 @@
       "title": "Empfohlene Touren",
       "description": "Eine Auswahl unserer gefragtesten Reiserouten – jede lässt sich vollständig auf Ihre Termine und Ihr Tempo anpassen.",
       "viewAll": "Alle Touren ansehen"
+    },
+    "timeline": {
+      "eyebrow": "So funktioniert es",
+      "title": "Ihr Reiseerlebnis, Schritt für Schritt",
+      "description": "Ein klarer Weg von der ersten Nachricht bis zu dem Moment, in dem Sie wieder zu Hause landen.",
+      "items": {}
+    },
+    "findUs": {
+      "eyebrow": "Von Reisenden empfohlen",
+      "title": "Finden Sie uns auf TripAdvisor",
+      "text": "Lesen Sie unabhängige Bewertungen von Reisenden über Lume Bend Ceylon oder hinterlassen Sie nach Ihrer Reise Ihre eigene.",
+      "cta": "Unser TripAdvisor-Profil ansehen"
+    },
+    "faq": {
+      "eyebrow": "Gut zu wissen",
+      "title": "Häufig gestellte Fragen"
     }
   },
   "TourCard": {
@@ -193,5 +209,15 @@
   },
   "ServicesGrid": {
     "items": {}
+  },
+  "Testimonials": {
+    "eyebrow": "Reisegeschichten",
+    "title": "Was unsere Gäste sagen",
+    "readAll": "Alle Bewertungen lesen"
+  },
+  "CTA": {
+    "title": "Bereit, Ihr Sri Lanka zu gestalten?",
+    "text": "Teilen Sie uns Ihre Reisedaten und Interessen mit – ein Spezialist antwortet mit einer maßgeschneiderten Reiseroute, in der Regel innerhalb eines Werktags.",
+    "button": "Anfrage starten"
   }
 }

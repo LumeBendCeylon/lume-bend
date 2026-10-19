@@ -181,6 +181,22 @@
       "title": "精选行程",
       "description": "我们最受欢迎的行程精选——每一条都可根据您的日期和节奏完全定制。",
       "viewAll": "查看全部行程"
+    },
+    "timeline": {
+      "eyebrow": "服务流程",
+      "title": "您的旅行体验，一步一步",
+      "description": "从第一条消息到您返回家中的那一刻，一条清晰直接的路径。",
+      "items": {}
+    },
+    "findUs": {
+      "eyebrow": "深受旅客信赖",
+      "title": "在 TripAdvisor 上找到我们",
+      "text": "阅读旅客对 Lume Bend Ceylon 的独立评价，或在旅行结束后留下您的评价。",
+      "cta": "查看我们的 TripAdvisor 主页"
+    },
+    "faq": {
+      "eyebrow": "须知",
+      "title": "常见问题"
     }
   },
   "TourCard": {
@@ -193,5 +209,15 @@
   },
   "ServicesGrid": {
     "items": {}
+  },
+  "Testimonials": {
+    "eyebrow": "旅客故事",
+    "title": "宾客评价",
+    "readAll": "阅读全部评价"
+  },
+  "CTA": {
+    "title": "准备好设计属于您的斯里兰卡之旅了吗？",
+    "text": "告诉我们您的出行日期和兴趣，专属顾问将为您提供量身定制的行程，通常在一个工作日内回复。",
+    "button": "开始咨询"
   }
 }
