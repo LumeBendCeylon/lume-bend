@@ -2,15 +2,21 @@
 
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 import { Plus } from "lucide-react";
 import { faqs as defaultFaqs } from "@/lib/data";
+
+type FaqItem = { q: string; a: string };
 
 export default function FAQAccordion({
   overrideFaqs,
 }: {
-  overrideFaqs?: { q: string; a: string }[];
+  overrideFaqs?: FaqItem[];
 }) {
-  const faqs = overrideFaqs ?? defaultFaqs;
+  const t = useTranslations("FAQ");
+  // Translated default FAQs are matched by position; falls back to the English text in data.ts
+  const translated = t.raw("items") as FaqItem[];
+  const faqs = overrideFaqs ?? defaultFaqs.map((f, i) => translated[i] ?? f);
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   return (
