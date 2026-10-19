@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 import { Plane, Car, CarFront, UserCheck2, Hotel, TrainFront, Route, Camera } from "lucide-react";
 import type { Service } from "@/lib/data";
 
@@ -15,11 +16,18 @@ const ICONS: Record<Service["icon"], typeof Plane> = {
   camera: Camera,
 };
 
+type ServiceText = { title: string; description: string };
+
 export default function ServicesGrid({ services }: { services: Service[] }) {
+  const t = useTranslations("ServicesGrid");
+  // Translated texts keyed by the service icon; falls back to the English text in data.ts
+  const items = t.raw("items") as Record<string, ServiceText>;
+
   return (
     <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
       {services.map((s, i) => {
         const Icon = ICONS[s.icon];
+        const text = items[s.icon];
         return (
           <motion.div
             key={s.title}
@@ -32,8 +40,12 @@ export default function ServicesGrid({ services }: { services: Service[] }) {
             <div className="flex h-12 w-12 items-center justify-center rounded-full bg-forest/5 text-forest transition-colors group-hover:bg-gold group-hover:text-forest-dark">
               <Icon className="h-6 w-6" />
             </div>
-            <h3 className="mt-5 font-display text-lg text-forest-dark">{s.title}</h3>
-            <p className="mt-2 text-sm leading-relaxed text-ink/70">{s.description}</p>
+            <h3 className="mt-5 font-display text-lg text-forest-dark">
+              {text?.title ?? s.title}
+            </h3>
+            <p className="mt-2 text-sm leading-relaxed text-ink/70">
+              {text?.description ?? s.description}
+            </p>
           </motion.div>
         );
       })}

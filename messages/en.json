@@ -159,6 +159,39 @@
           "description": "Real assistance during your trip, not just before it, day or night."
         }
       }
+    },
+    "collage": {
+      "title": "Here's what makes a journey perfect for you",
+      "text": "Whether you are planning a family holiday, a romantic escape or an adventurous wildlife journey, every Lume Bend Ceylon itinerary is built around you. From misty tea hills and ancient cities to quiet southern beaches, we handle every detail so you simply enjoy the island.",
+      "cta": "Book Now",
+      "alts": {
+        "sigiriya": "Sigiriya Rock Fortress",
+        "mirissa": "Mirissa coastline",
+        "sinharaja": "Sinharaja rainforest",
+        "ella": "Ella hill country"
+      }
+    },
+    "services": {
+      "eyebrow": "How We Help",
+      "title": "Our Services",
+      "description": "Everything between your arrival and departure, arranged so you never have to think about logistics."
+    },
+    "featured": {
+      "eyebrow": "Curated Journeys",
+      "title": "Featured Tours",
+      "description": "A selection of our most requested itineraries — each one fully customisable to your dates and pace.",
+      "viewAll": "View all tours"
     }
+  },
+  "TourCard": {
+    "fullItinerary": "Full Itinerary",
+    "bookInquiry": "Book Inquiry",
+    "categories": {
+      "Luxury Tours": "Luxury Tours",
+      "General Tours": "General Tours"
+    }
+  },
+  "ServicesGrid": {
+    "items": {}
   }
 }

@@ -159,6 +159,39 @@
           "description": "旅途中而非仅在行前提供真实协助，无论白天黑夜。"
         }
       }
+    },
+    "collage": {
+      "title": "这就是让旅程完美契合您的秘诀",
+      "text": "无论您计划的是家庭度假、浪漫之旅，还是探索野生动物的冒险旅程，Lume Bend Ceylon 的每条行程都围绕您而设计。从云雾缭绕的茶山、古老城邦到宁静的南部海滩，我们打理每一个细节，让您尽情享受这座岛屿。",
+      "cta": "立即预订",
+      "alts": {
+        "sigiriya": "狮子岩堡垒",
+        "mirissa": "米瑞莎海岸",
+        "sinharaja": "辛哈拉贾雨林",
+        "ella": "埃勒高地"
+      }
+    },
+    "services": {
+      "eyebrow": "我们如何帮助您",
+      "title": "我们的服务",
+      "description": "从抵达到离开之间的一切，我们都为您安排妥当，让您无需操心任何后勤事宜。"
+    },
+    "featured": {
+      "eyebrow": "精选旅程",
+      "title": "精选行程",
+      "description": "我们最受欢迎的行程精选——每一条都可根据您的日期和节奏完全定制。",
+      "viewAll": "查看全部行程"
     }
+  },
+  "TourCard": {
+    "fullItinerary": "完整行程",
+    "bookInquiry": "预订咨询",
+    "categories": {
+      "Luxury Tours": "奢华行程",
+      "General Tours": "经典行程"
+    }
+  },
+  "ServicesGrid": {
+    "items": {}
   }
 }

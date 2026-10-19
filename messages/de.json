@@ -159,6 +159,39 @@
           "description": "Echte Unterstützung während Ihrer Reise, nicht nur davor – Tag und Nacht."
         }
       }
+    },
+    "collage": {
+      "title": "So wird eine Reise genau richtig für Sie",
+      "text": "Ob Familienurlaub, romantische Auszeit oder abenteuerliche Tierbeobachtungsreise – jede Lume Bend Ceylon-Reise wird ganz um Sie herum gestaltet. Von nebligen Teebergen und uralten Städten bis zu ruhigen Stränden im Süden kümmern wir uns um jedes Detail, damit Sie die Insel einfach genießen können.",
+      "cta": "Jetzt buchen",
+      "alts": {
+        "sigiriya": "Felsenfestung Sigiriya",
+        "mirissa": "Küste von Mirissa",
+        "sinharaja": "Regenwald Sinharaja",
+        "ella": "Hochland von Ella"
+      }
+    },
+    "services": {
+      "eyebrow": "So helfen wir",
+      "title": "Unsere Leistungen",
+      "description": "Alles zwischen Ankunft und Abreise – so organisiert, dass Sie sich nie um Logistik kümmern müssen."
+    },
+    "featured": {
+      "eyebrow": "Ausgewählte Reisen",
+      "title": "Empfohlene Touren",
+      "description": "Eine Auswahl unserer gefragtesten Reiserouten – jede lässt sich vollständig auf Ihre Termine und Ihr Tempo anpassen.",
+      "viewAll": "Alle Touren ansehen"
     }
+  },
+  "TourCard": {
+    "fullItinerary": "Vollständige Reiseroute",
+    "bookInquiry": "Anfrage senden",
+    "categories": {
+      "Luxury Tours": "Luxusreisen",
+      "General Tours": "Allgemeine Touren"
+    }
+  },
+  "ServicesGrid": {
+    "items": {}
   }
 }

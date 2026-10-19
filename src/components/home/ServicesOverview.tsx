@@ -1,15 +1,18 @@
+import { getTranslations } from "next-intl/server";
 import SectionHeading from "@/components/SectionHeading";
 import ServicesGrid from "@/components/ServicesGrid";
 import { services } from "@/lib/data";
 
-export default function ServicesOverview() {
+export default async function ServicesOverview() {
+  const t = await getTranslations("Home.services");
+
   return (
     <section className="bg-white py-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         <SectionHeading
-          eyebrow="How We Help"
-          title="Our Services"
-          description="Everything between your arrival and departure, arranged so you never have to think about logistics."
+          eyebrow={t("eyebrow")}
+          title={t("title")}
+          description={t("description")}
           center
         />
         <div className="mt-14">

@@ -159,6 +159,39 @@
           "description": "Une aide réelle pendant votre voyage, pas seulement avant, de jour comme de nuit."
         }
       }
+    },
+    "collage": {
+      "title": "Ce qui fait d'un voyage le voyage parfait pour vous",
+      "text": "Que vous prépariez des vacances en famille, une escapade romantique ou un voyage d'aventure à la rencontre de la faune, chaque itinéraire Lume Bend Ceylon est construit autour de vous. Des collines de thé embrumées et des cités antiques aux plages tranquilles du sud, nous nous occupons de chaque détail pour que vous n'ayez qu'à profiter de l'île.",
+      "cta": "Réserver maintenant",
+      "alts": {
+        "sigiriya": "Forteresse de Sigiriya",
+        "mirissa": "Littoral de Mirissa",
+        "sinharaja": "Forêt tropicale de Sinharaja",
+        "ella": "Hautes terres d'Ella"
+      }
+    },
+    "services": {
+      "eyebrow": "Comment nous vous aidons",
+      "title": "Nos services",
+      "description": "Tout ce qui se passe entre votre arrivée et votre départ, organisé pour que vous n'ayez jamais à penser à la logistique."
+    },
+    "featured": {
+      "eyebrow": "Voyages sélectionnés",
+      "title": "Circuits à la une",
+      "description": "Une sélection de nos itinéraires les plus demandés, chacun entièrement personnalisable selon vos dates et votre rythme.",
+      "viewAll": "Voir tous les circuits"
     }
+  },
+  "TourCard": {
+    "fullItinerary": "Itinéraire complet",
+    "bookInquiry": "Demande de réservation",
+    "categories": {
+      "Luxury Tours": "Circuits de luxe",
+      "General Tours": "Circuits classiques"
+    }
+  },
+  "ServicesGrid": {
+    "items": {}
   }
 }

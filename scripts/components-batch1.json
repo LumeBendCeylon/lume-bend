@@ -1,0 +1,67 @@
+{
+  "en": {
+    "TourCard": {
+      "fullItinerary": "Full Itinerary",
+      "bookInquiry": "Book Inquiry",
+      "categories": {
+        "Luxury Tours": "Luxury Tours",
+        "General Tours": "General Tours"
+      }
+    },
+    "ServicesGrid": {
+      "items": {}
+    }
+  },
+  "de": {
+    "TourCard": {
+      "fullItinerary": "Vollständige Reiseroute",
+      "bookInquiry": "Anfrage senden",
+      "categories": {
+        "Luxury Tours": "Luxusreisen",
+        "General Tours": "Allgemeine Touren"
+      }
+    },
+    "ServicesGrid": {
+      "items": {}
+    }
+  },
+  "fr": {
+    "TourCard": {
+      "fullItinerary": "Itinéraire complet",
+      "bookInquiry": "Demande de réservation",
+      "categories": {
+        "Luxury Tours": "Circuits de luxe",
+        "General Tours": "Circuits classiques"
+      }
+    },
+    "ServicesGrid": {
+      "items": {}
+    }
+  },
+  "ru": {
+    "TourCard": {
+      "fullItinerary": "Полный маршрут",
+      "bookInquiry": "Отправить запрос",
+      "categories": {
+        "Luxury Tours": "Роскошные туры",
+        "General Tours": "Классические туры"
+      }
+    },
+    "ServicesGrid": {
+      "items": {}
+    }
+  },
+  "zh": {
+    "TourCard": {
+      "fullItinerary": "完整行程",
+      "bookInquiry": "预订咨询",
+      "categories": {
+        "Luxury Tours": "奢华行程",
+        "General Tours": "经典行程"
+      }
+    },
+    "ServicesGrid": {
+      "items": {}
+    }
+  }
+}

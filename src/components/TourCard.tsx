@@ -1,12 +1,18 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { ArrowUpRight, Clock } from "lucide-react";
 import Motif from "@/components/Motif";
 import type { Tour } from "@/lib/data";
 
 export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: number }) {
+  const t = useTranslations("TourCard");
+  // Category names are data, so translate by lookup and fall back to the original text
+  const categories = t.raw("categories") as Record<string, string>;
+  const categoryLabel = categories[tour.category] ?? tour.category;
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -30,7 +36,7 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
           />
         )}
         <span className="absolute left-4 top-4 rounded-full bg-white/90 px-3 py-1 text-xs font-medium tracking-wide text-forest-dark">
-          {tour.category}
+          {categoryLabel}
         </span>
       </div>
 
@@ -58,14 +64,14 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
                 href={`/tours/${tour.slug}`}
                 className="text-sm font-medium text-forest-dark transition-colors hover:text-gold-dark"
               >
-                Full Itinerary
+                {t("fullItinerary")}
               </Link>
             )}
             <Link
               href={`/contact?tour=${encodeURIComponent(tour.title)}`}
               className="flex items-center gap-1 text-sm font-medium text-gold-dark transition-colors hover:text-forest-dark"
             >
-              Book Inquiry <ArrowUpRight className="h-4 w-4" />
+              {t("bookInquiry")} <ArrowUpRight className="h-4 w-4" />
             </Link>
           </div>
         </div>
