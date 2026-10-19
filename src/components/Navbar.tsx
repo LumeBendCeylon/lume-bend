@@ -80,19 +80,19 @@ export default function Navbar() {
         solid ? "bg-white/95 backdrop-blur shadow-sm" : "bg-transparent"
       }`}
     >
-      {/* ===================== PHONE / TAB (below lg) ===================== */}
+      {/* ===================== PHONE / TAB (below 2xl) ===================== */}
       <div className="2xl:hidden">
-        {/* Row 1: logo + book button */}
-        <div className="flex items-center justify-between bg-forest-dark px-4 py-3">
-          <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
-            <span className="font-display text-lg tracking-wide text-white">LUME BEND</span>
-            <span className="font-display text-lg tracking-wide text-gold">Ceylon</span>
+        {/* Row 1: logo + language + book button (responsive) */}
+        <div className="flex items-center justify-between gap-2 bg-forest-dark px-3 py-3 sm:px-4">
+          <Link href="/" className="flex min-w-0 shrink items-baseline gap-1 whitespace-nowrap">
+            <span className="font-display text-[15px] tracking-wide text-white sm:text-lg">LUME BEND</span>
+            <span className="font-display text-[15px] tracking-wide text-gold sm:text-lg">Ceylon</span>
           </Link>
-          <div className="flex items-center gap-2">
+          <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
             <LanguageSwitcher dark compact />
             <Link
               href="/plan"
-              className="whitespace-nowrap rounded-full border border-gold px-3.5 py-1.5 text-xs font-medium tracking-wide text-gold transition-colors hover:bg-gold hover:text-forest-dark"
+              className="max-w-[8.5rem] truncate whitespace-nowrap rounded-full border border-gold px-2.5 py-1.5 text-[11px] font-medium tracking-normal text-gold transition-colors hover:bg-gold hover:text-forest-dark sm:max-w-none sm:px-3.5 sm:text-xs sm:tracking-wide"
             >
               {t("book")}
             </Link>
@@ -157,8 +157,8 @@ export default function Navbar() {
         </AnimatePresence>
       </div>
 
-      {/* ===================== LAPTOP (lg and up) ===================== */}
-        <nav className="mx-auto hidden max-w-[120rem] items-center gap-3 px-4 py-4 2xl:flex 2xl:gap-5 2xl:px-6">
+      {/* ===================== LAPTOP / DESKTOP (2xl and up) ===================== */}
+      <nav className="mx-auto hidden max-w-[115rem] items-center gap-3 px-4 py-4 2xl:flex 2xl:gap-5 2xl:px-6">
         <Link href="/" className="flex shrink-0 items-baseline gap-1 whitespace-nowrap">
           <span
             className={`font-display text-2xl tracking-wide transition-colors ${
@@ -170,7 +170,7 @@ export default function Navbar() {
           <span className="font-display text-2xl tracking-wide text-gold">Ceylon</span>
         </Link>
 
-        <ul className="flex items-center gap-3 2xl:gap-5 min-[1700px]:gap-7">
+        <ul className="flex items-center gap-3 2xl:gap-5 min-[1700px]:gap-8">
           {/* Tours mega-menu trigger */}
           <li
             className="relative"
@@ -179,13 +179,13 @@ export default function Navbar() {
           >
             <Link
               href="/tours"
-                              className={`whitespace-nowrap text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors hover:text-gold ${
+              className={`inline-flex items-center gap-1 whitespace-nowrap text-sm min-[1700px]:text-base font-medium tracking-normal transition-colors hover:text-gold ${
                 solid ? "text-ink" : "text-white"
               } ${pathname.startsWith("/tours") ? "text-gold" : ""}`}
             >
               {t("tours")}
               <ChevronDown
-                className={`h-3.5 w-3.5 transition-transform ${toursMenuOpen ? "rotate-180" : ""}`}
+                className={`h-3.5 w-3.5 shrink-0 transition-transform ${toursMenuOpen ? "rotate-180" : ""}`}
               />
             </Link>
 
@@ -240,7 +240,7 @@ export default function Navbar() {
             <li key={link.href}>
               <Link
                 href={link.href}
-                              className={`flex items-center gap-1 whitespace-nowrap text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors hover:text-gold ${
+                className={`inline-flex items-center gap-1 whitespace-nowrap text-sm min-[1700px]:text-base font-medium tracking-normal transition-colors hover:text-gold ${
                   solid ? "text-ink" : "text-white"
                 } ${pathname === link.href ? "text-gold" : ""}`}
               >
@@ -282,7 +282,7 @@ export default function Navbar() {
 
           <Link
             href="/plan"
-            className={`shrink-0 whitespace-nowrap rounded-full border px-4 py-2.5 text-[13px] min-[1700px]:text-[15px] font-medium tracking-normal transition-colors 2xl:px-5 ${
+            className={`shrink-0 whitespace-nowrap rounded-full border px-4 py-2.5 text-sm min-[1700px]:text-base font-medium tracking-normal transition-colors 2xl:px-5 ${
               solid
                 ? "border-forest bg-forest text-white hover:bg-forest-light"
                 : "border-white/70 text-white hover:bg-white hover:text-forest"
@@ -293,7 +293,7 @@ export default function Navbar() {
         </div>
       </nav>
 
-      {/* ===================== LAPTOP SEARCH BAR (expands downward) ===================== */}
+      {/* ===================== DESKTOP SEARCH BAR (expands downward) ===================== */}
       <AnimatePresence>
         {deskSearchOpen && (
           <motion.form
@@ -393,9 +393,6 @@ export default function Navbar() {
                 >
                   {user ? t("myAccount") : t("signIn")}
                 </Link>
-              </li>
-              <li className="pt-2">
-                <LanguageSwitcher />
               </li>
             </ul>
           </motion.div>
