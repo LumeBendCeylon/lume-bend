@@ -89,10 +89,10 @@ export async function generateMetadata({
   return {
     title: tour.title,
     description: tour.blurb,
-   alternates: {
-  canonical: "./",
-  languages: languageAlternates(`/tours/${tour.slug}`),
-},
+    alternates: {
+      canonical: "./",
+      languages: languageAlternates(`/tours/${tour.slug}`),
+    },
   };
 }
 
@@ -189,31 +189,57 @@ export default async function TourDetailPage({
               <div className="mt-12">
                 <h2 className="font-display text-2xl text-forest-dark">Detail Itinerary</h2>
                 <div className="mt-6 space-y-5">
-                  {tour.itinerary.map((day) => (
-                    <div
-                      key={day.day}
-                      className="grid grid-cols-1 gap-0 overflow-hidden rounded-2xl border border-forest/10 sm:grid-cols-5"
-                    >
-                      <div className="relative flex h-40 items-center justify-center bg-gradient-to-br from-forest to-forest-dark sm:col-span-2 sm:h-auto">
-                       {day.imageUrl ? (
-  // eslint-disable-next-line @next/next/no-img-element
-  <img src={day.imageUrl} alt={day.title} className="absolute inset-0 h-full w-full object-cover" />
-) : (
-  <Motif motif={tour.motif} className="h-14 w-14 text-gold/70" />
-)}
-                        <span className="absolute left-3 top-3 rounded-full bg-gold px-3 py-1 text-xs font-semibold text-forest-dark">
-                          Day {String(day.day).padStart(2, "0")}
-                        </span>
+                  {tour.itinerary.map((day) => {
+                    // New tours use `points`. Older tours still use
+                    // morning / afternoon / evening, so keep that as fallback.
+                    const bullets =
+                      day.points && day.points.length > 0
+                        ? day.points
+                        : [day.morning, day.afternoon, day.evening]
+                            .filter(Boolean)
+                            .flatMap((period) =>
+                              period!.split(/(?<=[.!?])\s+/).filter(Boolean)
+                            );
+
+                    return (
+                      <div
+                        key={day.day}
+                        className="grid grid-cols-1 gap-0 overflow-hidden rounded-2xl border border-forest/10 sm:grid-cols-5"
+                      >
+                        <div className="relative flex h-40 items-center justify-center bg-gradient-to-br from-forest to-forest-dark sm:col-span-2 sm:h-auto">
+                          {day.imageUrl ? (
+                            // eslint-disable-next-line @next/next/no-img-element
+                            <img
+                              src={day.imageUrl}
+                              alt={day.title}
+                              className="absolute inset-0 h-full w-full object-cover"
+                            />
+                          ) : (
+                            <Motif motif={tour.motif} className="h-14 w-14 text-gold/70" />
+                          )}
+                          <span className="absolute left-3 top-3 rounded-full bg-gold px-3 py-1 text-xs font-semibold text-forest-dark">
+                            Day {String(day.day).padStart(2, "0")}
+                          </span>
+                        </div>
+                        <div className="p-6 sm:col-span-3">
+                          <h3 className="font-display text-lg text-forest-dark">{day.title}</h3>
+
+                          <div className="mt-4 space-y-3">
+                            {bullets.map((point, index) => (
+                              <div key={index} className="flex items-start gap-3">
+                                <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-gold" />
+                                <p className="text-sm leading-relaxed text-ink/75">{point}</p>
+                              </div>
+                            ))}
+                          </div>
+
+                          <p className="mt-4 border-t border-forest/10 pt-3 text-xs text-ink/50">
+                            Overnight: {day.overnight}
+                          </p>
+                        </div>
                       </div>
-                      <div className="p-6 sm:col-span-3">
-                        <h3 className="font-display text-lg text-forest-dark">{day.title}</h3>
-                         <p className="mt-3 text-sm leading-relaxed text-ink/75">
-                          {[day.morning, day.afternoon, day.evening].filter(Boolean).join(" ")}
-                        </p>
-                        <p className="mt-3 text-xs text-ink/50">Overnight: {day.overnight}</p>
-                      </div>
-                    </div>
-                  ))}
+                    );
+                  })}
                 </div>
               </div>
             )}

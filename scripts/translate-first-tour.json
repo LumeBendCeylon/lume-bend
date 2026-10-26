@@ -1,0 +1,78 @@
+
+{
+  "en": {
+    "Tours": {
+      "items": {
+        "golden-grand-escape-5-day": {
+          "title": "Golden Ceylon Escape",
+          "blurb": "Five days of private luxury across Sri Lanka's Cultural Triangle and hill capital, with nothing left to chance.",
+          "highlights": {
+            "0": "Private sunrise Sigiriya climb",
+            "1": "Candlelit rooftop dinner",
+            "2": "Temple of the Tooth evening ceremony"
+          }
+        }
+      }
+    }
+  },
+  "de": {
+    "Tours": {
+      "items": {
+        "golden-grand-escape-5-day": {
+          "title": "Goldene Ceylon-Auszeit",
+          "blurb": "Fünf Tage voller privatem Luxus im Kulturdreieck Sri Lankas und in der Hügelland-Hauptstadt Kandy – bis ins Detail durchdacht.",
+          "highlights": {
+            "0": "Private Sigiriya-Besteigung bei Sonnenaufgang",
+            "1": "Romantisches Abendessen bei Kerzenschein auf der Dachterrasse",
+            "2": "Abendzeremonie im Zahntempel"
+          }
+        }
+      }
+    }
+  },
+  "fr": {
+    "Tours": {
+      "items": {
+        "golden-grand-escape-5-day": {
+          "title": "Évasion dorée à Ceylan",
+          "blurb": "Cinq jours de luxe privé à travers le Triangle culturel du Sri Lanka et Kandy, la capitale des montagnes, avec chaque détail soigneusement préparé.",
+          "highlights": {
+            "0": "Ascension privée du rocher de Sigiriya au lever du soleil",
+            "1": "Dîner aux chandelles sur un toit-terrasse",
+            "2": "Cérémonie du soir au Temple de la Dent"
+          }
+        }
+      }
+    }
+  },
+  "ru": {
+    "Tours": {
+      "items": {
+        "golden-grand-escape-5-day": {
+          "title": "Золотое путешествие по Цейлону",
+          "blurb": "Пять дней частного путешествия класса люкс по Культурному треугольнику Шри-Ланки и горной столице Канди, где каждая деталь продумана заранее.",
+          "highlights": {
+            "0": "Частное восхождение на Сигирию на рассвете",
+            "1": "Ужин при свечах на крыше",
+            "2": "Вечерняя церемония в Храме Зуба Будды"
+          }
+        }
+      }
+    }
+  },
+  "zh": {
+    "Tours": {
+      "items": {
+        "golden-grand-escape-5-day": {
+          "title": "锡兰鎏金之旅",
+          "blurb": "五天尊享私人奢华旅程，探索斯里兰卡文化三角区与山地首府康提，每个细节都经过精心安排。",
+          "highlights": {
+            "0": "私人日出时段攀登锡吉里耶狮子岩",
+            "1": "屋顶烛光晚餐",
+            "2": "佛牙寺夜间仪式"
+          }
+        }
+      }
+    }
+  }
+}

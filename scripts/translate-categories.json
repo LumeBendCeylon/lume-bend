@@ -1,0 +1,78 @@
+
+{
+  "en": {
+    "TourCard": {
+      "categories": {
+        "Luxury Tours": "Luxury Tours",
+        "General Tours": "General Tours",
+        "Family Tours": "Family Tours",
+        "Adventure Tours": "Adventure Tours",
+        "Wildlife Tours": "Wildlife Tours",
+        "Romantic & Honeymoon Tours": "Romantic & Honeymoon Tours",
+        "Cultural Heritage Tours": "Cultural Heritage Tours",
+        "Ayurveda & Wellness Tours": "Ayurveda & Wellness Tours",
+        "Ramayana Tours": "Ramayana Tours"
+      }
+    }
+  },
+  "de": {
+    "TourCard": {
+      "categories": {
+        "Luxury Tours": "Luxusreisen",
+        "General Tours": "Klassische Rundreisen",
+        "Family Tours": "Familienreisen",
+        "Adventure Tours": "Abenteuerreisen",
+        "Wildlife Tours": "Wildtier-Safaris",
+        "Romantic & Honeymoon Tours": "Romantik- und Hochzeitsreisen",
+        "Cultural Heritage Tours": "Kultur- und Erbereisen",
+        "Ayurveda & Wellness Tours": "Ayurveda- und Wellnessreisen",
+        "Ramayana Tours": "Ramayana-Reisen"
+      }
+    }
+  },
+  "fr": {
+    "TourCard": {
+      "categories": {
+        "Luxury Tours": "Circuits de luxe",
+        "General Tours": "Circuits classiques",
+        "Family Tours": "Circuits en famille",
+        "Adventure Tours": "Circuits d'aventure",
+        "Wildlife Tours": "Safaris animaliers",
+        "Romantic & Honeymoon Tours": "Circuits romantiques et voyages de noces",
+        "Cultural Heritage Tours": "Circuits culturels et patrimoniaux",
+        "Ayurveda & Wellness Tours": "Circuits Ayurveda et bien-être",
+        "Ramayana Tours": "Circuits du Ramayana"
+      }
+    }
+  },
+  "ru": {
+    "TourCard": {
+      "categories": {
+        "Luxury Tours": "Роскошные туры",
+        "General Tours": "Классические туры",
+        "Family Tours": "Семейные туры",
+        "Adventure Tours": "Приключенческие туры",
+        "Wildlife Tours": "Сафари и наблюдение за дикой природой",
+        "Romantic & Honeymoon Tours": "Романтические туры и путешествия для молодожёнов",
+        "Cultural Heritage Tours": "Культурно-исторические туры",
+        "Ayurveda & Wellness Tours": "Аюрведа и оздоровительные туры",
+        "Ramayana Tours": "Туры по местам Рамаяны"
+      }
+    }
+  },
+  "zh": {
+    "TourCard": {
+      "categories": {
+        "Luxury Tours": "奢华旅行",
+        "General Tours": "经典旅行",
+        "Family Tours": "家庭旅行",
+        "Adventure Tours": "探险旅行",
+        "Wildlife Tours": "野生动物之旅",
+        "Romantic & Honeymoon Tours": "浪漫之旅与蜜月旅行",
+        "Cultural Heritage Tours": "文化与历史遗产之旅",
+        "Ayurveda & Wellness Tours": "阿育吠陀与健康养生之旅",
+        "Ramayana Tours": "罗摩衍那主题之旅"
+      }
+    }
+  }
+}

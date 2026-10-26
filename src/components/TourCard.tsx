@@ -1,3 +1,4 @@
+
 "use client";
 
 import { motion } from "framer-motion";
@@ -9,9 +10,25 @@ import type { Tour } from "@/lib/data";
 
 export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: number }) {
   const t = useTranslations("TourCard");
-  // Category names are data, so translate by lookup and fall back to the original text
   const categories = t.raw("categories") as Record<string, string>;
   const categoryLabel = categories[tour.category] ?? tour.category;
+
+  const tourT = useTranslations("Tours.items");
+  const translationKey = tour.slug;
+
+  const translatedTitle = tourT.has(`${translationKey}.title`)
+    ? tourT(`${translationKey}.title`)
+    : tour.title;
+
+  const translatedBlurb = tourT.has(`${translationKey}.blurb`)
+    ? tourT(`${translationKey}.blurb`)
+    : tour.blurb;
+
+  const translatedHighlights = tour.highlights.map((highlight, i) =>
+    tourT.has(`${translationKey}.highlights.${i}`)
+      ? tourT(`${translationKey}.highlights.${i}`)
+      : highlight
+  );
 
   return (
     <motion.div
@@ -26,7 +43,7 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={tour.imageUrl}
-            alt={tour.title}
+            alt={translatedTitle}
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
           />
         ) : (
@@ -41,23 +58,26 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
       </div>
 
       <div className="flex flex-1 flex-col p-6">
-        <h3 className="font-display text-xl text-forest-dark">{tour.title}</h3>
+        <h3 className="font-display text-xl text-forest-dark">{translatedTitle}</h3>
+
         <p className="mt-1 flex items-center gap-1.5 text-xs text-ink/60">
           <Clock className="h-3.5 w-3.5" /> {tour.duration}
         </p>
-        <p className="mt-3 text-sm leading-relaxed text-ink/70">{tour.blurb}</p>
+
+        <p className="mt-3 text-sm leading-relaxed text-ink/70">{translatedBlurb}</p>
 
         <ul className="mt-4 space-y-1.5">
-          {tour.highlights.slice(0, 3).map((h) => (
-            <li key={h} className="flex items-start gap-2 text-xs text-ink/70">
+          {translatedHighlights.slice(0, 3).map((highlight, i) => (
+            <li key={`${tour.slug}-highlight-${i}`} className="flex items-start gap-2 text-xs text-ink/70">
               <span className="mt-1.5 h-1 w-1 shrink-0 rounded-full bg-gold" />
-              {h}
+              {highlight}
             </li>
           ))}
         </ul>
 
         <div className="mt-6 flex items-center justify-between border-t border-forest/10 pt-4">
           <span className="text-sm font-semibold text-forest-dark">{tour.price}</span>
+
           <div className="flex items-center gap-4">
             {tour.itinerary && (
               <Link
@@ -67,6 +87,7 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
                 {t("fullItinerary")}
               </Link>
             )}
+
             <Link
               href={`/contact?tour=${encodeURIComponent(tour.title)}`}
               className="flex items-center gap-1 text-sm font-medium text-gold-dark transition-colors hover:text-forest-dark"

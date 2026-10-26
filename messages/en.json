@@ -186,7 +186,28 @@
       "eyebrow": "How It Works",
       "title": "Your Travel Experience, Step by Step",
       "description": "A straightforward path from first message to the moment you land back home.",
-      "items": {}
+      "items": {
+        "1": {
+          "title": "Enquire",
+          "description": "Share your travel dates, interests and group size through our form."
+        },
+        "2": {
+          "title": "Design",
+          "description": "Our specialists design a tailored itinerary and send a detailed proposal."
+        },
+        "3": {
+          "title": "Confirm",
+          "description": "Refine the details with us, then confirm your dates and inclusions."
+        },
+        "4": {
+          "title": "Travel",
+          "description": "Your chauffeur, guides and stays are ready from the moment you land."
+        },
+        "5": {
+          "title": "Return",
+          "description": "We follow up after your trip — and we're here for the next one."
+        }
+      }
     },
     "findUs": {
       "eyebrow": "Trusted By Travellers",
@@ -204,11 +225,51 @@
     "bookInquiry": "Book Inquiry",
     "categories": {
       "Luxury Tours": "Luxury Tours",
-      "General Tours": "General Tours"
+      "General Tours": "General Tours",
+      "Family Tours": "Family Tours",
+      "Adventure Tours": "Adventure Tours",
+      "Wildlife Tours": "Wildlife Tours",
+      "Romantic & Honeymoon Tours": "Romantic & Honeymoon Tours",
+      "Cultural Heritage Tours": "Cultural Heritage Tours",
+      "Ayurveda & Wellness Tours": "Ayurveda & Wellness Tours",
+      "Ramayana Tours": "Ramayana Tours"
     }
   },
   "ServicesGrid": {
-    "items": {}
+    "items": {
+      "plane": {
+        "title": "Airport Transfers",
+        "description": "Seamless, private transfers timed to your flight — every time you land."
+      },
+      "car": {
+        "title": "Private Chauffeur",
+        "description": "A dedicated English-speaking chauffeur for the length of your journey."
+      },
+      "car-front": {
+        "title": "Luxury Vehicles",
+        "description": "Modern, air-conditioned fleets, from private sedans to spacious SUVs."
+      },
+      "guide": {
+        "title": "Professional Tour Guides",
+        "description": "Licensed guides with deep local knowledge and genuine warmth."
+      },
+      "hotel": {
+        "title": "Hotel Booking Assistance",
+        "description": "Curated stays across boutique villas, heritage hotels and resorts."
+      },
+      "train": {
+        "title": "Train Ticket Assistance",
+        "description": "Reserved seats on Sri Lanka's scenic rail lines, secured in advance."
+      },
+      "route": {
+        "title": "Customised Tours",
+        "description": "Bespoke itineraries built entirely around your pace and interests."
+      },
+      "camera": {
+        "title": "Photography Tours",
+        "description": "Golden-hour routes and local access built for serious photographers."
+      }
+    }
   },
   "Testimonials": {
     "eyebrow": "Traveller Stories",
@@ -221,6 +282,40 @@
     "button": "Start Your Enquiry"
   },
   "FAQ": {
-    "items": []
+    "items": [
+      {
+        "q": "How far in advance should I book?",
+        "a": "We recommend enquiring 2–3 months before your intended travel dates, especially for December–March, our peak season. We can also accommodate shorter notice where possible."
+      },
+      {
+        "q": "Can itineraries be customised?",
+        "a": "Yes — every tour on this site is a starting point. Tell us your interests, pace and travel dates, and we'll tailor the route, hotels and pacing around you."
+      },
+      {
+        "q": "Is payment required to submit an enquiry?",
+        "a": "No. Submitting the enquiry form is free and commits you to nothing. A member of our team will follow up with a tailored proposal and pricing."
+      },
+      {
+        "q": "Do you arrange airport pickup?",
+        "a": "Yes, private airport transfers are included as standard in every multi-day itinerary we arrange."
+      },
+      {
+        "q": "What is the best time of year to visit Sri Lanka?",
+        "a": "Sri Lanka has two monsoon seasons affecting different coasts, so there is a good time to visit almost year-round. We'll advise on the best route for your travel dates during planning."
+      }
+    ]
+  },
+  "Tours": {
+    "items": {
+      "golden-grand-escape-5-day": {
+        "title": "Golden Ceylon Escape",
+        "blurb": "Five days of private luxury across Sri Lanka's Cultural Triangle and hill capital, with nothing left to chance.",
+        "highlights": {
+          "0": "Private sunrise Sigiriya climb",
+          "1": "Candlelit rooftop dinner",
+          "2": "Temple of the Tooth evening ceremony"
+        }
+      }
+    }
   }
 }

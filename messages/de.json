@@ -186,7 +186,28 @@
       "eyebrow": "So funktioniert es",
       "title": "Ihr Reiseerlebnis, Schritt für Schritt",
       "description": "Ein klarer Weg von der ersten Nachricht bis zu dem Moment, in dem Sie wieder zu Hause landen.",
-      "items": {}
+      "items": {
+        "1": {
+          "title": "Anfragen",
+          "description": "Teilen Sie uns über unser Formular Ihre Reisedaten, Interessen und Gruppengröße mit."
+        },
+        "2": {
+          "title": "Gestalten",
+          "description": "Unsere Spezialisten entwerfen eine individuelle Reiseroute und senden Ihnen ein ausführliches Angebot."
+        },
+        "3": {
+          "title": "Bestätigen",
+          "description": "Stimmen Sie die Einzelheiten mit uns ab und bestätigen Sie anschließend Ihre Reisedaten und Leistungen."
+        },
+        "4": {
+          "title": "Reisen",
+          "description": "Ihr Chauffeur, Ihre Guides und Ihre Unterkünfte sind ab Ihrer Ankunft für Sie bereit."
+        },
+        "5": {
+          "title": "Wiederkommen",
+          "description": "Nach Ihrer Reise melden wir uns bei Ihnen — und freuen uns darauf, Ihre nächste Reise zu gestalten."
+        }
+      }
     },
     "findUs": {
       "eyebrow": "Von Reisenden empfohlen",
@@ -204,11 +225,51 @@
     "bookInquiry": "Anfrage senden",
     "categories": {
       "Luxury Tours": "Luxusreisen",
-      "General Tours": "Allgemeine Touren"
+      "General Tours": "Klassische Rundreisen",
+      "Family Tours": "Familienreisen",
+      "Adventure Tours": "Abenteuerreisen",
+      "Wildlife Tours": "Wildtier-Safaris",
+      "Romantic & Honeymoon Tours": "Romantik- und Hochzeitsreisen",
+      "Cultural Heritage Tours": "Kultur- und Erbereisen",
+      "Ayurveda & Wellness Tours": "Ayurveda- und Wellnessreisen",
+      "Ramayana Tours": "Ramayana-Reisen"
     }
   },
   "ServicesGrid": {
-    "items": {}
+    "items": {
+      "plane": {
+        "title": "Flughafentransfers",
+        "description": "Reibungslose, private Transfers, abgestimmt auf Ihre Flugzeiten – bei jeder Ankunft."
+      },
+      "car": {
+        "title": "Privater Chauffeur",
+        "description": "Ein persönlicher, englischsprachiger Chauffeur begleitet Sie während Ihrer gesamten Reise."
+      },
+      "car-front": {
+        "title": "Luxusfahrzeuge",
+        "description": "Moderne, klimatisierte Fahrzeuge – von privaten Limousinen bis hin zu geräumigen SUVs."
+      },
+      "guide": {
+        "title": "Professionelle Reiseleiter",
+        "description": "Lizenzierte Guides mit fundiertem lokalem Wissen und herzlicher Gastfreundschaft."
+      },
+      "hotel": {
+        "title": "Unterstützung bei Hotelbuchungen",
+        "description": "Sorgfältig ausgewählte Unterkünfte, von Boutique-Villen über historische Hotels bis hin zu Resorts."
+      },
+      "train": {
+        "title": "Unterstützung bei Zugtickets",
+        "description": "Reservierte Sitzplätze in Sri Lankas malerischen Zügen, rechtzeitig im Voraus organisiert."
+      },
+      "route": {
+        "title": "Individuelle Rundreisen",
+        "description": "Maßgeschneiderte Reiserouten, die ganz auf Ihr Tempo und Ihre Interessen abgestimmt sind."
+      },
+      "camera": {
+        "title": "Fotografietouren",
+        "description": "Routen zur goldenen Stunde und Zugang zu besonderen Orten – ideal für anspruchsvolle Fotografen."
+      }
+    }
   },
   "Testimonials": {
     "eyebrow": "Reisegeschichten",
@@ -221,6 +282,40 @@
     "button": "Anfrage starten"
   },
   "FAQ": {
-    "items": []
+    "items": [
+      {
+        "q": "Wie lange im Voraus sollte ich buchen?",
+        "a": "Wir empfehlen, Ihre Reise 2–3 Monate vor dem geplanten Reisedatum anzufragen, insbesondere für unsere Hauptsaison von Dezember bis März. Je nach Verfügbarkeit sind auch kurzfristigere Anfragen möglich."
+      },
+      {
+        "q": "Können die Reiserouten individuell angepasst werden?",
+        "a": "Ja — jede Reise auf dieser Website dient als Ausgangspunkt. Teilen Sie uns Ihre Interessen, Ihr bevorzugtes Reisetempo und Ihre Reisedaten mit. Wir passen Route, Hotels und Ablauf individuell an Ihre Wünsche an."
+      },
+      {
+        "q": "Muss ich bezahlen, um eine Anfrage zu senden?",
+        "a": "Nein. Das Absenden des Anfrageformulars ist kostenlos und unverbindlich. Unser Team meldet sich bei Ihnen mit einem individuellen Reisevorschlag und den entsprechenden Preisen."
+      },
+      {
+        "q": "Organisieren Sie einen Flughafentransfer?",
+        "a": "Ja, private Flughafentransfers sind standardmäßig in jeder von uns organisierten mehrtägigen Reise enthalten."
+      },
+      {
+        "q": "Wann ist die beste Reisezeit für Sri Lanka?",
+        "a": "Sri Lanka hat zwei Monsunzeiten, die unterschiedliche Küstenregionen beeinflussen. Deshalb ist das Land fast das ganze Jahr über gut zu bereisen. Bei der Planung empfehlen wir Ihnen die passende Route für Ihre Reisedaten."
+      }
+    ]
+  },
+  "Tours": {
+    "items": {
+      "golden-grand-escape-5-day": {
+        "title": "Goldene Ceylon-Auszeit",
+        "blurb": "Fünf Tage voller privatem Luxus im Kulturdreieck Sri Lankas und in der Hügelland-Hauptstadt Kandy – bis ins Detail durchdacht.",
+        "highlights": {
+          "0": "Private Sigiriya-Besteigung bei Sonnenaufgang",
+          "1": "Romantisches Abendessen bei Kerzenschein auf der Dachterrasse",
+          "2": "Abendzeremonie im Zahntempel"
+        }
+      }
+    }
   }
 }

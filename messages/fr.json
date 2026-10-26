@@ -186,7 +186,28 @@
       "eyebrow": "Comment ça marche",
       "title": "Votre expérience de voyage, étape par étape",
       "description": "Un parcours simple, du premier message jusqu'au moment où vous atterrissez de retour chez vous.",
-      "items": {}
+      "items": {
+        "1": {
+          "title": "Demander",
+          "description": "Indiquez vos dates de voyage, vos centres d'intérêt et la taille de votre groupe dans notre formulaire."
+        },
+        "2": {
+          "title": "Concevoir",
+          "description": "Nos spécialistes élaborent un itinéraire sur mesure et vous envoient une proposition détaillée."
+        },
+        "3": {
+          "title": "Confirmer",
+          "description": "Affinez les détails avec nous, puis confirmez vos dates et les prestations incluses."
+        },
+        "4": {
+          "title": "Voyager",
+          "description": "Votre chauffeur, vos guides et vos hébergements sont prêts dès votre arrivée."
+        },
+        "5": {
+          "title": "Revenir",
+          "description": "Nous prenons de vos nouvelles après votre voyage et restons à votre disposition pour le prochain."
+        }
+      }
     },
     "findUs": {
       "eyebrow": "Approuvé par les voyageurs",
@@ -204,11 +225,51 @@
     "bookInquiry": "Demande de réservation",
     "categories": {
       "Luxury Tours": "Circuits de luxe",
-      "General Tours": "Circuits classiques"
+      "General Tours": "Circuits classiques",
+      "Family Tours": "Circuits en famille",
+      "Adventure Tours": "Circuits d'aventure",
+      "Wildlife Tours": "Safaris animaliers",
+      "Romantic & Honeymoon Tours": "Circuits romantiques et voyages de noces",
+      "Cultural Heritage Tours": "Circuits culturels et patrimoniaux",
+      "Ayurveda & Wellness Tours": "Circuits Ayurveda et bien-être",
+      "Ramayana Tours": "Circuits du Ramayana"
     }
   },
   "ServicesGrid": {
-    "items": {}
+    "items": {
+      "plane": {
+        "title": "Transferts aéroport",
+        "description": "Des transferts privés fluides, adaptés à vos horaires de vol à chaque arrivée."
+      },
+      "car": {
+        "title": "Chauffeur privé",
+        "description": "Un chauffeur personnel anglophone vous accompagne tout au long de votre voyage."
+      },
+      "car-front": {
+        "title": "Véhicules de luxe",
+        "description": "Une flotte moderne et climatisée, des berlines privées aux SUV spacieux."
+      },
+      "guide": {
+        "title": "Guides touristiques professionnels",
+        "description": "Des guides agréés qui connaissent parfaitement la région et vous accueillent avec chaleur."
+      },
+      "hotel": {
+        "title": "Aide à la réservation d'hôtels",
+        "description": "Des hébergements soigneusement sélectionnés : villas de charme, hôtels historiques et complexes hôteliers."
+      },
+      "train": {
+        "title": "Assistance pour les billets de train",
+        "description": "Des places réservées à l'avance sur les lignes ferroviaires panoramiques du Sri Lanka."
+      },
+      "route": {
+        "title": "Circuits personnalisés",
+        "description": "Des itinéraires sur mesure, conçus entièrement selon votre rythme et vos centres d'intérêt."
+      },
+      "camera": {
+        "title": "Circuits photographiques",
+        "description": "Des itinéraires à la lumière dorée et des accès locaux privilégiés, pensés pour les passionnés de photographie."
+      }
+    }
   },
   "Testimonials": {
     "eyebrow": "Histoires de voyageurs",
@@ -221,6 +282,40 @@
     "button": "Démarrer votre demande"
   },
   "FAQ": {
-    "items": []
+    "items": [
+      {
+        "q": "Combien de temps à l'avance dois-je réserver ?",
+        "a": "Nous vous recommandons de nous contacter 2 à 3 mois avant vos dates de voyage, en particulier pour notre haute saison, de décembre à mars. Nous pouvons également répondre aux demandes de dernière minute selon les disponibilités."
+      },
+      {
+        "q": "Les itinéraires peuvent-ils être personnalisés ?",
+        "a": "Oui — chaque circuit présenté sur ce site constitue un point de départ. Faites-nous part de vos centres d'intérêt, de votre rythme de voyage et de vos dates. Nous adapterons l'itinéraire, les hôtels et le programme à vos envies."
+      },
+      {
+        "q": "Dois-je payer pour envoyer une demande ?",
+        "a": "Non. L'envoi du formulaire est gratuit et sans engagement. Un membre de notre équipe vous contactera avec une proposition personnalisée et les tarifs correspondants."
+      },
+      {
+        "q": "Organisez-vous les transferts depuis l'aéroport ?",
+        "a": "Oui, les transferts privés depuis l'aéroport sont inclus par défaut dans tous les itinéraires de plusieurs jours que nous organisons."
+      },
+      {
+        "q": "Quelle est la meilleure période pour visiter le Sri Lanka ?",
+        "a": "Le Sri Lanka connaît deux saisons de mousson qui touchent différentes côtes. Il est donc possible de visiter le pays à presque toute période de l'année. Lors de la préparation de votre voyage, nous vous conseillerons l'itinéraire le mieux adapté à vos dates."
+      }
+    ]
+  },
+  "Tours": {
+    "items": {
+      "golden-grand-escape-5-day": {
+        "title": "Évasion dorée à Ceylan",
+        "blurb": "Cinq jours de luxe privé à travers le Triangle culturel du Sri Lanka et Kandy, la capitale des montagnes, avec chaque détail soigneusement préparé.",
+        "highlights": {
+          "0": "Ascension privée du rocher de Sigiriya au lever du soleil",
+          "1": "Dîner aux chandelles sur un toit-terrasse",
+          "2": "Cérémonie du soir au Temple de la Dent"
+        }
+      }
+    }
   }
 }

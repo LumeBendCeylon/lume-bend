@@ -1978,6 +1978,162 @@ url: "https://commons.wikimedia.org/wiki/File.jpg",
   license: "Creative Commons Attribution-Share Alike 3.0 Unported",
   url: "https://commons.wikimedia.org/wiki/File:Pottuvil_sandhill.jpg",
 },
+// Day 1 — Kitulgala White-Water Rafting
+{
+  photo: "Kitulgala White-Water Rafting",
+  photographer: "Check original file attribution",
+  source: "Wikimedia Commons",
+  license: "Verify on original file page",
+  url: "https://commons.wikimedia.org/wiki/File:Kelani_Ganga_Rafting_-_panoramio.jpg"
+},
+
+// Day 2 — Nuwara Eliya Tea Plantations
+{
+  photo: "Nuwara Eliya Tea Plantations",
+  photographer: "To be confirmed",
+  source: "Unsplash",
+  license: "Unsplash License — verify selected photo",
+  url: "https://unsplash.com/s/photos/nuwara-eliya-tea-plantation"
+},
+
+// Day 3 — Horton Plains
+{
+  photo: "Horton Plains National Park",
+  photographer: "To be confirmed",
+  source: "Unsplash",
+  license: "Unsplash License — verify selected photo",
+  url: "https://unsplash.com/s/photos/horton-plains-sri-lanka"
+},
+
+// Day 4 — Ella
+{
+  photo: "Ella Sri Lanka",
+  photographer: "To be confirmed",
+  source: "Pexels",
+  license: "Pexels License — verify selected photo",
+  url: "https://www.pexels.com/search/ella%20sri%20lanka/"
+},
+
+// Day 5 — Nine Arch Bridge
+{
+  photo: "Nine Arch Bridge, Ella",
+  photographer: "To be confirmed",
+  source: "Unsplash",
+  license: "Unsplash License — verify selected photo",
+  url: "https://unsplash.com/s/photos/nine-arch-bridge-sri-lanka"
+},
+{
+    photo: "Kelani River near Kitulgala",
+    photographer: "Manchi",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 3.0",
+    url: "https://commons.wikimedia.org/wiki/File:Kelani_River.jpg",
+  },
+  {
+    photo: "Tea Plantations in Sri Lanka",
+    photographer: "Praveenper97",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA — exact version to be verified",
+    url: "https://commons.wikimedia.org/wiki/File:Tea_Plantations_in_Sri_Lanka.jpg",
+  },
+  {
+    photo: "Horton Plains – World's End",
+    photographer: "JeninRathnayake",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:Horton_Plains_-_World%27s_end.jpg",
+  },
+  {
+    photo: "Lipton's Seat",
+    photographer: "Nisal Senanayaka",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:Lipton%27s_Seat.jpg",
+  },
+  {
+    photo: "Nine Arch Bridge in Sri Lanka",
+    photographer: "Verify on the original file page",
+    source: "Wikimedia Commons",
+    license: "Verify on the original file page",
+    url: "https://commons.wikimedia.org/wiki/File:Nine-Arch_Bridge_in_Sri_Lanka.jpg",
+  },
+  {
+    photo: "Wild Elephants at Udawalawe National Park",
+    photographer: "Dinushan w77",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:Wild_Elephants_at_Udawalawe_national_park.jpg",
+  },
+  {
+    photo: "Colombo Galle Face Green",
+    photographer: "Morgendorfferr",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 2.5",
+    url: "https://commons.wikimedia.org/wiki/File:Colombo_Galle_Face_Green.jpg",
+  },
+  {
+  photo: "People on Rafting Adventure",
+  photographer: "Verify on original Pexels page",
+  source: "Pexels",
+  license: "Pexels License",
+  url: "https://www.pexels.com/photo/people-on-rafting-adventure-19442194/",
+},
+{
+  photo: "Woman Looking Out of a Train Window",
+  photographer: "Verify on original Unsplash page",
+  source: "Unsplash",
+  license: "Unsplash License",
+  url: "https://unsplash.com/photos/a-woman-standing-on-a-train-looking-out-the-window-ePAa2c9XbtE",
+},
+{
+  photo: "Elephant Walking Through a Green Field",
+  photographer: "Verify on original Unsplash page",
+  source: "Unsplash",
+  license: "Unsplash License",
+  url: "https://unsplash.com/photos/an-elephant-walking-through-a-lush-green-field-K9eMiLWVdcY",
+},
+{
+  photo: "Woman Walking with a Surfboard on the Seashore",
+  photographer: "Verify on original Unsplash page",
+  source: "Unsplash",
+  license: "Unsplash License",
+  url: "https://unsplash.com/photos/woman-in-black-bikini-holding-white-surfboard-walking-on-seashore-during-daytime-ScBHbYokiQE",
+},
+ {
+    photo: "Gangaramaya Temple, Colombo",
+    photographer: "Sachindu 5",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:Gangaramaya_temple,_captured_at_Colombo_City_Center.jpg",
+  },
+  {
+    photo: "Temple of the Tooth, Kandy",
+    photographer: "Ruwan Lakmal",
+    source: "Pexels",
+    license: "Pexels License",
+    url: "https://www.pexels.com/photo/temple-of-the-tooth-in-kandy-sri-lanka-33404366/",
+  },
+  {
+    photo: "Dambulla Cave Temple",
+    photographer: "Philip Nalangan",
+    source: "Wikimedia Commons",
+    license: "CC BY 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:Dambulla_Cave_1.jpg",
+  },
+  {
+    photo: "Sigiriya Rock Fortress",
+    photographer: "Sahan Hapuarachchi",
+    source: "Pexels",
+    license: "Pexels License",
+    url: "https://www.pexels.com/photo/sigiriya-rock-fortress-in-sri-lanka-31154120/",
+  },
+  {
+    photo: "The Sigiriya Fortress — Panorama from Pidurangala",
+    photographer: "Thushara Nadeeja",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    url: "https://commons.wikimedia.org/wiki/File:The_Sigiriya_Fortress.jpg",
+  },
  
 ];
 
