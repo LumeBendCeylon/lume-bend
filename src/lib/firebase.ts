@@ -360,10 +360,12 @@ export async function deleteCategory(id: string) {
 export type CustomItineraryDay = {
   day: number;
   title: string;
-  morning: string;
-  afternoon: string;
-  evening: string;
+  morning?: string;
+  afternoon?: string;
+  evening?: string;
+  points?: string[];
   overnight: string;
+  imageUrl?: string;
 };
 
 export type CustomTourFAQ = { q: string; a: string };

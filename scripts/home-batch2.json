@@ -1,0 +1,132 @@
+{
+  "en": {
+    "Home": {
+      "collage": {
+        "title": "Here's what makes a journey perfect for you",
+        "text": "Whether you are planning a family holiday, a romantic escape or an adventurous wildlife journey, every Lume Bend Ceylon itinerary is built around you. From misty tea hills and ancient cities to quiet southern beaches, we handle every detail so you simply enjoy the island.",
+        "cta": "Book Now",
+        "alts": {
+          "sigiriya": "Sigiriya Rock Fortress",
+          "mirissa": "Mirissa coastline",
+          "sinharaja": "Sinharaja rainforest",
+          "ella": "Ella hill country"
+        }
+      },
+      "services": {
+        "eyebrow": "How We Help",
+        "title": "Our Services",
+        "description": "Everything between your arrival and departure, arranged so you never have to think about logistics."
+      },
+      "featured": {
+        "eyebrow": "Curated Journeys",
+        "title": "Featured Tours",
+        "description": "A selection of our most requested itineraries — each one fully customisable to your dates and pace.",
+        "viewAll": "View all tours"
+      }
+    }
+  },
+  "de": {
+    "Home": {
+      "collage": {
+        "title": "So wird eine Reise genau richtig für Sie",
+        "text": "Ob Familienurlaub, romantische Auszeit oder abenteuerliche Tierbeobachtungsreise – jede Lume Bend Ceylon-Reise wird ganz um Sie herum gestaltet. Von nebligen Teebergen und uralten Städten bis zu ruhigen Stränden im Süden kümmern wir uns um jedes Detail, damit Sie die Insel einfach genießen können.",
+        "cta": "Jetzt buchen",
+        "alts": {
+          "sigiriya": "Felsenfestung Sigiriya",
+          "mirissa": "Küste von Mirissa",
+          "sinharaja": "Regenwald Sinharaja",
+          "ella": "Hochland von Ella"
+        }
+      },
+      "services": {
+        "eyebrow": "So helfen wir",
+        "title": "Unsere Leistungen",
+        "description": "Alles zwischen Ankunft und Abreise – so organisiert, dass Sie sich nie um Logistik kümmern müssen."
+      },
+      "featured": {
+        "eyebrow": "Ausgewählte Reisen",
+        "title": "Empfohlene Touren",
+        "description": "Eine Auswahl unserer gefragtesten Reiserouten – jede lässt sich vollständig auf Ihre Termine und Ihr Tempo anpassen.",
+        "viewAll": "Alle Touren ansehen"
+      }
+    }
+  },
+  "fr": {
+    "Home": {
+      "collage": {
+        "title": "Ce qui fait d'un voyage le voyage parfait pour vous",
+        "text": "Que vous prépariez des vacances en famille, une escapade romantique ou un voyage d'aventure à la rencontre de la faune, chaque itinéraire Lume Bend Ceylon est construit autour de vous. Des collines de thé embrumées et des cités antiques aux plages tranquilles du sud, nous nous occupons de chaque détail pour que vous n'ayez qu'à profiter de l'île.",
+        "cta": "Réserver maintenant",
+        "alts": {
+          "sigiriya": "Forteresse de Sigiriya",
+          "mirissa": "Littoral de Mirissa",
+          "sinharaja": "Forêt tropicale de Sinharaja",
+          "ella": "Hautes terres d'Ella"
+        }
+      },
+      "services": {
+        "eyebrow": "Comment nous vous aidons",
+        "title": "Nos services",
+        "description": "Tout ce qui se passe entre votre arrivée et votre départ, organisé pour que vous n'ayez jamais à penser à la logistique."
+      },
+      "featured": {
+        "eyebrow": "Voyages sélectionnés",
+        "title": "Circuits à la une",
+        "description": "Une sélection de nos itinéraires les plus demandés, chacun entièrement personnalisable selon vos dates et votre rythme.",
+        "viewAll": "Voir tous les circuits"
+      }
+    }
+  },
+  "ru": {
+    "Home": {
+      "collage": {
+        "title": "Что делает путешествие идеальным именно для вас",
+        "text": "Планируете ли вы семейный отдых, романтический побег или приключенческую поездку к дикой природе — каждый маршрут Lume Bend Ceylon строится вокруг вас. От туманных чайных холмов и древних городов до тихих южных пляжей — мы берём на себя все детали, чтобы вы просто наслаждались островом.",
+        "cta": "Забронировать",
+        "alts": {
+          "sigiriya": "Скальная крепость Сигирия",
+          "mirissa": "Побережье Мирисса",
+          "sinharaja": "Тропический лес Синхараджа",
+          "ella": "Горный край Элла"
+        }
+      },
+      "services": {
+        "eyebrow": "Чем мы помогаем",
+        "title": "Наши услуги",
+        "description": "Всё между вашим прилётом и отлётом — организовано так, чтобы вам не приходилось думать о логистике."
+      },
+      "featured": {
+        "eyebrow": "Отобранные путешествия",
+        "title": "Избранные туры",
+        "description": "Подборка наших самых востребованных маршрутов — каждый можно полностью подстроить под ваши даты и темп.",
+        "viewAll": "Все туры"
+      }
+    }
+  },
+  "zh": {
+    "Home": {
+      "collage": {
+        "title": "这就是让旅程完美契合您的秘诀",
+        "text": "无论您计划的是家庭度假、浪漫之旅，还是探索野生动物的冒险旅程，Lume Bend Ceylon 的每条行程都围绕您而设计。从云雾缭绕的茶山、古老城邦到宁静的南部海滩，我们打理每一个细节，让您尽情享受这座岛屿。",
+        "cta": "立即预订",
+        "alts": {
+          "sigiriya": "狮子岩堡垒",
+          "mirissa": "米瑞莎海岸",
+          "sinharaja": "辛哈拉贾雨林",
+          "ella": "埃勒高地"
+        }
+      },
+      "services": {
+        "eyebrow": "我们如何帮助您",
+        "title": "我们的服务",
+        "description": "从抵达到离开之间的一切，我们都为您安排妥当，让您无需操心任何后勤事宜。"
+      },
+      "featured": {
+        "eyebrow": "精选旅程",
+        "title": "精选行程",
+        "description": "我们最受欢迎的行程精选——每一条都可根据您的日期和节奏完全定制。",
+        "viewAll": "查看全部行程"
+      }
+    }
+  }
+}

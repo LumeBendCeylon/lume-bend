@@ -1,0 +1,193 @@
+
+{
+  "en": {
+    "ServicesGrid": {
+      "items": {
+        "plane": {
+          "title": "Airport Transfers",
+          "description": "Seamless, private transfers timed to your flight — every time you land."
+        },
+        "car": {
+          "title": "Private Chauffeur",
+          "description": "A dedicated English-speaking chauffeur for the length of your journey."
+        },
+        "car-front": {
+          "title": "Luxury Vehicles",
+          "description": "Modern, air-conditioned fleets, from private sedans to spacious SUVs."
+        },
+        "guide": {
+          "title": "Professional Tour Guides",
+          "description": "Licensed guides with deep local knowledge and genuine warmth."
+        },
+        "hotel": {
+          "title": "Hotel Booking Assistance",
+          "description": "Curated stays across boutique villas, heritage hotels and resorts."
+        },
+        "train": {
+          "title": "Train Ticket Assistance",
+          "description": "Reserved seats on Sri Lanka's scenic rail lines, secured in advance."
+        },
+        "route": {
+          "title": "Customised Tours",
+          "description": "Bespoke itineraries built entirely around your pace and interests."
+        },
+        "camera": {
+          "title": "Photography Tours",
+          "description": "Golden-hour routes and local access built for serious photographers."
+        }
+      }
+    }
+  },
+  "de": {
+    "ServicesGrid": {
+      "items": {
+        "plane": {
+          "title": "Flughafentransfers",
+          "description": "Reibungslose, private Transfers, abgestimmt auf Ihre Flugzeiten – bei jeder Ankunft."
+        },
+        "car": {
+          "title": "Privater Chauffeur",
+          "description": "Ein persönlicher, englischsprachiger Chauffeur begleitet Sie während Ihrer gesamten Reise."
+        },
+        "car-front": {
+          "title": "Luxusfahrzeuge",
+          "description": "Moderne, klimatisierte Fahrzeuge – von privaten Limousinen bis hin zu geräumigen SUVs."
+        },
+        "guide": {
+          "title": "Professionelle Reiseleiter",
+          "description": "Lizenzierte Guides mit fundiertem lokalem Wissen und herzlicher Gastfreundschaft."
+        },
+        "hotel": {
+          "title": "Unterstützung bei Hotelbuchungen",
+          "description": "Sorgfältig ausgewählte Unterkünfte, von Boutique-Villen über historische Hotels bis hin zu Resorts."
+        },
+        "train": {
+          "title": "Unterstützung bei Zugtickets",
+          "description": "Reservierte Sitzplätze in Sri Lankas malerischen Zügen, rechtzeitig im Voraus organisiert."
+        },
+        "route": {
+          "title": "Individuelle Rundreisen",
+          "description": "Maßgeschneiderte Reiserouten, die ganz auf Ihr Tempo und Ihre Interessen abgestimmt sind."
+        },
+        "camera": {
+          "title": "Fotografietouren",
+          "description": "Routen zur goldenen Stunde und Zugang zu besonderen Orten – ideal für anspruchsvolle Fotografen."
+        }
+      }
+    }
+  },
+  "fr": {
+    "ServicesGrid": {
+      "items": {
+        "plane": {
+          "title": "Transferts aéroport",
+          "description": "Des transferts privés fluides, adaptés à vos horaires de vol à chaque arrivée."
+        },
+        "car": {
+          "title": "Chauffeur privé",
+          "description": "Un chauffeur personnel anglophone vous accompagne tout au long de votre voyage."
+        },
+        "car-front": {
+          "title": "Véhicules de luxe",
+          "description": "Une flotte moderne et climatisée, des berlines privées aux SUV spacieux."
+        },
+        "guide": {
+          "title": "Guides touristiques professionnels",
+          "description": "Des guides agréés qui connaissent parfaitement la région et vous accueillent avec chaleur."
+        },
+        "hotel": {
+          "title": "Aide à la réservation d'hôtels",
+          "description": "Des hébergements soigneusement sélectionnés : villas de charme, hôtels historiques et complexes hôteliers."
+        },
+        "train": {
+          "title": "Assistance pour les billets de train",
+          "description": "Des places réservées à l'avance sur les lignes ferroviaires panoramiques du Sri Lanka."
+        },
+        "route": {
+          "title": "Circuits personnalisés",
+          "description": "Des itinéraires sur mesure, conçus entièrement selon votre rythme et vos centres d'intérêt."
+        },
+        "camera": {
+          "title": "Circuits photographiques",
+          "description": "Des itinéraires à la lumière dorée et des accès locaux privilégiés, pensés pour les passionnés de photographie."
+        }
+      }
+    }
+  },
+  "ru": {
+    "ServicesGrid": {
+      "items": {
+        "plane": {
+          "title": "Трансфер из аэропорта",
+          "description": "Комфортные индивидуальные трансферы с учётом времени вашего рейса при каждом прибытии."
+        },
+        "car": {
+          "title": "Персональный водитель",
+          "description": "Персональный англоговорящий водитель сопровождает вас на протяжении всей поездки."
+        },
+        "car-front": {
+          "title": "Автомобили премиум-класса",
+          "description": "Современные автомобили с кондиционером — от частных седанов до просторных внедорожников."
+        },
+        "guide": {
+          "title": "Профессиональные гиды",
+          "description": "Лицензированные гиды с глубокими знаниями местной культуры и искренним гостеприимством."
+        },
+        "hotel": {
+          "title": "Помощь с бронированием отелей",
+          "description": "Тщательно подобранные варианты размещения: бутик-виллы, исторические отели и курорты."
+        },
+        "train": {
+          "title": "Помощь с билетами на поезд",
+          "description": "Заранее забронированные места на живописных железнодорожных маршрутах Шри-Ланки."
+        },
+        "route": {
+          "title": "Индивидуальные туры",
+          "description": "Маршруты, разработанные специально с учётом вашего темпа и интересов."
+        },
+        "camera": {
+          "title": "Фототуры",
+          "description": "Маршруты в часы золотого света и доступ к местным локациям для увлечённых фотографов."
+        }
+      }
+    }
+  },
+  "zh": {
+    "ServicesGrid": {
+      "items": {
+        "plane": {
+          "title": "机场接送",
+          "description": "根据您的航班时间安排顺畅、私人的接送服务，让每一次抵达都轻松自在。"
+        },
+        "car": {
+          "title": "私人司机",
+          "description": "经验丰富的英语司机将在整个旅程中专属陪伴您。"
+        },
+        "car-front": {
+          "title": "豪华车辆",
+          "description": "现代化空调车队，提供私人轿车及宽敞 SUV 等多种车型。"
+        },
+        "guide": {
+          "title": "专业导游",
+          "description": "持证导游拥有丰富的当地知识，并以真诚热情的态度为您服务。"
+        },
+        "hotel": {
+          "title": "酒店预订协助",
+          "description": "精心挑选精品别墅、历史文化酒店及度假村，为您安排舒适住宿。"
+        },
+        "train": {
+          "title": "火车票预订协助",
+          "description": "提前为您预订斯里兰卡风景优美的铁路线路座位。"
+        },
+        "route": {
+          "title": "定制旅行",
+          "description": "根据您的旅行节奏和兴趣，量身打造专属行程。"
+        },
+        "camera": {
+          "title": "摄影之旅",
+          "description": "为专业摄影爱好者设计的黄金时刻路线，并安排深入当地的拍摄体验。"
+        }
+      }
+    }
+  }
+}

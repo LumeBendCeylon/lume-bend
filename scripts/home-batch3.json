@@ -1,0 +1,102 @@
+{
+  "en": {
+    "Home": {
+      "timeline": {
+        "eyebrow": "How It Works",
+        "title": "Your Travel Experience, Step by Step",
+        "description": "A straightforward path from first message to the moment you land back home.",
+        "items": {}
+      },
+      "findUs": {
+        "eyebrow": "Trusted By Travellers",
+        "title": "Find Us on TripAdvisor",
+        "text": "Read independent traveller reviews of Lume Bend Ceylon, or leave your own after your trip.",
+        "cta": "View Our TripAdvisor Profile"
+      },
+      "faq": {
+        "eyebrow": "Good to Know",
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "de": {
+    "Home": {
+      "timeline": {
+        "eyebrow": "So funktioniert es",
+        "title": "Ihr Reiseerlebnis, Schritt für Schritt",
+        "description": "Ein klarer Weg von der ersten Nachricht bis zu dem Moment, in dem Sie wieder zu Hause landen.",
+        "items": {}
+      },
+      "findUs": {
+        "eyebrow": "Von Reisenden empfohlen",
+        "title": "Finden Sie uns auf TripAdvisor",
+        "text": "Lesen Sie unabhängige Bewertungen von Reisenden über Lume Bend Ceylon oder hinterlassen Sie nach Ihrer Reise Ihre eigene.",
+        "cta": "Unser TripAdvisor-Profil ansehen"
+      },
+      "faq": {
+        "eyebrow": "Gut zu wissen",
+        "title": "Häufig gestellte Fragen"
+      }
+    }
+  },
+  "fr": {
+    "Home": {
+      "timeline": {
+        "eyebrow": "Comment ça marche",
+        "title": "Votre expérience de voyage, étape par étape",
+        "description": "Un parcours simple, du premier message jusqu'au moment où vous atterrissez de retour chez vous.",
+        "items": {}
+      },
+      "findUs": {
+        "eyebrow": "Approuvé par les voyageurs",
+        "title": "Retrouvez-nous sur TripAdvisor",
+        "text": "Lisez les avis indépendants de voyageurs sur Lume Bend Ceylon, ou laissez le vôtre après votre voyage.",
+        "cta": "Voir notre profil TripAdvisor"
+      },
+      "faq": {
+        "eyebrow": "Bon à savoir",
+        "title": "Questions fréquentes"
+      }
+    }
+  },
+  "ru": {
+    "Home": {
+      "timeline": {
+        "eyebrow": "Как это работает",
+        "title": "Ваше путешествие шаг за шагом",
+        "description": "Простой путь от первого сообщения до момента, когда вы приземлитесь дома.",
+        "items": {}
+      },
+      "findUs": {
+        "eyebrow": "Нам доверяют путешественники",
+        "title": "Найдите нас на TripAdvisor",
+        "text": "Читайте независимые отзывы путешественников о Lume Bend Ceylon или оставьте свой после поездки.",
+        "cta": "Открыть наш профиль на TripAdvisor"
+      },
+      "faq": {
+        "eyebrow": "Полезно знать",
+        "title": "Часто задаваемые вопросы"
+      }
+    }
+  },
+  "zh": {
+    "Home": {
+      "timeline": {
+        "eyebrow": "服务流程",
+        "title": "您的旅行体验，一步一步",
+        "description": "从第一条消息到您返回家中的那一刻，一条清晰直接的路径。",
+        "items": {}
+      },
+      "findUs": {
+        "eyebrow": "深受旅客信赖",
+        "title": "在 TripAdvisor 上找到我们",
+        "text": "阅读旅客对 Lume Bend Ceylon 的独立评价，或在旅行结束后留下您的评价。",
+        "cta": "查看我们的 TripAdvisor 主页"
+      },
+      "faq": {
+        "eyebrow": "须知",
+        "title": "常见问题"
+      }
+    }
+  }
+}

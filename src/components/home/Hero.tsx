@@ -1,17 +1,20 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 
 export default function Hero() {
+  const t = useTranslations("Home.hero");
+
   return (
     <section className="relative w-full overflow-hidden bg-forest-dark pt-24 lg:h-screen lg:min-h-[640px] lg:pt-0">
       {/* Photo: phone/tab = full-width 3:2 (whole photo visible), laptop = full-screen cover */}
       <div className="relative aspect-[3/2] w-full lg:absolute lg:inset-0 lg:aspect-auto">
         <Image
           src="/documents/images/tour/main2.png"
-          alt="Sri Lanka luxury travel landscape"
+          alt={t("imageAlt")}
           fill
           priority
           sizes="100vw"
@@ -36,7 +39,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
             className="font-display text-2.8xl text-gold-light sm:text-4xl lg:text-5xl"
           >
-            ආයුබෝවන්!
+            {t("greeting")}
           </motion.p>
 
           <motion.h1
@@ -45,7 +48,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.1 }}
             className="mt-3 font-display text-3xl font-bold uppercase leading-none tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
-            Sri Lanka
+            {t("title")}
           </motion.h1>
 
           <motion.p
@@ -54,7 +57,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="mt-3 font-display text-xl text-gold sm:text-2xl"
           >
-            Beyond Ordinary
+            {t("tagline")}
           </motion.p>
 
           <motion.p
@@ -63,8 +66,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.3 }}
             className="mt-4 max-w-md text-sm text-white/85 sm:text-base"
           >
-            Bespoke journeys through ancient cities, misty tea hills, untamed
-            wilderness and sun-kissed shores, crafted entirely around you.
+            {t("subtitle")}
           </motion.p>
         </div>
 
@@ -79,13 +81,13 @@ export default function Hero() {
             href="/plan"
             className="border border-white/80 bg-white/10 px-8 py-3.5 text-center text-xs font-medium uppercase tracking-[0.25em] text-white backdrop-blur-sm transition-colors duration-300 hover:bg-white hover:text-forest-dark"
           >
-            Book Your Journey
+            {t("bookCta")}
           </Link>
           <Link
             href="/tours"
             className="border border-white/50 px-8 py-3.5 text-center text-xs font-medium uppercase tracking-[0.25em] text-white transition-colors duration-300 hover:bg-white hover:text-forest-dark"
           >
-            Explore Tours
+            {t("toursCta")}
           </Link>
         </motion.div>
       </div>

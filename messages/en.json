@@ -1,0 +1,321 @@
+{
+  "Common": {
+    "bookNow": "Book Now"
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "destinations": "Destinations",
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "sustainability": "Sustainability",
+    "contact": "Contact",
+    "tours": "Tours",
+    "book": "Book Your Journey",
+    "viewAll": "View All Tours",
+    "search": "Search",
+    "searchPlaceholder": "Search tours, destinations...",
+    "myAccount": "My Account",
+    "signIn": "Sign In"
+  },
+  "Footer": {
+    "tagline": "Bespoke, private-guided journeys across Sri Lanka — crafted for travellers who expect every detail to be considered.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "stayInspired": "Stay Inspired",
+    "newsletter": "Join our newsletter for seasonal itineraries and island travel notes.",
+    "emailPlaceholder": "Your email",
+    "join": "Join",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "photoCredits": "Photo Credits",
+    "svc1": "Airport Transfers",
+    "svc2": "Private Chauffeur",
+    "svc3": "Luxury Vehicles",
+    "svc4": "Professional Tour Guides",
+    "svc5": "Hotel Booking Assistance",
+    "svc6": "Train Ticket Assistance"
+  },
+  "WhatsApp": {
+    "chat": "Chat with us on WhatsApp"
+  },
+  "NotFound": {
+    "title": "This Path Isn't on the Map",
+    "text": "The page you're looking for may have moved, or the address may be incorrect.",
+    "home": "Return Home"
+  },
+  "About": {
+    "meta": {
+      "title": "About Us",
+      "description": "LUME BEND is a private luxury travel company in Sri Lanka, creating bespoke journeys for discerning international travellers."
+    },
+    "hero": {
+      "eyebrow": "About LUME BEND",
+      "title": "Built By People Who Call This Island Home"
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "A Different Way to Discover Sri Lanka",
+      "paragraphs": [
+        "LUME BEND was created with a simple belief — that discovering Sri Lanka should feel personal, effortless and genuinely memorable.",
+        "We believe a great journey is about more than visiting famous places. It is about the way a destination makes you feel — a quiet morning in the hills, an unforgettable meal, a meaningful cultural encounter, or a beautiful moment that was never part of the original plan.",
+        "That is why we create journeys around each traveller. We take the time to understand how you want to travel, then carefully bring together the right places to stay, routes to take, people to meet and experiences to enjoy.",
+        "Working with trusted local partners, private chauffeurs, knowledgeable guides and carefully selected properties, we take care of the details behind the journey so you can simply enjoy the experience.",
+        "Whether you are discovering Sri Lanka for the first time or returning to see it differently, our purpose remains the same — to make every journey feel considered, seamless and uniquely yours.",
+        "Because Sri Lanka is not simply a destination to visit. It is a story waiting to be experienced."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Our Purpose",
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "text": "To curate exceptional private journeys through Sri Lanka, bringing together authentic experiences, refined comfort and effortless service — all thoughtfully tailored to each traveller."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "To be recognised for creating beautifully crafted journeys that reveal the finest of Sri Lanka through authentic experiences, thoughtful service and effortless luxury."
+      }
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "Our Values",
+      "items": {
+        "craftsmanship": {
+          "title": "Craftsmanship",
+          "text": "Every itinerary is drawn up individually — never copied from a template."
+        },
+        "hospitality": {
+          "title": "Hospitality",
+          "text": "Sri Lankan warmth is central to the experience, not an afterthought."
+        },
+        "responsibility": {
+          "title": "Responsibility",
+          "text": "We work with communities and conservation partners across every region."
+        },
+        "trust": {
+          "title": "Trust",
+          "text": "Transparent pricing and a single dedicated contact from start to finish."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why Choose Us",
+      "title": "A Small Team, Deliberately",
+      "description": "We take on a limited number of journeys at a time so that every one of them receives full attention."
+    },
+    "team": {
+      "eyebrow": "The People",
+      "title": "Meet Our Team",
+      "roles": {
+        "tharusha": "Founder & Travel Director",
+        "nadeesha": "Co-Founder & Creative Director"
+      }
+    }
+  },
+  "Home": {
+    "meta": {
+      "title": "Luxury Private Tours in Sri Lanka",
+      "description": "Bespoke, privately guided luxury journeys across Sri Lanka's cultural triangle, hill country, wildlife and coast — designed entirely around you."
+    },
+    "hero": {
+      "imageAlt": "Sri Lanka luxury travel landscape",
+      "greeting": "ආයුබෝවන්!",
+      "title": "Sri Lanka",
+      "tagline": "Beyond Ordinary",
+      "subtitle": "Bespoke journeys through ancient cities, misty tea hills, untamed wilderness and sun-kissed shores, crafted entirely around you.",
+      "bookCta": "Book Your Journey",
+      "toursCta": "Explore Tours"
+    },
+    "destinations": {
+      "eyebrow": "Where to Go",
+      "title": "The Wonders of Sri Lanka",
+      "description": "From ancient rock fortresses to whale-watching coastlines, the places our travellers return home talking about.",
+      "prev": "Previous destinations",
+      "next": "Next destinations",
+      "viewAll": "View all destinations"
+    },
+    "why": {
+      "eyebrow": "Why Lume Bend Ceylon",
+      "title": "Reasons For Choosing Us",
+      "description": "We design a small number of journeys exceptionally well, rather than many journeys adequately.",
+      "reasons": {
+        "bespoke": {
+          "title": "Genuinely Bespoke",
+          "description": "No fixed packages. Every itinerary is built from a blank page around your interests."
+        },
+        "trusted": {
+          "title": "Trusted On the Ground",
+          "description": "A locally based team with long-standing relationships across every region we visit."
+        },
+        "contact": {
+          "title": "One Point of Contact",
+          "description": "A dedicated specialist manages your journey from first enquiry to your flight home."
+        },
+        "support": {
+          "title": "24/7 In-Country Support",
+          "description": "Real assistance during your trip, not just before it, day or night."
+        }
+      }
+    },
+    "collage": {
+      "title": "Here's what makes a journey perfect for you",
+      "text": "Whether you are planning a family holiday, a romantic escape or an adventurous wildlife journey, every Lume Bend Ceylon itinerary is built around you. From misty tea hills and ancient cities to quiet southern beaches, we handle every detail so you simply enjoy the island.",
+      "cta": "Book Now",
+      "alts": {
+        "sigiriya": "Sigiriya Rock Fortress",
+        "mirissa": "Mirissa coastline",
+        "sinharaja": "Sinharaja rainforest",
+        "ella": "Ella hill country"
+      }
+    },
+    "services": {
+      "eyebrow": "How We Help",
+      "title": "Our Services",
+      "description": "Everything between your arrival and departure, arranged so you never have to think about logistics."
+    },
+    "featured": {
+      "eyebrow": "Curated Journeys",
+      "title": "Featured Tours",
+      "description": "A selection of our most requested itineraries — each one fully customisable to your dates and pace.",
+      "viewAll": "View all tours"
+    },
+    "timeline": {
+      "eyebrow": "How It Works",
+      "title": "Your Travel Experience, Step by Step",
+      "description": "A straightforward path from first message to the moment you land back home.",
+      "items": {
+        "1": {
+          "title": "Enquire",
+          "description": "Share your travel dates, interests and group size through our form."
+        },
+        "2": {
+          "title": "Design",
+          "description": "Our specialists design a tailored itinerary and send a detailed proposal."
+        },
+        "3": {
+          "title": "Confirm",
+          "description": "Refine the details with us, then confirm your dates and inclusions."
+        },
+        "4": {
+          "title": "Travel",
+          "description": "Your chauffeur, guides and stays are ready from the moment you land."
+        },
+        "5": {
+          "title": "Return",
+          "description": "We follow up after your trip — and we're here for the next one."
+        }
+      }
+    },
+    "findUs": {
+      "eyebrow": "Trusted By Travellers",
+      "title": "Find Us on TripAdvisor",
+      "text": "Read independent traveller reviews of Lume Bend Ceylon, or leave your own after your trip.",
+      "cta": "View Our TripAdvisor Profile"
+    },
+    "faq": {
+      "eyebrow": "Good to Know",
+      "title": "Frequently Asked Questions"
+    }
+  },
+  "TourCard": {
+    "fullItinerary": "Full Itinerary",
+    "bookInquiry": "Book Inquiry",
+    "categories": {
+      "Luxury Tours": "Luxury Tours",
+      "General Tours": "General Tours",
+      "Family Tours": "Family Tours",
+      "Adventure Tours": "Adventure Tours",
+      "Wildlife Tours": "Wildlife Tours",
+      "Romantic & Honeymoon Tours": "Romantic & Honeymoon Tours",
+      "Cultural Heritage Tours": "Cultural Heritage Tours",
+      "Ayurveda & Wellness Tours": "Ayurveda & Wellness Tours",
+      "Ramayana Tours": "Ramayana Tours"
+    }
+  },
+  "ServicesGrid": {
+    "items": {
+      "plane": {
+        "title": "Airport Transfers",
+        "description": "Seamless, private transfers timed to your flight — every time you land."
+      },
+      "car": {
+        "title": "Private Chauffeur",
+        "description": "A dedicated English-speaking chauffeur for the length of your journey."
+      },
+      "car-front": {
+        "title": "Luxury Vehicles",
+        "description": "Modern, air-conditioned fleets, from private sedans to spacious SUVs."
+      },
+      "guide": {
+        "title": "Professional Tour Guides",
+        "description": "Licensed guides with deep local knowledge and genuine warmth."
+      },
+      "hotel": {
+        "title": "Hotel Booking Assistance",
+        "description": "Curated stays across boutique villas, heritage hotels and resorts."
+      },
+      "train": {
+        "title": "Train Ticket Assistance",
+        "description": "Reserved seats on Sri Lanka's scenic rail lines, secured in advance."
+      },
+      "route": {
+        "title": "Customised Tours",
+        "description": "Bespoke itineraries built entirely around your pace and interests."
+      },
+      "camera": {
+        "title": "Photography Tours",
+        "description": "Golden-hour routes and local access built for serious photographers."
+      }
+    }
+  },
+  "Testimonials": {
+    "eyebrow": "Traveller Stories",
+    "title": "What Our Guests Say",
+    "readAll": "Read all reviews"
+  },
+  "CTA": {
+    "title": "Ready to Design Your Sri Lanka?",
+    "text": "Tell us your dates and interests — a specialist will reply with a tailored itinerary, usually within one business day.",
+    "button": "Start Your Enquiry"
+  },
+  "FAQ": {
+    "items": [
+      {
+        "q": "How far in advance should I book?",
+        "a": "We recommend enquiring 2–3 months before your intended travel dates, especially for December–March, our peak season. We can also accommodate shorter notice where possible."
+      },
+      {
+        "q": "Can itineraries be customised?",
+        "a": "Yes — every tour on this site is a starting point. Tell us your interests, pace and travel dates, and we'll tailor the route, hotels and pacing around you."
+      },
+      {
+        "q": "Is payment required to submit an enquiry?",
+        "a": "No. Submitting the enquiry form is free and commits you to nothing. A member of our team will follow up with a tailored proposal and pricing."
+      },
+      {
+        "q": "Do you arrange airport pickup?",
+        "a": "Yes, private airport transfers are included as standard in every multi-day itinerary we arrange."
+      },
+      {
+        "q": "What is the best time of year to visit Sri Lanka?",
+        "a": "Sri Lanka has two monsoon seasons affecting different coasts, so there is a good time to visit almost year-round. We'll advise on the best route for your travel dates during planning."
+      }
+    ]
+  },
+  "Tours": {
+    "items": {
+      "golden-grand-escape-5-day": {
+        "title": "Golden Ceylon Escape",
+        "blurb": "Five days of private luxury across Sri Lanka's Cultural Triangle and hill capital, with nothing left to chance.",
+        "highlights": {
+          "0": "Private sunrise Sigiriya climb",
+          "1": "Candlelit rooftop dinner",
+          "2": "Temple of the Tooth evening ceremony"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,263 @@
+
+{
+  "en": {
+    "FAQ": {
+      "items": [
+        {
+          "q": "How far in advance should I book?",
+          "a": "We recommend enquiring 2–3 months before your intended travel dates, especially for December–March, our peak season. We can also accommodate shorter notice where possible."
+        },
+        {
+          "q": "Can itineraries be customised?",
+          "a": "Yes — every tour on this site is a starting point. Tell us your interests, pace and travel dates, and we'll tailor the route, hotels and pacing around you."
+        },
+        {
+          "q": "Is payment required to submit an enquiry?",
+          "a": "No. Submitting the enquiry form is free and commits you to nothing. A member of our team will follow up with a tailored proposal and pricing."
+        },
+        {
+          "q": "Do you arrange airport pickup?",
+          "a": "Yes, private airport transfers are included as standard in every multi-day itinerary we arrange."
+        },
+        {
+          "q": "What is the best time of year to visit Sri Lanka?",
+          "a": "Sri Lanka has two monsoon seasons affecting different coasts, so there is a good time to visit almost year-round. We'll advise on the best route for your travel dates during planning."
+        }
+      ]
+    },
+    "Home": {
+      "timeline": {
+        "items": {
+          "1": {
+            "title": "Enquire",
+            "description": "Share your travel dates, interests and group size through our form."
+          },
+          "2": {
+            "title": "Design",
+            "description": "Our specialists design a tailored itinerary and send a detailed proposal."
+          },
+          "3": {
+            "title": "Confirm",
+            "description": "Refine the details with us, then confirm your dates and inclusions."
+          },
+          "4": {
+            "title": "Travel",
+            "description": "Your chauffeur, guides and stays are ready from the moment you land."
+          },
+          "5": {
+            "title": "Return",
+            "description": "We follow up after your trip — and we're here for the next one."
+          }
+        }
+      }
+    }
+  },
+  "de": {
+    "FAQ": {
+      "items": [
+        {
+          "q": "Wie lange im Voraus sollte ich buchen?",
+          "a": "Wir empfehlen, Ihre Reise 2–3 Monate vor dem geplanten Reisedatum anzufragen, insbesondere für unsere Hauptsaison von Dezember bis März. Je nach Verfügbarkeit sind auch kurzfristigere Anfragen möglich."
+        },
+        {
+          "q": "Können die Reiserouten individuell angepasst werden?",
+          "a": "Ja — jede Reise auf dieser Website dient als Ausgangspunkt. Teilen Sie uns Ihre Interessen, Ihr bevorzugtes Reisetempo und Ihre Reisedaten mit. Wir passen Route, Hotels und Ablauf individuell an Ihre Wünsche an."
+        },
+        {
+          "q": "Muss ich bezahlen, um eine Anfrage zu senden?",
+          "a": "Nein. Das Absenden des Anfrageformulars ist kostenlos und unverbindlich. Unser Team meldet sich bei Ihnen mit einem individuellen Reisevorschlag und den entsprechenden Preisen."
+        },
+        {
+          "q": "Organisieren Sie einen Flughafentransfer?",
+          "a": "Ja, private Flughafentransfers sind standardmäßig in jeder von uns organisierten mehrtägigen Reise enthalten."
+        },
+        {
+          "q": "Wann ist die beste Reisezeit für Sri Lanka?",
+          "a": "Sri Lanka hat zwei Monsunzeiten, die unterschiedliche Küstenregionen beeinflussen. Deshalb ist das Land fast das ganze Jahr über gut zu bereisen. Bei der Planung empfehlen wir Ihnen die passende Route für Ihre Reisedaten."
+        }
+      ]
+    },
+    "Home": {
+      "timeline": {
+        "items": {
+          "1": {
+            "title": "Anfragen",
+            "description": "Teilen Sie uns über unser Formular Ihre Reisedaten, Interessen und Gruppengröße mit."
+          },
+          "2": {
+            "title": "Gestalten",
+            "description": "Unsere Spezialisten entwerfen eine individuelle Reiseroute und senden Ihnen ein ausführliches Angebot."
+          },
+          "3": {
+            "title": "Bestätigen",
+            "description": "Stimmen Sie die Einzelheiten mit uns ab und bestätigen Sie anschließend Ihre Reisedaten und Leistungen."
+          },
+          "4": {
+            "title": "Reisen",
+            "description": "Ihr Chauffeur, Ihre Guides und Ihre Unterkünfte sind ab Ihrer Ankunft für Sie bereit."
+          },
+          "5": {
+            "title": "Wiederkommen",
+            "description": "Nach Ihrer Reise melden wir uns bei Ihnen — und freuen uns darauf, Ihre nächste Reise zu gestalten."
+          }
+        }
+      }
+    }
+  },
+  "fr": {
+    "FAQ": {
+      "items": [
+        {
+          "q": "Combien de temps à l'avance dois-je réserver ?",
+          "a": "Nous vous recommandons de nous contacter 2 à 3 mois avant vos dates de voyage, en particulier pour notre haute saison, de décembre à mars. Nous pouvons également répondre aux demandes de dernière minute selon les disponibilités."
+        },
+        {
+          "q": "Les itinéraires peuvent-ils être personnalisés ?",
+          "a": "Oui — chaque circuit présenté sur ce site constitue un point de départ. Faites-nous part de vos centres d'intérêt, de votre rythme de voyage et de vos dates. Nous adapterons l'itinéraire, les hôtels et le programme à vos envies."
+        },
+        {
+          "q": "Dois-je payer pour envoyer une demande ?",
+          "a": "Non. L'envoi du formulaire est gratuit et sans engagement. Un membre de notre équipe vous contactera avec une proposition personnalisée et les tarifs correspondants."
+        },
+        {
+          "q": "Organisez-vous les transferts depuis l'aéroport ?",
+          "a": "Oui, les transferts privés depuis l'aéroport sont inclus par défaut dans tous les itinéraires de plusieurs jours que nous organisons."
+        },
+        {
+          "q": "Quelle est la meilleure période pour visiter le Sri Lanka ?",
+          "a": "Le Sri Lanka connaît deux saisons de mousson qui touchent différentes côtes. Il est donc possible de visiter le pays à presque toute période de l'année. Lors de la préparation de votre voyage, nous vous conseillerons l'itinéraire le mieux adapté à vos dates."
+        }
+      ]
+    },
+    "Home": {
+      "timeline": {
+        "items": {
+          "1": {
+            "title": "Demander",
+            "description": "Indiquez vos dates de voyage, vos centres d'intérêt et la taille de votre groupe dans notre formulaire."
+          },
+          "2": {
+            "title": "Concevoir",
+            "description": "Nos spécialistes élaborent un itinéraire sur mesure et vous envoient une proposition détaillée."
+          },
+          "3": {
+            "title": "Confirmer",
+            "description": "Affinez les détails avec nous, puis confirmez vos dates et les prestations incluses."
+          },
+          "4": {
+            "title": "Voyager",
+            "description": "Votre chauffeur, vos guides et vos hébergements sont prêts dès votre arrivée."
+          },
+          "5": {
+            "title": "Revenir",
+            "description": "Nous prenons de vos nouvelles après votre voyage et restons à votre disposition pour le prochain."
+          }
+        }
+      }
+    }
+  },
+  "ru": {
+    "FAQ": {
+      "items": [
+        {
+          "q": "За сколько времени до поездки лучше бронировать?",
+          "a": "Мы рекомендуем отправлять запрос за 2–3 месяца до предполагаемой даты поездки, особенно если вы планируете путешествие в высокий сезон с декабря по март. При наличии возможности мы также принимаем заявки в более короткие сроки."
+        },
+        {
+          "q": "Можно ли изменить маршрут по индивидуальным пожеланиям?",
+          "a": "Да — каждый тур на нашем сайте служит отправной точкой. Расскажите нам о своих интересах, предпочтительном темпе путешествия и датах поездки. Мы адаптируем маршрут, отели и расписание под ваши пожелания."
+        },
+        {
+          "q": "Нужно ли платить за отправку запроса?",
+          "a": "Нет. Отправка формы бесплатна и ни к чему вас не обязывает. Наш сотрудник свяжется с вами и подготовит индивидуальное предложение с указанием стоимости."
+        },
+        {
+          "q": "Организуете ли вы трансфер из аэропорта?",
+          "a": "Да, индивидуальный трансфер из аэропорта стандартно включён в каждый организуемый нами многодневный маршрут."
+        },
+        {
+          "q": "Когда лучше всего посещать Шри-Ланку?",
+          "a": "На Шри-Ланке два сезона муссонов, которые затрагивают разные побережья. Поэтому путешествовать по стране можно практически круглый год. При планировании мы посоветуем маршрут, подходящий для ваших дат поездки."
+        }
+      ]
+    },
+    "Home": {
+      "timeline": {
+        "items": {
+          "1": {
+            "title": "Запрос",
+            "description": "Укажите даты поездки, свои интересы и количество участников в нашей форме."
+          },
+          "2": {
+            "title": "Разработка",
+            "description": "Наши специалисты разработают индивидуальный маршрут и отправят вам подробное предложение."
+          },
+          "3": {
+            "title": "Подтверждение",
+            "description": "Согласуйте с нами детали, затем подтвердите даты поездки и включённые услуги."
+          },
+          "4": {
+            "title": "Путешествие",
+            "description": "Ваш водитель, гиды и места проживания будут готовы к вашему приезду."
+          },
+          "5": {
+            "title": "Возвращение",
+            "description": "После поездки мы свяжемся с вами и будем рады помочь организовать ваше следующее путешествие."
+          }
+        }
+      }
+    }
+  },
+  "zh": {
+    "FAQ": {
+      "items": [
+        {
+          "q": "我应该提前多久预订？",
+          "a": "我们建议您在计划出行日期前 2–3 个月咨询，尤其是 12 月至次年 3 月的旅游旺季。如有条件，我们也可以安排较临近出发日期的行程。"
+        },
+        {
+          "q": "行程可以根据个人需求定制吗？",
+          "a": "当然可以——本网站上的每个旅行方案都只是一个起点。请告诉我们您的兴趣、旅行节奏和出行日期，我们会根据您的需求定制路线、酒店和行程安排。"
+        },
+        {
+          "q": "提交咨询需要付款吗？",
+          "a": "不需要。提交咨询表单完全免费，也不会对您产生任何约束。我们的团队成员会随后与您联系，为您提供个性化的旅行方案及报价。"
+        },
+        {
+          "q": "你们提供机场接送服务吗？",
+          "a": "是的，我们安排的所有多日行程均标准包含私人机场接送服务。"
+        },
+        {
+          "q": "一年中什么时候最适合游览斯里兰卡？",
+          "a": "斯里兰卡有两个季风季节，影响不同的海岸地区，因此几乎全年都适合前来旅行。在规划行程时，我们会根据您的出行日期推荐合适的路线。"
+        }
+      ]
+    },
+    "Home": {
+      "timeline": {
+        "items": {
+          "1": {
+            "title": "提交咨询",
+            "description": "通过我们的表单告知您的出行日期、兴趣偏好和团队人数。"
+          },
+          "2": {
+            "title": "定制行程",
+            "description": "我们的旅行专家将为您设计专属行程，并发送详细的旅行方案。"
+          },
+          "3": {
+            "title": "确认行程",
+            "description": "与我们进一步完善行程细节，然后确认出行日期和包含的服务。"
+          },
+          "4": {
+            "title": "开启旅程",
+            "description": "从您抵达的那一刻起，您的专属司机、导游和住宿安排都将准备就绪。"
+          },
+          "5": {
+            "title": "期待再会",
+            "description": "旅程结束后，我们会与您联系，也期待为您的下一次旅行提供帮助。"
+          }
+        }
+      }
+    }
+  }
+}

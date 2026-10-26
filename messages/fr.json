@@ -1,0 +1,321 @@
+{
+  "Common": {
+    "bookNow": "Réserver"
+  },
+  "Nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "destinations": "Destinations",
+    "services": "Services",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "sustainability": "Durabilité",
+    "contact": "Contact",
+    "tours": "Circuits",
+    "book": "Réserver votre voyage",
+    "viewAll": "Voir tous les circuits",
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher circuits, destinations...",
+    "myAccount": "Mon compte",
+    "signIn": "Se connecter"
+  },
+  "Footer": {
+    "tagline": "Des voyages sur mesure, guidés en privé à travers le Sri Lanka, pour les voyageurs qui exigent que chaque détail soit soigné.",
+    "quickLinks": "Liens rapides",
+    "servicesTitle": "Services",
+    "stayInspired": "Restez inspiré",
+    "newsletter": "Abonnez-vous à notre newsletter pour recevoir des itinéraires de saison et des notes de voyage sur l'île.",
+    "emailPlaceholder": "Votre e-mail",
+    "join": "S'abonner",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "photoCredits": "Crédits photo",
+    "svc1": "Transferts aéroport",
+    "svc2": "Chauffeur privé",
+    "svc3": "Véhicules de luxe",
+    "svc4": "Guides touristiques professionnels",
+    "svc5": "Aide à la réservation d'hôtels",
+    "svc6": "Aide pour les billets de train"
+  },
+  "WhatsApp": {
+    "chat": "Discutez avec nous sur WhatsApp"
+  },
+  "NotFound": {
+    "title": "Ce chemin n'est pas sur la carte",
+    "text": "La page que vous recherchez a peut-être été déplacée, ou l'adresse est incorrecte.",
+    "home": "Retour à l'accueil"
+  },
+  "About": {
+    "meta": {
+      "title": "À propos",
+      "description": "LUME BEND est une compagnie de voyages de luxe privés au Sri Lanka, qui crée des voyages sur mesure pour des voyageurs internationaux exigeants."
+    },
+    "hero": {
+      "eyebrow": "À propos de LUME BEND",
+      "title": "Créé par des gens pour qui cette île est un foyer"
+    },
+    "story": {
+      "eyebrow": "Notre histoire",
+      "title": "Une autre façon de découvrir le Sri Lanka",
+      "paragraphs": [
+        "LUME BEND est né d'une conviction simple : découvrir le Sri Lanka doit être personnel, fluide et véritablement mémorable.",
+        "Pour nous, un beau voyage ne se résume pas à visiter des lieux célèbres. Il tient à ce qu'une destination vous fait ressentir : un matin paisible dans les collines, un repas inoubliable, une rencontre culturelle marquante, ou un moment magnifique qui n'était pas prévu.",
+        "C'est pourquoi nous concevons chaque voyage autour du voyageur. Nous prenons le temps de comprendre votre façon de voyager, puis nous réunissons avec soin les bons hébergements, les bons itinéraires, les rencontres et les expériences qui vous correspondent.",
+        "Avec des partenaires locaux de confiance, des chauffeurs privés, des guides érudits et des établissements soigneusement sélectionnés, nous nous occupons de tous les détails afin que vous n'ayez plus qu'à profiter.",
+        "Que vous découvriez le Sri Lanka pour la première fois ou que vous reveniez pour le voir autrement, notre vocation reste la même : faire de chaque voyage une expérience réfléchie, fluide et unique.",
+        "Car le Sri Lanka n'est pas simplement une destination à visiter. C'est une histoire qui n'attend qu'à être vécue."
+      ]
+    },
+    "purpose": {
+      "eyebrow": "Notre raison d'être",
+      "title": "Mission et vision",
+      "mission": {
+        "title": "Mission",
+        "text": "Concevoir des voyages privés d'exception à travers le Sri Lanka, alliant expériences authentiques, confort raffiné et service sans effort, le tout soigneusement adapté à chaque voyageur."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "Être reconnus pour des voyages magnifiquement conçus, qui révèlent le meilleur du Sri Lanka grâce à des expériences authentiques, un service attentionné et un luxe sans effort."
+      }
+    },
+    "values": {
+      "eyebrow": "Nos engagements",
+      "title": "Nos valeurs",
+      "items": {
+        "craftsmanship": {
+          "title": "Savoir-faire",
+          "text": "Chaque itinéraire est dessiné sur mesure, jamais copié d'un modèle."
+        },
+        "hospitality": {
+          "title": "Hospitalité",
+          "text": "La chaleur sri-lankaise est au cœur de l'expérience, et non un détail accessoire."
+        },
+        "responsibility": {
+          "title": "Responsabilité",
+          "text": "Nous collaborons avec les communautés locales et des partenaires de conservation dans chaque région."
+        },
+        "trust": {
+          "title": "Confiance",
+          "text": "Des tarifs transparents et un interlocuteur unique du début à la fin."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Une petite équipe, par choix",
+      "description": "Nous n'acceptons qu'un nombre limité de voyages à la fois afin que chacun reçoive toute notre attention."
+    },
+    "team": {
+      "eyebrow": "Les personnes",
+      "title": "Notre équipe",
+      "roles": {
+        "tharusha": "Fondateur et directeur des voyages",
+        "nadeesha": "Cofondatrice et directrice de la création"
+      }
+    }
+  },
+  "Home": {
+    "meta": {
+      "title": "Voyages privés de luxe au Sri Lanka",
+      "description": "Voyages de luxe sur mesure, guidés en privé, à travers le triangle culturel, les hautes terres, la faune et le littoral du Sri Lanka, conçus entièrement autour de vous."
+    },
+    "hero": {
+      "imageAlt": "Paysage de voyage de luxe au Sri Lanka",
+      "greeting": "ආයුබෝවන්!",
+      "title": "Sri Lanka",
+      "tagline": "Au-delà de l'ordinaire",
+      "subtitle": "Des voyages sur mesure à travers des cités antiques, des collines de thé embrumées, une nature sauvage et des rivages baignés de soleil, conçus entièrement autour de vous.",
+      "bookCta": "Réserver votre voyage",
+      "toursCta": "Découvrir les circuits"
+    },
+    "destinations": {
+      "eyebrow": "Où aller",
+      "title": "Les merveilles du Sri Lanka",
+      "description": "Des forteresses rocheuses antiques aux côtes d'observation des baleines, les lieux dont nos voyageurs reviennent en parlant.",
+      "prev": "Destinations précédentes",
+      "next": "Destinations suivantes",
+      "viewAll": "Voir toutes les destinations"
+    },
+    "why": {
+      "eyebrow": "Pourquoi Lume Bend Ceylon",
+      "title": "Les raisons de nous choisir",
+      "description": "Nous concevons un petit nombre de voyages de façon exceptionnelle, plutôt que de nombreux voyages de façon correcte.",
+      "reasons": {
+        "bespoke": {
+          "title": "Véritablement sur mesure",
+          "description": "Aucun forfait figé. Chaque itinéraire est construit à partir d'une page blanche, autour de vos centres d'intérêt."
+        },
+        "trusted": {
+          "title": "Une équipe de confiance sur place",
+          "description": "Une équipe basée localement, avec des relations de longue date dans chaque région que nous visitons."
+        },
+        "contact": {
+          "title": "Un interlocuteur unique",
+          "description": "Un spécialiste dédié gère votre voyage de la première demande jusqu'à votre vol retour."
+        },
+        "support": {
+          "title": "Assistance 24h/24 sur place",
+          "description": "Une aide réelle pendant votre voyage, pas seulement avant, de jour comme de nuit."
+        }
+      }
+    },
+    "collage": {
+      "title": "Ce qui fait d'un voyage le voyage parfait pour vous",
+      "text": "Que vous prépariez des vacances en famille, une escapade romantique ou un voyage d'aventure à la rencontre de la faune, chaque itinéraire Lume Bend Ceylon est construit autour de vous. Des collines de thé embrumées et des cités antiques aux plages tranquilles du sud, nous nous occupons de chaque détail pour que vous n'ayez qu'à profiter de l'île.",
+      "cta": "Réserver maintenant",
+      "alts": {
+        "sigiriya": "Forteresse de Sigiriya",
+        "mirissa": "Littoral de Mirissa",
+        "sinharaja": "Forêt tropicale de Sinharaja",
+        "ella": "Hautes terres d'Ella"
+      }
+    },
+    "services": {
+      "eyebrow": "Comment nous vous aidons",
+      "title": "Nos services",
+      "description": "Tout ce qui se passe entre votre arrivée et votre départ, organisé pour que vous n'ayez jamais à penser à la logistique."
+    },
+    "featured": {
+      "eyebrow": "Voyages sélectionnés",
+      "title": "Circuits à la une",
+      "description": "Une sélection de nos itinéraires les plus demandés, chacun entièrement personnalisable selon vos dates et votre rythme.",
+      "viewAll": "Voir tous les circuits"
+    },
+    "timeline": {
+      "eyebrow": "Comment ça marche",
+      "title": "Votre expérience de voyage, étape par étape",
+      "description": "Un parcours simple, du premier message jusqu'au moment où vous atterrissez de retour chez vous.",
+      "items": {
+        "1": {
+          "title": "Demander",
+          "description": "Indiquez vos dates de voyage, vos centres d'intérêt et la taille de votre groupe dans notre formulaire."
+        },
+        "2": {
+          "title": "Concevoir",
+          "description": "Nos spécialistes élaborent un itinéraire sur mesure et vous envoient une proposition détaillée."
+        },
+        "3": {
+          "title": "Confirmer",
+          "description": "Affinez les détails avec nous, puis confirmez vos dates et les prestations incluses."
+        },
+        "4": {
+          "title": "Voyager",
+          "description": "Votre chauffeur, vos guides et vos hébergements sont prêts dès votre arrivée."
+        },
+        "5": {
+          "title": "Revenir",
+          "description": "Nous prenons de vos nouvelles après votre voyage et restons à votre disposition pour le prochain."
+        }
+      }
+    },
+    "findUs": {
+      "eyebrow": "Approuvé par les voyageurs",
+      "title": "Retrouvez-nous sur TripAdvisor",
+      "text": "Lisez les avis indépendants de voyageurs sur Lume Bend Ceylon, ou laissez le vôtre après votre voyage.",
+      "cta": "Voir notre profil TripAdvisor"
+    },
+    "faq": {
+      "eyebrow": "Bon à savoir",
+      "title": "Questions fréquentes"
+    }
+  },
+  "TourCard": {
+    "fullItinerary": "Itinéraire complet",
+    "bookInquiry": "Demande de réservation",
+    "categories": {
+      "Luxury Tours": "Circuits de luxe",
+      "General Tours": "Circuits classiques",
+      "Family Tours": "Circuits en famille",
+      "Adventure Tours": "Circuits d'aventure",
+      "Wildlife Tours": "Safaris animaliers",
+      "Romantic & Honeymoon Tours": "Circuits romantiques et voyages de noces",
+      "Cultural Heritage Tours": "Circuits culturels et patrimoniaux",
+      "Ayurveda & Wellness Tours": "Circuits Ayurveda et bien-être",
+      "Ramayana Tours": "Circuits du Ramayana"
+    }
+  },
+  "ServicesGrid": {
+    "items": {
+      "plane": {
+        "title": "Transferts aéroport",
+        "description": "Des transferts privés fluides, adaptés à vos horaires de vol à chaque arrivée."
+      },
+      "car": {
+        "title": "Chauffeur privé",
+        "description": "Un chauffeur personnel anglophone vous accompagne tout au long de votre voyage."
+      },
+      "car-front": {
+        "title": "Véhicules de luxe",
+        "description": "Une flotte moderne et climatisée, des berlines privées aux SUV spacieux."
+      },
+      "guide": {
+        "title": "Guides touristiques professionnels",
+        "description": "Des guides agréés qui connaissent parfaitement la région et vous accueillent avec chaleur."
+      },
+      "hotel": {
+        "title": "Aide à la réservation d'hôtels",
+        "description": "Des hébergements soigneusement sélectionnés : villas de charme, hôtels historiques et complexes hôteliers."
+      },
+      "train": {
+        "title": "Assistance pour les billets de train",
+        "description": "Des places réservées à l'avance sur les lignes ferroviaires panoramiques du Sri Lanka."
+      },
+      "route": {
+        "title": "Circuits personnalisés",
+        "description": "Des itinéraires sur mesure, conçus entièrement selon votre rythme et vos centres d'intérêt."
+      },
+      "camera": {
+        "title": "Circuits photographiques",
+        "description": "Des itinéraires à la lumière dorée et des accès locaux privilégiés, pensés pour les passionnés de photographie."
+      }
+    }
+  },
+  "Testimonials": {
+    "eyebrow": "Histoires de voyageurs",
+    "title": "Ce que disent nos clients",
+    "readAll": "Lire tous les avis"
+  },
+  "CTA": {
+    "title": "Prêt à imaginer votre Sri Lanka ?",
+    "text": "Indiquez-nous vos dates et vos centres d'intérêt : un spécialiste vous répondra avec un itinéraire sur mesure, généralement sous un jour ouvré.",
+    "button": "Démarrer votre demande"
+  },
+  "FAQ": {
+    "items": [
+      {
+        "q": "Combien de temps à l'avance dois-je réserver ?",
+        "a": "Nous vous recommandons de nous contacter 2 à 3 mois avant vos dates de voyage, en particulier pour notre haute saison, de décembre à mars. Nous pouvons également répondre aux demandes de dernière minute selon les disponibilités."
+      },
+      {
+        "q": "Les itinéraires peuvent-ils être personnalisés ?",
+        "a": "Oui — chaque circuit présenté sur ce site constitue un point de départ. Faites-nous part de vos centres d'intérêt, de votre rythme de voyage et de vos dates. Nous adapterons l'itinéraire, les hôtels et le programme à vos envies."
+      },
+      {
+        "q": "Dois-je payer pour envoyer une demande ?",
+        "a": "Non. L'envoi du formulaire est gratuit et sans engagement. Un membre de notre équipe vous contactera avec une proposition personnalisée et les tarifs correspondants."
+      },
+      {
+        "q": "Organisez-vous les transferts depuis l'aéroport ?",
+        "a": "Oui, les transferts privés depuis l'aéroport sont inclus par défaut dans tous les itinéraires de plusieurs jours que nous organisons."
+      },
+      {
+        "q": "Quelle est la meilleure période pour visiter le Sri Lanka ?",
+        "a": "Le Sri Lanka connaît deux saisons de mousson qui touchent différentes côtes. Il est donc possible de visiter le pays à presque toute période de l'année. Lors de la préparation de votre voyage, nous vous conseillerons l'itinéraire le mieux adapté à vos dates."
+      }
+    ]
+  },
+  "Tours": {
+    "items": {
+      "golden-grand-escape-5-day": {
+        "title": "Évasion dorée à Ceylan",
+        "blurb": "Cinq jours de luxe privé à travers le Triangle culturel du Sri Lanka et Kandy, la capitale des montagnes, avec chaque détail soigneusement préparé.",
+        "highlights": {
+          "0": "Ascension privée du rocher de Sigiriya au lever du soleil",
+          "1": "Dîner aux chandelles sur un toit-terrasse",
+          "2": "Cérémonie du soir au Temple de la Dent"
+        }
+      }
+    }
+  }
+}

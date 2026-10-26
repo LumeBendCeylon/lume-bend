@@ -1,9 +1,18 @@
-// Original line-art "island silhouette" motifs — Golden Palm Ceylon's visual
+// Original line-art "island silhouette" motifs - Golden Palm Ceylon's visual
 // signature in place of stock photography until real photography is added.
 // Each motif corresponds to a landscape type (rock fortress, hills, temple,
 // coastline, rainforest, sunrise) referenced by `motif` fields in lib/data.ts.
 
-type MotifKey = "mountain" | "wave" | "temple" | "rock" | "leaf" | "sun";
+type MotifKey =
+  | "mountain"
+  | "wave"
+  | "temple"
+  | "rock"
+  | "leaf"
+  | "sun"
+  | "romance"
+  | "wildlife"
+  | "heritage";
 
 const PATHS: Record<MotifKey, string> = {
   mountain:
@@ -18,6 +27,12 @@ const PATHS: Record<MotifKey, string> = {
     "M50 14 C 74 22, 82 44, 68 66 C 54 84, 26 84, 16 62 C 8 42, 26 18, 50 14 Z M50 14 C 46 34, 44 54, 30 70",
   sun:
     "M50 62 m-16 0 a16 16 0 1 0 32 0 a16 16 0 1 0 -32 0 M50 30 L50 22 M74 38 L80 32 M26 38 L20 32 M50 88 L50 96",
+  romance:
+    "M50 82 C 18 58, 14 34, 32 26 C 42 22, 50 30, 50 36 C 50 30, 58 22, 68 26 C 86 34, 82 58, 50 82 Z",
+  wildlife:
+    "M50 72 C 36 72, 30 62, 38 54 C 44 48, 56 48, 62 54 C 70 62, 64 72, 50 72 Z M28 46 m-5 0 a5 6 0 1 0 10 0 a5 6 0 1 0 -10 0 M42 32 m-5 0 a5 6 0 1 0 10 0 a5 6 0 1 0 -10 0 M58 32 m-5 0 a5 6 0 1 0 10 0 a5 6 0 1 0 -10 0 M72 46 m-5 0 a5 6 0 1 0 10 0 a5 6 0 1 0 -10 0",
+  heritage:
+    "M20 80 L80 80 M26 80 L26 40 M74 80 L74 40 M20 40 L50 22 L80 40 Z M42 80 L42 58 C 42 50, 58 50, 58 58 L58 80",
 };
 
 export default function Motif({

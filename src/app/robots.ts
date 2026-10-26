@@ -5,7 +5,7 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: "*",
       allow: "/",
-      disallow: ["/admin", "/account"],
+      disallow: ["/admin", "/account", "/*/admin", "/*/account"],
     },
     sitemap: "https://www.lumebendceylon.com/sitemap.xml",
   };

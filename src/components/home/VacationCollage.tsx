@@ -1,12 +1,6 @@
 import Image from "next/image";
-import Link from "next/link";
-
-const PHOTOS = {
-  tall: { src: "/documents/destination image/sigiriya.jpg", alt: "Sigiriya Rock Fortress" },
-  wide: { src: "/documents/destination image/mirissa.jpg", alt: "Mirissa coastline" },
-  topRight: { src: "/documents/destination image/sinharaja.jpg", alt: "Sinharaja rainforest" },
-  bottomRight: { src: "/documents/destination image/ella.jpg", alt: "Ella hill country" },
-};
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 
 function Photo({
   src,
@@ -31,7 +25,16 @@ function Photo({
   );
 }
 
-export default function VacationCollage() {
+export default async function VacationCollage() {
+  const t = await getTranslations("Home.collage");
+
+  const PHOTOS = {
+    tall: { src: "/documents/destination image/sigiriya.jpg", alt: t("alts.sigiriya") },
+    wide: { src: "/documents/destination image/mirissa.jpg", alt: t("alts.mirissa") },
+    topRight: { src: "/documents/destination image/sinharaja.jpg", alt: t("alts.sinharaja") },
+    bottomRight: { src: "/documents/destination image/ella.jpg", alt: t("alts.ella") },
+  };
+
   return (
     <section className="bg-forest-dark py-24">
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 lg:grid-cols-2 lg:px-10">
@@ -48,21 +51,17 @@ export default function VacationCollage() {
 
         <div>
           <h2 className="font-display text-3xl leading-tight text-white sm:text-4xl">
-            Here&apos;s what makes a journey perfect for you
+            {t("title")}
           </h2>
           <span className="mt-4 block h-0.5 w-24 bg-gold" />
           <p className="mt-6 max-w-lg leading-relaxed text-white/70">
-            Whether you are planning a family holiday, a romantic escape or an
-            adventurous wildlife journey, every Lume Bend Ceylon itinerary is
-            built around you. From misty tea hills and ancient cities to quiet
-            southern beaches, we handle every detail so you simply enjoy the
-            island.
+            {t("text")}
           </p>
           <Link
             href="/plan"
             className="mt-8 inline-block rounded-full bg-gold px-8 py-3.5 text-sm font-medium tracking-wide text-forest-dark transition-colors hover:bg-gold-light"
           >
-            Book Now
+            {t("cta")}
           </Link>
         </div>
       </div>

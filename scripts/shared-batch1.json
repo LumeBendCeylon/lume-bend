@@ -1,0 +1,62 @@
+{
+  "en": {
+    "Testimonials": {
+      "eyebrow": "Traveller Stories",
+      "title": "What Our Guests Say",
+      "readAll": "Read all reviews"
+    },
+    "CTA": {
+      "title": "Ready to Design Your Sri Lanka?",
+      "text": "Tell us your dates and interests — a specialist will reply with a tailored itinerary, usually within one business day.",
+      "button": "Start Your Enquiry"
+    }
+  },
+  "de": {
+    "Testimonials": {
+      "eyebrow": "Reisegeschichten",
+      "title": "Was unsere Gäste sagen",
+      "readAll": "Alle Bewertungen lesen"
+    },
+    "CTA": {
+      "title": "Bereit, Ihr Sri Lanka zu gestalten?",
+      "text": "Teilen Sie uns Ihre Reisedaten und Interessen mit – ein Spezialist antwortet mit einer maßgeschneiderten Reiseroute, in der Regel innerhalb eines Werktags.",
+      "button": "Anfrage starten"
+    }
+  },
+  "fr": {
+    "Testimonials": {
+      "eyebrow": "Histoires de voyageurs",
+      "title": "Ce que disent nos clients",
+      "readAll": "Lire tous les avis"
+    },
+    "CTA": {
+      "title": "Prêt à imaginer votre Sri Lanka ?",
+      "text": "Indiquez-nous vos dates et vos centres d'intérêt : un spécialiste vous répondra avec un itinéraire sur mesure, généralement sous un jour ouvré.",
+      "button": "Démarrer votre demande"
+    }
+  },
+  "ru": {
+    "Testimonials": {
+      "eyebrow": "Истории путешественников",
+      "title": "Что говорят наши гости",
+      "readAll": "Читать все отзывы"
+    },
+    "CTA": {
+      "title": "Готовы создать своё путешествие по Шри-Ланке?",
+      "text": "Сообщите нам даты и интересы — специалист пришлёт индивидуальный маршрут, обычно в течение одного рабочего дня.",
+      "button": "Начать запрос"
+    }
+  },
+  "zh": {
+    "Testimonials": {
+      "eyebrow": "旅客故事",
+      "title": "宾客评价",
+      "readAll": "阅读全部评价"
+    },
+    "CTA": {
+      "title": "准备好设计属于您的斯里兰卡之旅了吗？",
+      "text": "告诉我们您的出行日期和兴趣，专属顾问将为您提供量身定制的行程，通常在一个工作日内回复。",
+      "button": "开始咨询"
+    }
+  }
+}
