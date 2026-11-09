@@ -106,7 +106,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Arrive at your luxury hotel, relax and enjoy dinner.",
         ],
         overnight: "Five-star luxury hotel in Sigiriya.",
-        imageUrl: "/documents/images/tour/road1.png",
+        imageUrl: "/documents/images/tour/sigiriya01.jpg",
       },
       {
         day: 2,
@@ -120,7 +120,7 @@ export const tours: Tour[] = [
           "Panoramic Views: Admire the surrounding countryside, weather and fitness permitting.",
         ],
         overnight: "Five-star luxury hotel in Sigiriya.",
-        imageUrl: "/documents/images/tour/sigiriya.png",
+        imageUrl: "/documents/images/tour/sigiriya02.jpg",
       },
       {
         day: 3,
@@ -134,7 +134,7 @@ export const tours: Tour[] = [
           "Kandy Lake: Enjoy a gentle lakeside walk before dinner.",
         ],
         overnight: "Five-star hotel in Kandy.",
-        imageUrl: "/documents/images/tour/dambulla.png",
+        imageUrl: "/documents/images/tour/dambulla01.jpg",
       },
       {
         day: 4,
@@ -148,7 +148,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Arrive in Colombo and enjoy dinner at your hotel.",
         ],
         overnight: "Five-star hotel in Colombo.",
-        imageUrl: "/documents/images/tour/kandy1.png",
+        imageUrl: "/documents/images/tour/kandy01.jpg",
       },
       {
         day: 5,
@@ -162,7 +162,7 @@ export const tours: Tour[] = [
           "Departure: Arrive with sufficient time for airline check-in.",
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo2.png",
+        imageUrl: "/documents/images/tour/colombo01.jpg",
       },
     ],
 
@@ -241,7 +241,7 @@ export const tours: Tour[] = [
     blurb:
       "Journey from ancient rock citadels into misty tea country and Ella's spectacular highlands on a private luxury escape.",
     motif: "mountain",
-    imageUrl: "/documents/images/tour/nuwaraeliya.png",
+    imageUrl: "/documents/images/tour/Sembuwatta Hidden Paradise.jpg",
 
     heroTitle: "Highlands & Ella Luxury Journey — 7 Days",
 
@@ -269,7 +269,7 @@ export const tours: Tour[] = [
           "Dinner: Enjoy dinner at the hotel.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/road1.png",
+        imageUrl: "/documents/images/tour/negombe01.jpg",
       },
       {
         day: 2,
@@ -283,7 +283,7 @@ export const tours: Tour[] = [
           "Evening at Leisure: Relax and enjoy dinner.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/sigiriya2.png",
+        imageUrl: "/documents/images/tour/sigiriya02.jpg",
       },
       {
         day: 3,
@@ -297,7 +297,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner at your hotel.",
         ],
         overnight: "Five-star hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy1.png",
+        imageUrl: "/documents/images/tour/kandy03.jpg",
       },
       {
         day: 4,
@@ -311,7 +311,7 @@ export const tours: Tour[] = [
           "Nuwara Eliya: Check in and enjoy a relaxed evening.",
         ],
         overnight: "Five-star hotel or luxury heritage property in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya.png",
+        imageUrl: "/documents/images/tour/nuwaraeliya02.jpg",
       },
       {
         day: 5,
@@ -325,7 +325,7 @@ export const tours: Tour[] = [
           "Evening at Leisure: Return to the hotel for dinner and relaxation.",
         ],
         overnight: "Five-star hotel or luxury heritage property in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya2.png",
+        imageUrl: "/documents/images/tour/nuwaraeliya03.jpg",
       },
       {
         day: 6,
@@ -339,7 +339,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Relax and enjoy dinner in Ella.",
         ],
         overnight: "Five-star or premium luxury hotel in Ella.",
-        imageUrl: "/documents/images/tour/train.png",
+        imageUrl: "/documents/images/tour/yala01.jpg",
       },
       {
         day: 7,
@@ -352,7 +352,7 @@ export const tours: Tour[] = [
           "Airport Arrival: Arrive with sufficient time for airline check-in.",
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo2.png",
+        imageUrl: "/documents/images/tour/colombo03.jpg",
       },
     ],
 
@@ -430,7 +430,7 @@ export const tours: Tour[] = [
     blurb:
       "Combine Sri Lanka's ancient heritage, misty tea hills and unforgettable wildlife landscapes in one private luxury journey.",
     motif: "wildlife",
-    imageUrl: "/documents/images/tour/safari.png",
+    imageUrl: "/documents/images/tour/Knuckles Hidden Paradise.jpg",
 
     heroTitle: "Highlands & Wildlife Luxury Escape — 8 Days",
 
@@ -458,7 +458,7 @@ export const tours: Tour[] = [
           "Coastal Relaxation: Spend the afternoon at leisure before dinner.",
         ],
         overnight: "Five-star beachfront hotel in Negombo.",
-        imageUrl: "/documents/images/tour/negombo.png",
+        imageUrl: "/documents/images/tour/negombo01.jpg",
       },
       {
         day: 2,
@@ -472,7 +472,7 @@ export const tours: Tour[] = [
           "Dinner: Enjoy a meal at the hotel.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/road1.png",
+        imageUrl: "/documents/images/tour/road01.jpg",
       },
       {
         day: 3,
@@ -486,7 +486,7 @@ export const tours: Tour[] = [
           "Evening at Leisure: Return to the resort for dinner and relaxation.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/sigiriya.png",
+        imageUrl: "/documents/images/tour/sigiriya01 (2).jpg",
       },
       {
         day: 4,
@@ -500,7 +500,7 @@ export const tours: Tour[] = [
           "Evening at Leisure: Enjoy dinner and relax.",
         ],
         overnight: "Five-star hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy1.png",
+        imageUrl: "/documents/images/tour/kandy05.jpg",
       },
       {
         day: 5,
@@ -514,7 +514,7 @@ export const tours: Tour[] = [
           "Nuwara Eliya Check-in: Enjoy dinner and a relaxing evening.",
         ],
         overnight: "Five-star hotel or luxury heritage property in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya.png",
+        imageUrl: "/documents/images/tour/nuwaraeliya05.jpg",
       },
       {
         day: 6,
@@ -528,7 +528,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner at your luxury property.",
         ],
         overnight: "Five-star or premium luxury hotel in Ella.",
-        imageUrl: "/documents/images/tour/train.png",
+        imageUrl: "/documents/images/tour/train05.jpg",
       },
       {
         day: 7,
@@ -542,7 +542,7 @@ export const tours: Tour[] = [
           "Dinner: Return to the lodge for dinner and relaxation.",
         ],
         overnight: "Luxury safari lodge in Yala or Tissamaharama.",
-        imageUrl: "/documents/images/tour/safari.png",
+        imageUrl: "/documents/images/tour/safari05.jpg",
       },
       {
         day: 8,
@@ -555,7 +555,7 @@ export const tours: Tour[] = [
           "Departure: Arrive at CMB with sufficient time for check-in.",
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo2.png",
+        imageUrl: "/documents/images/tour/colombo05.jpg",
       },
     ],
 
@@ -633,11 +633,11 @@ export const tours: Tour[] = [
       "Yala wildlife safari",
       "Mirissa and historic Galle Fort",
     ],
-    price: "From $4,199 pp",
+    price: "From $3,399 pp",
     blurb:
       "Explore Sri Lanka's ancient kingdoms, highland tea estates, wildlife reserves and southern coast on a private ten-day luxury journey.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/polonnaruwa.png",
+    imageUrl: "/documents/images/tour/Green Paddy Landscape.jpg",
 
     heroTitle: "Grand Ceylon Luxury Tour — 10 Days Across the Island",
 
@@ -665,7 +665,7 @@ export const tours: Tour[] = [
           "Coastal Evening: Relax at the hotel before dinner.",
         ],
         overnight: "Five-star beachfront hotel in Negombo.",
-        imageUrl: "/documents/images/tour/negombo.png",
+        imageUrl: "/documents/images/tour/negombo008.jpg",
       },
       {
         day: 2,
@@ -678,7 +678,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Settle into your hotel and enjoy dinner.",
         ],
         overnight: "Five-star or premium luxury hotel in the Polonnaruwa area.",
-        imageUrl: "/documents/images/tour/polonnaruwa.png",
+        imageUrl: "/documents/images/tour/polonnaruwa008.jpg",
       },
       {
         day: 3,
@@ -692,7 +692,7 @@ export const tours: Tour[] = [
           "Resort Check-in: Relax and enjoy dinner at your hotel.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/polonnaruwa2.png",
+        imageUrl: "/documents/images/tour/polonnaruwa009.jpg",
       },
       {
         day: 4,
@@ -706,7 +706,7 @@ export const tours: Tour[] = [
           "Evening at Leisure: Return to your resort for dinner.",
         ],
         overnight: "Five-star luxury resort in Sigiriya.",
-        imageUrl: "/documents/images/tour/sigiriya.png",
+        imageUrl: "/documents/images/tour/sigiriya08.jpg",
       },
       {
         day: 5,
@@ -719,7 +719,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Relax before dinner.",
         ],
         overnight: "Five-star hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy1.png",
+        imageUrl: "/documents/images/tour/kandy009.jpg",
       },
       {
         day: 6,
@@ -733,7 +733,7 @@ export const tours: Tour[] = [
           "Nuwara Eliya Check-in: Enjoy dinner and a relaxed evening.",
         ],
         overnight: "Five-star hotel or luxury heritage property in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya.png",
+        imageUrl: "/documents/images/tour/nuwaraeliya009.jpg",
       },
       {
         day: 7,
@@ -747,7 +747,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner at your hotel.",
         ],
         overnight: "Five-star or premium luxury hotel in Ella.",
-        imageUrl: "/documents/images/tour/train.png",
+        imageUrl: "/documents/images/tour/train004.jpg",
       },
       {
         day: 8,
@@ -761,7 +761,7 @@ export const tours: Tour[] = [
           "Dinner: Relax at the safari lodge.",
         ],
         overnight: "Luxury safari lodge in Yala or Tissamaharama.",
-        imageUrl: "/documents/images/tour/safari.png",
+        imageUrl: "/documents/images/tour/safari008.jpg",
       },
       {
         day: 9,
@@ -775,7 +775,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Relax and enjoy dinner in the Galle area.",
         ],
         overnight: "Five-star or premium luxury hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png",
+        imageUrl: "/documents/images/tour/galle008.jpg",
       },
       {
         day: 10,
@@ -789,7 +789,7 @@ export const tours: Tour[] = [
           "Departure: Arrive with sufficient time for airline check-in.",
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo2.png",
+        imageUrl: "/documents/images/tour/colombo009.jpg",
       },
     ],
 
@@ -869,7 +869,7 @@ export const tours: Tour[] = [
       "Yala National Park wildlife safari",
       "Mirissa, Galle Fort and Bentota coastline",
     ],
-    price: "From $4,999 pp",
+    price: "From $3,699 pp",
     blurb:
       "Experience Sri Lanka's ancient kingdoms, tea-covered mountains, wildlife and southern coastline on an exceptional private luxury journey.",
     motif: "heritage",
@@ -907,7 +907,7 @@ export const tours: Tour[] = [
           "Coastal Evening: Relax by the coast before dinner.",
         ],
         overnight: "Five-star beachfront hotel in Negombo.",
-        imageUrl: "/documents/images/tour/negombo.png",
+        imageUrl: "/documents/images/tour/negombo006.jpg",
       },
       {
         day: 2,
@@ -921,7 +921,7 @@ export const tours: Tour[] = [
           "Dinner: Enjoy dinner at the hotel.",
         ],
         overnight: "Five-star or premium luxury hotel in Anuradhapura.",
-        imageUrl: "/documents/images/tour/anuradhapura.png",
+        imageUrl: "/documents/images/tour/anuradhapura006.jpg",
       },
       {
         day: 3,
@@ -935,7 +935,7 @@ export const tours: Tour[] = [
           "Return to the Hotel: Enjoy lunch and dinner, with time to relax.",
         ],
         overnight: "Five-star or premium luxury hotel in Anuradhapura.",
-        imageUrl: "/documents/images/tour/anuradhapura2.png",
+        imageUrl: "/documents/images/tour/anuradhapura007.jpg",
       },
       {
         day: 4,
@@ -949,7 +949,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner and relax after sightseeing.",
         ],
         overnight: "Five-star or premium luxury hotel in Polonnaruwa or nearby.",
-        imageUrl: "/documents/images/tour/polonnaruwa.png",
+        imageUrl: "/documents/images/tour/polonnaruwa006.jpg",
       },
       {
         day: 5,
@@ -991,7 +991,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner at your luxury hotel.",
         ],
         overnight: "Five-star hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy1.png",
+        imageUrl: "/documents/images/tour/kandy012.jpg",
       },
       {
         day: 8,
@@ -1005,7 +1005,7 @@ export const tours: Tour[] = [
           "Nuwara Eliya Check-in: Enjoy dinner and a relaxed evening.",
         ],
         overnight: "Five-star hotel or luxury heritage property in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya.png",
+        imageUrl: "/documents/images/tour/nuwaraeliya012.jpg",
       },
       {
         day: 9,
@@ -1019,7 +1019,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner and relax.",
         ],
         overnight: "Five-star or premium luxury hotel in Ella.",
-        imageUrl: "/documents/images/tour/train.png",
+        imageUrl: "/documents/images/tour/train012.jpg",
       },
       {
         day: 10,
@@ -1033,7 +1033,7 @@ export const tours: Tour[] = [
           "Dinner: Enjoy dinner and relax at the lodge.",
         ],
         overnight: "Luxury safari lodge in Yala or Tissamaharama.",
-        imageUrl: "/documents/images/tour/safari.png",
+        imageUrl: "/documents/images/tour/safari012.jpg",
       },
       {
         day: 11,
@@ -1047,7 +1047,7 @@ export const tours: Tour[] = [
           "Hotel Check-in: Enjoy dinner in the Galle area.",
         ],
         overnight: "Five-star or premium luxury hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png",
+        imageUrl: "/documents/images/tour/galle012.jpg",
       },
       {
         day: 12,
@@ -1061,7 +1061,7 @@ export const tours: Tour[] = [
           "Departure: Arrive with sufficient time for airline check-in.",
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo2.png",
+        imageUrl: "/documents/images/tour/colombo012.jpg",
       },
     ],
 
@@ -1131,14 +1131,14 @@ export const tours: Tour[] = [
 
   {
     slug: "general-5-day-tour",
-    title: "5 Day General Tour",
+    title: "Ceylon Discovery Escape",
     category: "General Tours",
     duration: "5 Days / 4 Nights",
     highlights: ["Sigiriya Rock Fortress","Pinnawala Elephant Orphanage", "Dambulla Cave Temple", "Temple of the Tooth, Kandy"],
     price: "Starting From $600 pp",
     blurb: "A 5-day classic introduction to Sri Lanka's Cultural Triangle and hill capital — the essentials, well paced.",
     motif: "sun",
-    imageUrl: "/documents/images/tour/general2.png",
+    imageUrl: "/documents/images/tour/Sembuwatta Highland Escape.jpg",
     heroTitle: "Sri Lanka Classic Discovery — 5 Days Through the Cultural Triangle",
   
     intro:
@@ -1241,14 +1241,14 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "general-7-day-tour",
-    title: "7 Day General Tour",
+    title: "The Essence of Ceylon",
     category: "General Tours",
     duration: "7 Days / 6 Nights",
     highlights: ["Sigiriya & Dambulla", "Scenic train to Ella", "Nine Arch Bridge & tea country"],
     price: "Starting From $750 pp",
     blurb: "A 7-day route adding misty hill country and the famous Kandy–Ella train ride to the classic Cultural Triangle circuit.",
     motif: "sun",
-    imageUrl: "/documents/images/tour/general3.png",
+    imageUrl: "/documents/images/tour/Knuckles Wilderness Serenity.jpg",
     heroTitle: "Heart of Ceylon — 7 Days from Ancient Cities to Tea Country",
     intro:
       "Everything in our 5-day classic, extended into the hills — tea estates, cool mountain air, and one of the world's most scenic train journeys.",
@@ -1367,7 +1367,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "general-8-day-tour",
-    title: "8 Day General Tour",
+    title: "Ceylon Wonders Journey",
     category: "General Tours",
     duration: "8 Days / 7 Nights",
     highlights: ["Cultural Triangle & tea country", "Nine Arch Bridge by train", "Yala safari"],
@@ -1398,7 +1398,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Evening Leisure: Enjoy dinner and a peaceful evening at the hotel."
     ],
     overnight: "Boutique hotel in Sigiriya.",
-    imageUrl: "/documents/images/tour/sigiriya6.png"
+    imageUrl: "/documents/images/tour/pinnawala.png"
   },
   {
     day: 2,
@@ -1519,7 +1519,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "general-10-day-tour",
-    title: "10 Day General Tour",
+    title: "The Grand Ceylon Experience",
     category: "General Tours",
     duration: "10 Days / 9 Nights",
     highlights: ["Ancient city of Polonnaruwa", "Hill country by train", "Yala safari & south coast beaches"],
@@ -1698,7 +1698,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "general-12-day-tour",
-    title: "12 Day General Tour",
+    title: "The Ultimate Sri Lanka Journey",
     category: "General Tours",
     duration: "12 Days / 11 Nights",
     highlights: ["Two ancient capitals", "Hill country by train", "Yala safari & extended south coast"],
@@ -1906,534 +1906,1142 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       { q: "Can we swap Bentota for more time in Galle?", a: "Yes — this itinerary is a starting point, and we're happy to rebalance nights between destinations to suit you." },
     ],
   },
-  {
-    slug: "family-5-day-tour",
-    title: "5 Day Family Tour",
-    category: "Family Tours",
-    duration: "5 Days / 4 Nights",
-    highlights: ["Pinnawala elephant bathing", "Turtle hatchery visit", "Kid-friendly beach resort"],
-    price: "From $1,300 pp",
-    blurb: "A short, easy-paced family introduction to Sri Lanka — elephants, turtles and beach time.",
-    motif: "leaf",
-    imageUrl: "/documents/images/tour/beach.png",
-    heroTitle: "Family Ceylon Starter — 5 Days of Elephants, Turtles and Beach Time",
-    intro:
-      "A gentle first taste of Sri Lanka built for families with younger children — short drive times, hands-on animal encounters, and a beach finish to unwind.",
-    overview:
-      "This route keeps daily drives short and mixes in frequent stops that keep kids engaged, from elephant bathing to turtle hatcheries, finishing with two relaxed days at a family-friendly beach resort.",
-    bestFor: "Families with children of all ages",
-    groupSize: "Private vehicle — sized to your family",
-    physicalLevel: "Easy — minimal walking, no strenuous activity",
-    destinationsCovered: "Negombo → Pinnawala → Kandy → Bentota",
-    itinerary: [
-    {
-  day: 1,
-  title: "Arrival, Pinnawala & Kandy",
-  morning: "Arrive at Bandaranaike International Airport and travel to Pinnawala for a family-friendly elephant experience.",
-  afternoon: "Continue to Kandy and enjoy a relaxed family lunch along the way.",
-  evening: "Settle into your family hotel in Kandy and take an easy evening walk around Kandy Lake.",
-  overnight: "Family hotel in Kandy.",
-  imageUrl: "/documents/images/tour/pinnawala2.png",
-},
+  
 {
-  day: 2,
-  title: "Kandy Family Experience",
-  morning: "Visit the Temple of the Sacred Tooth Relic, keeping the visit relaxed and family-friendly.",
-  afternoon: "Explore the Royal Botanical Gardens, Peradeniya, with plenty of open space for children.",
-  evening: "Enjoy an optional Kandyan cultural dance performance.",
-  overnight: "Family hotel in Kandy.",
-  imageUrl: "/documents/images/tour/garden.png",
-},
-{
-  day: 3,
-  title: "Kandy to Bentota",
-  morning: "Drive from Kandy towards the west coast through scenic countryside and changing landscapes.",
-  afternoon: "Visit a turtle conservation centre, where children can learn about and see rescued sea turtles.",
-  evening: "Arrive at your beach resort and enjoy a relaxed evening by the pool or beach.",
-  overnight: "Family-friendly beach resort, Bentota.",
-  imageUrl: "/documents/images/tour/kandy5.png",
-},
-{
-  day: 4,
-  title: "Bentota Family Adventure",
-  morning: "Enjoy a gentle Bentota River safari through the mangroves, with opportunities to spot birds and other wildlife.",
-  afternoon: "Free family time on the beach, by the pool, or enjoying optional water activities.",
-  evening: "Relaxed family dinner and sunset by the coast.",
-  overnight: "Family-friendly beach resort, Bentota.",
-  imageUrl: "/documents/images/tour/benthota.png",
-},
-
-{
-  day: 5,
-  title: "Beach Morning & Departure",
-  morning: "Enjoy a relaxed final morning at the resort with time for the beach or pool.",
-  afternoon: "Transfer from Bentota to Bandaranaike International Airport for your departure flight.",
-  evening: "Departure flight.",
-  overnight: "N/A — departure day.",
+  slug: "family-pinnawala-kandy-bentota-5-day-tour",
+  title: "Little Explorers Family Escape",
+  category: "Family Tours",
+  duration: "5 Days / 4 Nights",
+  highlights: [
+    "Pinnawala Elephant Experience",
+    "Kandy Cultural Heritage",
+    "Kandy Lake & Royal Botanical Gardens",
+    "Family-Friendly Turtle Conservation Visit",
+    "Bentota River Safari",
+    "Relaxing Family Beach Resort Stay"
+  ],
+  price: "From $1800 pp",
+  blurb:
+    "A relaxed family escape combining memorable wildlife experiences, Kandy's cultural attractions and a beachside finish in Bentota.",
+  motif: "sun",
   imageUrl: "/documents/images/tour/beach.png",
-},
-    ],
-    hotelRecommendation: "Family-oriented hotels with pools in Negombo, Kandy and a beach resort in Bentota.",
-    transportation: "Private air-conditioned vehicle with driver, with child seats available on request.",
-    meals: "Daily breakfast. Other meals at your own choice, with kid-friendly menu options arranged where possible.",
-    included: ["4 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "Pinnawala and turtle hatchery entrance fees"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Bentota river safari", "Kandyan cultural dance show", "Cooking class for kids"],
-    tourFaqs: [
-      { q: "What's the youngest age this suits?", a: "This route works well from toddlers upward — drive times are kept short and activities are hands-on rather than long museum-style visits." },
-      { q: "Are child seats available?", a: "Yes, just let us know ages and we'll arrange appropriate car seats for your vehicle." },
-    ],
-  },
-  {
-    slug: "family-7-day-tour",
-    title: "7 Day Family Tour",
-    category: "Family Tours",
-    duration: "7 Days / 6 Nights",
-    highlights: ["Pinnawala & Kandy", "Hill country train ride", "Beach time in Bentota"],
-    price: "From $1,820 pp",
-    blurb: "Our 5-day family starter extended into the hills, with a fun train ride kids will remember.",
-    motif: "leaf",
-    imageUrl: "/documents/images/tour/nuwaraeliya5.png",
-    heroTitle: "Family Ceylon Adventure — 7 Days from Elephants to Hill Country",
-    intro:
-      "Building on our 5-day starter, this route adds a scenic train ride through tea country — a highlight for kids and parents alike — before finishing on the beach.",
-    overview:
-      "The same easy pacing as our 5-day family route, with two extra days in the cool hill country including Sri Lanka's famous scenic train journey.",
-    bestFor: "Families with children of all ages who enjoy a bit of variety",
-    groupSize: "Private vehicle — sized to your family",
-    physicalLevel: "Easy, with one short optional hike",
-    destinationsCovered: "Negombo → Pinnawala → Kandy → Nuwara Eliya → Ella → Bentota",
-    itinerary: [
-    {
-  day: 1,
-  title: "Arrival, Pinnawala & Kandy",
-  morning: "Arrive at Bandaranaike International Airport and travel to Pinnawala for a family-friendly elephant experience.",
-  afternoon: "Enjoy a family-friendly elephant experience at Pinnawala, then continue to Kandy.",
-  evening: "Settle into your family hotel in Kandy and enjoy a relaxed evening around Kandy Lake.",
-  overnight: "Family hotel in Kandy.",
-  imageUrl: "/documents/images/tour/kandy4.png",
-},
-{
-  day: 2,
-  title: "Kandy Sightseeing",
-  morning: "Visit the Temple of the Sacred Tooth Relic.",
-  afternoon: "Explore the Royal Botanical Gardens, Peradeniya.",
-  evening: "Optional Kandyan cultural dance show.",
-  overnight: "Family hotel in Kandy.",
-  imageUrl: "/documents/images/tour/garden2.png",
-},
-{
-  day: 3,
-  title: "Kandy to Nuwara Eliya",
-  morning: "Drive into the hills, stopping at a tea factory for a fun, short family tour.",
-  afternoon: "Visit Gregory Lake and enjoy a family pedal-boat ride.",
-  evening: "Settle into the cool mountain atmosphere of Nuwara Eliya.",
-  overnight: "Family hotel in Nuwara Eliya.",
-  imageUrl: "/documents/images/tour/tea2.png",
-},
-{
-  day: 4,
-  title: "Scenic Train to Ella",
-  morning: "Board the scenic train from Nanu Oya to Ella — a memorable experience for children.",
-  afternoon: "Take an easy walk to view the Nine Arch Bridge and enjoy the surrounding scenery.",
-  evening: "Relaxed evening exploring Ella town.",
-  overnight: "Family hotel in Ella.",
-  imageUrl: "/documents/images/tour/train2.png",
-},
-{
-  day: 5,
-  title: "Ella to Bentota",
-  morning: "Enjoy an optional gentle walk near Ravana Falls.",
-  afternoon: "Take a scenic drive towards the west coast, arriving at your beach resort in Bentota.",
-  evening: "Relax and enjoy family beach time.",
-  overnight: "Family-friendly beach resort, Bentota.",
-  imageUrl: "/documents/images/tour/water.png",
-},
-{
-  day: 6,
-  title: "Bentota Family Day",
-  morning: "Enjoy a gentle Bentota River safari through the mangroves.",
-  afternoon: "Visit a turtle conservation centre or enjoy free time on the beach and by the pool.",
-  evening: "Relaxed family evening by the coast.",
-  overnight: "Family-friendly beach resort, Bentota.",
-  imageUrl: "/documents/images/tour/beach3.png",
-},
-{
-  day: 7,
-  title: "Beach Morning & Departure",
-  morning: "Enjoy a relaxed final morning at the resort with time for the beach or pool.",
-  afternoon: "Drive to Bandaranaike International Airport for your departure flight.",
-  evening: "Departure flight.",
-  overnight: "N/A — departure day.",
-  imageUrl: "/documents/images/tour/turtul.png",
-},
-    ],
-    hotelRecommendation: "Family-oriented hotels with pools in Negombo, Kandy, Nuwara Eliya, Ella and a beach resort in Bentota.",
-    transportation: "Private air-conditioned vehicle with driver; reserved train seats, Nanu Oya to Ella.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["6 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "Reserved train tickets, Nanu Oya to Ella", "Pinnawala entrance fee"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Bentota river safari & turtle hatchery", "Tea-picking experience, Nuwara Eliya", "Horseback riding, Nuwara Eliya"],
-    tourFaqs: [
-      { q: "Is the train ride safe for young children?", a: "Yes, though we recommend booking reserved seats (included) rather than standing in open doorways, which is common but not advisable with kids." },
-      { q: "Will the hill country be too cold for children?", a: "Evenings in Nuwara Eliya can be cool — pack a light jacket, but it's a pleasant, not harsh, change from the coast." },
-    ],
-  },
-  {
-    slug: "family-8-day-tour",
-    title: "8 Day Family Tour",
-    category: "Family Tours",
-    duration: "8 Days / 7 Nights",
-    highlights: ["Pinnawala & Kandy", "Scenic hill country train", "Udawalawe safari for kids"],
-    price: "From $2,080 pp",
-    blurb: "Our 7-day family hill country route with a gentle, family-paced safari day added.",
-    motif: "leaf",
-    heroTitle: "Family Ceylon Safari & Hills — 8 Days of Wildlife and Tea Country",
-    intro:
-      "All the highlights of our 7-day family route, plus a family-friendly safari in Udawalawe — shorter drives and reliable elephant sightings make it an easier park for young children than Yala.",
-    overview:
-      "This itinerary follows our 7-day hill country family route, then adds Udawalawe National Park, known for large, easy-to-spot elephant herds, before returning to the coast.",
-    bestFor: "Families wanting a wildlife day without a long safari drive",
-    groupSize: "Private vehicle — sized to your family",
-    physicalLevel: "Easy",
-    destinationsCovered: "Negombo → Pinnawala → Kandy → Nuwara Eliya → Ella → Udawalawe → Bentota",
-    itinerary: [
-      {
-        day: 1, 
-        title: "Airport, Pinnawala & Kandy",
-        morning: "Arrive at Bandaranaike International Airport and travel directly towards Pinnawala.", 
-        afternoon: "Visit Pinnawala and watch the elephants during their daily bathing and feeding routines.", 
-        evening: "Continue to Kandy, check in to your family hotel and relax after the journey.", 
-        overnight: "Family hotel in Kandy.",
-        imageUrl: "/documents/images/tour/pinnawala3.png",
+  heroTitle: "Little Explorers Family Escape — 5 Days of Family Adventures",
+  intro:
+    "Discover Sri Lanka together on a family-friendly journey featuring elephants, cultural experiences, beautiful gardens and relaxing days by the beach.",
+  overview:
+    "Begin with an elephant experience in Pinnawala before discovering Kandy's cultural attractions and open green spaces. Continue to Bentota for a family-friendly coastal stay, with opportunities to learn about sea turtle conservation, explore mangrove-lined waterways and enjoy relaxed beach and pool time.",
+  bestFor:
+    "Families with children of all ages seeking a relaxed holiday with wildlife encounters, cultural experiences and beachside relaxation.",
+  groupSize:
+    "Private vehicle — customised to your family's size and needs.",
+  physicalLevel: "Easy — minimal walking, with flexible activities suitable for families.",
+  destinationsCovered:
+    "Airport → Pinnawala → Kandy → Bentota → Airport",
 
-      },
-      {
-        day: 2,
-        title: "Pinnawala & Kandy",
-        morning: "Watch elephants bathing at Pinnawala.",
-        afternoon: "Continue to Kandy via a spice garden.",
-        evening: "Easy walk around Kandy Lake.",
-        overnight: "Family hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy6.png",
-      },
-      {
-        day: 3,
-        title: "Kandy Sightseeing",
-        morning: "Visit the Temple of the Sacred Tooth Relic.",
-        afternoon: "Royal Botanical Gardens, Peradeniya.",
-        evening: "Optional Kandyan dance show.",
-        overnight: "Family hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy7.png",
-      },
-      {
-        day: 4,
-        title: "Kandy to Nuwara Eliya",
-        morning: "Drive into the hills, stopping at a tea factory.",
-        afternoon: "Pedal boats at Gregory Lake.",
-        evening: "Settle into Nuwara Eliya.",
-        overnight: "Family hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwaraeliya6.png",
-      },
-      {
-        day: 5,
-        title: "Scenic Train to Ella",
-        morning: "Scenic train from Nanu Oya to Ella.",
-        afternoon: "Easy walk to the Nine Arch Bridge.",
-        evening: "Relaxed evening in Ella.",
-        overnight: "Family hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella1.png",
-      },
-      {
-        day: 6,
-        title: "Ella to Udawalawe",
-        morning: "Drive towards Udawalawe National Park.",
-        afternoon: "Afternoon jeep safari — Udawalawe's open grassland makes elephant sightings easy for kids.",
-        evening: "Relaxed evening near the park.",
-        overnight: "Hotel near Udawalawe.",
-        imageUrl: "/documents/images/tour/udawalawa.png",
-      },
-      {
-        day: 7,
-        title: "Udawalawe to Bentota",
-        morning: "Optional visit to the Elephant Transit Home to watch orphaned calves being fed.",
-        afternoon: "Drive to Bentota on the coast.",
-        evening: "Settle into your beach resort.",
-        overnight: "Family-friendly beach resort, Bentota.",
-         imageUrl: "/documents/images/tour/benthota1.png",
-      },
-      {
-        day: 8,
-        title: "Beach Morning & Departure",
-        morning: "Free morning at the resort, or a turtle hatchery visit.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/beach3.png",
-      },
-    ],
-    hotelRecommendation: "Family hotels throughout, with a beach resort finish in Bentota.",
-    transportation: "Private air-conditioned vehicle with driver; reserved train seats; 4x4 safari jeep for Udawalawe.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["7 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "Reserved train tickets, Nanu Oya to Ella", "1 jeep safari in Udawalawe National Park"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Elephant Transit Home feeding session", "Bentota river safari & turtle hatchery", "Tea-picking experience"],
-    tourFaqs: [
-      { q: "Why Udawalawe instead of Yala for a family safari?", a: "Udawalawe's open terrain makes elephant sightings quicker and more reliable, with generally shorter drives — a better fit for shorter attention spans." },
-      { q: "How long is the safari?", a: "Around 2.5–3 hours, which is usually enough for young children without becoming tiring." },
-    ],
-  },
-  {
-    slug: "family-10-day-tour",
-    title: "10 Day Family Tour",
-    category: "Family Tours",
-    duration: "10 Days / 9 Nights",
-    highlights: ["Pinnawala & Sigiriya", "Hill country train & safari", "Extended south coast beach time"],
-    price: "From $2,600 pp",
-    blurb: "Our 8-day family safari-and-hills route, with Sigiriya added and more beach time to finish.",
-    motif: "leaf",
-    heroTitle: "Grand Family Ceylon — 10 Days of Culture, Wildlife and Beach",
-    intro:
-      "A fuller family itinerary that adds Sigiriya's climbable rock fortress — a genuine adventure for older kids — to our safari-and-hills route, with extra beach days to finish.",
-    overview:
-      "This route builds on our 8-day family safari itinerary by adding Sigiriya at the start and extending your time at the beach, giving the trip a proper adventure-plus-relaxation balance.",
-    bestFor: "Families with children aged roughly 6 and up",
-    groupSize: "Private vehicle — sized to your family",
-    physicalLevel: "Easy to moderate (Sigiriya climb)",
-    destinationsCovered: "Negombo → Sigiriya → Pinnawala → Kandy → Nuwara Eliya → Ella → Udawalawe → Bentota",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Negombo",
-        morning: "Arrive and transfer to a family hotel in Negombo.",
-        afternoon: "Pool time to recover from the flight.",
-        evening: "Early family dinner.",
-        overnight: "Family hotel in Negombo.",
-        imageUrl: "/documents/images/tour/negombo6.png",
-      },
-      {
-        day: 2,
-        title: "Sigiriya Rock Fortress",
-        morning: "Climb Sigiriya Rock Fortress together — a fun challenge for older kids.",
-        afternoon: "Village tour by bullock cart and a canoe ride, always a hit with children.",
-        evening: "Relax at your hotel.",
-        overnight: "Family hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya1.png",
-      },
-      {
-        day: 3,
-        title: "Pinnawala & Kandy",
-        morning: "Watch elephants bathing at Pinnawala.",
-        afternoon: "Continue to Kandy via a spice garden.",
-        evening: "Easy walk around Kandy Lake.",
-        overnight: "Family hotel in Kandy.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 4,
-        title: "Kandy Sightseeing",
-        morning: "Visit the Temple of the Sacred Tooth Relic.",
-        afternoon: "Royal Botanical Gardens, Peradeniya.",
-        evening: "Optional Kandyan dance show.",
-        overnight: "Family hotel in Kandy.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 5,
-        title: "Kandy to Nuwara Eliya",
-        morning: "Drive into the hills, stopping at a tea factory.",
-        afternoon: "Pedal boats at Gregory Lake.",
-        evening: "Settle into Nuwara Eliya.",
-        overnight: "Family hotel in Nuwara Eliya.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 6,
-        title: "Scenic Train to Ella",
-        morning: "Scenic train from Nanu Oya to Ella.",
-        afternoon: "Easy walk to the Nine Arch Bridge.",
-        evening: "Relaxed evening in Ella.",
-        overnight: "Family hotel in Ella.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 7,
-        title: "Ella to Udawalawe",
-        morning: "Drive towards Udawalawe National Park.",
-        afternoon: "Afternoon jeep safari for elephant herds.",
-        evening: "Relaxed evening near the park.",
-        overnight: "Hotel near Udawalawe.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 8,
-        title: "Udawalawe to Bentota",
-        morning: "Visit the Elephant Transit Home to watch orphaned calves feeding.",
-        afternoon: "Drive to Bentota.",
-        evening: "Settle into your beach resort.",
-        overnight: "Family-friendly beach resort, Bentota.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 9,
-        title: "Beach Day",
-        morning: "Turtle hatchery visit.",
-        afternoon: "Free beach and pool time, or a river safari.",
-        evening: "Farewell family dinner.",
-        overnight: "Family-friendly beach resort, Bentota.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-      {
-        day: 10,
-        title: "Departure",
-        morning: "Relaxed final morning at the resort.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-                imageUrl: "/documents/images/tour/beach3.png",
-      },
-    ],
-    hotelRecommendation: "Family hotels throughout, with an extended beach resort stay in Bentota.",
-    transportation: "Private air-conditioned vehicle with driver; reserved train seats; 4x4 safari jeep for Udawalawe.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["9 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "Reserved train tickets, Nanu Oya to Ella", "1 jeep safari in Udawalawe National Park", "Sigiriya & Pinnawala entrance fees"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Elephant Transit Home feeding session", "Bentota river safari & turtle hatchery", "Cookery class for the whole family"],
-    tourFaqs: [
-      { q: "Is Sigiriya suitable for children?", a: "Yes for most children aged 6+ who can manage stairs; we recommend a slow pace with breaks, and it's not advisable with toddlers or in a stroller." },
-      { q: "Can we shorten this to skip one hill-country night?", a: "Yes — we can compress Nuwara Eliya and Ella into fewer nights if you'd rather have more beach time." },
-    ],
-  },
-  {
-    slug: "family-12-day-tour",
-    title: "12 Day Family Tour",
-    category: "Family Tours",
-    duration: "12 Days / 11 Nights",
-    highlights: ["Sigiriya & ancient cities", "Hill country train & Udawalawe safari", "A full week-equivalent of beach time"],
-    price: "From $3,120 pp",
-    blurb: "Our fullest family itinerary — culture, wildlife, hill country and a proper beach finish, unhurried throughout.",
-    motif: "leaf",
-    heroTitle: "Complete Family Ceylon — 12 Days, Every Region at a Family Pace",
-    intro:
-      "Our most complete family route: ancient cities, wildlife, hill country and an extended beach stay, with enough slack in the schedule for rest days when little legs get tired.",
-    overview:
-      "Building on our 10-day family route, this itinerary adds Polonnaruwa's ancient ruins (easily explored by bicycle) and extends beach time at the end for a properly unhurried finish.",
-    bestFor: "Families wanting the full island experience without a rushed pace",
-    groupSize: "Private vehicle — sized to your family",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered: "Negombo → Polonnaruwa → Sigiriya → Pinnawala → Kandy → Nuwara Eliya → Ella → Udawalawe → Bentota",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Negombo",
-        morning: "Arrive and transfer to a family hotel in Negombo.",
-        afternoon: "Pool time to recover from the flight.",
-        evening: "Early family dinner.",
-        overnight: "Family hotel in Negombo.",
-      },
-      {
-        day: 2,
-        title: "Polonnaruwa Ancient City",
-        morning: "Drive to Polonnaruwa.",
-        afternoon: "Cycle among the ruins as a family — flat terrain makes this an easy, fun outing.",
-        evening: "Sunset over the ancient reservoir.",
-        overnight: "Hotel near Polonnaruwa or Sigiriya.",
-      },
-      {
-        day: 3,
-        title: "Sigiriya Rock Fortress",
-        morning: "Climb Sigiriya Rock Fortress together.",
-        afternoon: "Village tour by bullock cart and canoe ride.",
-        evening: "Relax at your hotel.",
-        overnight: "Family hotel in Sigiriya or Habarana.",
-      },
-      {
-        day: 4,
-        title: "Pinnawala & Kandy",
-        morning: "Watch elephants bathing at Pinnawala.",
-        afternoon: "Continue to Kandy via a spice garden.",
-        evening: "Easy walk around Kandy Lake.",
-        overnight: "Family hotel in Kandy.",
-      },
-      {
-        day: 5,
-        title: "Kandy Sightseeing",
-        morning: "Visit the Temple of the Sacred Tooth Relic.",
-        afternoon: "Royal Botanical Gardens, Peradeniya.",
-        evening: "Optional Kandyan dance show.",
-        overnight: "Family hotel in Kandy.",
-      },
-      {
-        day: 6,
-        title: "Kandy to Nuwara Eliya",
-        morning: "Drive into the hills, stopping at a tea factory.",
-        afternoon: "Pedal boats at Gregory Lake.",
-        evening: "Settle into Nuwara Eliya.",
-        overnight: "Family hotel in Nuwara Eliya.",
-      },
-      {
-        day: 7,
-        title: "Scenic Train to Ella",
-        morning: "Scenic train from Nanu Oya to Ella.",
-        afternoon: "Easy walk to the Nine Arch Bridge.",
-        evening: "Relaxed evening in Ella.",
-        overnight: "Family hotel in Ella.",
-      },
-      {
-        day: 8,
-        title: "Ella to Udawalawe",
-        morning: "Drive towards Udawalawe National Park.",
-        afternoon: "Afternoon jeep safari for elephant herds.",
-        evening: "Relaxed evening near the park.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 9,
-        title: "Udawalawe to Bentota",
-        morning: "Visit the Elephant Transit Home feeding session.",
-        afternoon: "Drive to Bentota.",
-        evening: "Settle into your beach resort.",
-        overnight: "Family-friendly beach resort, Bentota.",
-      },
-      {
-        day: 10,
-        title: "Beach Day One",
-        morning: "Turtle hatchery visit.",
-        afternoon: "Free beach and pool time.",
-        evening: "Family dinner by the beach.",
-        overnight: "Family-friendly beach resort, Bentota.",
-      },
-      {
-        day: 11,
-        title: "Beach Day Two",
-        morning: "Optional river safari through Bentota's mangroves.",
-        afternoon: "Free time — water sports or simply relax.",
-        evening: "Farewell family dinner.",
-        overnight: "Family-friendly beach resort, Bentota.",
-      },
-      {
-        day: 12,
-        title: "Departure",
-        morning: "Relaxed final morning at the resort.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Family hotels throughout, with an extended beach resort stay in Bentota.",
-    transportation: "Private air-conditioned vehicle with driver; reserved train seats; 4x4 safari jeep for Udawalawe.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["11 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "Reserved train tickets, Nanu Oya to Ella", "1 jeep safari in Udawalawe National Park", "Sigiriya, Polonnaruwa & Pinnawala entrance fees"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Elephant Transit Home feeding session", "Bentota river safari & turtle hatchery", "Family cookery class"],
-    tourFaqs: [
-      { q: "Is this too long for young children?", a: "The pacing is deliberately gentle with rest built in, and the extended beach finish gives everyone time to properly unwind, so most families find 12 days very manageable." },
-      { q: "Can we split the beach time between two resorts?", a: "Yes — some families prefer Bentota then Mirissa, for example. We can adjust the final days to suit." },
-    ],
-  },
-  {
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival, Pinnawala & Kandy",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive assistance with your luggage.",
+        "Journey to Pinnawala: Travel through Sri Lanka's countryside towards the Pinnawala area.",
+        "Pinnawala Elephant Experience: Visit Pinnawala Elephant Orphanage to observe elephants and learn about their care and conservation.",
+        "Family Lunch: Enjoy a relaxed lunch along the way before continuing to Kandy.",
+        "Kandy Arrival: Check in to your family hotel and settle in after the journey.",
+        "Kandy Lake: If time permits, enjoy an easy evening walk around the scenic lake in the city centre."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/pinnawala2.png"
+    },
+    {
+      day: 2,
+      title: "Kandy Family Experience",
+      points: [
+        "Breakfast: Enjoy breakfast at your family hotel before beginning the day's activities.",
+        "Temple of the Sacred Tooth Relic: Visit Sri Dalada Maligawa and discover one of Sri Lanka's most important cultural and religious landmarks.",
+        "Peradeniya Royal Botanical Gardens: Explore spacious gardens, tropical plants and shaded walking paths with plenty of room for children.",
+        "Family Garden Time: Enjoy a leisurely stroll and take family photographs amid the gardens' beautiful scenery.",
+        "Optional Kandyan Cultural Dance: Experience traditional Sri Lankan music and dance, subject to performance schedules.",
+        "Relaxed Evening: Return to your hotel and enjoy dinner and family time at leisure."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/garden.png"
+    },
+    {
+      day: 3,
+      title: "Kandy to Bentota",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing Kandy.",
+        "Scenic Drive: Travel towards the west coast through the countryside and changing landscapes of Sri Lanka.",
+        "Family Lunch Stop: Take a comfortable break along the route, depending on travel time and family preferences.",
+        "Turtle Conservation Visit: Visit a local turtle conservation centre where children can learn about sea turtles and conservation efforts, subject to availability and responsible animal-care practices.",
+        "Bentota Arrival: Continue to Bentota and check in to your family-friendly beach resort.",
+        "Beachside Relaxation: Spend the evening relaxing by the pool or beach before enjoying dinner together."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/kandy5.png"
+    },
+    {
+      day: 4,
+      title: "Bentota Family Adventure",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at the resort and begin the day at your family's own pace.",
+        "Bentota River Safari: Take a gentle boat safari through mangrove-lined waterways and look for local birds and other wildlife, subject to availability.",
+        "Nature Discovery: Enjoy the river scenery and introduce children to the area's natural environment.",
+        "Family Beach Time: Spend time on Bentota Beach or relax at the resort's swimming pool.",
+        "Optional Water Activities: Choose suitable locally available water activities, depending on children's ages, weather and safety conditions.",
+        "Sunset & Family Dinner: Enjoy a relaxed evening by the coast followed by dinner at the resort or a nearby restaurant."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/benthota.png"
+    },
+    {
+      day: 5,
+      title: "Beach Morning & Departure",
+      points: [
+        "Final Breakfast: Enjoy breakfast together at your resort.",
+        "Beach or Pool Time: Spend a relaxed final morning enjoying the beach or resort facilities, depending on your flight schedule.",
+        "Hotel Check-out: Pack your belongings and complete check-out at a convenient time.",
+        "Private Transfer: Begin the journey from Bentota towards Bandaranaike International Airport (CMB).",
+        "Comfort Stop: Enjoy a short refreshment break along the way if needed.",
+        "Airport Departure: Arrive at the airport with sufficient time for check-in and your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/beach.png"
+    }
+  ],
+
+  hotelRecommendation:
+    "Comfortable family-friendly accommodation in Kandy, followed by a beach resort in Bentota with suitable family facilities and pool access.",
+  transportation:
+    "Private air-conditioned vehicle with a dedicated chauffeur-guide, with comfortable stops arranged around your family's needs.",
+  meals:
+    "Daily breakfast. Other meals at your own choice unless arranged in advance.",
+
+  included: [
+    "4 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Visits described in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Elephant experience charges unless specified",
+    "Turtle conservation centre admission or donations unless specified",
+    "Bentota River safari",
+    "Optional water activities",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+
+  optionalExperiences: [
+    "Kandyan cultural dance performance",
+    "Bentota River boat safari",
+    "Suitable family water activities",
+    "Additional family-friendly excursions",
+    "Special family dining arrangements"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for families with young children?",
+      a: "Yes. The itinerary includes family-oriented experiences, garden visits, wildlife discovery and beach relaxation, with a private vehicle and flexibility for family breaks."
+    },
+    {
+      q: "Can the itinerary be adjusted for our children?",
+      a: "Yes. Departure times, rest stops and selected activities can be customised to suit your family's needs and the ages of your children."
+    },
+    {
+      q: "Is the Bentota River safari suitable for children?",
+      a: "A river safari may be suitable for families, depending on the operator's safety arrangements, boat facilities, children's ages and weather conditions. Availability should be confirmed in advance."
+    },
+    {
+      q: "Are entrance fees included in the tour price?",
+      a: "Entrance fees and optional activities are included only when specifically confirmed in the final quotation."
+    },
+    {
+      q: "Can we spend more time at the beach?",
+      a: "Yes. The itinerary can be customised to allow additional beach or pool time, subject to the overall duration and departure schedule."
+    }
+  ]
+},
+
+{
+  slug: "little-explorers-highlands-to-coast-7-day-tour",
+  title: "Little Explorers Highlands to Coast",
+  category: "Family Tours",
+  duration: "7 Days / 6 Nights",
+  highlights: [
+    "Pinnawala Elephant Experience",
+    "Temple of the Sacred Tooth Relic",
+    "Royal Botanical Gardens, Peradeniya",
+    "Nuwara Eliya Tea Factory Experience",
+    "Gregory Lake Family Pedal-Boat Ride",
+    "Scenic Train Journey from Nanu Oya to Ella",
+    "Nine Arch Bridge",
+    "Ravana Falls",
+    "Bentota River Safari",
+    "Relaxing Family Beach Stay"
+  ],
+  price: "From $2200 pp",
+  blurb: "A family-friendly Sri Lankan adventure combining elephant encounters, cultural discoveries, misty tea-country scenery, a memorable train journey and relaxing beach days.",
+  motif: "sun",
+  imageUrl: "/documents/images/tour/nuwaraeliya5.png",
+  heroTitle: "Little Explorers Highlands to Coast — 7 Days of Family Adventures",
+  intro: "Discover Sri Lanka together on a relaxed family journey filled with wildlife encounters, cultural landmarks, scenic train travel, cool hill-country landscapes and beachside fun.",
+  overview: "Begin with a family-friendly elephant experience in Pinnawala before exploring Kandy's cultural attractions and botanical gardens. Continue into the cool highlands of Nuwara Eliya for a tea factory visit and time at Gregory Lake. Enjoy a scenic train journey from Nanu Oya to Ella, discover the famous Nine Arch Bridge, and travel to Bentota for river wildlife, beach relaxation and family time by the coast.",
+  bestFor: "Families with children seeking a mix of wildlife, culture, scenic train travel, nature and beach relaxation.",
+  groupSize: "Private vehicle — customised to your family's size and needs.",
+  physicalLevel: "Easy to moderate — mostly relaxed sightseeing, with optional walking and family activities.",
+  destinationsCovered: "Airport → Pinnawala → Kandy → Nuwara Eliya → Ella → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival, Pinnawala & Kandy",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive assistance with your luggage.",
+        "Journey to Pinnawala: Travel through Sri Lanka's countryside towards the Pinnawala area.",
+        "Pinnawala Elephant Experience: Enjoy a family-friendly elephant experience and learn about elephants and their care.",
+        "Continue to Kandy: Travel onward to Kandy after your Pinnawala visit.",
+        "Hotel Check-in: Settle into your family hotel and take some time to relax after your journey.",
+        "Kandy Lake: If time permits, enjoy a gentle evening stroll around scenic Kandy Lake."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy4.png"
+    },
+    {
+      day: 2,
+      title: "Kandy Sightseeing",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's sightseeing.",
+        "Temple of the Sacred Tooth Relic: Visit Sri Dalada Maligawa, one of Sri Lanka's most important cultural and religious landmarks.",
+        "Cultural Discovery: Learn about the temple's history and significance during your visit.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, known for their tropical plants, spacious lawns and shaded pathways.",
+        "Family Garden Time: Enjoy a relaxed walk and take family photographs among the gardens' beautiful surroundings.",
+        "Optional Kandyan Cultural Dance: Attend a traditional Kandyan dance performance, subject to show schedules."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/garden2.png"
+    },
+    {
+      day: 3,
+      title: "Kandy to Nuwara Eliya",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before leaving Kandy for the hill country.",
+        "Scenic Hill-Country Drive: Travel through winding roads, green hills and changing mountain scenery.",
+        "Tea Factory Visit: Stop at a tea factory for a short, family-friendly introduction to Sri Lanka's tea-making process, subject to availability.",
+        "Tea Country Discovery: Learn how tea leaves are processed and enjoy views of the surrounding tea plantations.",
+        "Gregory Lake: Visit Gregory Lake and enjoy the open scenery around the water.",
+        "Family Pedal-Boat Ride: Enjoy an optional pedal-boat ride, subject to availability and local safety requirements, before checking in to your hotel."
+      ],
+      overnight: "Family hotel in Nuwara Eliya.",
+      imageUrl: "/documents/images/tour/tea2.png"
+    },
+    {
+      day: 4,
+      title: "Scenic Train to Ella",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before travelling to Nanu Oya railway station.",
+        "Train Station Arrival: Arrive at Nanu Oya with sufficient time to board your scheduled train.",
+        "Scenic Train Journey: Board the train from Nanu Oya to Ella and enjoy views of tea plantations, mountain scenery and lush valleys.",
+        "Ella Arrival: Meet your chauffeur-guide at the agreed arrival point and continue with the day's activities.",
+        "Nine Arch Bridge: Visit the famous Nine Arch Bridge and enjoy the surrounding greenery and scenic viewpoints.",
+        "Ella Town: Spend a relaxed evening exploring Ella town before returning to your family hotel."
+      ],
+      overnight: "Family hotel in Ella.",
+      imageUrl: "/documents/images/tour/train2.png"
+    },
+    {
+      day: 5,
+      title: "Ella to Bentota",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before departing Ella.",
+        "Optional Ravana Falls Visit: Stop near Ravana Falls to admire the waterfall and surrounding scenery.",
+        "Family-Friendly Stop: Enjoy a short break for photographs and refreshments along the route.",
+        "Scenic Drive to the Coast: Continue towards Bentota through Sri Lanka's changing landscapes.",
+        "Beach Resort Arrival: Check in to your family-friendly beach resort and settle into your room.",
+        "Beach Relaxation: Enjoy some family time by the beach or pool before dinner."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/water.png"
+    },
+    {
+      day: 6,
+      title: "Bentota Family Day",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at the resort and begin the day at your family's own pace.",
+        "Bentota River Safari: Take a gentle boat safari through mangrove-lined waterways, subject to weather and operator availability.",
+        "Wildlife Discovery: Look out for birds and other wildlife while enjoying the river's natural surroundings.",
+        "Turtle Conservation Centre: Visit a turtle conservation centre to learn about sea turtles and conservation efforts, subject to opening hours and availability.",
+        "Beach & Pool Time: Alternatively, enjoy free time on Bentota Beach or relax by the resort pool.",
+        "Family Evening: Enjoy a relaxed evening and family dinner by the coast."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/beach3.png"
+    },
+    {
+      day: 7,
+      title: "Beach Morning & Departure",
+      points: [
+        "Final Breakfast: Enjoy breakfast together at your beach resort.",
+        "Beach or Pool Time: Spend a relaxed final morning by the beach or pool, depending on your departure schedule.",
+        "Hotel Check-out: Pack your belongings and complete check-out at a suitable time.",
+        "Private Airport Transfer: Begin the journey from Bentota to Bandaranaike International Airport (CMB).",
+        "Comfort Stop: Enjoy a short refreshment stop along the way if needed.",
+        "Airport Departure: Arrive at the airport with sufficient time for airline check-in and your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/turtul.png"
+    }
+  ],
+
+  hotelRecommendation: "Family-friendly accommodation in Kandy and Nuwara Eliya, followed by a comfortable family hotel in Ella and a beach resort in Bentota with suitable family facilities and pool access.",
+
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide. The Nanu Oya-to-Ella train journey is arranged separately, with the chauffeur-guide meeting the family at the agreed arrival point in Ella. Train tickets are subject to availability.",
+
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless arranged in advance.",
+
+  included: [
+    "6 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide, except during the train journey",
+    "Airport welcome and luggage assistance",
+    "Transfers between destinations described in the itinerary",
+    "Sightseeing stops listed in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Pinnawala elephant experience charges unless specified",
+    "Temple of the Sacred Tooth Relic entrance or donation charges, where applicable",
+    "Royal Botanical Gardens entrance fees",
+    "Tea factory admission or tour charges",
+    "Gregory Lake pedal-boat charges",
+    "Nanu Oya-to-Ella train tickets unless specified",
+    "Bentota River safari charges",
+    "Turtle conservation centre admission or donations",
+    "Optional activities and experiences",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+
+  optionalExperiences: [
+    "Kandyan cultural dance performance",
+    "Gregory Lake pedal-boat ride",
+    "Reserved seats for the scenic train journey from Nanu Oya to Ella",
+    "Bentota River safari",
+    "Turtle conservation centre visit",
+    "Additional family-friendly activities in Ella or Bentota"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for families with children?",
+      a: "Yes. The itinerary combines cultural attractions, gardens, wildlife experiences, scenic travel and beach relaxation. Activities and rest stops can be adjusted to suit the children's ages and your family's pace."
+    },
+    {
+      q: "Is the train journey from Nanu Oya to Ella guaranteed?",
+      a: "Train travel depends on the published schedule, ticket availability and railway operations. Advance booking is recommended, and the journey should be confirmed before the tour is finalised."
+    },
+    {
+      q: "Will our chauffeur-guide travel with us on the train?",
+      a: "The chauffeur-guide normally travels separately by road and meets the family at the agreed arrival point in Ella. The exact arrangement should be confirmed before departure."
+    },
+    {
+      q: "Are the tea factory and Gregory Lake activities suitable for children?",
+      a: "They can be enjoyable family stops. The tea factory visit should be arranged with a suitable operator, and pedal-boat participation depends on availability, children's ages and local safety requirements."
+    },
+    {
+      q: "Are entrance fees and optional activities included?",
+      a: "They are included only when specifically listed in the confirmed quotation. Train tickets, boat rides, entrance fees and optional experiences should be checked before booking."
+    },
+    {
+      q: "Can we adjust the itinerary for younger children?",
+      a: "Yes. The tour can be customised with additional breaks, shorter sightseeing visits and flexible activity times, subject to travel distances and the train schedule."
+    }
+  ]
+},
+
+{
+  slug: "family-elephant-highlands-wildlife-8-day-tour",
+  title: "Elephant, Highlands & Wildlife Family Escape",
+  category: "Family Tours",
+  duration: "8 Days / 7 Nights",
+  highlights: [
+    "Pinnawala Elephant Experience",
+    "Kandy Lake & Spice Garden",
+    "Temple of the Sacred Tooth Relic",
+    "Royal Botanical Gardens, Peradeniya",
+    "Tea Factory Visit in Nuwara Eliya",
+    "Gregory Lake Pedal-Boat Ride",
+    "Scenic Train Journey from Nanu Oya to Ella",
+    "Nine Arch Bridge",
+    "Udawalawe National Park Jeep Safari",
+    "Elephant Transit Home Visit",
+    "Bentota Beach Relaxation",
+    "Optional Turtle Hatchery Visit"
+  ],
+  price: "From $2500 pp",
+  blurb: "A family adventure combining elephant encounters, hill-country scenery, a memorable train journey, wildlife safari and relaxing beach time.",
+  motif: "sun",
+  imageUrl: "/documents/images/tour/kandy6.png",
+  heroTitle: "Elephant, Highlands & Wildlife Family Escape — 8 Days",
+  intro: "Experience Sri Lanka as a family on a journey filled with elephants, cultural discoveries, tea-country scenery, scenic train travel, wildlife encounters and a relaxing beach finish.",
+  overview: "Begin in Pinnawala with an elephant experience before exploring Kandy's cultural attractions and peaceful lake surroundings. Travel into the cool highlands of Nuwara Eliya for a tea factory visit and a family pedal-boat ride at Gregory Lake. Continue by scenic train to Ella, discover the Nine Arch Bridge, and head to Udawalawe for an exciting national park safari. Finish the journey with a relaxed coastal stay in Bentota before departure.",
+  bestFor: "Families with children who enjoy wildlife, elephants, scenic train journeys, cultural attractions and beach relaxation.",
+  groupSize: "Private vehicle — customised to your family's size and needs.",
+  physicalLevel: "Easy to moderate — mostly relaxed sightseeing, with optional walks and a jeep safari.",
+  destinationsCovered: "Airport → Pinnawala → Kandy → Nuwara Eliya → Ella → Udawalawe → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Airport, Pinnawala & Kandy",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive assistance with your luggage.",
+        "Journey to Pinnawala: Travel directly towards Pinnawala through Sri Lanka's countryside.",
+        "Pinnawala Elephant Experience: Visit Pinnawala and observe the elephants during their daily bathing and feeding routines, subject to the day's schedule.",
+        "Continue to Kandy: Travel onwards to Kandy after your Pinnawala visit.",
+        "Hotel Check-in: Check in to your family hotel and relax after your journey.",
+        "Relaxed Evening: Enjoy a quiet evening at the hotel, depending on your arrival time."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/pinnawala3.png"
+    },
+    {
+      day: 2,
+      title: "Pinnawala & Kandy",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's activities.",
+        "Pinnawala Visit: Return to Pinnawala to observe the elephants bathing, subject to the daily schedule and access arrangements.",
+        "Elephant Observation: Spend time learning about the elephants and observing their routines.",
+        "Spice Garden Visit: Continue towards Kandy via a spice garden and discover some of Sri Lanka's traditional spices and plants.",
+        "Kandy Lake: Enjoy an easy walk around Kandy Lake and take in the surrounding city scenery.",
+        "Relaxed Evening: Return to your hotel and enjoy family time at leisure."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy6.png"
+    },
+    {
+      day: 3,
+      title: "Kandy Sightseeing",
+      points: [
+        "Breakfast: Enjoy breakfast at the hotel before setting out.",
+        "Temple of the Sacred Tooth Relic: Visit Sri Dalada Maligawa, one of Sri Lanka's most significant cultural and religious landmarks.",
+        "Cultural Discovery: Learn about the temple's history and importance during your visit.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, with tropical plants, open lawns and shaded paths.",
+        "Family Garden Time: Enjoy a relaxed stroll and take photographs among the gardens' beautiful surroundings.",
+        "Optional Kandyan Dance Show: Attend a traditional Kandyan cultural dance performance, subject to the show's schedule."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy7.png"
+    },
+    {
+      day: 4,
+      title: "Kandy to Nuwara Eliya",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing Kandy.",
+        "Scenic Hill-Country Drive: Travel into the central highlands through winding roads and green mountain landscapes.",
+        "Tea Factory Visit: Stop at a tea factory to discover how Sri Lankan tea is produced, subject to availability.",
+        "Tea Plantation Views: Enjoy the surrounding tea-growing scenery and take family photographs.",
+        "Gregory Lake: Visit Gregory Lake and enjoy its open spaces and mountain setting.",
+        "Family Pedal-Boat Ride: Enjoy an optional pedal-boat ride, subject to availability and local safety requirements, before checking in to your hotel."
+      ],
+      overnight: "Family hotel in Nuwara Eliya.",
+      imageUrl: "/documents/images/tour/nuwaraeliya6.png"
+    },
+    {
+      day: 5,
+      title: "Scenic Train to Ella",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before travelling to Nanu Oya railway station.",
+        "Railway Station Arrival: Arrive with sufficient time to board your scheduled train.",
+        "Scenic Train Journey: Travel from Nanu Oya to Ella and enjoy views of tea plantations, green valleys and misty hills.",
+        "Ella Arrival: Meet your chauffeur-guide at the agreed meeting point after arriving in Ella.",
+        "Nine Arch Bridge: Visit the famous Nine Arch Bridge and enjoy an easy walk to a suitable viewpoint, depending on conditions.",
+        "Ella Town: Spend a relaxed evening exploring Ella town before returning to your family hotel."
+      ],
+      overnight: "Family hotel in Ella.",
+      imageUrl: "/documents/images/tour/ella1.png"
+    },
+    {
+      day: 6,
+      title: "Ella to Udawalawe",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing Ella.",
+        "Journey to Udawalawe: Travel towards Udawalawe through scenic countryside.",
+        "Safari Preparation: Arrive in the Udawalawe area and prepare for your afternoon national park safari.",
+        "Udawalawe National Park Safari: Explore the park on a jeep safari and look for elephants and other wildlife in its open grasslands and natural habitats.",
+        "Family Wildlife Experience: Enjoy opportunities to observe wildlife from the safari vehicle while following the guide's safety instructions.",
+        "Relaxed Evening: Return to your accommodation near the park and enjoy a quiet evening."
+      ],
+      overnight: "Hotel near Udawalawe National Park.",
+      imageUrl: "/documents/images/tour/udawalawa.png"
+    },
+    {
+      day: 7,
+      title: "Udawalawe to Bentota",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel near Udawalawe.",
+        "Optional Elephant Transit Home Visit: Visit the Elephant Transit Home to observe feeding sessions for orphaned elephant calves, subject to the published schedule and visitor access arrangements.",
+        "Learn About Elephant Conservation: Discover the centre's rehabilitation work and its role in preparing elephants for life in the wild.",
+        "Drive to Bentota: Continue towards Sri Lanka's west coast through changing countryside scenery.",
+        "Beach Resort Check-in: Arrive in Bentota and settle into your family-friendly beach resort.",
+        "Coastal Relaxation: Enjoy a relaxed evening by the beach or pool."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/benthota1.png"
+    },
+    {
+      day: 8,
+      title: "Beach Morning & Departure",
+      points: [
+        "Final Breakfast: Enjoy breakfast together at your beach resort.",
+        "Free Morning: Relax at the resort or spend time on the beach, depending on your departure schedule.",
+        "Optional Turtle Hatchery Visit: If time permits, visit a local turtle conservation centre to learn about sea turtle conservation, subject to opening hours and responsible animal-care practices.",
+        "Hotel Check-out: Complete check-out and prepare for your airport transfer.",
+        "Private Airport Transfer: Drive from Bentota to Bandaranaike International Airport (CMB).",
+        "Departure: Arrive at the airport with sufficient time for airline check-in and your international flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/beach3.png"
+    }
+  ],
+
+  hotelRecommendation: "Family-friendly accommodation in Kandy for three nights, a comfortable hotel in Nuwara Eliya, a family hotel in Ella, accommodation near Udawalawe National Park, and a beach resort in Bentota.",
+
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide throughout the road journey. The Nanu Oya-to-Ella train journey is arranged separately, with the chauffeur-guide meeting the family in Ella. Train tickets are subject to availability and should be confirmed in advance.",
+
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless arranged in advance.",
+
+  included: [
+    "7 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide, except during the train journey",
+    "Airport welcome and luggage assistance",
+    "Road transfers between destinations listed in the itinerary",
+    "Sightseeing stops listed in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Pinnawala elephant experience charges unless specified",
+    "Spice garden purchases or optional experiences",
+    "Temple of the Sacred Tooth Relic and Royal Botanical Gardens entrance charges, where applicable",
+    "Tea factory admission or tour charges",
+    "Gregory Lake pedal-boat charges",
+    "Nanu Oya-to-Ella train tickets unless specified",
+    "Udawalawe National Park entrance fees and jeep safari charges unless specified",
+    "Elephant Transit Home visit charges, if applicable",
+    "Optional turtle conservation centre admission or donations",
+    "Optional activities not specifically included in the quotation",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+
+  optionalExperiences: [
+    "Additional Pinnawala elephant experience",
+    "Spice garden experience",
+    "Kandyan cultural dance performance",
+    "Gregory Lake pedal-boat ride",
+    "Reserved seats for the Nanu Oya-to-Ella scenic train journey",
+    "Udawalawe National Park jeep safari",
+    "Elephant Transit Home visit",
+    "Turtle conservation centre visit in the Bentota area",
+    "Additional family-friendly activities"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for families with children?",
+      a: "Yes. The itinerary combines cultural attractions, elephants, tea-country scenery, a scenic train journey, wildlife safari and beach relaxation. Activity timings and rest stops can be adjusted to suit your family's needs."
+    },
+    {
+      q: "Will we visit Pinnawala on both Day 1 and Day 2?",
+      a: "The itinerary includes a Pinnawala visit on both days. The timing and activities should be coordinated in advance to avoid unnecessary repeat travel and to match the elephant bathing and feeding schedules."
+    },
+    {
+      q: "Is the scenic train journey from Nanu Oya to Ella guaranteed?",
+      a: "Train travel depends on the railway timetable, ticket availability and operating conditions. Tickets and the planned departure should be confirmed before the tour is finalised."
+    },
+    {
+      q: "Can we see elephants during the Udawalawe safari?",
+      a: "Udawalawe is well known for its elephant population, but wildlife sightings cannot be guaranteed. Sightings depend on animal movements, weather and other natural conditions."
+    },
+    {
+      q: "Can we visit the Elephant Transit Home?",
+      a: "A visit may be possible depending on the centre's visitor arrangements and feeding schedule. Confirm access and timing before including it in the final itinerary."
+    },
+    {
+      q: "Are safari fees and other entrance tickets included?",
+      a: "Fees are included only when specifically stated in the confirmed quotation. National park admission, jeep hire, train tickets and optional experiences should be confirmed before booking."
+    },
+    {
+      q: "Can we spend more time at the beach?",
+      a: "Yes. The final morning can be adjusted around your flight time, although a turtle conservation visit should only be planned if sufficient time remains for the drive to the airport."
+    }
+  ]
+},
+
+    
+{
+  slug: "ultimate-family-sri-lanka-adventure-10-day-tour",
+  title: "Ultimate Family Sri Lanka Adventure",
+  category: "Family Tours",
+  duration: "10 Days / 9 Nights",
+  highlights: [
+    "Relaxing Arrival in Negombo",
+    "Sigiriya Rock Fortress",
+    "Traditional Village Tour & Canoe Ride",
+    "Pinnawala Elephant Experience",
+    "Kandy Cultural Heritage",
+    "Royal Botanical Gardens, Peradeniya",
+    "Nuwara Eliya Tea Factory Visit",
+    "Gregory Lake Pedal-Boat Ride",
+    "Scenic Train Journey from Nanu Oya to Ella",
+    "Nine Arch Bridge",
+    "Udawalawe National Park Jeep Safari",
+    "Elephant Transit Home Visit",
+    "Bentota Turtle Conservation Visit",
+    "Bentota Beach & River Safari"
+  ],
+  price: "From $3000 pp",
+  blurb: "A memorable 10-day family holiday combining ancient landmarks, elephants, cultural discoveries, scenic train travel, wildlife safaris and relaxing beach days.",
+  motif: "sun",
+  imageUrl: "/documents/images/tour/sigiriya1.png",
+  heroTitle: "Ultimate Family Sri Lanka Adventure — 10 Days of Discovery",
+  intro: "Discover the best of Sri Lanka together on a family journey filled with exciting wildlife encounters, cultural landmarks, scenic mountain landscapes and relaxing coastal experiences.",
+  overview: "Begin with a relaxing stay in Negombo before exploring the iconic Sigiriya Rock Fortress and enjoying a traditional village experience. Discover elephants and cultural attractions around Pinnawala and Kandy, then travel into the cool tea country of Nuwara Eliya. Continue by scenic train to Ella, experience an elephant safari in Udawalawe and finish with three nights in Bentota for turtle conservation, river adventures and beachside relaxation.",
+  bestFor: "Families with children who want a varied Sri Lankan holiday combining history, culture, wildlife, scenic journeys and beach relaxation.",
+  groupSize: "Private vehicle — customised to your family's size and needs.",
+  physicalLevel: "Easy to moderate — Sigiriya involves a substantial climb, while other activities can be adjusted to suit the family's needs.",
+  destinationsCovered: "Airport → Negombo → Sigiriya → Pinnawala → Kandy → Nuwara Eliya → Ella → Udawalawe → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Negombo",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive assistance with your luggage.",
+        "Transfer to Negombo: Travel to your family hotel in Negombo after your flight.",
+        "Hotel Check-in: Settle into your room and take time to recover from your journey.",
+        "Pool Time: Enjoy a relaxing swim or some downtime at the hotel, depending on the facilities available.",
+        "Family Dinner: Enjoy an early dinner at the hotel or a nearby family-friendly restaurant.",
+        "Relaxed Evening: Rest well before beginning your Sri Lankan adventure the following day."
+      ],
+      overnight: "Family hotel in Negombo.",
+      imageUrl: "/documents/images/tour/negombo006.jpg"
+    },
+    {
+      day: 2,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before travelling towards Sigiriya.",
+        "Journey to Sigiriya: Travel through Sri Lanka's countryside towards the Cultural Triangle.",
+        "Sigiriya Rock Fortress: Explore the iconic ancient rock citadel, with the climb offering a memorable challenge for older children and active families.",
+        "Historic Discoveries: Discover the ancient gardens, water features and historic remains around the fortress, subject to available access and time.",
+        "Traditional Village Tour: Enjoy a village experience that may include a bullock-cart ride and a canoe journey, depending on local arrangements.",
+        "Hotel Relaxation: Check in to your accommodation in Sigiriya or Habarana and enjoy a relaxed evening."
+      ],
+      overnight: "Family hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiriya-lion-rock-fortress-landscape.jpg"
+    },
+    {
+      day: 3,
+      title: "Pinnawala & Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing the Sigiriya or Habarana area.",
+        "Journey to Pinnawala: Travel towards Pinnawala through the Sri Lankan countryside.",
+        "Pinnawala Elephant Experience: Observe elephants and learn about their care, with bathing activities subject to the daily schedule.",
+        "Continue to Kandy: Travel onward to Kandy after the visit.",
+        "Spice Garden Stop: Visit a spice garden along the route and discover traditional Sri Lankan spices and plants.",
+        "Kandy Lake: If time permits, enjoy an easy evening walk around Kandy Lake before settling in at your hotel."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/pinnawala011.jpg"
+    },
+    {
+      day: 4,
+      title: "Kandy Sightseeing",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's sightseeing.",
+        "Temple of the Sacred Tooth Relic: Visit Sri Dalada Maligawa, one of Sri Lanka's most significant cultural and religious landmarks.",
+        "Cultural Discovery: Learn about the temple's history and importance during your visit.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, known for tropical plants, spacious lawns and shaded paths.",
+        "Family Garden Time: Enjoy a relaxed walk through the gardens and take family photographs.",
+        "Optional Kandyan Dance Show: Experience traditional Kandyan music and dance, subject to the performance schedule."
+      ],
+      overnight: "Family hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy013.jpg"
+    },
+    {
+      day: 5,
+      title: "Kandy to Nuwara Eliya",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing Kandy for the hill country.",
+        "Scenic Drive: Travel through winding mountain roads and green highland landscapes.",
+        "Tea Factory Visit: Stop at a tea factory to discover how Sri Lankan tea is produced, subject to availability.",
+        "Tea Plantation Views: Enjoy the surrounding tea-growing scenery and learn about the region's tea heritage.",
+        "Gregory Lake: Visit Gregory Lake and enjoy its open spaces and cool mountain atmosphere.",
+        "Pedal-Boat Ride: Enjoy an optional family pedal-boat ride, subject to availability and local safety requirements, before checking in to your hotel."
+      ],
+      overnight: "Family hotel in Nuwara Eliya.",
+      imageUrl: "/documents/images/tour/nuwara eliya013.jpg"
+    },
+    {
+      day: 6,
+      title: "Scenic Train to Ella",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before travelling to Nanu Oya railway station.",
+        "Station Arrival: Arrive with sufficient time to board your scheduled train.",
+        "Scenic Train Journey: Travel from Nanu Oya to Ella and enjoy views of tea plantations, misty hills and green valleys.",
+        "Ella Arrival: Meet your chauffeur-guide at the agreed meeting point after arriving in Ella.",
+        "Nine Arch Bridge: Visit the famous Nine Arch Bridge and enjoy an easy walk to a suitable viewpoint, depending on conditions.",
+        "Ella Town: Spend a relaxed evening exploring Ella town before returning to your family hotel."
+      ],
+      overnight: "Family hotel in Ella.",
+      imageUrl: "/documents/images/tour/ella014.jpg"
+    },
+    {
+      day: 7,
+      title: "Ella to Udawalawe",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before leaving Ella.",
+        "Journey to Udawalawe: Travel through scenic countryside towards Udawalawe National Park.",
+        "Safari Preparation: Arrive in the area and prepare for your afternoon safari.",
+        "Udawalawe National Park Safari: Explore the park by jeep and look for elephant herds and other wildlife in their natural habitats.",
+        "Family Wildlife Experience: Enjoy opportunities to observe wildlife from the safari vehicle while following your guide's safety instructions.",
+        "Relaxed Evening: Return to your accommodation near the park and enjoy a quiet evening."
+      ],
+      overnight: "Hotel near Udawalawe National Park.",
+      imageUrl: "/documents/images/tour/udawalawe14.jpg"
+    },
+    {
+      day: 8,
+      title: "Udawalawe to Bentota",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel near Udawalawe.",
+        "Elephant Transit Home: Visit the Elephant Transit Home to observe feeding sessions for orphaned elephant calves, subject to the published schedule and visitor access arrangements.",
+        "Elephant Conservation: Learn about the centre's rehabilitation work and its role in preparing elephants for life in the wild.",
+        "Drive to Bentota: Continue towards Sri Lanka's west coast through changing countryside scenery.",
+        "Beach Resort Check-in: Arrive in Bentota and settle into your family-friendly beach resort.",
+        "Coastal Relaxation: Enjoy free time by the beach or pool before dinner."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/beach34.jpg"
+    },
+    {
+      day: 9,
+      title: "Bentota Beach Day",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at the resort and begin the day at your family's own pace.",
+        "Turtle Conservation Visit: Visit a local turtle conservation centre to learn about sea turtles and conservation efforts, subject to opening hours and responsible animal-care practices.",
+        "Family Beach Time: Enjoy Bentota Beach or relax by the resort pool.",
+        "Optional River Safari: Explore Bentota's mangrove-lined waterways on a boat safari, subject to weather and operator availability.",
+        "Free Leisure Time: Enjoy additional time at the beach or resort, depending on your family's interests.",
+        "Farewell Family Dinner: Celebrate your final full evening in Sri Lanka with a relaxed family dinner by the coast."
+      ],
+      overnight: "Family-friendly beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/benthota125.jpg"
+    },
+    {
+      day: 10,
+      title: "Departure",
+      points: [
+        "Final Breakfast: Enjoy breakfast together at your beach resort.",
+        "Relaxed Morning: Spend some time enjoying the resort facilities, depending on your flight schedule.",
+        "Hotel Check-out: Pack your belongings and complete check-out at a suitable time.",
+        "Private Airport Transfer: Begin the drive from Bentota to Bandaranaike International Airport (CMB).",
+        "Comfort Stop: Enjoy a short refreshment stop along the way if needed.",
+        "Airport Departure: Arrive at the airport with sufficient time for airline check-in and your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo20.jpg"
+    }
+  ],
+
+  hotelRecommendation: "Family-friendly accommodation in Negombo, Sigiriya or Habarana, Kandy, Nuwara Eliya and Ella, followed by a comfortable hotel near Udawalawe National Park and a beach resort in Bentota.",
+
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide throughout the road journey. The Nanu Oya-to-Ella train journey is arranged separately, with the chauffeur-guide meeting the family at the agreed arrival point in Ella. Train tickets are subject to availability and should be confirmed in advance.",
+
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless arranged in advance.",
+
+  included: [
+    "9 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide, except during the train journey",
+    "Airport welcome and luggage assistance",
+    "Road transfers between destinations listed in the itinerary",
+    "Sightseeing stops listed in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Sigiriya Rock Fortress entrance tickets",
+    "Village tour, bullock-cart ride and canoe ride charges",
+    "Pinnawala elephant experience charges",
+    "Spice garden optional experiences or purchases",
+    "Temple of the Sacred Tooth Relic and Royal Botanical Gardens entrance charges, where applicable",
+    "Tea factory admission or tour charges",
+    "Gregory Lake pedal-boat charges",
+    "Nanu Oya-to-Ella train tickets unless specified",
+    "Udawalawe National Park entrance fees and jeep safari charges unless specified",
+    "Elephant Transit Home visit charges, if applicable",
+    "Turtle conservation centre admission or donations",
+    "Bentota River safari and optional activities",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+
+  optionalExperiences: [
+    "Sigiriya Rock Fortress visit",
+    "Traditional village tour with bullock-cart and canoe experiences",
+    "Spice garden experience",
+    "Kandyan cultural dance performance",
+    "Gregory Lake pedal-boat ride",
+    "Reserved seats for the Nanu Oya-to-Ella scenic train journey",
+    "Udawalawe National Park jeep safari",
+    "Elephant Transit Home visit",
+    "Bentota turtle conservation centre visit",
+    "Bentota River safari",
+    "Additional family-friendly activities"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this 10-day tour suitable for families with children?",
+      a: "Yes. The itinerary combines cultural attractions, wildlife encounters, scenic travel and beach relaxation. Some activities, particularly the Sigiriya climb, require more effort and should be considered in relation to the children's ages and fitness."
+    },
+    {
+      q: "Is climbing Sigiriya Rock Fortress suitable for younger children?",
+      a: "The climb includes many steps and exposed sections. Suitability depends on each child's age, fitness, confidence and the weather. Families can enjoy the surrounding gardens and area if they choose not to climb."
+    },
+    {
+      q: "Can we guarantee seats on the scenic train from Nanu Oya to Ella?",
+      a: "Train tickets depend on availability and railway operations. Advance booking is recommended, and the final train arrangement should be confirmed before travel."
+    },
+    {
+      q: "Will we definitely see elephants in Udawalawe?",
+      a: "Udawalawe is well known for elephants, but wildlife sightings cannot be guaranteed. Sightings depend on animal movements, weather and natural conditions."
+    },
+    {
+      q: "Can we visit the Elephant Transit Home feeding session?",
+      a: "A visit may be possible depending on the centre's published feeding schedule and visitor access arrangements. Confirm the timing before finalising the day's plan."
+    },
+    {
+      q: "Are entrance tickets and safari fees included?",
+      a: "Fees are included only when specifically stated in the confirmed quotation. Sigiriya tickets, train tickets, safari admission, jeep hire and optional activities should be confirmed before booking."
+    },
+    {
+      q: "Can we spend more time relaxing in Bentota?",
+      a: "Yes. The Bentota stay can be adjusted around your family's preferences and flight schedule, subject to the total tour duration and airport transfer time."
+    }
+  ]
+},
+
+{
+  slug: "sri-lanka-adventure-highlands-rainforest-coast-12-day-tour",
+  title: "Sri Lanka Adventure: Highlands, Rainforest & Coast",
+  category: "Adventure Tours",
+  duration: "12 Days / 11 Nights",
+  highlights: [
+    "White-Water Rafting in Kitulgala",
+    "Nuwara Eliya Tea Factory & Tea Tasting",
+    "Horton Plains National Park & World's End",
+    "Lipton's Seat Panoramic Viewpoint",
+    "Ella Hiking & Nine Arch Bridge",
+    "Little Adam's Peak & Ravana Falls",
+    "Udawalawe National Park Jeep Safari",
+    "Sinharaja Rainforest Guided Trek",
+    "Whale Watching in Mirissa",
+    "Madu River Boat Safari",
+    "Bentota Water Sports",
+    "Colombo City Tour"
+  ],
+  price: "From $3500 pp",
+  blurb: "An adventurous 12-day journey through Sri Lanka's highlands, tea plantations, rainforest wilderness, wildlife parks and spectacular southern coastline.",
+  motif: "mountain",
+  imageUrl: "/documents/images/tour/Mountain Hiking Adventure.jpg",
+  heroTitle: "Sri Lanka Adventure — 12 Days of Highlands, Rainforest & Coast",
+  intro: "Discover Sri Lanka through thrilling outdoor experiences, misty mountain trails, iconic tea-country viewpoints, wildlife encounters and tropical coastal adventures.",
+  overview: "Begin with white-water rafting in Kitulgala before exploring Nuwara Eliya's tea country and hiking through Horton Plains to World's End. Continue to Lipton's Seat and Ella for spectacular mountain views, waterfalls and iconic landmarks. Experience a wildlife safari in Udawalawe, discover the biodiversity of Sinharaja Rainforest, and head to Mirissa for whale watching and beach relaxation. Finish with a Madu River boat safari, exciting water sports in Bentota and a Colombo city tour before departure.",
+  bestFor: "Adventure travellers, couples, active friends and nature lovers seeking hiking, rafting, wildlife, rainforest exploration and coastal activities.",
+  groupSize: "Private tour with a dedicated chauffeur-guide. Adventure activities are operated by specialist local providers.",
+  physicalLevel: "Moderate to challenging — includes hiking, rainforest trekking and optional white-water rafting and water sports.",
+  destinationsCovered: "Airport → Kitulgala → Nuwara Eliya → Horton Plains → Haputale → Ella → Udawalawe → Sinharaja → Mirissa → Bentota → Colombo → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Airport Welcome & Kitulgala Adventure",
+      points: [
+        "Airport Welcome: Meet your guests at Bandaranaike International Airport (CMB) with traditional flower garlands and a warm Sri Lankan welcome.",
+        "Meet Your Chauffeur-Guide: Receive assistance with luggage before beginning the journey towards Kitulgala.",
+        "Scenic Countryside Drive: Travel through rural landscapes towards the Kelani River region.",
+        "White-Water Rafting: Experience the rapids of the Kelani River with a professional rafting operator, subject to water levels, weather and safety requirements.",
+        "Optional River Adventure: Enjoy river bathing or swimming only in approved safe areas and when conditions permit.",
+        "Riverside Evening: Check in to your riverside lodge and enjoy dinner surrounded by nature. A guided rainforest walk or waterfall trek may be possible if arrival time allows."
+      ],
+      overnight: "Riverside lodge in Kitulgala.",
+      imageUrl: "/documents/images/tour/kitulgala0111.jpg"
+    },
+    {
+      day: 2,
+      title: "Nuwara Eliya Highland Exploration & Tea Experience",
+      points: [
+        "Breakfast & Departure: Enjoy breakfast before travelling towards the central highlands.",
+        "Scenic Highland Drive: Enjoy views of green hills, winding roads and mountain landscapes along the way.",
+        "Gregory Lake Park: Take a relaxing walk beside Gregory Lake and enjoy optional boating or cycling, subject to availability.",
+        "Hakgala Botanical Garden: Explore landscaped gardens, colourful flowers and the surrounding mountain scenery.",
+        "Tea Factory Visit: Discover how freshly harvested tea leaves are processed into Ceylon tea.",
+        "Tea Tasting & Nuwara Eliya Town: Sample freshly brewed teas where available, then enjoy a relaxed evening exploring the town."
+      ],
+      overnight: "Hotel in Nuwara Eliya.",
+      imageUrl: "/documents/images/tour/tea123.jpg"
+    },
+    {
+      day: 3,
+      title: "Horton Plains Trek & World's End",
+      points: [
+        "Early Departure: Leave your accommodation early for Horton Plains National Park.",
+        "Horton Plains National Park: Begin a guided trek through open grasslands and misty cloud forests.",
+        "World's End: Visit the famous escarpment for panoramic views over the southern lowlands when visibility is clear.",
+        "Baker's Falls: Follow the established circular trail to admire this picturesque waterfall.",
+        "Highland Nature Walk: Enjoy the unique landscape and look for native plants and wildlife along the trail.",
+        "Transfer to Haputale: Continue through scenic mountain roads and tea plantations to your accommodation."
+      ],
+      overnight: "Hotel in Haputale.",
+      imageUrl: "/documents/images/tour/horton-plains25.jpg"
+    },
+    {
+      day: 4,
+      title: "Lipton's Seat & Scenic Transfer to Ella",
+      points: [
+        "Early Breakfast: Start the day early to make the most of the highland scenery.",
+        "Lipton's Seat: Visit the famous viewpoint overlooking rolling tea plantations and surrounding mountain ranges, weather permitting.",
+        "Tea Plantation Walk: Explore the tea-growing landscape and observe tea pluckers at work when available.",
+        "Optional Dambatenne Tea Factory: Learn about the region's tea heritage, subject to opening hours and available time.",
+        "Scenic Journey to Ella: Travel through the hill country, enjoying views of tea estates and mountain villages.",
+        "Ella Check-in: Arrive at your accommodation and enjoy a relaxed evening in Ella."
+      ],
+      overnight: "Hotel in Ella.",
+      imageUrl: "/documents/images/tour/liptons-seat52.jpg"
+    },
+    {
+      day: 5,
+      title: "Ella Hiking, Iconic Bridge & Waterfall Adventure",
+      points: [
+        "Breakfast: Enjoy breakfast before beginning your Ella sightseeing and hiking day.",
+        "Nine Arch Bridge: Walk to the iconic railway bridge surrounded by lush greenery and forested hills.",
+        "Little Adam's Peak: Hike to the viewpoint for beautiful views across Ella's valleys and tea plantations.",
+        "Ravana Cave: Explore the cave area and learn about local legends associated with King Ravana, subject to access conditions.",
+        "Ravana Falls: Stop to admire the waterfall cascading down the rocky mountainside from a safe viewing area.",
+        "Ella Town: Spend free time at local cafés, shops and viewpoints before returning to your hotel."
+      ],
+      overnight: "Hotel in Ella.",
+      imageUrl: "/documents/images/tour/ella55.jpg"
+    },
+    {
+      day: 6,
+      title: "Journey to Udawalawe & Wildlife Safari",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before leaving Ella.",
+        "Journey to Udawalawe: Travel through changing landscapes as the road descends from the highlands into the dry-zone plains.",
+        "Safari Preparation: Arrive in the Udawalawe area and prepare for the afternoon wildlife experience.",
+        "Udawalawe National Park Safari: Explore the park by jeep with an experienced safari guide and look for wild elephants, water buffalo, deer, crocodiles and birdlife.",
+        "Wildlife Photography: Capture wildlife and landscapes from the safari vehicle while following the guide's instructions.",
+        "Safari Lodge Evening: Check in to your accommodation and enjoy a peaceful evening close to nature."
+      ],
+      overnight: "Safari lodge near Udawalawe National Park.",
+      imageUrl: "/documents/images/tour/udawalawa25.jpg"
+    },
+    {
+      day: 7,
+      title: "Morning Safari & Journey to Sinharaja",
+      points: [
+        "Early Morning Safari: Enjoy an optional second safari in Udawalawe for another opportunity to observe wildlife.",
+        "Breakfast & Check-out: Return to your accommodation, enjoy breakfast and prepare for departure.",
+        "Scenic Transfer: Travel through rural villages, plantations and countryside towards the southwestern rainforest region.",
+        "Journey to Sinharaja: Continue to your eco-lodge in the Sinharaja area.",
+        "Rainforest Surroundings: Enjoy the peaceful atmosphere and natural scenery around your accommodation.",
+        "Evening Relaxation: Rest and prepare for the following day's guided rainforest trek."
+      ],
+      overnight: "Eco-lodge in the Sinharaja area.",
+      imageUrl: "/documents/images/tour/sinharaja23.jpg"
+    },
+    {
+      day: 8,
+      title: "Sinharaja Rainforest Trek & Transfer to Mirissa",
+      points: [
+        "Breakfast & Trek Preparation: Enjoy breakfast and prepare for the rainforest excursion.",
+        "Guided Rainforest Trek: Explore Sinharaja Forest Reserve with an experienced local nature guide.",
+        "Wildlife & Birdwatching: Look for endemic birds, butterflies, amphibians and other rainforest wildlife.",
+        "Forest Discovery: Learn about native plants, biodiversity and the conservation importance of this protected rainforest.",
+        "Transfer to Mirissa: Leave the rainforest region and travel towards Sri Lanka's southern coast.",
+        "Coastal Check-in: Arrive in Mirissa, settle into your accommodation and enjoy a relaxed evening."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/sinharaja123.jpg"
+    },
+    {
+      day: 9,
+      title: "Whale Watching & Mirissa Beach Adventure",
+      points: [
+        "Early Morning Departure: Transfer to the harbour for your scheduled whale-watching excursion.",
+        "Whale-Watching Boat Trip: Head offshore with a licensed operator in search of whales and dolphins, subject to seasonal conditions and wildlife sightings.",
+        "Return to Shore: Return to Mirissa after the excursion and enjoy time to rest.",
+        "Mirissa Beach: Relax on the golden sands and enjoy the tropical coastal scenery.",
+        "Optional Surfing: Try a beginner surfing lesson or enjoy a surf session when sea and wave conditions are suitable.",
+        "Sunset by the Coast: Spend the evening exploring local cafés and restaurants or relaxing by the beach."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/mirissa52.jpg"
+    },
+    {
+      day: 10,
+      title: "Coastal Journey & Madu River Boat Safari",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast before departing Mirissa.",
+        "Scenic Coastal Drive: Travel north along the southern and western coastline, passing coastal towns and fishing villages.",
+        "Journey to the Madu River: Continue towards the Balapitiya area for a river adventure.",
+        "Madu River Boat Safari: Explore mangrove tunnels, river islands and the estuary's natural environment with a local boat operator.",
+        "Wildlife & Nature: Look for birds and other wildlife while learning about the importance of the mangrove ecosystem.",
+        "Bentota Arrival: Continue to Bentota, check in to your beach resort and enjoy a relaxing evening."
+      ],
+      overnight: "Beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/benthota15.jpg"
+    },
+    {
+      day: 11,
+      title: "Bentota Water Sports & Beach Adventure",
+      points: [
+        "Breakfast: Enjoy breakfast at your resort before the day's activities.",
+        "Jet Skiing: Experience a jet-ski session with a qualified local operator, subject to conditions and safety requirements.",
+        "Banana Boat Ride: Enjoy an optional group ride with suitable safety equipment and operator guidance.",
+        "Water Skiing or Wakeboarding: Try one of these activities if available and appropriate for your experience level.",
+        "Kayaking or Lagoon Activities: Explore the water at a gentler pace with a suitable local provider.",
+        "Beach Leisure: Relax on Bentota's sandy beach after the day's adventures and enjoy your final full evening on the coast."
+      ],
+      overnight: "Beach resort in Bentota.",
+      imageUrl: "/documents/images/tour/benthota125.jpg"
+    },
+    {
+      day: 12,
+      title: "Colombo City Tour & Departure",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast and check out of your Bentota resort.",
+        "Journey to Colombo: Travel towards Colombo, with sightseeing depending on your international flight schedule.",
+        "Galle Face Green: Enjoy a stroll along Colombo's famous oceanfront promenade if time permits.",
+        "Independence Square: Visit this landmark commemorating Sri Lanka's independence, subject to available time.",
+        "Colombo City Drive: See selected landmarks, shopping areas and lively city streets during a short city tour.",
+        "Airport Transfer: Continue to Bandaranaike International Airport (CMB) and arrive with sufficient time for check-in and departure."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo56.jpg"
+    }
+  ],
+
+  hotelRecommendation: "A riverside lodge in Kitulgala, comfortable highland accommodation in Nuwara Eliya and Haputale, a hotel in Ella, a safari lodge near Udawalawe, an eco-lodge in the Sinharaja area, and beachside accommodation in Mirissa and Bentota.",
+
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for road transfers. White-water rafting, whale watching, national park safaris, rainforest trekking and water sports are arranged with suitable local activity providers. Activity availability depends on weather, operating schedules and safety conditions.",
+
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless arranged in advance. Day 1 dinner may be arranged through the Kitulgala lodge.",
+
+  included: [
+    "11 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Road transfers between destinations listed in the itinerary",
+    "Sightseeing stops listed in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "White-water rafting charges and required activity equipment unless specified",
+    "Optional river activities, jungle walks and waterfall treks",
+    "Gregory Lake boating or cycling charges",
+    "Hakgala Botanical Garden entrance fees",
+    "Tea factory tours and tea tasting charges unless specified",
+    "Horton Plains National Park entrance fees and guide charges unless specified",
+    "Dambatenne Tea Factory admission",
+    "Udawalawe National Park entrance fees and jeep safari charges",
+    "Sinharaja Forest Reserve entrance fees and local nature guide charges",
+    "Whale-watching boat tickets",
+    "Surfing lessons and equipment rental",
+    "Madu River boat safari charges",
+    "Bentota water sports and equipment rental",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+
+  optionalExperiences: [
+    "Guided rainforest walk or waterfall trek in Kitulgala",
+    "Gregory Lake boating or cycling",
+    "Additional tea factory experiences",
+    "Optional Dambatenne Tea Factory visit",
+    "Second Udawalawe wildlife safari",
+    "Whale watching in Mirissa",
+    "Beginner surfing lesson in Mirissa",
+    "Madu River boat safari",
+    "Jet skiing in Bentota",
+    "Banana boat ride",
+    "Water skiing or wakeboarding",
+    "Kayaking and other suitable water activities"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for adventure travellers?",
+      a: "Yes. It combines rafting, hiking, wildlife safaris, rainforest trekking, whale watching and coastal water sports. Travellers should be comfortable with outdoor activities and varying levels of physical exertion."
+    },
+    {
+      q: "Do I need previous experience for white-water rafting?",
+      a: "Previous experience may not be necessary for some guided rafting trips, but participation depends on the operator's requirements, river conditions, age limits and safety assessment. Follow the professional guide's instructions."
+    },
+    {
+      q: "How challenging is the Horton Plains trek?",
+      a: "The main circular trail involves several hours of walking over uneven terrain and can be affected by mist, rain and slippery sections. Suitable footwear, weather preparation and an appropriate fitness level are important."
+    },
+    {
+      q: "Can we guarantee whale sightings in Mirissa?",
+      a: "No. Whale and dolphin sightings depend on season, sea conditions and natural wildlife movements. Boat trips should follow responsible wildlife-viewing practices."
+    },
+    {
+      q: "Is Sinharaja Rainforest trekking included?",
+      a: "The itinerary includes a guided rainforest trek, but entrance fees and local guide charges should be confirmed in the final quotation."
+    },
+    {
+      q: "Are water sports included in the tour price?",
+      a: "Water sports are included only if specifically listed in the confirmed quotation. Jet skiing, banana boat rides, wakeboarding, kayaking and equipment rental may carry additional charges."
+    },
+    {
+      q: "Can the Colombo city tour be completed before our flight?",
+      a: "The city tour depends on your departure time, traffic and airport check-in requirements. The sightseeing schedule should be shortened or omitted if needed to reach the airport on time."
+    }
+  ]
+},
+
+   {
     slug: "adventure-5-day-tour",
-    title: "5 Day Adventure Tour",
+    title: "Wild Ceylon Escape",
     category: "Adventure Tours",
     duration: "5 Days / 4 Nights",
     highlights: ["Kitulgala whitewater rafting", "Rainforest canopy ziplining", "Ella hiking trails"],
@@ -2535,7 +3143,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "adventure-7-day-tour",
-    title: "7 Day Adventure Tour",
+    title: "Ceylon Adventure Trails",
     category: "Adventure Tours",
     duration: "7 Days / 6 Nights",
     highlights: ["Kitulgala rafting & ziplining", "Ella hiking trails", "Yala jeep safari"],
@@ -2666,7 +3274,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "adventure-8-day-tour",
-    title: "8 Day Adventure Tour",
+    title: "Beyond the Highlands",
     category: "Adventure Tours",
     duration: "8 Days / 7 Nights",
     highlights: ["Kitulgala rafting & ziplining", "Ella hiking & Yala safari", "Mirissa surfing"],
@@ -2812,7 +3420,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   },
   {
     slug: "adventure-10-day-tour",
-    title: "10 Day Adventure Tour",
+    title: "Ultimate Adventure Sri Lanka",
     category: "Adventure Tours",
     duration: "10 Days / 9 Nights",
     highlights: ["udawalawa safari", "Ella hiking", "sinharaja trekking"],
@@ -2986,1021 +3594,725 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
     ],
   },
   
-  {
-    slug: "wildlife-5-day-tour",
-    title: "5 Day Wildlife Tour",
-    category: "Wildlife Tours",
-    duration: "5 Days / 4 Nights",
-    highlights: ["Udawalawe elephant herds", "Yala leopard safari", "Bird-rich wetlands"],
-    price: "From $1,200 pp",
-    blurb: "A focused 5-day safari circuit through two of Sri Lanka's best national parks.",
-    motif: "leaf",
-    heroTitle: "Ceylon Wildlife Sprint — 5 Days, Two National Parks",
-    intro:
-      "A tightly focused safari circuit for travellers who want serious wildlife time without a long trip — Udawalawe's elephant herds and Yala's leopards, back to back.",
-    overview:
-      "This route minimises driving between parks, maximising time actually spent on safari across two of the island's best wildlife destinations.",
-    bestFor: "Wildlife photographers, nature enthusiasts, short-trip safari travellers",
-    groupSize: "Private vehicle with tracker-guide — customisable group size",
-    physicalLevel: "Easy — safaris are seated in open 4x4 jeeps",
-    destinationsCovered: "Colombo → Udawalawe → Yala → Colombo",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Udawalawe",
-        morning: "Arrive and transfer directly towards Udawalawe National Park.",
-        afternoon: "Visit the Elephant Transit Home to watch orphaned calves being fed.",
-        evening: "First jeep safari into Udawalawe, known for large, easy-to-spot elephant herds.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 2,
-        title: "Udawalawe Safari to Yala",
-        morning: "A second Udawalawe safari at dawn, the park's most active period.",
-        afternoon: "Drive to the Yala area.",
-        evening: "First jeep safari into Yala National Park in search of leopards.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 3,
-        title: "Yala Safari Day",
-        morning: "Early morning jeep safari — Yala's leopard density is among the highest in the world.",
-        afternoon: "Rest at your hotel, or visit nearby Kataragama's multi-faith temple complex.",
-        evening: "A second Yala safari for dusk sightings.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 4,
-        title: "Final Safari & South Coast",
-        morning: "A final Yala safari at dawn.",
-        afternoon: "Drive to the south coast, arriving at Mirissa or Galle by evening.",
-        evening: "Relaxed dinner by the coast.",
-        overnight: "Hotel on the south coast.",
-      },
-      {
-        day: 5,
-        title: "Departure",
-        morning: "Free morning by the coast.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Safari-style lodges near Udawalawe and Yala, coastal hotel finish.",
-    transportation: "Private air-conditioned vehicle for road transfers; dedicated 4x4 safari jeeps with tracker-guides for all park drives.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["4 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "5 jeep safaris across Udawalawe and Yala with tracker-guide", "Elephant Transit Home entrance"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Additional safari session", "Professional wildlife photography guide", "Bird-watching specialist guide"],
-    tourFaqs: [
-      { q: "How many safaris are included?", a: "Five in total across the two parks — enough for strong odds of leopard and elephant sightings without over-scheduling." },
-      { q: "Is early rising required?", a: "Yes — the best safaris start at dawn when animals are most active, typically a 5am pickup." },
-    ],
-  },
-  {
-    slug: "wildlife-7-day-tour",
-    title: "7 Day Wildlife Tour",
-    category: "Wildlife Tours",
-    duration: "7 Days / 6 Nights",
-    highlights: ["Minneriya elephant gathering", "Yala leopard safaris", "Udawalawe elephant herds"],
-    price: "From $1,680 pp",
-    blurb: "Our 5-day safari sprint extended to include Minneriya's seasonal elephant gathering.",
-    motif: "leaf",
-    heroTitle: "Ceylon Wildlife Trail — 7 Days Across Three National Parks",
-    intro:
-      "Adding Minneriya National Park — home to 'The Gathering,' one of Asia's largest elephant congregations — to our core Udawalawe and Yala safari circuit.",
-    overview:
-      "This route opens with Minneriya (seasonal, roughly June to September) before continuing to Udawalawe and Yala for a comprehensive three-park safari trip.",
-    bestFor: "Serious wildlife travellers wanting maximum species and sighting variety",
-    groupSize: "Private vehicle with tracker-guide — customisable group size",
-    physicalLevel: "Easy",
-    destinationsCovered: "Colombo → Minneriya → Udawalawe → Yala → Colombo",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Minneriya Area",
-        morning: "Arrive and transfer towards the Minneriya/Habarana area.",
-        afternoon: "Rest and settle in after your flight.",
-        evening: "Evening safari in Minneriya National Park.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 2,
-        title: "Minneriya Elephant Gathering",
-        morning: "Morning safari in Minneriya, timed for 'The Gathering' in season — up to 300 elephants at the reservoir.",
-        afternoon: "Visit a nearby village by bullock cart and canoe.",
-        evening: "Free evening at your hotel.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 3,
-        title: "Travel to Udawalawe",
-        morning: "Scenic drive south towards Udawalawe.",
-        afternoon: "Visit the Elephant Transit Home.",
-        evening: "First jeep safari in Udawalawe National Park.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 4,
-        title: "Udawalawe to Yala",
-        morning: "A second Udawalawe safari at dawn.",
-        afternoon: "Drive to the Yala area.",
-        evening: "First jeep safari into Yala National Park.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 5,
-        title: "Yala Safari Day",
-        morning: "Early morning jeep safari in Yala.",
-        afternoon: "Rest, or visit Kataragama's temple complex.",
-        evening: "A second Yala safari for dusk sightings.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 6,
-        title: "Final Safari & South Coast",
-        morning: "A final Yala safari at dawn.",
-        afternoon: "Drive to the south coast.",
-        evening: "Relaxed dinner by the coast.",
-        overnight: "Hotel on the south coast.",
-      },
-      {
-        day: 7,
-        title: "Departure",
-        morning: "Free morning by the coast.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Safari-style lodges near Minneriya, Udawalawe and Yala, coastal hotel finish.",
-    transportation: "Private air-conditioned vehicle for road transfers; dedicated 4x4 safari jeeps with tracker-guides.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["6 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "7 jeep safaris across Minneriya, Udawalawe and Yala", "Elephant Transit Home entrance"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Professional wildlife photography guide", "Bird-watching specialist guide", "Additional safari sessions"],
-    tourFaqs: [
-      { q: "When can we see 'The Gathering' at Minneriya?", a: "Roughly June to September, when the reservoir's water levels draw large elephant herds — outside this window elephants are more dispersed but still present." },
-      { q: "Which park has the best leopard chances?", a: "Yala, which has one of the highest recorded leopard densities of any park in the world." },
-    ],
-  },
-  {
-    slug: "wildlife-8-day-tour",
-    title: "8 Day Wildlife Tour",
-    category: "Wildlife Tours",
-    duration: "8 Days / 7 Nights",
-    highlights: ["Minneriya elephant gathering", "Yala & Udawalawe safaris", "Sinharaja rainforest birding"],
-    price: "From $1,920 pp",
-    blurb: "Our 7-day three-park safari with a Sinharaja rainforest day added for birdlife and endemic species.",
-    motif: "leaf",
-    heroTitle: "Ceylon Wildlife Expedition — 8 Days, Savannah to Rainforest",
-    intro:
-      "Extending our three-park safari trail into Sinharaja, a UNESCO World Heritage rainforest reserve, for a different register of wildlife — endemic birds, reptiles and rainforest flora.",
-    overview:
-      "This route adds a full day in Sinharaja Forest Reserve to our Minneriya–Udawalawe–Yala circuit, giving a genuine contrast between open-plain safari and rainforest wildlife.",
-    bestFor: "Birders, naturalists, and travellers wanting rainforest alongside safari",
-    groupSize: "Private vehicle with tracker-guide — customisable group size",
-    physicalLevel: "Easy, with one moderate rainforest walk",
-    destinationsCovered: "Colombo → Minneriya → Udawalawe → Yala → Sinharaja → Colombo",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Minneriya Area",
-        morning: "Arrive and transfer towards Habarana.",
-        afternoon: "Rest after your flight.",
-        evening: "Evening safari in Minneriya National Park.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 2,
-        title: "Minneriya Elephant Gathering",
-        morning: "Morning safari in Minneriya (seasonal gathering, June–September).",
-        afternoon: "Village tour by bullock cart and canoe.",
-        evening: "Free evening.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 3,
-        title: "Travel to Udawalawe",
-        morning: "Drive south towards Udawalawe.",
-        afternoon: "Visit the Elephant Transit Home.",
-        evening: "First jeep safari in Udawalawe.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 4,
-        title: "Udawalawe to Yala",
-        morning: "A second Udawalawe safari.",
-        afternoon: "Drive to the Yala area.",
-        evening: "First jeep safari in Yala.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 5,
-        title: "Yala Safari Day",
-        morning: "Early morning jeep safari.",
-        afternoon: "Rest, or visit Kataragama.",
-        evening: "A second Yala safari.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 6,
-        title: "Yala to Sinharaja",
-        morning: "A final Yala safari at dawn.",
-        afternoon: "Long drive to Sinharaja Forest Reserve.",
-        evening: "Evening briefing with a rainforest naturalist guide.",
-        overnight: "Eco-lodge near Sinharaja.",
-      },
-      {
-        day: 7,
-        title: "Sinharaja Rainforest Walk",
-        morning: "Guided rainforest trek in search of endemic birds and reptiles.",
-        afternoon: "Continue towards Colombo.",
-        evening: "Farewell dinner in Colombo.",
-        overnight: "Hotel in Colombo.",
-      },
-      {
-        day: 8,
-        title: "Departure",
-        morning: "Free morning, or last-minute shopping.",
-        afternoon: "Transfer to the airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Safari lodges near Minneriya, Udawalawe and Yala; an eco-lodge near Sinharaja.",
-    transportation: "Private air-conditioned vehicle for road transfers; 4x4 safari jeeps with tracker-guides; rainforest naturalist guide for Sinharaja.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["7 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "7 jeep safaris across Minneriya, Udawalawe and Yala", "Guided Sinharaja rainforest trek"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Professional wildlife photography guide", "Night walk in Sinharaja for nocturnal species", "Additional safari sessions"],
-    tourFaqs: [
-      { q: "What makes Sinharaja different from the national parks?", a: "It's a rainforest reserve rather than open savannah, home to many of Sri Lanka's endemic birds and species found nowhere else." },
-      { q: "Is the Sinharaja walk difficult?", a: "It's a moderate forest trail — sturdy shoes are recommended, and the pace is set by your naturalist guide." },
-    ],
-  },
-  {
-    slug: "wildlife-10-day-tour",
-    title: "10 Day Wildlife Tour",
-    category: "Wildlife Tours",
-    duration: "10 Days / 9 Nights",
-    highlights: ["Minneriya, Udawalawe & Yala safaris", "Sinharaja rainforest", "Mirissa whale watching"],
-    price: "From $2,400 pp",
-    blurb: "Our 8-day safari-and-rainforest route extended to the south coast for whale watching.",
-    motif: "leaf",
-    heroTitle: "Grand Ceylon Wildlife Journey — 10 Days, Land and Sea",
-    intro:
-      "Adding blue whale and dolphin watching off Mirissa to our safari-and-rainforest circuit — a genuinely complete wildlife trip spanning savannah, rainforest and ocean.",
-    overview:
-      "This route extends our 8-day expedition with two nights on the south coast for whale watching, rounding out the trip with Sri Lanka's marine megafauna.",
-    bestFor: "Comprehensive wildlife trips covering land and marine species",
-    groupSize: "Private vehicle with tracker-guide — customisable group size",
-    physicalLevel: "Easy, with one moderate rainforest walk",
-    destinationsCovered: "Colombo → Minneriya → Udawalawe → Yala → Sinharaja → Mirissa → Colombo",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Minneriya Area",
-        morning: "Arrive and transfer towards Habarana.",
-        afternoon: "Rest after your flight.",
-        evening: "Evening safari in Minneriya National Park.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 2,
-        title: "Minneriya Elephant Gathering",
-        morning: "Morning safari in Minneriya (seasonal gathering).",
-        afternoon: "Village tour by bullock cart and canoe.",
-        evening: "Free evening.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 3,
-        title: "Travel to Udawalawe",
-        morning: "Drive south towards Udawalawe.",
-        afternoon: "Visit the Elephant Transit Home.",
-        evening: "First jeep safari in Udawalawe.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 4,
-        title: "Udawalawe to Yala",
-        morning: "A second Udawalawe safari.",
-        afternoon: "Drive to the Yala area.",
-        evening: "First jeep safari in Yala.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 5,
-        title: "Yala Safari Day",
-        morning: "Early morning jeep safari.",
-        afternoon: "Rest, or visit Kataragama.",
-        evening: "A second Yala safari.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 6,
-        title: "Yala to Sinharaja",
-        morning: "A final Yala safari.",
-        afternoon: "Drive to Sinharaja Forest Reserve.",
-        evening: "Evening briefing with a naturalist guide.",
-        overnight: "Eco-lodge near Sinharaja.",
-      },
-      {
-        day: 7,
-        title: "Sinharaja Rainforest Walk",
-        morning: "Guided rainforest trek for endemic birds and reptiles.",
-        afternoon: "Drive to the south coast.",
-        evening: "Settle into Mirissa.",
-        overnight: "Hotel in Mirissa.",
-      },
-      {
-        day: 8,
-        title: "Whale Watching in Mirissa",
-        morning: "Boat trip in search of blue whales and dolphins.",
-        afternoon: "Free time on the beach.",
-        evening: "Relaxed dinner by the sea.",
-        overnight: "Hotel in Mirissa.",
-      },
-      {
-        day: 9,
-        title: "South Coast Leisure",
-        morning: "Optional second whale watching trip, or free time.",
-        afternoon: "Explore nearby Galle Fort.",
-        evening: "Farewell coastal dinner.",
-        overnight: "Hotel in Mirissa or Galle.",
-      },
-      {
-        day: 10,
-        title: "Departure",
-        morning: "Free morning by the coast.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Safari lodges near Minneriya, Udawalawe and Yala; eco-lodge near Sinharaja; beachfront hotel in Mirissa.",
-    transportation: "Private air-conditioned vehicle for road transfers; 4x4 safari jeeps with tracker-guides; whale watching boat.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["9 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "7 jeep safaris across Minneriya, Udawalawe and Yala", "Guided Sinharaja rainforest trek", "1 whale watching boat trip"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Second whale watching trip", "Professional wildlife photography guide", "Night walk in Sinharaja"],
-    tourFaqs: [
-      { q: "What's the whale watching success rate?", a: "Blue whale sightings off Mirissa are frequent in season (Nov–Apr) but never guaranteed, as with all wildlife viewing." },
-      { q: "Do we need to book whale watching in advance?", a: "Yes, we reserve your boat trip as part of the package to secure a good operator and time slot." },
-    ],
-  },
-  {
-    slug: "wildlife-12-day-tour",
-    title: "12 Day Wildlife Tour",
-    category: "Wildlife Tours",
-    duration: "12 Days / 11 Nights",
-    highlights: ["Minneriya, Udawalawe, Yala & Wilpattu", "Sinharaja rainforest", "Mirissa whale watching"],
-    price: "From $2,880 pp",
-    blurb: "Our most complete wildlife journey, adding remote Wilpattu National Park for leopards away from the crowds.",
-    motif: "leaf",
-    heroTitle: "Complete Ceylon Wildlife Expedition — 12 Days, Four National Parks",
-    intro:
-      "Our fullest wildlife itinerary, adding Wilpattu — Sri Lanka's largest and least-visited national park — for a genuinely wild safari experience away from Yala's crowds.",
-    overview:
-      "This route opens in remote Wilpattu before following our full Minneriya–Udawalawe–Yala–Sinharaja–Mirissa circuit, giving serious wildlife travellers the most complete picture the island offers.",
-    bestFor: "Dedicated wildlife enthusiasts and photographers wanting maximum park variety",
-    groupSize: "Private vehicle with tracker-guide — customisable group size",
-    physicalLevel: "Easy, with one moderate rainforest walk",
-    destinationsCovered: "Colombo → Wilpattu → Minneriya → Udawalawe → Yala → Sinharaja → Mirissa → Colombo",
-    itinerary: [
-      {
-        day: 1,
-        title: "Arrival & Wilpattu",
-        morning: "Arrive and transfer to the Wilpattu area, Sri Lanka's largest national park.",
-        afternoon: "Settle in and rest after your flight.",
-        evening: "First jeep safari in Wilpattu, known for its natural lakes ('villus') and leopards.",
-        overnight: "Hotel near Wilpattu.",
-      },
-      {
-        day: 2,
-        title: "Wilpattu Safari to Minneriya",
-        morning: "A second Wilpattu safari at dawn.",
-        afternoon: "Drive towards Habarana.",
-        evening: "Evening safari in Minneriya National Park.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 3,
-        title: "Minneriya Elephant Gathering",
-        morning: "Morning safari in Minneriya (seasonal gathering).",
-        afternoon: "Village tour by bullock cart and canoe.",
-        evening: "Free evening.",
-        overnight: "Hotel near Minneriya or Habarana.",
-      },
-      {
-        day: 4,
-        title: "Travel to Udawalawe",
-        morning: "Drive south towards Udawalawe.",
-        afternoon: "Visit the Elephant Transit Home.",
-        evening: "First jeep safari in Udawalawe.",
-        overnight: "Hotel near Udawalawe.",
-      },
-      {
-        day: 5,
-        title: "Udawalawe to Yala",
-        morning: "A second Udawalawe safari.",
-        afternoon: "Drive to the Yala area.",
-        evening: "First jeep safari in Yala.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 6,
-        title: "Yala Safari Day",
-        morning: "Early morning jeep safari.",
-        afternoon: "Rest, or visit Kataragama.",
-        evening: "A second Yala safari.",
-        overnight: "Hotel near Yala.",
-      },
-      {
-        day: 7,
-        title: "Yala to Sinharaja",
-        morning: "A final Yala safari.",
-        afternoon: "Drive to Sinharaja Forest Reserve.",
-        evening: "Evening briefing with a naturalist guide.",
-        overnight: "Eco-lodge near Sinharaja.",
-      },
-      {
-        day: 8,
-        title: "Sinharaja Rainforest Walk",
-        morning: "Guided rainforest trek for endemic birds and reptiles.",
-        afternoon: "Drive to the south coast.",
-        evening: "Settle into Mirissa.",
-        overnight: "Hotel in Mirissa.",
-      },
-      {
-        day: 9,
-        title: "Whale Watching in Mirissa",
-        morning: "Boat trip in search of blue whales and dolphins.",
-        afternoon: "Free time on the beach.",
-        evening: "Relaxed dinner by the sea.",
-        overnight: "Hotel in Mirissa.",
-      },
-      {
-        day: 10,
-        title: "South Coast Leisure",
-        morning: "Optional second whale watching trip.",
-        afternoon: "Explore Galle Fort.",
-        evening: "Dinner within the fort walls.",
-        overnight: "Hotel in Mirissa or Galle.",
-      },
-      {
-        day: 11,
-        title: "Free Day / Buffer Day",
-        morning: "A flexible buffer day — repeat a favourite safari, or simply relax.",
-        afternoon: "Free time on the coast.",
-        evening: "Farewell dinner.",
-        overnight: "Hotel in Mirissa or Galle.",
-      },
-      {
-        day: 12,
-        title: "Departure",
-        morning: "Free morning by the coast.",
-        afternoon: "Drive to Colombo airport.",
-        evening: "Departure flight.",
-        overnight: "N/A — departure day.",
-      },
-    ],
-    hotelRecommendation: "Safari lodges near Wilpattu, Minneriya, Udawalawe and Yala; eco-lodge near Sinharaja; beachfront hotel in Mirissa.",
-    transportation: "Private air-conditioned vehicle for road transfers; 4x4 safari jeeps with tracker-guides; whale watching boat.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["11 nights' accommodation as listed", "Daily breakfast", "Private vehicle and driver throughout", "9 jeep safaris across Wilpattu, Minneriya, Udawalawe and Yala", "Guided Sinharaja rainforest trek", "1 whale watching boat trip"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Professional wildlife photography guide throughout", "Second whale watching trip", "Extra Wilpattu safari session"],
-    tourFaqs: [
-      { q: "Why add Wilpattu when Yala already has leopards?", a: "Wilpattu is far less visited, so sightings feel more exclusive, and its lake-dotted landscape is genuinely different scenery from Yala's dry plains." },
-      { q: "Is 12 days excessive for a wildlife trip?", a: "For dedicated wildlife travellers and photographers, it allows unhurried time in each park rather than a single rushed visit." },
-    ],
-  },
   
-  {
-    slug: "coastal-love-escape-5-day-tour",
-    title: "Coastal Love Escape",
-    category: "Romantic & Honeymoon Tours",
-    duration: "5 Days / 4 Nights",
-    highlights: [
-      "Historic Galle Fort",
-      "Romantic Mirissa Beach",
-      "Bentota Beachside Luxury",
-      "Sunset Experiences",
-      "Private Romantic Dining"
-    ],
-    price: "Price on request",
-    blurb:
-      "A relaxing coastal escape for two, blending historic Galle, the southern beaches of Mirissa and the laid-back luxury of Bentota.",
-    motif: "romance",
-    imageUrl: "/documents/images/tour/romantic1.jpg",
-    heroTitle: "Coastal Love Escape — 5 Days of Romance by the Sea",
-    intro:
-      "Discover Sri Lanka's southern coastline on a private romantic escape designed for couples who value beautiful beaches, intimate moments and unhurried travel.",
-    overview:
-      "Explore the historic streets of Galle Fort, enjoy the coastal atmosphere of Mirissa and unwind in Bentota. With time for beach walks, sunset views and optional couple's experiences, this journey offers a relaxed introduction to Sri Lankan coastal romance.",
-    bestFor:
-      "Couples seeking a short honeymoon or romantic beach holiday.",
-    groupSize:
-      "Private vehicle with a dedicated chauffeur-guide — customisable for couples.",
-    physicalLevel: "Easy",
-    destinationsCovered:
-      "Airport → Galle → Mirissa → Bentota → Airport",
+{
+  slug: "sri-lanka-wildlife-safari-whale-watching-5-day-tour",
+  title: "Wildlife Safari & Whale Watching Escape",
+  category: "Wildlife Tours",
+  duration: "5 Days / 4 Nights",
+  highlights: [
+    "Udawalawe National Park Jeep Safari",
+    "Wild Elephant Encounters",
+    "Yala National Park Jeep Safari",
+    "Leopard & Wildlife Tracking",
+    "Mirissa Whale-Watching Excursion",
+    "Dolphin Watching Opportunities",
+    "Sri Lanka's Southern Coastal Scenery"
+  ],
+  price: "From $650 pp",
+  blurb: "A five-day wildlife adventure combining elephant encounters in Udawalawe, a safari through Yala's diverse habitats and an offshore whale-watching experience in Mirissa.",
+  motif: "wildlife",
+  imageUrl: "/documents/images/tour/udawalawa.png",
+  heroTitle: "Wildlife Safari & Whale Watching Escape — 5 Days",
+  intro: "Explore Sri Lanka's remarkable wildlife on a compact journey featuring two national park safaris and an unforgettable marine excursion off the southern coast.",
+  overview: "Travel to Udawalawe for a jeep safari in search of wild elephants and other native wildlife. Continue to Yala National Park for a separate safari through habitats known for leopards, elephants and diverse birdlife. Finish in Mirissa with an early-morning whale-watching excursion and time to enjoy the southern coast before departure.",
+  bestFor: "Wildlife enthusiasts, photographers, couples and nature lovers interested in national park safaris and marine wildlife.",
+  groupSize: "Private tour with a dedicated chauffeur-guide. Safaris and whale watching are operated by specialist local providers.",
+  physicalLevel: "Easy to moderate — mostly vehicle-based wildlife viewing, with an early-morning boat excursion.",
+  destinationsCovered: "Airport → Udawalawe → Yala National Park → Mirissa → Airport",
 
-    itinerary: [
-      {
-        day: 1,
-        title: "Airport Welcome & Journey to Galle",
-        points: [
-          "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB), receive traditional flower garlands and enjoy assistance with your luggage.",
-          "Private Transfer: Settle into your air-conditioned vehicle and begin your journey towards Sri Lanka's southern coast.",
-          "Scenic Coastal Journey: Enjoy views of the changing landscape as you travel towards Galle.",
-          "Galle Fort: Explore this UNESCO World Heritage Site, celebrated for its historic fortifications and blend of European and South Asian architectural influences.",
-          "Lighthouse & Ramparts: Walk along the fort's oceanfront ramparts and admire the historic lighthouse and Indian Ocean views.",
-          "Romantic Evening: Check in to your hotel and enjoy a relaxed dinner together."
-        ],
-        overnight: "Hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png"
-      },
-      {
-        day: 2,
-        title: "Galle Heritage & Mirissa Beach Romance",
-        points: [
-          "Leisurely Breakfast: Enjoy breakfast before continuing your coastal journey.",
-          "Galle Old Town: Explore the fort's atmospheric streets, historic buildings and boutique shops if not fully covered on Day 1.",
-          "Coastal Drive: Travel towards Mirissa, passing scenic stretches of Sri Lanka's southern shoreline.",
-          "Mirissa Beach: Relax on the sandy beach and enjoy the tropical coastal atmosphere.",
-          "Optional Whale Watching: Arrange a seasonal whale-watching excursion, subject to departure schedules, weather and sea conditions.",
-          "Sunset Together: Enjoy a peaceful evening by the sea before returning to your accommodation."
-        ],
-        overnight: "Hotel in Mirissa.",
-        imageUrl: "/documents/images/tour/mirissa.png"
-      },
-      {
-        day: 3,
-        title: "Southern Coast Leisure & Journey to Bentota",
-        points: [
-          "Relaxed Morning: Enjoy breakfast and a leisurely start to the day in Mirissa.",
-          "Beachside Moments: Spend time together by the ocean or enjoy a quiet walk along the coast.",
-          "Coastal Journey: Travel north towards Bentota in your private vehicle.",
-          "Scenic Stops: Enjoy selected coastal viewpoints along the way, depending on travel time and conditions.",
-          "Bentota Arrival: Check in to your beachside accommodation and settle into your surroundings.",
-          "Romantic Dinner: Enjoy an evening meal at your hotel or a nearby restaurant."
-        ],
-        overnight: "Beachside hotel in Bentota.",
-        imageUrl: "/documents/images/tour/bentota.png"
-      },
-      {
-        day: 4,
-        title: "Bentota Beach, Wellness & Romance",
-        points: [
-          "Leisurely Breakfast: Begin the day at your own pace.",
-          "Bentota Beach: Enjoy the sandy coastline, sea views and time to relax together.",
-          "Optional Couple's Spa: Arrange a massage or wellness treatment at your hotel or a nearby spa.",
-          "Optional River Safari: Explore Bentota River's mangrove-lined waterways and look for local birdlife, subject to availability.",
-          "Optional Water Sports: Choose from suitable activities offered locally, depending on weather and sea conditions.",
-          "Sunset Dining: Finish the day with a romantic dinner, with special arrangements available on request."
-        ],
-        overnight: "Beachside hotel in Bentota.",
-        imageUrl: "/documents/images/tour/bentota.png"
-      },
-      {
-        day: 5,
-        title: "Bentota & Departure",
-        points: [
-          "Final Breakfast: Enjoy your last breakfast together at the hotel.",
-          "Hotel Check-out: Prepare for your private transfer towards the airport.",
-          "Optional Colombo Visit: If your flight schedule allows, travel via Colombo for a brief city experience.",
-          "Galle Face Green: Enjoy a short walk along Colombo's seaside promenade if time permits.",
-          "Optional Shopping: Browse selected shops for Sri Lankan souvenirs, depending on available time.",
-          "Airport Transfer: Arrive at Bandaranaike International Airport (CMB) with sufficient time for your departure flight."
-        ],
-        overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo.png"
-      }
-    ],
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Udawalawe",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive assistance with your luggage.",
+        "Journey to Udawalawe: Travel through Sri Lanka's countryside towards the wildlife region.",
+        "Scenic Countryside: Enjoy views of rural villages, farmland and changing landscapes along the way.",
+        "Accommodation Check-in: Arrive at your lodge near Udawalawe National Park and settle in.",
+        "Safari Briefing: Review the following day's safari arrangements and meet your local safari provider if scheduled.",
+        "Relaxed Evening: Enjoy dinner and rest before your wildlife adventure."
+      ],
+      overnight: "Safari lodge near Udawalawe National Park.",
+      imageUrl: "/documents/images/tour/udawalawa001.jpg"
+    },
+    {
+      day: 2,
+      title: "Udawalawe National Park Safari",
+      points: [
+        "Early Breakfast: Start the day with breakfast before heading to the national park.",
+        "Safari Departure: Meet your safari driver and travel to Udawalawe National Park.",
+        "Udawalawe Jeep Safari: Explore the park on a guided jeep safari, looking for wild elephants in their natural habitat.",
+        "Wildlife Spotting: Look out for water buffalo, deer, crocodiles and a variety of bird species.",
+        "Nature Photography: Enjoy opportunities to photograph wildlife and the park's open grasslands from the vehicle.",
+        "Afternoon Relaxation: Return to your lodge and enjoy a relaxed evening after the safari."
+      ],
+      overnight: "Safari lodge near Udawalawe National Park.",
+      imageUrl: "/documents/images/tour/udawalawa002.jpg"
+    },
+    {
+      day: 3,
+      title: "Yala National Park Safari",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast and depart Udawalawe for the southern wildlife region.",
+        "Journey to Yala: Travel towards Yala National Park, enjoying the changing dry-zone scenery.",
+        "Safari Preparation: Arrive near the park and prepare for your scheduled safari.",
+        "Yala Jeep Safari: Explore Yala National Park with a local safari guide in search of leopards, elephants and other wildlife.",
+        "Wildlife & Birdwatching: Look for crocodiles, deer, wild boar and birdlife while exploring the park's different habitats.",
+        "Lodge Evening: Check in to your accommodation near Yala and relax after the safari."
+      ],
+      overnight: "Safari lodge near Yala National Park.",
+      imageUrl: "/documents/images/tour/yala006.jpg"
+    },
+    {
+      day: 4,
+      title: "Mirissa Whale Watching",
+      points: [
+        "Early Departure: Leave the Yala area early and travel towards Mirissa, allowing sufficient time for the boat excursion.",
+        "Harbour Arrival: Check in with your whale-watching operator and receive the safety briefing.",
+        "Whale-Watching Excursion: Head offshore with the local crew in search of whales and dolphins, depending on season and sea conditions.",
+        "Marine Wildlife Observation: Observe marine wildlife responsibly and follow the crew's instructions throughout the trip.",
+        "Mirissa Beach: Return to shore and enjoy time relaxing on the beach after the excursion.",
+        "Coastal Evening: Explore Mirissa's cafés and restaurants or enjoy a peaceful evening by the sea."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/mirissa003.jpg"
+    },
+    {
+      day: 5,
+      title: "Coastal Morning & Departure",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel in Mirissa.",
+        "Relaxed Morning: Enjoy some free time by the beach, depending on your departure schedule.",
+        "Optional Coastal Walk: Take a short stroll along the coast and enjoy the southern shoreline.",
+        "Hotel Check-out: Pack your belongings and complete check-out.",
+        "Private Airport Transfer: Travel to Bandaranaike International Airport (CMB) for your departure.",
+        "Departure: Arrive at the airport with sufficient time for check-in and your flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/mirissa012.jpg"
+    }
+  ],
 
-    hotelRecommendation:
-      "Romantic boutique hotels in Galle and Mirissa, followed by a beachside resort in Bentota.",
-    transportation:
-      "Private air-conditioned vehicle with a dedicated chauffeur-guide.",
-    meals:
-      "Daily breakfast. Other meals at your own choice unless arranged in advance.",
-    included: [
-      "4 nights' accommodation",
-      "Daily breakfast",
-      "Private air-conditioned vehicle and chauffeur-guide",
-      "Airport welcome and luggage assistance",
-      "Visits described in the itinerary, subject to access and opening hours"
-    ],
-    excluded: [
-      "International flights",
-      "Visa fees",
-      "Lunches and dinners unless specified",
-      "Entrance fees unless confirmed in the quotation",
-      "Whale watching, spa treatments and water sports",
-      "Optional boat safari",
-      "Personal expenses and tips",
-      "Travel insurance",
-      "Special romantic arrangements unless confirmed"
-    ],
-    optionalExperiences: [
-      "Seasonal whale-watching excursion",
-      "Private romantic dinner",
-      "Couple's spa treatment",
-      "Bentota River boat safari",
-      "Water sports",
-      "Flowers, anniversary cake or room decorations"
-    ],
-    tourFaqs: [
-      {
-        q: "Is this tour suitable for a short honeymoon?",
-        a: "Yes. This five-day private journey combines historic Galle, southern beach experiences and a relaxing stay in Bentota."
-      },
-      {
-        q: "Can we arrange a romantic dinner?",
-        a: "Yes. Private dining and special arrangements may be requested in advance, subject to hotel availability."
-      },
-      {
-        q: "Is whale watching available throughout the year?",
-        a: "No. Sightings and departure schedules vary by season and sea conditions. The excursion is optional and subject to availability."
-      }
-    ]
-  },
+  hotelRecommendation: "Comfortable wildlife lodges near Udawalawe and Yala National Parks, followed by a beachside hotel in Mirissa.",
 
-  {
-    slug: "island-romance-7-day-tour",
-    title: "Island Romance",
-    category: "Romantic & Honeymoon Tours",
-    duration: "7 Days / 6 Nights",
-    highlights: [
-      "Sigiriya Rock Fortress",
-      "Temple of the Sacred Tooth Relic",
-      "Kandy Lake & City Views",
-      "Nuwara Eliya Tea Country",
-      "Scenic Train Journey to Ella",
-      "Romantic Mountain Hideaways"
-    ],
-    price: "Price on request",
-    blurb:
-      "A romantic journey through Sri Lanka's cultural heartland, misty tea country and the spectacular highlands of Ella.",
-    motif: "romance",
-     imageUrl: "/documents/images/tour/romantic2.jpg",
-    heroTitle: "Island Romance — 7 Days Through Sri Lanka's Cultural Heartland",
-    intro:
-      "Discover a different side of Sri Lanka together, from the ancient rock fortress of Sigiriya to the sacred heritage of Kandy and the emerald tea hills of the central highlands.",
-    overview:
-      "Explore Sigiriya's ancient landscape, discover Kandy's cultural traditions and travel into the cool tea country of Nuwara Eliya. Continue towards Ella for mountain scenery, waterfalls and a memorable highland escape designed for two.",
-    bestFor:
-      "Couples who enjoy cultural discovery, mountain scenery and iconic Sri Lankan landscapes.",
-    groupSize:
-      "Private vehicle with a dedicated chauffeur-guide — customisable for couples.",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered:
-      "Airport → Sigiriya → Kandy → Nuwara Eliya → Ella → Airport",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for road transfers. National park safaris are conducted in safari jeeps with local operators. Whale watching is arranged separately with a local boat operator.",
 
-    itinerary: [
-      {
-        day: 1,
-        title: "Airport Welcome & Journey to Sigiriya",
-        points: [
-          "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive traditional flower garlands.",
-          "Private Transfer: Begin your journey towards Sri Lanka's Cultural Triangle in a private air-conditioned vehicle.",
-          "Scenic Countryside: Enjoy views of rural villages, green landscapes and the island's changing scenery.",
-          "Refreshment Stop: Pause along the way for refreshments or a traditional Sri Lankan meal, depending on arrival time.",
-          "Sigiriya Arrival: Reach the Sigiriya area and check in to your accommodation.",
-          "Relaxed Evening: Unwind together at your hotel and enjoy dinner at leisure."
-        ],
-        overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
-      },
-      {
-        day: 2,
-        title: "Sigiriya Rock Fortress & Romantic Countryside",
-        points: [
-          "Breakfast: Enjoy breakfast before exploring the Cultural Triangle.",
-          "UNESCO World Heritage Site: Visit the ancient city of Sigiriya, recognised for its remarkable archaeological remains and historic royal citadel.",
-          "Sigiriya Rock Fortress: Climb the iconic rock, subject to fitness and weather, and explore the remains of the ancient royal complex.",
-          "Frescoes & Water Gardens: Discover the celebrated frescoes, landscaped gardens and ingenious historic features.",
-          "Pidurangala Viewpoint: If time and energy allow, visit nearby Pidurangala for panoramic views of Sigiriya and its surrounding landscape.",
-          "Relaxing Evening: Return to your hotel and enjoy a peaceful evening together."
-        ],
-        overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
-      },
-      {
-        day: 3,
-        title: "Journey to Kandy & Sacred Heritage",
-        points: [
-          "Morning Departure: Enjoy breakfast and depart Sigiriya for the historic hill capital of Kandy.",
-          "Scenic Drive: Travel through Sri Lanka's central countryside, with a refreshment stop along the way if needed.",
-          "Kandy Arrival: Check in to your hotel and take time to relax.",
-          "Temple of the Sacred Tooth Relic: Visit this revered Buddhist pilgrimage site, part of the UNESCO-listed Sacred City of Kandy.",
-          "Kandy Lake: Enjoy a peaceful walk beside the lake and admire the surrounding hills.",
-          "Romantic Dinner: Spend the evening at leisure or arrange a special dinner at your hotel."
-        ],
-        overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
-      },
-      {
-        day: 4,
-        title: "Kandy Culture & Journey to Nuwara Eliya",
-        points: [
-          "Breakfast in Kandy: Begin the day with a relaxed breakfast.",
-          "Royal Botanical Gardens: Explore the landscaped gardens at Peradeniya, known for their tropical plant collections and towering trees.",
-          "Kandyan Heritage: Discover the cultural traditions and royal history of Sri Lanka's former hill capital.",
-          "Scenic Highland Drive: Travel towards Nuwara Eliya through winding mountain roads and changing vegetation.",
-          "Tea Country: Visit a tea estate or factory, subject to opening hours, to learn about Sri Lanka's renowned Ceylon tea.",
-          "Nuwara Eliya Arrival: Check in to your accommodation and enjoy the cool highland atmosphere."
-        ],
-        overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwara-eliya.png"
-      },
-      {
-        day: 5,
-        title: "Nuwara Eliya & Scenic Journey to Ella",
-        points: [
-          "Highland Breakfast: Enjoy breakfast in the cool surroundings of Nuwara Eliya.",
-          "Gregory Lake: Take a leisurely walk beside the lake and enjoy the mountain scenery.",
-          "Colonial-Era Town: Explore selected streets and gardens that reflect Nuwara Eliya's historic character.",
-          "Scenic Train Experience: Enjoy a train journey towards Ella if seats and schedules permit; otherwise, continue by private vehicle.",
-          "Tea Hills & Valleys: Admire the emerald tea plantations and dramatic highland landscapes along the way.",
-          "Ella Check-in: Arrive in Ella and settle into your accommodation."
-        ],
-        overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
-      },
-      {
-        day: 6,
-        title: "Ella's Mountain Views & Romantic Escape",
-        points: [
-          "Breakfast with Highland Views: Start the day at your own pace.",
-          "Nine Arch Bridge: Visit Ella's iconic railway bridge, surrounded by lush greenery and tea-country scenery.",
-          "Little Adam's Peak: Enjoy an optional walk to a scenic viewpoint, depending on weather and fitness.",
-          "Ravana Falls: Stop at this well-known waterfall along the Ella–Wellawaya road.",
-          "Ella Town: Browse cafés and local shops or enjoy some free time together.",
-          "Romantic Evening: Return to your accommodation and enjoy a relaxed dinner amid the highland atmosphere."
-        ],
-        overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
-      },
-      {
-        day: 7,
-        title: "Ella & Departure",
-        points: [
-          "Final Breakfast: Enjoy breakfast before checking out.",
-          "Departure Transfer: Begin your journey towards Bandaranaike International Airport (CMB).",
-          "Scenic Drive: Travel through Sri Lanka's changing landscapes, allowing adequate time for the airport transfer.",
-          "Refreshment Stop: Pause along the way for refreshments, depending on your schedule.",
-          "Optional Stop: A short stop may be arranged if your flight time and route permit.",
-          "Airport Arrival: Arrive at the airport in time for your departure flight."
-        ],
-        overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/ella.png"
-      }
-    ],
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless arranged in advance.",
 
-    hotelRecommendation:
-      "Romantic boutique hotels or private-view accommodation in Sigiriya, Kandy, Nuwara Eliya and Ella.",
-    transportation:
-      "Private air-conditioned vehicle with a dedicated chauffeur-guide; scenic train travel is subject to seat availability.",
-    meals:
-      "Daily breakfast. Other meals at your own choice unless arranged in advance.",
-    included: [
-      "6 nights' accommodation",
-      "Daily breakfast",
-      "Private air-conditioned vehicle and chauffeur-guide",
-      "Airport welcome and assistance",
-      "Visits described in the itinerary, subject to access and opening hours"
-    ],
-    excluded: [
-      "International flights",
-      "Visa fees",
-      "Lunches and dinners unless specified",
-      "Entrance fees unless confirmed in the quotation",
-      "Train tickets unless confirmed",
-      "Personal expenses and tips",
-      "Travel insurance",
-      "Optional activities and special romantic arrangements"
-    ],
-    optionalExperiences: [
-      "Private romantic dinner",
-      "Scenic train journey through tea country",
-      "Couple's spa treatment",
-      "Private tea tasting",
-      "Room decorations or anniversary cake"
-    ],
-    tourFaqs: [
-      {
-        q: "Is Sigiriya Rock climbing included?",
-        a: "The itinerary includes a visit to Sigiriya Rock Fortress. Entrance arrangements and any additional fees should be confirmed in your final quotation."
-      },
-      {
-        q: "Can we take the scenic train to Ella?",
-        a: "Yes, subject to train schedules and seat availability. If tickets are unavailable or timings do not suit the itinerary, the journey can be made by private vehicle."
-      },
-      {
-        q: "Is this tour suitable for couples who prefer a relaxed pace?",
-        a: "Yes. The route includes time in the highlands, although Sigiriya climbing and some optional viewpoints require walking. Activities can be adjusted to your preferences."
-      }
-    ]
-  },
+  included: [
+    "4 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide for road transfers",
+    "Airport welcome and luggage assistance",
+    "Sightseeing and transfers listed in the itinerary, subject to access and operating schedules"
+  ],
 
-  {
-    slug: "misty-highlands-ocean-romance-8-day-tour",
-    title: "Misty Highlands & Ocean Romance",
-    category: "Romantic & Honeymoon Tours",
-    duration: "8 Days / 7 Nights",
-    highlights: [
-      "Kandy Cultural Heritage",
-      "Nuwara Eliya Tea Estates",
-      "Scenic Highland Train Journey",
-      "Ella Mountain Landscapes",
-      "Mirissa Beach & Coastal Experiences",
-      "Historic Galle Fort"
-    ],
-    price: "Price on request",
-    blurb:
-      "Experience Sri Lanka's misty mountains, tea estates and southern coastline on a romantic journey combining highland charm with seaside relaxation.",
-    motif: "romance",
-    imageUrl: "/documents/images/tour/romantic3.jpg",
-    heroTitle: "Misty Highlands & Ocean Romance — 8 Days of Mountain and Sea",
-    intro:
-      "Escape together into Sri Lanka's emerald highlands and sunlit southern coast. This private journey balances cool mountain retreats, scenic train travel, charming coastal towns and relaxing beach experiences.",
-    overview:
-      "Discover Kandy's cultural heritage, enjoy the cool climate of Nuwara Eliya and explore Ella's dramatic landscapes. Continue to Mirissa for beachside relaxation and seasonal whale-watching opportunities before discovering the historic streets and ocean views of Galle Fort.",
-    bestFor:
-      "Couples wanting a balanced combination of tea-country scenery, mountain experiences and coastal relaxation.",
-    groupSize:
-      "Private vehicle with a dedicated chauffeur-guide — customisable for couples.",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered:
-      "Airport → Kandy → Nuwara Eliya → Ella → Mirissa → Galle → Airport",
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Udawalawe National Park entrance fees and jeep safari charges unless specified",
+    "Yala National Park entrance fees and jeep safari charges unless specified",
+    "Whale-watching boat tickets",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
 
-    itinerary: [
-      {
-        day: 1,
-        title: "Airport Welcome & Journey to Kandy",
-        points: [
-          "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive traditional flower garlands.",
-          "Private Transfer: Begin your journey towards the historic hill capital in a comfortable air-conditioned vehicle.",
-          "Scenic Countryside: Enjoy changing landscapes and a refreshment stop along the way, depending on arrival time.",
-          "Kandy Arrival: Check in to your hotel and settle into your surroundings.",
-          "Kandy Lake: Enjoy a gentle walk beside the lake if time permits.",
-          "Romantic Evening: Relax at your hotel or arrange a private dinner together."
-        ],
-        overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
-      },
-      {
-        day: 2,
-        title: "Kandy's Sacred Heritage & Botanical Gardens",
-        points: [
-          "Breakfast: Enjoy a relaxed start to the day.",
-          "Temple of the Sacred Tooth Relic: Visit this revered temple within the UNESCO-listed Sacred City of Kandy.",
-          "Kandy Heritage: Learn about the city's royal history and its continuing importance in Sri Lankan Buddhist culture.",
-          "Royal Botanical Gardens: Explore the landscaped gardens at Peradeniya and their remarkable tropical plant collections.",
-          "Kandy Viewpoint: Enjoy panoramic views of the city and surrounding hills.",
-          "Cultural Evening: Attend a traditional Kandyan dance performance if available, followed by dinner at leisure."
-        ],
-        overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
-      },
-      {
-        day: 3,
-        title: "Tea Country Journey to Nuwara Eliya",
-        points: [
-          "Morning Departure: Enjoy breakfast before travelling into Sri Lanka's central highlands.",
-          "Mountain Scenery: Follow winding roads through green hills and changing landscapes.",
-          "Ramboda Waterfall: Stop at this scenic waterfall if conditions and travel time permit.",
-          "Tea Estate Visit: Learn about Ceylon tea production at a local estate or factory, subject to opening hours.",
-          "Nuwara Eliya Arrival: Explore the cool-climate town, often known for its colonial-era character and landscaped surroundings.",
-          "Relaxing Evening: Check in to your hotel and enjoy the peaceful atmosphere of the highlands."
-        ],
-        overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwara-eliya.png"
-      },
-      {
-        day: 4,
-        title: "Nuwara Eliya & Scenic Train Journey to Ella",
-        points: [
-          "Highland Breakfast: Enjoy breakfast surrounded by the cool climate of the tea country.",
-          "Gregory Lake: Take a peaceful walk beside the lake and admire the surrounding hills.",
-          "Tea Plantations: Enjoy views of the rolling tea estates and highland countryside.",
-          "Scenic Train Journey: Travel towards Ella by train if seats and schedules permit.",
-          "Mountain Views: Admire the dramatic valleys, forests and tea-covered slopes along the route.",
-          "Ella Arrival: Check in to your accommodation and enjoy a relaxing evening."
-        ],
-        overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
-      },
-      {
-        day: 5,
-        title: "Ella's Scenic Landscapes & Romantic Mountain Escape",
-        points: [
-          "Breakfast with a View: Begin the day at a relaxed pace.",
-          "Nine Arch Bridge: Visit Ella's famous railway bridge surrounded by lush greenery.",
-          "Little Adam's Peak: Enjoy an optional scenic walk for panoramic mountain views.",
-          "Ravana Falls: Stop to admire the waterfall along the Ella–Wellawaya road.",
-          "Ella Town: Explore local cafés or browse small shops together.",
-          "Leisure Evening: Return to your hotel and enjoy the mountain atmosphere."
-        ],
-        overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
-      },
-      {
-        day: 6,
-        title: "Journey from Ella to Mirissa",
-        points: [
-          "Breakfast & Check-out: Enjoy breakfast before leaving the highlands.",
-          "Southern Journey: Travel from Ella towards the southern coastline by private vehicle.",
-          "Changing Landscapes: Enjoy the transition from green mountain scenery to warmer coastal surroundings.",
-          "Mirissa Arrival: Check in to your beachside accommodation.",
-          "Beach Leisure: Spend time relaxing on the beach or exploring the nearby coastal area.",
-          "Sunset Together: Enjoy a relaxed dinner and the coastal atmosphere."
-        ],
-        overnight: "Hotel in Mirissa.",
-        imageUrl: "/documents/images/tour/mirissa.png"
-      },
-      {
-        day: 7,
-        title: "Mirissa Beach & Historic Galle Fort",
-        points: [
-          "Leisurely Breakfast: Enjoy a relaxed start beside the southern coast.",
-          "Optional Whale Watching: Arrange a seasonal boat excursion, subject to weather, sea conditions and availability.",
-          "Coastal Drive: Continue towards Galle along the southern shoreline.",
-          "Galle Fort: Explore the UNESCO World Heritage-listed Old Town and its historic fortifications.",
-          "Lighthouse & Ramparts: Walk along the oceanfront ramparts and admire the historic lighthouse.",
-          "Romantic Evening: Return to your accommodation or enjoy dinner in Galle before settling in for the night."
-        ],
-        overnight: "Hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png"
-      },
-      {
-        day: 8,
-        title: "Galle & Departure",
-        points: [
-          "Final Breakfast: Enjoy breakfast before checking out.",
-          "Optional Old Town Walk: Enjoy a short final stroll through Galle Fort if time permits.",
-          "Private Transfer: Begin your journey towards Bandaranaike International Airport (CMB).",
-          "Scenic Drive: Travel through Sri Lanka's western and southern landscapes.",
-          "Refreshment Stop: Pause for refreshments as needed, depending on your flight schedule.",
-          "Departure: Arrive at the airport with sufficient time for your international flight."
-        ],
-        overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/galle.png"
-      }
-    ],
+  optionalExperiences: [
+    "Private or shared safari jeep arrangements",
+    "Additional wildlife photography time, subject to park rules",
+    "Extra beach time in Mirissa",
+    "Additional coastal excursions, subject to available time"
+  ],
 
-    hotelRecommendation:
-      "Romantic boutique hotels in Kandy, Nuwara Eliya and Ella, followed by coastal accommodation in Mirissa and Galle.",
-    transportation:
-      "Private air-conditioned vehicle with a dedicated chauffeur-guide; scenic train travel is subject to seat availability.",
-    meals:
-      "Daily breakfast. Other meals at your own choice unless arranged in advance.",
-    included: [
-      "7 nights' accommodation",
-      "Daily breakfast",
-      "Private air-conditioned vehicle and chauffeur-guide",
-      "Airport welcome and assistance",
-      "Visits described in the itinerary, subject to access and opening hours"
-    ],
-    excluded: [
-      "International flights",
-      "Visa fees",
-      "Lunches and dinners unless specified",
-      "Entrance fees unless confirmed in the quotation",
-      "Train tickets unless confirmed",
-      "Whale watching and other optional excursions",
-      "Personal expenses and tips",
-      "Travel insurance",
-      "Special romantic arrangements unless confirmed"
-    ],
-    optionalExperiences: [
-      "Seasonal whale-watching excursion",
-      "Private romantic dinner",
-      "Couple's spa treatment",
-      "Scenic train journey through tea country",
-      "Tea tasting experience",
-      "Room decorations or anniversary cake"
-    ],
-    tourFaqs: [
-      {
-        q: "Is whale watching guaranteed?",
-        a: "No. Whale sightings depend on season and natural conditions. Excursions are optional and subject to weather, sea conditions and operator availability."
-      },
-      {
-        q: "Can we take the train from Nuwara Eliya to Ella?",
-        a: "A scenic train journey can be arranged from a suitable nearby station, subject to the train timetable and seat availability. Transfers to and from the stations are required."
-      },
-      {
-        q: "Does this itinerary include UNESCO World Heritage Sites?",
-        a: "Yes. The itinerary includes the Sacred City of Kandy and the Old Town of Galle and its Fortifications, both UNESCO World Heritage Sites."
-      }
-    ]
-  },
+  tourFaqs: [
+    {
+      q: "How many safaris are included in this itinerary?",
+      a: "The itinerary features one jeep safari in Udawalawe National Park and one separate jeep safari in Yala National Park."
+    },
+    {
+      q: "What wildlife might we see in Udawalawe?",
+      a: "Udawalawe is particularly well known for elephants. Other possible sightings include water buffalo, deer, crocodiles and many bird species. Wildlife sightings cannot be guaranteed."
+    },
+    {
+      q: "What wildlife might we see in Yala?",
+      a: "Yala is known for leopards, elephants and a variety of other wildlife. Sightings depend on animal movements, weather and the safari route."
+    },
+    {
+      q: "Can we guarantee whale sightings in Mirissa?",
+      a: "No. Whale and dolphin sightings depend on season, sea conditions and natural wildlife movements. Responsible wildlife-viewing practices should be followed."
+    },
+    {
+      q: "Is the whale-watching trip always available?",
+      a: "Boat trips depend on weather, sea conditions, operator schedules and seasonal operations. The excursion should be confirmed before the tour is finalised."
+    },
+    {
+      q: "Are park entrance fees and safari jeeps included?",
+      a: "They are included only if specifically stated in the confirmed quotation. National park tickets, safari jeep charges and whale-watching tickets should be confirmed before booking."
+    }
+  ]
+},
 
+
+{
+  slug: "coastal-love-escape-5-day-tour",
+  title: "Coastal Love Escape",
+  category: "Romantic & Honeymoon Tours",
+  duration: "5 Days / 4 Nights",
+  highlights: [
+    "Romantic Mirissa Beach",
+    "Coconut Tree Hill",
+    "Historic Galle Fort",
+    "Bentota Beachside Luxury",
+    "Romantic Sunset & Dining Experiences"
+  ],
+  price: "1300 USD per couple",
+  blurb:
+    "A romantic southern coast escape combining Mirissa's tropical beaches, Galle's historic charm and Bentota's relaxed beachfront luxury.",
+  motif: "romance",
+  imageUrl: "/documents/images/tour/Couple_Getaway.jpg",
+  heroTitle: "Coastal Love Escape — 5 Days of Romance by the Sea",
+  intro:
+    "Discover Sri Lanka's southern coastline on a private romantic escape featuring beautiful beaches, historic coastal heritage and intimate experiences for two.",
+  overview:
+    "Begin in Mirissa with tropical beaches and sunset views, continue to the UNESCO-listed Galle Fort, and finish with two relaxing nights in Bentota. Enjoy coastal scenery, optional wellness experiences and romantic dining throughout your journey.",
+  bestFor:
+    "Couples seeking a short honeymoon or romantic beach holiday.",
+  groupSize:
+    "Private vehicle with a dedicated chauffeur-guide — customised for couples.",
+  physicalLevel: "Easy",
+  destinationsCovered:
+    "Airport → Mirissa → Galle → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Airport Welcome & Romantic Mirissa Escape",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB), receive traditional flower garlands and enjoy assistance with your luggage.",
+        "Private Coastal Transfer: Settle into your air-conditioned vehicle and travel towards Mirissa along Sri Lanka's southern coast.",
+        "Coconut Tree Hill: Visit this picturesque palm-fringed viewpoint overlooking the Indian Ocean, ideal for memorable couple photographs.",
+        "Mirissa Beach: Relax on the golden sand and enjoy the tropical coastal atmosphere.",
+        "Secret Beach: Discover this scenic coastal cove if time, access and sea conditions permit.",
+        "Romantic Sunset: Enjoy a peaceful sunset by the ocean followed by dinner at a beachfront restaurant."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/Pink_Beach_Romance.jpg"
+    },
+    {
+      day: 2,
+      title: "Galle Heritage & Romantic Coastal Charm",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at your hotel before departing Mirissa.",
+        "Coastal Drive: Travel towards Galle, taking in the scenic southern shoreline along the way.",
+        "Galle Fort: Explore the UNESCO World Heritage-listed Old Town of Galle and its Fortifications, known for its historic architecture and cultural influences.",
+        "Historic Streets: Wander through charming lanes lined with colonial-era buildings, boutique shops and inviting cafés.",
+        "Lighthouse & Ramparts: Admire the iconic Galle Lighthouse and walk along the oceanfront fortifications for beautiful Indian Ocean views.",
+        "Romantic Evening: Enjoy a relaxed dinner in or around Galle Fort before settling in for the night."
+      ],
+      overnight: "Hotel in Galle.",
+      imageUrl: "/documents/images/tour/Seaside_Couple_Love.jpg"
+    },
+    {
+      day: 3,
+      title: "Southern Coast Journey & Bentota Beachside Romance",
+      points: [
+        "Relaxed Breakfast: Begin the day with breakfast at your hotel in Galle.",
+        "Coastal Departure: Travel north towards Bentota in your private air-conditioned vehicle.",
+        "Scenic Coastal Stops: Enjoy selected viewpoints along the coastline, depending on travel time and conditions.",
+        "Bentota Arrival: Check in to your beachside accommodation and enjoy a warm welcome.",
+        "Bentota Beach: Spend the afternoon relaxing together beside the ocean or enjoying the resort facilities.",
+        "Romantic Dinner: Enjoy dinner at your hotel or a nearby beachfront restaurant."
+      ],
+      overnight: "Beachside hotel in Bentota.",
+      imageUrl: "/documents/images/tour/Ocean_Sunset_Romance.jpg"
+    },
+    {
+      day: 4,
+      title: "Bentota Beach, Wellness & Romance",
+      points: [
+        "Leisurely Breakfast: Enjoy a relaxed morning at your beachside hotel.",
+        "Bentota Beach: Take a romantic beach walk and admire the tropical coastal scenery.",
+        "Optional Couple's Spa: Arrange a relaxing massage or wellness treatment at your hotel or a nearby spa.",
+        "Optional Bentota River Safari: Explore mangrove-lined waterways and look for local birdlife on a scenic boat excursion, subject to availability.",
+        "Optional Water Sports: Choose from locally available activities depending on weather and sea conditions.",
+        "Sunset Dining: End the day with a romantic dinner, with private dining or special arrangements available on request."
+      ],
+      overnight: "Beachside hotel in Bentota.",
+      imageUrl: "/documents/images/tour/Couple_Spa_Retreat.jpg"
+    },
+    {
+      day: 5,
+      title: "Bentota Leisure & Departure",
+      points: [
+        "Final Breakfast: Enjoy your last breakfast together at the hotel.",
+        "Beachside Leisure: Spend some quiet time by the beach or relax at the resort, depending on your flight schedule.",
+        "Hotel Check-out: Complete check-out and prepare for your private airport transfer.",
+        "Optional Colombo Visit: If time permits, enjoy a short visit to selected Colombo attractions on the way to the airport.",
+        "Optional Shopping: Browse for Sri Lankan souvenirs if your departure schedule allows.",
+        "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with sufficient time for your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/Sunset_Beach_Walk.jpg"
+    }
+  ],
+
+  hotelRecommendation:
+    "A romantic beach hotel in Mirissa, a boutique heritage hotel in Galle, and a luxury beachfront resort in Bentota.",
+  transportation:
+    "Private air-conditioned vehicle with a dedicated chauffeur-guide.",
+  meals:
+    "Daily breakfast. Other meals at your own choice unless arranged in advance.",
+
+  included: [
+    "4 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Visits described in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Spa treatments and water sports",
+    "Optional river safari",
+    "Personal expenses and tips",
+    "Travel insurance",
+    "Special romantic arrangements unless confirmed"
+  ],
+
+  optionalExperiences: [
+    "Seasonal whale-watching excursion from Mirissa",
+    "Private romantic dinner",
+    "Couple's spa treatment",
+    "Bentota River boat safari",
+    "Water sports",
+    "Flowers, anniversary cake or room decorations"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for a honeymoon?",
+      a: "Yes. This five-day private journey combines Mirissa's tropical beaches, Galle's historic charm and a relaxing beachfront stay in Bentota."
+    },
+    {
+      q: "Can we arrange a romantic dinner?",
+      a: "Yes. Private dining and special arrangements may be requested in advance, subject to hotel availability."
+    },
+    {
+      q: "Can we go whale watching in Mirissa?",
+      a: "Whale watching is an optional seasonal excursion. Departure schedules and sightings depend on the season, weather and sea conditions."
+    }
+  ]
+},
+
+
+{
+  slug: "island-romance-7-day-tour",
+  title: "Island Romance Escape",
+  category: "Romantic & Honeymoon Tours",
+  duration: "7 Days / 6 Nights",
+  highlights: [
+    "Romantic Kandy Lake & Temple of the Tooth",
+    "Hiriketiya's Tropical Beach Escape",
+    "Mirissa Beach & Coconut Tree Hill",
+    "UNESCO-listed Galle Fort",
+    "Bentota Beachside Luxury",
+    "Sunset Experiences & Romantic Dining"
+  ],
+  price: "1600 USD per couple",
+  blurb:
+    "A romantic seven-day journey combining Kandy's cultural charm, Hiriketiya's tropical coastline, Mirissa's beautiful beaches, Galle's historic heritage and Bentota's relaxing beachfront luxury.",
+  motif: "romance",
+  imageUrl: "/documents/images/tour/Island Romance Escape.jpg",
+  heroTitle: "Island Romance Escape — 7 Days Across Sri Lanka",
+  intro:
+    "Experience the romance of Sri Lanka on a private journey through cultural landmarks, secluded coastal scenery, historic streets and beautiful southern beaches.",
+  overview:
+    "Begin in Kandy with its sacred heritage and peaceful lake, then travel south to Hiriketiya and Mirissa for tropical beach experiences. Discover the historic streets of UNESCO-listed Galle Fort before unwinding in Bentota with relaxed beach days, optional wellness experiences and romantic dining.",
+  bestFor:
+    "Couples celebrating a honeymoon, anniversary or romantic getaway with a blend of culture and coastal relaxation.",
+  groupSize:
+    "Private vehicle with a dedicated chauffeur-guide — customised for couples.",
+  physicalLevel: "Easy",
+  destinationsCovered:
+    "Airport → Kandy → Hiriketiya → Mirissa → Galle → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Airport Welcome & Journey to Kandy",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB), receive traditional flower garlands and enjoy assistance with your luggage.",
+        "Private Transfer: Settle into your air-conditioned vehicle and begin your journey towards the cultural city of Kandy.",
+        "Scenic Journey: Enjoy changing landscapes, lush greenery and views of Sri Lanka's central highlands along the way.",
+        "Kandy Arrival: Check in to your hotel and relax after your journey.",
+        "Kandy Lake: Enjoy a peaceful walk around the picturesque lake in the heart of the city.",
+        "Romantic Evening: Enjoy a relaxed dinner at your hotel or a nearby restaurant."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/IMG_001.png"
+    },
+    {
+      day: 2,
+      title: "Kandy Heritage & Romantic Hill-Country Charm",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at your hotel before exploring Kandy.",
+        "Temple of the Tooth: Visit Sri Dalada Maligawa, an important Buddhist shrine within the UNESCO-listed Sacred City of Kandy.",
+        "Royal Heritage: Discover the historic surroundings of the former Kandyan royal complex and learn about the city's cultural heritage.",
+        "Peradeniya Royal Botanic Gardens: Stroll through landscaped gardens and admire tropical plants and towering trees.",
+        "Kandy City Experience: Explore local craft shops and browse for traditional Sri Lankan handicrafts.",
+        "Romantic Dinner: Return to your hotel for a peaceful evening together."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/IMG_002.jpg"
+    },
+    {
+      day: 3,
+      title: "Scenic Southern Journey & Hiriketiya Beach Escape",
+      points: [
+        "Morning Departure: Enjoy breakfast before leaving Kandy for Sri Lanka's southern coastline.",
+        "Scenic Drive: Travel through changing landscapes towards the southern coastal region in your private vehicle.",
+        "Hiriketiya Arrival: Reach the picturesque bay near Dickwella and check in to your accommodation.",
+        "Hiriketiya Beach: Discover the curved sandy bay, tropical greenery and relaxed coastal atmosphere.",
+        "Beachside Leisure: Spend time together by the sea or enjoy a refreshing drink at a nearby café.",
+        "Sunset & Dinner: Enjoy a relaxed evening and a romantic dinner in the coastal surroundings."
+      ],
+      overnight: "Hotel in Hiriketiya.",
+      imageUrl: "/documents/images/tour/IMG_003.jpg"
+    },
+    {
+      day: 4,
+      title: "Hiriketiya Morning & Mirissa Beach Romance",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast and a relaxed start to the day by the coast.",
+        "Hiriketiya Beach: Take a morning beach walk or enjoy the bay's tropical scenery.",
+        "Coastal Journey: Travel west towards Mirissa, enjoying scenic stretches of the southern coastline.",
+        "Coconut Tree Hill: Visit Mirissa's famous palm-fringed viewpoint overlooking the Indian Ocean.",
+        "Mirissa Beach: Relax on the sandy beach and enjoy time together beside the sea.",
+        "Romantic Sunset: Watch the changing colours over the ocean before enjoying dinner at a beachfront restaurant."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/IMG_004.jpg"
+    },
+    {
+      day: 5,
+      title: "Galle Fort Heritage & Coastal Romance",
+      points: [
+        "Relaxed Breakfast: Enjoy breakfast at your hotel before departing Mirissa.",
+        "Coastal Drive: Travel towards Galle along the scenic southern shoreline.",
+        "Galle Fort: Explore the UNESCO World Heritage-listed Old Town of Galle and its Fortifications, renowned for its historic architecture and cultural influences.",
+        "Historic Streets: Wander through charming lanes featuring heritage buildings, boutique shops, art galleries and inviting cafés.",
+        "Lighthouse & Ramparts: Admire the iconic Galle Lighthouse and enjoy ocean views from the historic fortifications.",
+        "Romantic Evening: Enjoy dinner in or around Galle Fort before returning to your accommodation."
+      ],
+      overnight: "Boutique hotel in Galle.",
+      imageUrl: "/documents/images/tour/IMG_005.jpg"
+    },
+    {
+      day: 6,
+      title: "Bentota Beachside Luxury & Romantic Experiences",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast before leaving Galle for Bentota.",
+        "Coastal Journey: Travel north in your private vehicle, passing scenic stretches of Sri Lanka's southwestern coastline.",
+        "Bentota Arrival: Check in to your beachside hotel or resort and settle into your surroundings.",
+        "Bentota Beach: Enjoy the sandy coastline, tropical views and time to relax together.",
+        "Optional River Safari: Explore Bentota River's mangrove-lined waterways and observe local birdlife, subject to availability.",
+        "Sunset Dining: Celebrate your final evening with a romantic dinner, with private dining arrangements available on request."
+      ],
+      overnight: "Beachside resort in Bentota.",
+      imageUrl: "/documents/images/tour/IMG_006.jpg"
+    },
+    {
+      day: 7,
+      title: "Bentota Leisure & Departure",
+      points: [
+        "Final Breakfast: Enjoy your last breakfast together at the hotel.",
+        "Beachside Moments: Take a final walk along Bentota Beach or relax at the resort, depending on your flight schedule.",
+        "Hotel Check-out: Complete check-out and prepare for your private airport transfer.",
+        "Optional Colombo Visit: If your flight schedule allows, enjoy a brief visit to selected Colombo attractions.",
+        "Optional Shopping: Browse for Sri Lankan souvenirs if time permits.",
+        "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with sufficient time for your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/IMG_007.jpg"
+    }
+  ],
+
+  hotelRecommendation:
+    "Romantic hotels in Kandy and Hiriketiya, a beachside stay in Mirissa, a boutique heritage hotel in Galle, and a luxury beachfront resort in Bentota.",
+  transportation:
+    "Private air-conditioned vehicle with a dedicated chauffeur-guide throughout the journey.",
+  meals:
+    "Daily breakfast. Other meals at your own choice unless arranged in advance.",
+
+  included: [
+    "6 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Visits described in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Optional activities and excursions",
+    "River safari and water sports",
+    "Personal expenses and tips",
+    "Travel insurance",
+    "Special romantic arrangements unless confirmed"
+  ],
+
+  optionalExperiences: [
+    "Private romantic dinner",
+    "Couple's spa treatment",
+    "Bentota River boat safari",
+    "Water sports in suitable coastal locations",
+    "Seasonal whale-watching excursion from Mirissa",
+    "Flowers, anniversary cake or room decorations",
+    "Traditional cultural experiences in Kandy"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this seven-day tour suitable for a honeymoon?",
+      a: "Yes. This private journey combines Kandy's cultural heritage with tropical beaches, historic Galle and relaxing beachfront accommodation in Bentota."
+    },
+    {
+      q: "Which destinations are included in the tour?",
+      a: "The itinerary covers Kandy, Hiriketiya, Mirissa, Galle and Bentota, with airport transfers at the beginning and end of the journey."
+    },
+    {
+      q: "Can we arrange special romantic experiences?",
+      a: "Yes. Private dinners, couple's spa treatments, flowers and other special arrangements may be requested in advance, subject to availability."
+    },
+    {
+      q: "Is whale watching available throughout the year?",
+      a: "No. Whale-watching excursions are seasonal and depend on departure schedules, weather and sea conditions. The activity is optional."
+    }
+  ]
+},
+
+  
+{
+  slug: "highland-to-coast-romance-8-day-tour",
+  title: "Highland to Coast Romance",
+  category: "Romantic & Honeymoon Tours",
+  duration: "8 Days / 7 Nights",
+  highlights: [
+    "Kandy Cultural Heritage & Lake",
+    "Nuwara Eliya Tea Plantations",
+    "Romantic Hiriketiya Beach",
+    "Mirissa Beach & Coconut Tree Hill",
+    "UNESCO-listed Galle Fort",
+    "Bentota Beachside Luxury",
+    "Romantic Sunsets & Private Dining"
+  ],
+  price: "2100 USD per couple",
+  blurb:
+    "A romantic eight-day escape combining Kandy's cultural charm, Nuwara Eliya's misty tea country and the tropical beaches of Hiriketiya, Mirissa, Galle and Bentota.",
+  motif: "romance",
+  imageUrl: "/documents/images/tour/Honeymoon_Moments.jpg",
+  heroTitle: "Highland to Coast Romance — 8 Days in Sri Lanka",
+  intro:
+    "Discover Sri Lanka together on a private romantic journey from the cultural heart of Kandy through misty highlands and down to the sun-kissed southern coastline.",
+  overview:
+    "Explore Kandy's sacred heritage, admire Nuwara Eliya's tea-covered hills, unwind on Hiriketiya and Mirissa beaches, discover the historic streets of Galle Fort and finish with a relaxing beachfront stay in Bentota. This journey blends cultural discovery, scenic drives and romantic coastal experiences.",
+  bestFor:
+    "Couples seeking a honeymoon or romantic holiday combining hill-country scenery, cultural heritage and tropical beaches.",
+  groupSize:
+    "Private vehicle with a dedicated chauffeur-guide — customised for couples.",
+  physicalLevel: "Easy",
+  destinationsCovered:
+    "Airport → Kandy → Nuwara Eliya → Hiriketiya → Mirissa → Galle → Bentota → Airport",
+
+  itinerary: [
+    {
+      day: 1,
+      title: "Airport Welcome & Journey to Kandy",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB), receive traditional flower garlands and enjoy assistance with your luggage.",
+        "Private Transfer: Settle into your air-conditioned vehicle and begin your journey towards Kandy.",
+        "Scenic Drive: Enjoy changing landscapes and lush greenery along the route into Sri Lanka's central highlands.",
+        "Hotel Check-in: Arrive in Kandy, check in to your accommodation and relax after your journey.",
+        "Kandy Lake: If time permits, enjoy a peaceful walk around the picturesque lake in the heart of the city.",
+        "Romantic Evening: Enjoy a relaxed dinner at your hotel or a nearby restaurant."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/IMG_035.jpg"
+    },
+    {
+      day: 2,
+      title: "Kandy Heritage & Cultural Romance",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast at your hotel before exploring Kandy.",
+        "Temple of the Tooth: Visit Sri Dalada Maligawa, an important Buddhist shrine within the UNESCO-listed Sacred City of Kandy.",
+        "Royal Heritage: Discover the historic surroundings of the former Kandyan royal complex and learn about the city's cultural traditions.",
+        "Peradeniya Royal Botanic Gardens: Stroll through beautifully landscaped gardens filled with tropical plants and towering trees.",
+        "Kandy City: Browse local craft shops and discover traditional Sri Lankan handicrafts.",
+        "Romantic Evening: Return to your hotel and enjoy a peaceful evening together."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/IMG_012.jpg"
+    },
+    {
+      day: 3,
+      title: "Scenic Highlands & Nuwara Eliya Romance",
+      points: [
+        "Morning Departure: Enjoy breakfast before travelling from Kandy towards Nuwara Eliya.",
+        "Ramboda Falls: Stop to admire the scenic waterfall and surrounding mountain landscape, subject to access and conditions.",
+        "Tea Country: Travel through rolling green hills and visit a tea plantation to learn about Sri Lanka's famous Ceylon tea.",
+        "Tea Factory Experience: Discover traditional tea production methods and enjoy a tea tasting where available.",
+        "Gregory Lake: Visit the picturesque lake in Nuwara Eliya and enjoy the cool highland atmosphere.",
+        "Romantic Evening: Check in to your hotel and enjoy a cosy dinner in the cool hill-country setting."
+      ],
+      overnight: "Hotel in Nuwara Eliya.",
+      imageUrl: "/documents/images/tour/IMG_013.jpg"
+    },
+    {
+      day: 4,
+      title: "Highland Journey & Hiriketiya Beach Escape",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast before departing Nuwara Eliya for the southern coast.",
+        "Scenic Drive: Travel through Sri Lanka's changing landscapes as the cool highlands give way to tropical lowlands.",
+        "Coastal Arrival: Arrive in the Dickwella area and check in to your accommodation near Hiriketiya Bay.",
+        "Hiriketiya Beach: Discover the beautiful curved bay framed by tropical greenery and sandy shores.",
+        "Beachside Leisure: Spend time together by the sea or relax at a nearby café overlooking the coast.",
+        "Romantic Dinner: Enjoy a relaxed dinner in Hiriketiya and unwind in the peaceful coastal atmosphere."
+      ],
+      overnight: "Hotel in Hiriketiya.",
+      imageUrl: "/documents/images/tour/IMG_014.jpg"
+    },
+    {
+      day: 5,
+      title: "Hiriketiya Morning & Mirissa Beach Romance",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast and a relaxed start to the day.",
+        "Hiriketiya Beach: Take a morning beach walk or enjoy the tropical scenery around the bay.",
+        "Coastal Journey: Travel towards Mirissa along the scenic southern shoreline.",
+        "Coconut Tree Hill: Visit the iconic palm-fringed viewpoint overlooking the Indian Ocean.",
+        "Mirissa Beach: Relax on the sandy beach and enjoy the tropical coastal atmosphere.",
+        "Sunset Together: Watch the sunset over the ocean before enjoying a romantic dinner at a beachfront restaurant."
+      ],
+      overnight: "Hotel in Mirissa.",
+      imageUrl: "/documents/images/tour/IMG_015.jpg"
+    },
+    {
+      day: 6,
+      title: "Galle Fort Heritage & Coastal Romance",
+      points: [
+        "Relaxed Breakfast: Enjoy breakfast at your hotel before departing Mirissa.",
+        "Coastal Drive: Travel towards Galle and admire the southern coastline along the way.",
+        "Galle Fort: Explore the UNESCO World Heritage-listed Old Town of Galle and its Fortifications, celebrated for its historic architecture and cultural influences.",
+        "Historic Streets: Wander through charming lanes lined with heritage buildings, boutiques, galleries and cafés.",
+        "Lighthouse & Ramparts: Admire the iconic Galle Lighthouse and enjoy beautiful views of the Indian Ocean from the fortifications.",
+        "Romantic Evening: Enjoy dinner in or around Galle Fort before returning to your boutique hotel."
+      ],
+      overnight: "Boutique hotel in Galle.",
+      imageUrl: "/documents/images/tour/IMG_008.png"
+    },
+    {
+      day: 7,
+      title: "Bentota Beachside Luxury & Romance",
+      points: [
+        "Leisurely Breakfast: Enjoy breakfast before departing Galle for Bentota.",
+        "Coastal Journey: Travel north along Sri Lanka's southwestern coastline in your private vehicle.",
+        "Bentota Arrival: Check in to your beachfront accommodation and settle into the tropical surroundings.",
+        "Bentota Beach: Enjoy the sandy coastline, ocean views and time to relax together.",
+        "Optional River Safari: Explore Bentota River's mangrove-lined waterways and observe local birdlife, subject to availability.",
+        "Romantic Sunset Dining: Celebrate your final evening with a romantic dinner, with private dining arrangements available on request."
+      ],
+      overnight: "Beachside resort in Bentota.",
+      imageUrl: "/documents/images/tour/IMG_015.jpg"
+    },
+    {
+      day: 8,
+      title: "Bentota Leisure & Departure",
+      points: [
+        "Final Breakfast: Enjoy your last breakfast together at the hotel.",
+        "Beachside Moments: Take a final walk along Bentota Beach or relax at the resort, depending on your flight schedule.",
+        "Hotel Check-out: Complete check-out and prepare for your private airport transfer.",
+        "Optional Colombo Visit: If your flight schedule allows, enjoy a brief visit to selected Colombo attractions.",
+        "Optional Shopping: Browse for Sri Lankan souvenirs if time permits.",
+        "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with sufficient time for your departure flight."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/IMG_017.jpg"
+    }
+  ],
+
+  hotelRecommendation:
+    "Romantic hotels in Kandy and Nuwara Eliya, a boutique coastal stay in Hiriketiya, a beach hotel in Mirissa, a heritage boutique hotel in Galle and a luxury beachfront resort in Bentota.",
+  transportation:
+    "Private air-conditioned vehicle with a dedicated chauffeur-guide throughout the journey.",
+  meals:
+    "Daily breakfast. Other meals at your own choice unless arranged in advance.",
+
+  included: [
+    "7 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Visits described in the itinerary, subject to access and opening hours"
+  ],
+
+  excluded: [
+    "International flights",
+    "Visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees unless confirmed in the quotation",
+    "Optional excursions and activities",
+    "Tea tasting or factory charges where applicable",
+    "River safari and water sports",
+    "Personal expenses and tips",
+    "Travel insurance",
+    "Special romantic arrangements unless confirmed"
+  ],
+
+  optionalExperiences: [
+    "Private romantic dinner",
+    "Couple's spa treatment",
+    "Ceylon tea tasting",
+    "Bentota River boat safari",
+    "Suitable coastal water sports",
+    "Seasonal whale-watching excursion from Mirissa",
+    "Flowers, anniversary cake or room decorations",
+    "Traditional cultural experiences in Kandy"
+  ],
+
+  tourFaqs: [
+    {
+      q: "Is this tour suitable for a honeymoon?",
+      a: "Yes. This eight-day private journey combines cultural experiences in Kandy, scenic tea country in Nuwara Eliya, tropical beaches and historic Galle Fort with relaxing stays along the southern coast."
+    },
+    {
+      q: "Which destinations are included?",
+      a: "The itinerary includes Kandy, Nuwara Eliya, Hiriketiya, Mirissa, Galle and Bentota, with airport transfers at the beginning and end of the tour."
+    },
+    {
+      q: "Can we arrange special romantic experiences?",
+      a: "Yes. Private dinners, couple's spa treatments, flowers and other special arrangements can be requested in advance, subject to availability."
+    },
+    {
+      q: "Is whale watching available throughout the year?",
+      a: "No. Whale-watching excursions are seasonal and depend on departure schedules, weather and sea conditions. The activity is optional."
+    },
+    {
+      q: "Are all entrance fees included?",
+      a: "Entrance fees are included only if specifically confirmed in the final quotation. Optional experiences and additional activities may incur extra charges."
+    }
+  ]
+},
+
+
+  
   {
     slug: "grand-honeymoon-journey-10-day-tour",
     title: "The Grand Honeymoon Journey",
@@ -4014,11 +4326,11 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Yala National Park Safari",
       "Galle Fort & Mirissa Beach"
     ],
-    price: "Price on request",
+    price: "2499 USD per couple",
     blurb:
       "A comprehensive romantic journey combining ancient heritage, misty tea hills, wildlife encounters and the beauty of Sri Lanka's southern coast.",
     motif: "romance",
-    imageUrl: "/documents/images/tour/romantic4.jpg",
+    imageUrl: "/documents/images/tour/The Grand Honeymoon Journey.jpg",
     heroTitle: "The Grand Honeymoon Journey — 10 Days Across Sri Lanka",
     intro:
       "Celebrate your time together on an extended private journey through Sri Lanka's most memorable landscapes, from the ancient Cultural Triangle to tea-covered mountains, wildlife-rich wilderness and the southern coast.",
@@ -4045,7 +4357,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Unwind after your flight and enjoy dinner at leisure."
         ],
         overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
+        imageUrl: "/documents/images/tour/IMG_018.jpg"
       },
       {
         day: 2,
@@ -4059,7 +4371,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Relaxing Evening: Return to your hotel and enjoy a quiet evening together."
         ],
         overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
+        imageUrl: "/documents/images/tour/IMG_027.jpg"
       },
       {
         day: 3,
@@ -4073,7 +4385,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Enjoy dinner at your hotel or arrange a special private dining experience."
         ],
         overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
+        imageUrl: "/documents/images/tour/IMG_028.jpg"
       },
       {
         day: 4,
@@ -4087,7 +4399,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Nuwara Eliya Arrival: Check in to your accommodation and enjoy the cool climate."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwara-eliya.png"
+        imageUrl: "/documents/images/tour/IMG_029.jpg"
       },
       {
         day: 5,
@@ -4101,7 +4413,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Ella Arrival: Check in to your hotel and spend the evening at leisure."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
+        imageUrl: "/documents/images/tour/IMG_030.jpg"
       },
       {
         day: 6,
@@ -4115,7 +4427,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Safari Lodge Check-in: Settle into your accommodation and enjoy a peaceful evening."
         ],
         overnight: "Hotel or safari lodge near Yala.",
-        imageUrl: "/documents/images/tour/yala.png"
+        imageUrl: "/documents/images/tour/IMG_031.jpg"
       },
       {
         day: 7,
@@ -4129,7 +4441,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Quiet Evening: Enjoy dinner and the atmosphere of Sri Lanka's wilderness."
         ],
         overnight: "Hotel or safari lodge near Yala.",
-        imageUrl: "/documents/images/tour/yala.png"
+        imageUrl: "/documents/images/tour/IMG_032.jpg"
       },
       {
         day: 8,
@@ -4143,7 +4455,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Check in to your hotel and enjoy dinner at leisure."
         ],
         overnight: "Hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png"
+        imageUrl: "/documents/images/tour/IMG_009.jpg"
       },
       {
         day: 9,
@@ -4157,7 +4469,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Dinner: Enjoy a special evening meal at your hotel or a nearby restaurant."
         ],
         overnight: "Hotel in Mirissa.",
-        imageUrl: "/documents/images/tour/mirissa.png"
+        imageUrl: "/documents/images/tour/IMG_033.jpg"
       },
       {
         day: 10,
@@ -4171,7 +4483,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Departure: Arrive at the airport with sufficient time for your international flight."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/mirissa.png"
+        imageUrl: "/documents/images/tour/IMG_034.jpg"
       }
     ],
 
@@ -4239,11 +4551,11 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Tangalle Coastal Retreat",
       "Galle Fort — UNESCO World Heritage Site"
     ],
-    price: "Price on request",
+    price: "2899 USD per couple",
     blurb:
       "An extended luxury journey through Sri Lanka's ancient kingdoms, misty tea country, wildlife-rich wilderness and peaceful southern coastline.",
     motif: "romance",
-    imageUrl: "/documents/images/tour/romantic5.jpg",
+    imageUrl: "/documents/images/tour/The Ultimate Ceylon Love Story.jpg",
     heroTitle: "The Ultimate Ceylon Love Story — 12 Days of Heritage, Highlands & Romance",
     intro:
       "Take your time discovering Sri Lanka together on an extended private journey that combines ancient history, cultural traditions, scenic mountain escapes, wildlife and the slower rhythm of the southern coast.",
@@ -4270,7 +4582,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Unwind after your flight and enjoy dinner at leisure."
         ],
         overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
+        imageUrl: "/documents/images/tour/IMG_019.jpg"
       },
       {
         day: 2,
@@ -4284,7 +4596,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Relaxing Evening: Return to your hotel and enjoy time together."
         ],
         overnight: "Hotel in Sigiriya or Habarana.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
+        imageUrl: "/documents/images/tour/IMG_020.jpg"
       },
       {
         day: 3,
@@ -4312,7 +4624,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Enjoy dinner at your hotel or arrange a private dining experience."
         ],
         overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
+        imageUrl: "/documents/images/tour/IMG_016.jpg"
       },
       {
         day: 5,
@@ -4326,7 +4638,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Nuwara Eliya Arrival: Check in to your hotel and enjoy the cool highland atmosphere."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/nuwara-eliya.png"
+        imageUrl: "/documents/images/tour/IMG_021.jpg"
       },
       {
         day: 6,
@@ -4340,7 +4652,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Ella Arrival: Check in to your accommodation and enjoy the evening at leisure."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
+        imageUrl: "/documents/images/tour/IMG_022.jpg"
       },
       {
         day: 7,
@@ -4354,7 +4666,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Return to your accommodation and enjoy the peaceful mountain atmosphere."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/ella.png"
+        imageUrl: "/documents/images/tour/IMG_023.jpg"
       },
       {
         day: 8,
@@ -4368,7 +4680,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening at Leisure: Enjoy dinner and prepare for the following day's safari."
         ],
         overnight: "Hotel or safari lodge near Yala.",
-        imageUrl: "/documents/images/tour/yala.png"
+        imageUrl: "/documents/images/tour/IMG_025.jpg"
       },
       {
         day: 9,
@@ -4382,7 +4694,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Wilderness Evening: Enjoy dinner and a peaceful evening away from the busy coastal towns."
         ],
         overnight: "Hotel or safari lodge near Yala.",
-        imageUrl: "/documents/images/tour/yala.png"
+        imageUrl: "/documents/images/tour/IMG_026.jpg"
       },
       {
         day: 10,
@@ -4396,7 +4708,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Sunset: Enjoy dinner at your hotel or a nearby restaurant."
         ],
         overnight: "Beachside hotel in Tangalle.",
-        imageUrl: "/documents/images/tangalle.png"
+        imageUrl: "/documents/images/tour/IMG_024.jpg"
       },
       {
         day: 11,
@@ -4410,7 +4722,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Romantic Evening: Check in to your hotel and enjoy dinner at leisure."
         ],
         overnight: "Hotel in Galle.",
-        imageUrl: "/documents/images/tour/galle.png"
+        imageUrl: "/documents/images/tour/IMG_010.png"
       },
       {
         day: 12,
@@ -4424,7 +4736,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Departure: Arrive at the airport with sufficient time for your international flight."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/galle.png"
+        imageUrl: "/documents/images/tour/IMG_011.jpg"
       }
     ],
 
@@ -4481,745 +4793,1049 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
     ]
   },
 
-  {
-    slug: "cultural-5-day-tour",
-    title: "5 Day Cultural Tour",
-    category: "Cultural Heritage Tours",
-    duration: "5 Days / 4 Nights",
-    highlights: ["Sigiriya Rock Fortress", "Dambulla Cave Temple", "Temple of the Sacred Tooth Relic"],
-    price: "From $755 pp",
-    blurb: "A focused 5-day route through Sri Lanka's Cultural Triangle UNESCO sites.",
-    motif: "temple",
-    heroTitle: "Ceylon Heritage Discovery — 5 Days Through the Cultural Triangle",
-    intro:
-      "A dedicated heritage route through three UNESCO World Heritage Sites — a rock fortress, ancient cave temples, and a living royal capital.",
-    overview:
-      "This route stays entirely within Sri Lanka's compact Cultural Triangle, allowing time to properly explore each UNESCO site with knowledgeable local guides rather than rushing between them.",
-    bestFor: "History enthusiasts, culture-focused travellers, short trips with depth",
-    groupSize: "Private vehicle with cultural guide — customisable group size",
-    physicalLevel: "Easy to moderate (Sigiriya climb)",
-    destinationsCovered: "Colombo → Sigiriya → Dambulla → Kandy → Colombo",
-    itinerary: [
-       {
-    day: 1,
-    title: "Arrival & Sigiriya",
-    points: [
-      "Airport Welcome: Meet your chauffeur at Bandaranaike International Airport (CMB) with traditional flower garlands.",
-      "Transfer to Sigiriya: Begin your journey through Sri Lanka's scenic countryside.",
-      "Pinnawala Elephant Orphanage: Learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on arrival time.",
-      "Scenic Drive: Continue towards Sigiriya or Habarana, enjoying the changing landscapes along the way.",
-      "Hotel Check-in: Settle into your hotel and relax after your journey.",
-      "Dinner with a View: Enjoy a relaxing dinner with beautiful views of the Sigiriya Rock area, weather and location permitting."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya13.png"
-  },
-  {
-    day: 2,
-    title: "Sigiriya Rock Fortress",
-    points: [
-      "UNESCO World Heritage Site: Discover the ancient city of Sigiriya, one of Sri Lanka's most remarkable archaeological treasures.",
-      "Sigiriya Rock Climb: Ascend the iconic rock fortress with a specialist guide and explore the extraordinary remains of King Kashyapa's royal citadel.",
-      "Ancient Frescoes: Discover the celebrated frescoes, landscaped gardens and historic features of the fortress.",
-      "Village Safari: Enjoy a complimentary village safari for an introduction to traditional Sri Lankan rural life.",
-      "Traditional Sri Lankan Lunch: Savour a local meal featuring authentic Sri Lankan flavours.",
-      "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya, followed by free time at your hotel."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya12.png"
-  },
-  {
-    day: 3,
-    title: "Dambulla Cave Temple",
-    points: [
-      "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, renowned for its five historic caves filled with Buddhist murals and statues spanning more than 2,000 years.",
-      "Ancient Buddhist Art: Discover the intricate paintings, religious sculptures and sacred atmosphere of the cave complex.",
-      "Traditional Craft Village: Experience local craftsmanship, including batik-making and wood carving.",
-      "Scenic Drive to Kandy: Travel through the cultural heartland of Sri Lanka towards Kandy.",
-      "Spice Garden Visit: Learn about Sri Lanka's famous spices, their traditional uses and cultivation.",
-      "Cinnamon Tea Tasting: Enjoy a complimentary cinnamon tea tasting before continuing to your hotel."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/dambulla12.png"
-  },
-  {
-    day: 4,
-    title: "Kandy's Living Heritage",
-    points: [
-      "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
-      "Sacred Traditions: Learn about the temple's centuries-old rituals and its significance in Sri Lankan culture.",
-      "Royal Botanical Gardens: Explore the magnificent gardens at Peradeniya, with their diverse tropical plants and historic heritage.",
-      "Kandyan Kingdom Heritage: Discover the cultural traditions associated with the former royal capital of Kandy.",
-      "Traditional Kandyan Dance: Enjoy a vibrant cultural performance featuring traditional dance, drumming and colourful costumes.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Kandy."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/kandy12.png"
-  },
-  {
-    day: 5,
-    title: "Colombo & Departure",
-    points: [
-      "Journey to Colombo: Travel from Kandy towards Sri Lanka's vibrant commercial capital.",
-      "Gangaramaya Temple: Visit this distinctive Buddhist temple, known for its eclectic architecture and collection of religious artefacts.",
-      "Colombo City Views: Enjoy a glimpse of the city's blend of modern development, colonial heritage and local life, depending on available time.",
-      "Free Time: Enjoy some leisure time in Colombo, subject to your departure schedule.",
-      "Airport Transfer: Travel to Bandaranaike International Airport (CMB) in time for your departure flight.",
-      "Departure: Bid farewell to Sri Lanka with wonderful memories of its ancient heritage and cultural traditions."
-    ],
-    overnight: "N/A — departure day.",
-    imageUrl: "/documents/images/tour/colombo12.png"
-  }
-],
-    hotelRecommendation: "Heritage-style hotels in Sigiriya and Kandy.",
-    transportation: "Private air-conditioned vehicle with a specialist cultural guide throughout.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["4 nights' accommodation as listed", "Daily breakfast", "Private vehicle and cultural guide throughout", "Sigiriya, Dambulla and Temple of the Tooth entrance fees", "Kandyan cultural dance show"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Traditional mask-carving workshop", "Private lecture with a local archaeologist", "Hot-air balloon flight over the Cultural Triangle"],
-    tourFaqs: [
-      { q: "Is a specialist guide really necessary?", a: "It significantly enriches the sites — a knowledgeable guide can explain the symbolism and history that's easy to miss visiting independently." },
-      { q: "Are these sites accessible for less mobile travellers?", a: "Dambulla and Kandy are accessible with some walking; Sigiriya's summit does require climbing stairs, which isn't avoidable." },
-    ],
-  },
-  {
-    slug: "cultural-7-day-tour",
-    title: "7 Day Cultural Tour",
-    category: "Cultural Heritage Tours",
-    duration: "7 Days / 6 Nights",
-    highlights: ["Anuradhapura & Sigiriya", "Dambulla Cave Temple", "Temple of the Sacred Tooth Relic"],
-    price: "From $955 pp",
-    blurb: "Our 5-day heritage route extended to Anuradhapura, Sri Lanka's first ancient capital.",
-    motif: "temple",
-    heroTitle: "Ceylon Ancient Capitals — 7 Days Through Ceylon's Heritage Sites",
-    intro:
-      " Sri Lanka's first ancient capital and one of the world's best-preserved monastic cities — to our core Cultural Triangle route.",
-    overview:
-      "This itinerary opens with Anuradhapura's 2,000-year-old dagobas and sacred sites before continuing through Sigiriya, Dambulla and Kandy.",
-    bestFor: "History enthusiasts wanting a deeper archaeological trip",
-    groupSize: "Private vehicle with cultural guide — customisable group size",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered: "Colombo → Anuradhapura → Sigiriya → Dambulla → Kandy → Colombo",
-    itinerary:[
-  {
-    day: 1,
-    title: "Arrival & Anuradhapura",
-    points: [
-      "Airport Welcome: Meet your chauffeur at Bandaranaike International Airport (CMB) with traditional flower garlands.",
-      "Journey to Anuradhapura: Begin your journey through Sri Lanka's scenic countryside towards the ancient northern capital.",
-      "Pinnawala Elephant Orphanage: Learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on arrival time.",
-      "Scenic Drive: Continue towards Anuradhapura, enjoying the changing landscapes along the way.",
-      "Tissawewa Reservoir: Arrive in Anuradhapura and enjoy the peaceful atmosphere and sunset views over the historic reservoir, time permitting.",
-      "Hotel Check-in: Settle into your hotel and relax after the journey."
-    ],
-    overnight: "Hotel near Anuradhapura.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 2,
-    title: "Anuradhapura's Sacred City",
-    points: [
-      "UNESCO World Heritage Site: Explore the ancient city of Anuradhapura, Sri Lanka's first ancient capital and one of the island's most important archaeological sites.",
-      "Sri Maha Bodhi: Visit the sacred Bodhi tree, traditionally associated with the tree under which the Buddha attained enlightenment.",
-      "Atamasthana: Discover Anuradhapura's eight sacred places, including revered stupas, ancient monasteries and important Buddhist sites.",
-      "Ruwanwelisaya Stupa: Admire one of Sri Lanka's most iconic stupas and a significant centre of Buddhist devotion.",
-      "Mihintale: If time permits, visit the sacred site traditionally associated with Arahat Mahinda Thera's meeting with King Devanampiyatissa and the introduction of Buddhism to Sri Lanka.",
-      "Transfer to Sigiriya: Continue towards Sigiriya or Habarana and check in to your hotel."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 3,
-    title: "Sigiriya Rock Fortress",
-    points: [
-      "UNESCO World Heritage Site: Discover the ancient city of Sigiriya, renowned for its remarkable archaeological remains and historic royal citadel.",
-      "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and explore the remains of King Kashyapa's ancient royal complex.",
-      "Ancient Frescoes and Gardens: Discover the celebrated frescoes, landscaped gardens and ingenious features of this historic site.",
-      "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and the surrounding landscape.",
-      "Village Safari: Enjoy a complimentary village safari and experience traditional rural life in Sri Lanka.",
-      "Traditional Lunch: Savour a traditional Sri Lankan meal before returning to your hotel for free time."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya.png"
-  },
-  {
-    day: 4,
-    title: "Dambulla Cave Temple",
-    points: [
-      "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, celebrated for its ancient Buddhist art and sacred atmosphere.",
-      "Historic Cave Complex: Discover the cave shrines, Buddhist statues and intricate murals depicting religious stories and traditions.",
-      "Buddhist Heritage: Learn about the temple's long history as an important centre of worship and pilgrimage.",
-      "Traditional Craft Village: Experience local craftsmanship and discover traditional Sri Lankan arts, such as batik-making and wood carving.",
-      "Scenic Drive to Kandy: Travel through the island's cultural heartland towards the historic hill capital.",
-      "Hotel Check-in: Arrive in Kandy, settle into your hotel and enjoy the evening at leisure."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/dambulla.png"
-  },
-  {
-    day: 5,
-    title: "Kandy's Living Heritage",
-    points: [
-      "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
-      "Sacred Rituals: Learn about the temple's centuries-old traditions and its significance in Sri Lankan Buddhist culture.",
-      "Royal Botanical Gardens: Explore the beautiful gardens at Peradeniya, known for their diverse tropical plants, towering trees and landscaped grounds.",
-      "Kandyan Heritage: Discover the cultural traditions and royal history associated with the former capital of the Kandyan Kingdom.",
-      "Traditional Kandyan Dance: Enjoy a lively cultural performance featuring traditional dance, rhythmic drumming and colourful costumes.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Kandy."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/kandy.png"
-  },
-  {
-    day: 6,
-    title: "Kandy to Colombo",
-    points: [
-      "Gem Museum: Discover Sri Lanka's renowned gem heritage and learn about the island's precious and semi-precious stones.",
-      "Traditional Lacquerware Workshop: Observe traditional craftsmanship and learn about the decorative techniques used to create Sri Lankan lacquerware.",
-      "Journey to Colombo: Travel towards the commercial capital, passing through changing landscapes along the way.",
-      "Pettah Bazaar: Explore the lively Pettah district, known for its bustling streets, traditional shops, markets and local atmosphere.",
-      "Colombo City Experience: Enjoy a glimpse of the city's vibrant blend of culture, commerce and everyday life.",
-      "Farewell Dinner: Celebrate your Sri Lankan journey with a farewell dinner in Colombo."
-    ],
-    overnight: "Hotel in Colombo.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  },
-  {
-    day: 7,
-    title: "Colombo & Departure",
-    points: [
-      "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
-      "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
-      "City Highlights: Enjoy a final glimpse of Colombo's urban scenery and cultural landmarks, depending on available time.",
-      "Free Time: Enjoy some leisure time before your airport transfer, subject to your flight schedule.",
-      "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur.",
-      "Departure: Bid farewell to Sri Lanka with lasting memories of its sacred cities, ancient monuments and living traditions."
-    ],
-    overnight: "N/A — departure day.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  }
-] ,
-    hotelRecommendation: "Heritage-style hotels near Anuradhapura, Sigiriya and Kandy.",
-    transportation: "Private air-conditioned vehicle with a specialist cultural guide throughout.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["6 nights' accommodation as listed", "Daily breakfast", "Private vehicle and cultural guide throughout", "All site entrance fees listed", "Kandyan cultural dance show"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Private lecture with a local archaeologist", "Traditional mask-carving workshop", "Hot-air balloon flight over the Cultural Triangle"],
-    tourFaqs: [
-      { q: "What's the difference between Anuradhapura and Polonnaruwa?", a: "Anuradhapura is older (3rd century BC onward) and more spread out; Polonnaruwa is more compact and better preserved — this route focuses on the former for its scale and antiquity." },
-      { q: "Is appropriate dress required at temple sites?", a: "Yes — shoulders and knees covered, and shoes removed at sacred sites; we'll brief you before each visit." },
-    ],
-  },
-  {
-    slug: "cultural-8-day-tour",
-    title: "8 Day Cultural Tour",
-    category: "Cultural Heritage Tours",
-    duration: "8 Days / 7 Nights",
-    highlights: ["Anuradhapura & Polonnaruwa", "Sigiriya & Dambulla", "Temple of the Sacred Tooth Relic"],
-    price: "From $1,100 pp",
-    blurb: "Our 7-day ancient capitals route with Polonnaruwa added for a complete medieval and classical picture.",
-    motif: "temple",
-    heroTitle: "Ceylon Heritage Expedition — 8 Days, Both Ancient Capitals",
-    intro:
-      "Visiting both of Sri Lanka's ancient capitals — Anuradhapura (classical period) and Polonnaruwa (medieval period) — for a complete arc of the island's monumental history.",
-    overview:
-      "This itinerary adds Polonnaruwa to our 7-day route, giving a full historical progression from Sri Lanka's earliest capital through its medieval golden age to its living traditions in Kandy.",
-    bestFor: "Dedicated history and archaeology travellers",
-    groupSize: "Private vehicle with cultural guide — customisable group size",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered: "Colombo → Anuradhapura → Polonnaruwa → Sigiriya → Dambulla → Kandy → Colombo",
-    itinerary:[
-  {
-    day: 1,
-    title: "Arrival & Anuradhapura",
-    points: [
-      "Airport Welcome: Meet your chauffeur at Bandaranaike International Airport (CMB) with traditional flower garlands.",
-      "Journey to Anuradhapura: Travel through Sri Lanka's scenic countryside towards the island's first ancient capital.",
-      "Pinnawala Elephant Orphanage: Learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on arrival time.",
-      "Scenic Drive: Continue towards Anuradhapura, passing through the island's changing landscapes.",
-      "Tissawewa Reservoir: Enjoy the peaceful surroundings and sunset views over this historic reservoir, time permitting.",
-      "Hotel Check-in: Arrive at your hotel near Anuradhapura and relax after the journey."
-    ],
-    overnight: "Hotel near Anuradhapura.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 2,
-    title: "Anuradhapura's Sacred City",
-    points: [
-      "UNESCO World Heritage Site: Explore Anuradhapura, Sri Lanka's first ancient capital and one of its most important archaeological cities.",
-      "Sri Maha Bodhi: Visit the sacred Bodhi tree, one of the island's most revered Buddhist pilgrimage sites.",
-      "Atamasthana: Discover Anuradhapura's eight sacred places, including ancient stupas, monasteries and significant Buddhist landmarks.",
-      "Ruwanwelisaya Stupa: Admire this iconic white stupa and learn about its enduring importance in Sri Lankan Buddhist heritage.",
-      "Mihintale: If time permits, visit the sacred site traditionally associated with Arahat Mahinda Thera's meeting with King Devanampiyatissa and the introduction of Buddhism to Sri Lanka.",
-      "Journey to Polonnaruwa: Travel towards the next ancient capital and check in to your hotel."
-    ],
-    overnight: "Hotel near Polonnaruwa.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 3,
-    title: "Polonnaruwa Ancient City",
-    points: [
-      "UNESCO World Heritage Site: Discover the ancient city of Polonnaruwa, renowned for its remarkably preserved archaeological ruins.",
-      "Cycling Through History: Explore the ancient city by bicycle, passing historic monuments and the remains of a once-flourishing royal capital.",
-      "Royal Palace: Visit the impressive remains of King Parakramabahu's royal palace complex.",
-      "Sacred Quadrangle: Explore the historic Quadrangle, including the beautifully preserved Vatadage and Hatadage monuments.",
-      "Gal Vihara: Admire the magnificent rock-carved Buddha statues, celebrated for their artistry and spiritual significance.",
-      "Rankoth Vehera & Parakrama Samudra: Discover the towering Rankoth Vehera stupa and enjoy views of the vast Parakrama Samudra reservoir before driving to Sigiriya or Habarana."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/polonnaruwa.png"
-  },
-  {
-    day: 4,
-    title: "Sigiriya Rock Fortress",
-    points: [
-      "UNESCO World Heritage Site: Discover the ancient city of Sigiriya, one of Sri Lanka's most remarkable archaeological treasures.",
-      "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and explore the remains of King Kashyapa's ancient royal citadel.",
-      "Ancient Frescoes & Gardens: Discover the celebrated frescoes, landscaped water gardens and ingenious features of this historic site.",
-      "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and its surrounding green landscape.",
-      "Village Safari: Enjoy a complimentary village safari and experience traditional rural life in Sri Lanka.",
-      "Traditional Sri Lankan Lunch: Savour an authentic local meal before returning to your hotel for free time."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya.png"
-  },
-  {
-    day: 5,
-    title: "Dambulla Cave Temple",
-    points: [
-      "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, renowned for its ancient Buddhist art and sacred atmosphere.",
-      "Historic Cave Shrines: Discover the remarkable Buddha statues and intricate murals that adorn the temple's five principal caves.",
-      "Buddhist Heritage: Learn about the site's long history as an important centre of worship and pilgrimage.",
-      "Traditional Craft Village: Experience local craftsmanship and discover traditional Sri Lankan arts such as batik-making and wood carving.",
-      "Journey to Kandy: Drive through the scenic landscapes of Sri Lanka's Cultural Triangle towards the historic hill capital.",
-      "Hotel Check-in: Arrive in Kandy, settle into your hotel and enjoy the evening at leisure."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/dambulla.png"
-  },
-  {
-    day: 6,
-    title: "Kandy's Living Heritage",
-    points: [
-      "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
-      "Sacred Traditions: Learn about the temple's centuries-old rituals and its importance in Sri Lankan Buddhist culture.",
-      "Royal Botanical Gardens: Explore the beautiful gardens at Peradeniya, known for their tropical plant collections, towering trees and landscaped grounds.",
-      "Kandyan Royal Heritage: Discover the cultural traditions and history associated with the former capital of the Kandyan Kingdom.",
-      "Traditional Kandyan Dance: Enjoy a vibrant cultural performance featuring traditional dancing, rhythmic drumming and colourful costumes.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Kandy."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/kandy.png"
-  },
-  {
-    day: 7,
-    title: "Kandy to Colombo",
-    points: [
-      "Gem Museum: Discover Sri Lanka's renowned gem heritage and learn about the island's precious and semi-precious stones.",
-      "Traditional Lacquerware Workshop: Observe local artisans and learn about the traditional techniques used to create decorative lacquerware.",
-      "Journey to Colombo: Travel towards Sri Lanka's vibrant commercial capital through changing landscapes.",
-      "Pettah Bazaar: Explore the bustling market district, known for its lively streets, traditional shops and colourful local commerce.",
-      "Colombo City Experience: Enjoy a glimpse of the city's blend of historic architecture, modern development and everyday life.",
-      "Farewell Dinner: Enjoy a special dinner in Colombo to celebrate your cultural journey through Sri Lanka."
-    ],
-    overnight: "Hotel in Colombo.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  },
-  {
-    day: 8,
-    title: "Colombo & Departure",
-    points: [
-      "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
-      "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
-      "Colombo City Highlights: Enjoy a final glimpse of the capital's cultural landmarks and urban scenery, depending on available time.",
-      "Free Time: Enjoy some leisure time before your airport transfer, subject to your departure schedule.",
-      "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur.",
-      "Departure: Bid farewell to Sri Lanka with lasting memories of its ancient kingdoms, sacred sites and living traditions."
-    ],
-    overnight: "N/A — departure day.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  }
-],
-  },
-  {
-    slug: "cultural-10-day-tour",
-    title: "10 Day Cultural Tour",
-    category: "Cultural Heritage Tours",
-    duration: "10 Days / 9 Nights",
-    highlights: ["Both ancient capitals", "Sigiriya & Dambulla", "Galle Fort's colonial heritage"],
-    price: "From $2,250 pp",
-    blurb: "Our 8-day ancient capitals route extended to Galle's Dutch-era fort for a colonial heritage chapter.",
-    motif: "temple",
-    heroTitle: "Grand Ceylon Heritage Journey — 10 Days, Ancient to Colonial",
-    intro:
-      "Adding Galle's UNESCO-listed Dutch fort to our ancient capitals route — a complete heritage arc from 3rd-century monasteries to 17th-century colonial fortification.",
-    overview:
-      "This itinerary extends our 8-day ancient capitals route to the south coast, giving a genuinely complete heritage narrative: classical, medieval and colonial Sri Lanka in one trip.",
-    bestFor: "History enthusiasts wanting the full historical arc, ancient to colonial",
-    groupSize: "Private vehicle with cultural guide — customisable group size",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered: "Colombo → Anuradhapura → Polonnaruwa → Sigiriya → Dambulla → Kandy → Galle → Colombo",
-    itinerary: [
-  {
-    day: 1,
-    title: "Arrival & Anuradhapura",
-    points: [
-      "Airport Welcome: Meet your chauffeur at Bandaranaike International Airport (CMB) and begin your cultural journey through Sri Lanka.",
-      "Journey to Anuradhapura: Travel through the island's scenic countryside towards its first ancient capital.",
-      "Sri Maha Bodhi: Visit the sacred Bodhi tree, one of Sri Lanka's most revered Buddhist pilgrimage sites.",
-      "Sacred Surroundings: Experience the peaceful atmosphere of Anuradhapura's historic Buddhist heritage.",
-      "Tissawewa Reservoir: Enjoy the tranquil surroundings and sunset views over this historic reservoir, time permitting.",
-      "Hotel Check-in: Arrive at your hotel near Anuradhapura and relax after your journey."
-    ],
-    overnight: "Hotel near Anuradhapura.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 2,
-    title: "Anuradhapura's Sacred City",
-    points: [
-      "Jetavanaramaya Stupa: Discover one of the ancient world's remarkable brick monuments and an important landmark of Anuradhapura.",
-      "Abhayagiri Stupa: Explore this historic monastic complex, once a major centre of Buddhist learning.",
-      "Ancient Monastic Heritage: Learn about the religious traditions and architectural achievements of Sri Lanka's first ancient capital.",
-      "Isurumuniya Rock Temple: Visit this distinctive rock temple, known for its ancient Buddhist sculptures and peaceful setting.",
-      "Archaeological Discoveries: Admire the remains of ancient monasteries, sacred monuments and historic structures throughout the city.",
-      "Journey to Polonnaruwa: Travel towards Sri Lanka's medieval capital and check in to your hotel."
-    ],
-    overnight: "Hotel near Polonnaruwa.",
-    imageUrl: "/documents/images/tour/anuradhapura-sacred-city.png"
-  },
-  {
-    day: 3,
-    title: "Polonnaruwa Ancient City",
-    points: [
-      "UNESCO World Heritage Site: Explore the ancient city of Polonnaruwa, renowned for its exceptionally preserved medieval ruins.",
-      "Cycling Through History: Cycle along the historic paths connecting ancient palaces, shrines and archaeological monuments.",
-      "Royal Heritage: Discover the remains of the royal city and learn about the reign of Sri Lanka's medieval kings.",
-      "Gal Vihara: Admire the magnificent rock-carved Buddha statues, celebrated for their remarkable craftsmanship.",
-      "Ancient Architecture: Explore the remains of historic religious buildings and monastic complexes throughout the site.",
-      "Journey to Sigiriya: Drive through the scenic landscapes of the Cultural Triangle and arrive at your hotel in Sigiriya or Habarana."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/polonnaruwa.png"
-  },
-  {
-    day: 4,
-    title: "Sigiriya Rock Fortress",
-    points: [
-      "UNESCO World Heritage Site: Discover Sigiriya, the celebrated ancient rock fortress and royal citadel of King Kashyapa.",
-      "Guided Rock Climb: Ascend Sigiriya Rock Fortress with a specialist guide and explore its extraordinary archaeological remains.",
-      "Ancient Frescoes: Discover the famous frescoes and learn about their historical and artistic significance.",
-      "Royal Gardens: Explore the landscaped water gardens, pathways and ingenious features surrounding the fortress.",
-      "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and the surrounding greenery.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Sigiriya or Habarana."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya.png"
-  },
-  {
-    day: 5,
-    title: "Dambulla Cave Temple",
-    points: [
-      "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, celebrated for its ancient Buddhist art and sacred atmosphere.",
-      "Historic Cave Shrines: Discover Buddhist statues and intricate murals within the temple's five principal caves.",
-      "Buddhist Heritage: Learn about the temple's enduring role as a centre of worship and pilgrimage.",
-      "Traditional Craft Village: Experience local craftsmanship and discover traditional Sri Lankan arts, such as batik-making and wood carving.",
-      "Scenic Drive to Kandy: Travel through the cultural heartland towards Sri Lanka's historic hill capital.",
-      "Hotel Check-in: Arrive in Kandy, settle into your hotel and enjoy the evening at leisure."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/dambulla.png"
-  },
-  {
-    day: 6,
-    title: "Kandy's Living Heritage",
-    points: [
-      "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
-      "Sacred Traditions: Learn about the temple's historic rituals and its importance in Sri Lankan Buddhist culture.",
-      "Royal Botanical Gardens: Explore the gardens at Peradeniya, known for their tropical plant collections, towering trees and landscaped grounds.",
-      "Kandyan Heritage: Discover the cultural traditions and royal history associated with the former Kandyan Kingdom.",
-      "Traditional Kandyan Dance: Enjoy a cultural performance featuring traditional dancing, rhythmic drumming and colourful costumes.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Kandy."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/kandy.png"
-  },
-  {
-    day: 7,
-    title: "Kandy to Galle",
-    points: [
-      "Journey to the Southern Coast: Depart Kandy and travel south through Sri Lanka's changing landscapes towards Galle.",
-      "Scenic Drive: Enjoy views of rural communities, tropical greenery and the island's diverse countryside along the way.",
-      "Arrival in Galle: Discover the historic coastal city and its distinctive blend of Sri Lankan and European heritage.",
-      "Galle Fort Ramparts: Walk along the historic Dutch-era ramparts and admire views of the Indian Ocean, especially around sunset.",
-      "Historic Fort Atmosphere: Explore the charming streets and colonial-era surroundings within the old fort.",
-      "Dinner in Galle Fort: Enjoy dinner within the historic fort walls before settling into your boutique hotel."
-    ],
-    overnight: "Boutique hotel within Galle Fort.",
-    imageUrl: "/documents/images/tour/galle.png"
-  },
-  {
-    day: 8,
-    title: "Galle Fort's Colonial Heritage",
-    points: [
-      "Guided Galle Fort Walk: Explore this UNESCO World Heritage Site and discover its Portuguese, Dutch and British architectural influences.",
-      "Historic Streets: Wander through charming lanes lined with colonial buildings, heritage homes and traditional courtyards.",
-      "Dutch Reformed Church: Visit this historic church, an important landmark reflecting the Dutch colonial period.",
-      "Maritime Museum: Discover exhibits highlighting Galle's maritime history and its role in Indian Ocean trade, subject to opening hours.",
-      "Fort Ramparts: Enjoy ocean views and learn about the fort's historic defensive structures.",
-      "Free Evening: Spend the evening exploring the fort's boutiques, cafés and restaurants at your own pace."
-    ],
-    overnight: "Boutique hotel within Galle Fort.",
-    imageUrl: "/documents/images/tour/galle-fort.png"
-  },
-  {
-    day: 9,
-    title: "Galle to Colombo",
-    points: [
-      "Leisurely Morning in Galle: Enjoy a relaxed morning within the historic fort before departing for Colombo.",
-      "Coastal Journey: Travel north towards Colombo along Sri Lanka's scenic southwestern coastline.",
-      "Pettah Bazaar: Explore the lively market district, known for its bustling streets, traditional shops and colourful local commerce.",
-      "Colombo City Experience: Discover the capital's blend of historic architecture, modern development and everyday Sri Lankan life.",
-      "Hotel Check-in: Arrive at your hotel in Colombo and take time to relax.",
-      "Farewell Dinner: Enjoy a special dinner in Colombo to celebrate your cultural journey through Sri Lanka."
-    ],
-    overnight: "Hotel in Colombo.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  },
-  {
-    day: 10,
-    title: "Colombo & Departure",
-    points: [
-      "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
-      "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
-      "Colombo City Highlights: Enjoy a final glimpse of the capital's cultural landmarks and urban scenery, depending on available time.",
-      "Free Time: Enjoy some leisure time before your airport transfer, subject to your flight schedule.",
-      "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur.",
-      "Departure: Bid farewell to Sri Lanka with lasting memories of its ancient kingdoms, sacred sites and colonial heritage."
-    ],
-    overnight: "N/A — departure day.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  }
-],
-    hotelRecommendation: "Heritage-style hotels near Anuradhapura, Polonnaruwa, Sigiriya and Kandy; a boutique hotel within Galle Fort.",
-    transportation: "Private air-conditioned vehicle with a specialist cultural guide throughout.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["9 nights' accommodation as listed", "Daily breakfast", "Private vehicle and cultural guide throughout", "All site entrance fees listed", "Kandyan cultural dance show"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Private lecture with a local archaeologist", "Traditional mask-carving workshop", "Galle Fort sunset rampart walk with a colonial-history specialist"],
-    tourFaqs: [
-      { q: "How is Galle Fort different from the ancient sites?", a: "It's a completely different era — 17th-century European colonial fortification, still lived in today, rather than a ruin." },
-      { q: "Can we extend our time in Galle?", a: "Yes, we can rebalance nights if you'd like more time exploring the fort's boutique shops and cafés." },
-    ],
-  },
-  {
-    slug: "cultural-12-day-tour",
-    title: "12 Day Cultural Tour",
-    category: "Cultural Heritage Tours",
-    duration: "12 Days / 11 Nights",
-    highlights: ["Both ancient capitals", "Sigiriya, Dambulla & Kandy", "Galle Fort & Colombo's layered heritage"],
-    price: "From $2,700 pp",
-    blurb: "Our most complete heritage route — ancient, medieval and colonial Sri Lanka, with time to properly absorb each era.",
-    motif: "temple",
-    heroTitle: "Complete Ceylon Heritage Journey — 12 Days Across Three Eras",
-    intro:
-      "Our fullest heritage itinerary, adding extra days at each major site so you can properly absorb Sri Lanka's classical, medieval and colonial history rather than moving quickly between them.",
-    overview:
-      "This itinerary follows our 10-day heritage journey with additional time at Anuradhapura and in Colombo, giving genuine depth to a trip that already spans three distinct historical eras.",
-    bestFor: "Serious history travellers wanting maximum depth, not just breadth",
-    groupSize: "Private vehicle with cultural guide — customisable group size",
-    physicalLevel: "Easy to moderate",
-    destinationsCovered: "Colombo → Anuradhapura → Polonnaruwa → Sigiriya → Dambulla → Kandy → Galle → Colombo",
-    itinerary:[
-  {
-    day: 1,
-    title: "Arrival & Anuradhapura",
-    points: [
-      "Airport Welcome: Meet your chauffeur at Bandaranaike International Airport (CMB) and begin your cultural journey through Sri Lanka.",
-      "Journey to Anuradhapura: Travel through the island's scenic countryside towards its first ancient capital.",
-      "Sri Maha Bodhi: Visit the sacred Bodhi tree, one of Sri Lanka's most revered Buddhist pilgrimage sites.",
-      "Sacred Heritage: Experience the peaceful spiritual atmosphere of Anuradhapura and its ancient Buddhist traditions.",
-      "Tissawewa Reservoir: Enjoy the tranquil surroundings and sunset views over this historic reservoir, time permitting.",
-      "Hotel Check-in: Arrive at your hotel near Anuradhapura and relax after the journey."
-    ],
-    overnight: "Hotel near Anuradhapura.",
-    imageUrl: "/documents/images/tour/anuradhapura.png"
-  },
-  {
-    day: 2,
-    title: "Anuradhapura's Sacred City",
-    points: [
-      "Jetavanaramaya Stupa: Discover one of the ancient world's remarkable brick monuments and a major landmark of Anuradhapura.",
-      "Abhayagiri Stupa: Explore this historic monastic complex, once an important centre of Buddhist learning and religious life.",
-      "Ancient Monastic Heritage: Learn about the architectural achievements and spiritual traditions of Sri Lanka's first ancient capital.",
-      "Isurumuniya Rock Temple: Visit this distinctive rock temple, renowned for its ancient stone carvings and peaceful surroundings.",
-      "Archaeological Discoveries: Explore the remains of sacred monuments, monasteries and historic structures throughout the ancient city.",
-      "Reflective Evening: Return to your hotel and enjoy a peaceful evening reflecting on the day's cultural discoveries."
-    ],
-    overnight: "Hotel near Anuradhapura.",
-    imageUrl: "/documents/images/tour/anuradhapura-sacred-city.png"
-  },
-  {
-    day: 3,
-    title: "Anuradhapura's Outer Monasteries",
-    points: [
-      "Ritigala Forest Monastery: Discover the secluded ruins of this ancient monastic complex nestled within a protected forest reserve.",
-      "Forest Heritage: Explore the remains of stone pathways, meditation platforms and monastic structures surrounded by natural woodland.",
-      "A Peaceful Ancient Setting: Experience the quiet atmosphere of Ritigala, a distinctive contrast to the larger sacred cities.",
-      "Journey to Mihintale: Continue to one of Sri Lanka's most important Buddhist pilgrimage sites.",
-      "Mihintale Sacred Site: Explore the hill traditionally associated with Arahat Mahinda Thera's meeting with King Devanampiyatissa and the introduction of Buddhism to Sri Lanka.",
-      "Drive to Polonnaruwa: Continue through the island's cultural landscapes and check in to your hotel near the ancient city."
-    ],
-    overnight: "Hotel near Polonnaruwa.",
-    imageUrl: "/documents/images/tour/ritigala.png"
-  },
-  {
-    day: 4,
-    title: "Polonnaruwa Ancient City",
-    points: [
-      "UNESCO World Heritage Site: Explore Polonnaruwa, the medieval capital celebrated for its remarkably preserved archaeological remains.",
-      "Cycling Through History: Cycle along the ancient pathways connecting historic palaces, shrines and monumental ruins.",
-      "Royal Heritage: Discover the remains of the royal complex and learn about the kings who shaped this medieval capital.",
-      "Gal Vihara: Admire the magnificent rock-carved Buddha statues, celebrated for their exceptional craftsmanship.",
-      "Ancient Architecture: Explore the historic religious buildings and monastic remains scattered throughout the archaeological site.",
-      "Journey to Sigiriya: Drive through the scenic landscapes of Sri Lanka's Cultural Triangle and arrive at your hotel."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/polonnaruwa.png"
-  },
-  {
-    day: 5,
-    title: "Sigiriya Rock Fortress",
-    points: [
-      "UNESCO World Heritage Site: Discover Sigiriya, the celebrated ancient rock fortress and royal citadel of King Kashyapa.",
-      "Guided Rock Climb: Ascend Sigiriya Rock Fortress with a specialist guide and explore its extraordinary archaeological remains.",
-      "Ancient Frescoes: Discover the famous frescoes and learn about their historical and artistic significance.",
-      "Royal Gardens: Explore the landscaped water gardens, pathways and ingenious features surrounding the fortress.",
-      "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and the surrounding landscape.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Sigiriya or Habarana."
-    ],
-    overnight: "Hotel in Sigiriya or Habarana.",
-    imageUrl: "/documents/images/tour/sigiriya.png"
-  },
-  {
-    day: 6,
-    title: "Dambulla Cave Temple",
-    points: [
-      "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, renowned for its ancient Buddhist art and sacred atmosphere.",
-      "Historic Cave Shrines: Discover Buddhist statues and intricate murals within the temple's five principal caves.",
-      "Buddhist Heritage: Learn about the site's enduring role as an important centre of worship and pilgrimage.",
-      "Traditional Craft Village: Experience local craftsmanship and discover traditional Sri Lankan arts such as batik-making and wood carving.",
-      "Scenic Drive to Kandy: Travel through the cultural heartland towards Sri Lanka's historic hill capital.",
-      "Hotel Check-in: Arrive in Kandy, settle into your hotel and enjoy the evening at leisure."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/dambulla.png"
-  },
-  {
-    day: 7,
-    title: "Kandy's Living Heritage",
-    points: [
-      "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
-      "Sacred Traditions: Learn about the temple's historic rituals and its importance in Sri Lankan Buddhist culture.",
-      "Royal Botanical Gardens: Explore the gardens at Peradeniya, known for their tropical plant collections, towering trees and landscaped grounds.",
-      "Kandyan Royal Heritage: Discover the cultural traditions and royal history associated with the former Kandyan Kingdom.",
-      "Traditional Kandyan Dance: Enjoy a vibrant cultural performance featuring traditional dancing, rhythmic drumming and colourful costumes.",
-      "Leisure Time: Return to your hotel and enjoy a relaxing evening in Kandy."
-    ],
-    overnight: "Hotel in Kandy.",
-    imageUrl: "/documents/images/tour/kandy.png"
-  },
-  {
-    day: 8,
-    title: "Kandy to Galle",
-    points: [
-      "Journey to the Southern Coast: Depart Kandy and travel south through Sri Lanka's changing landscapes towards Galle.",
-      "Scenic Countryside: Enjoy views of tropical greenery, rural communities and the island's diverse scenery along the way.",
-      "Arrival in Galle: Discover this historic coastal city, renowned for its maritime heritage and colonial architecture.",
-      "Galle Fort Ramparts: Walk along the historic fortifications and admire views of the Indian Ocean at sunset.",
-      "Historic Fort Streets: Explore the charming lanes and heritage buildings within the old fort.",
-      "Dinner Within the Fort: Enjoy dinner within the historic fort walls before settling into your boutique hotel."
-    ],
-    overnight: "Boutique hotel within Galle Fort.",
-    imageUrl: "/documents/images/tour/galle.png"
-  },
-  {
-    day: 9,
-    title: "Galle Fort's Colonial Heritage",
-    points: [
-      "Guided Galle Fort Walk: Explore this UNESCO World Heritage Site and discover its Portuguese, Dutch and British architectural influences.",
-      "Historic Streets: Wander through charming lanes lined with colonial buildings, heritage homes and traditional courtyards.",
-      "Dutch Reformed Church: Visit this historic church, an important landmark reflecting Galle's Dutch colonial period.",
-      "Maritime Museum: Discover exhibits highlighting Galle's maritime history and its role in Indian Ocean trade, subject to opening hours.",
-      "Fort Ramparts: Enjoy ocean views and learn about the fort's historic defensive structures.",
-      "Free Evening: Spend the evening exploring the fort's boutiques, cafés and restaurants at your own pace."
-    ],
-    overnight: "Boutique hotel within Galle Fort.",
-    imageUrl: "/documents/images/tour/galle-fort.png"
-  },
-  {
-    day: 10,
-    title: "Galle to Colombo",
-    points: [
-      "Leisurely Morning in Galle: Enjoy a relaxed morning exploring the fort's charming streets, cafés and boutique shops.",
-      "Coastal Journey: Travel north towards Colombo, passing through the scenic southwestern region of Sri Lanka.",
-      "Arrival in Colombo: Check in to your hotel and settle into the vibrant commercial capital.",
-      "Colombo at Leisure: Enjoy free time to relax or explore the city at your own pace.",
-      "Local Dining: Discover Colombo's diverse dining scene and sample Sri Lankan cuisine, if desired.",
-      "Relaxing Evening: Unwind at your hotel ahead of the following day's cultural exploration."
-    ],
-    overnight: "Hotel in Colombo.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  },
-  {
-    day: 11,
-    title: "Colombo's Layered Heritage",
-    points: [
-      "Colombo National Museum: Discover Sri Lanka's history, art and cultural heritage through the museum's collections, subject to opening hours.",
-      "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and religious artefacts.",
-      "Pettah Bazaar: Explore the bustling market district, with its lively streets, traditional shops and colourful local commerce.",
-      "Colonial-Era Fort District: Discover historic buildings and landmarks reflecting Colombo's colonial trading past.",
-      "Cultural Connections: Reflect on the island's ancient kingdoms, sacred traditions and colonial heritage encountered throughout your journey.",
-      "Farewell Dinner: Enjoy a special dinner in Colombo to celebrate your cultural journey through Sri Lanka."
-    ],
-    overnight: "Hotel in Colombo.",
-    imageUrl: "/documents/images/tour/colombo-heritage.png"
-  },
-  {
-    day: 12,
-    title: "Departure",
-    points: [
-      "Free Morning: Enjoy a relaxed morning at your hotel, depending on your flight schedule.",
-      "Last-Minute Shopping: Browse local shops for Sri Lankan souvenirs, crafts, tea or gifts, time permitting.",
-      "Hotel Check-out: Complete check-out arrangements and prepare for your departure.",
-      "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur.",
-      "Departure Assistance: Allow sufficient time for airport procedures and check-in.",
-      "Farewell to Sri Lanka: Depart with lasting memories of the island's sacred cities, ancient kingdoms and colonial heritage."
-    ],
-    overnight: "N/A — departure day.",
-    imageUrl: "/documents/images/tour/colombo.png"
-  }
-],
-    hotelRecommendation: "Heritage-style hotels near Anuradhapura, Polonnaruwa, Sigiriya and Kandy; a boutique hotel within Galle Fort; a heritage property in Colombo.",
-    transportation: "Private air-conditioned vehicle with a specialist cultural guide throughout.",
-    meals: "Daily breakfast. Other meals at your own choice.",
-    included: ["11 nights' accommodation as listed", "Daily breakfast", "Private vehicle and cultural guide throughout", "All site entrance fees listed", "Kandyan cultural dance show"],
-    excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
-    optionalExperiences: ["Private lecture with a local archaeologist", "Traditional mask-carving workshop", "Colombo colonial architecture walking tour"],
-    tourFaqs: [
-      { q: "What's the benefit of 12 days over the 8 or 10-day versions?", a: "The extra days go to lesser-visited sites like Ritigala and Mihintale, and to Colombo itself — genuinely additive rather than padding." },
-      { q: "Do we need a specific academic interest to enjoy this?", a: "Not at all — our guides pitch the history accessibly, though it does suit travellers who want depth over a fast-paced highlight reel." },
-    ],
-  },
-];
- export const ramayanaTours: Tour[] = [
+{
+  slug: "sigiriya-kandy-cultural-heritage-5-day-tour",
+  title: "Sigiriya & Kandy Cultural Heritage",
+  category: "Cultural Heritage Tours",
+  duration: "5 Days / 4 Nights",
+  highlights: [
+    "Pinnawala Elephant Orphanage",
+    "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+    "Complimentary Village Safari & Traditional Lunch",
+    "Pidurangala Rock Viewpoint",
+    "Dambulla Cave Temple — UNESCO World Heritage Site",
+    "Temple of the Sacred Tooth Relic",
+    "Royal Botanical Gardens, Peradeniya",
+    "Traditional Kandyan Cultural Dance",
+    "Gangaramaya Temple, Colombo"
+  ],
+  price: "From $799 pp",
+  blurb: "Discover Sri Lanka's cultural heritage through the ancient rock fortress of Sigiriya, the sacred temples of Dambulla and Kandy, traditional village life and Colombo's distinctive religious architecture.",
+  motif: "heritage",
+  imageUrl: "/documents/images/tour/Sigiriya Rock Fortress.jpg",
+  heroTitle: "Sigiriya & Kandy Cultural Heritage — 5 Days",
+  intro: "Experience Sri Lanka's fascinating history and living traditions on a five-day private journey connecting Sigiriya, Dambulla, Kandy and Colombo.",
+  overview: "Begin with a visit to Pinnawala Elephant Orphanage before continuing to Sigiriya. Explore the UNESCO World Heritage-listed Sigiriya Rock Fortress, enjoy a village safari and traditional Sri Lankan lunch, and visit Pidurangala Rock. Continue to Dambulla Cave Temple and a traditional craft village before travelling to Kandy. Discover the Temple of the Sacred Tooth Relic, Royal Botanical Gardens and a traditional Kandyan cultural dance performance. Finish with a visit to Gangaramaya Temple in Colombo before your departure.",
+  bestFor: "Culture lovers, history enthusiasts, couples, families and travellers interested in Sri Lanka's ancient heritage and living traditions.",
+  groupSize: "Private tour with a dedicated chauffeur-guide.",
+  physicalLevel: "Moderate — climbing Sigiriya Rock Fortress involves stairs and walking. The Pidurangala visit also requires walking over uneven terrain.",
+  destinationsCovered: "Airport → Pinnawala → Sigiriya → Pidurangala → Dambulla → Kandy → Peradeniya → Colombo → Airport",
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Sigiriya",
+      points: [
+        "Airport Welcome: Arrive at Bandaranaike International Airport (CMB), where your chauffeur-guide will welcome you and assist with your luggage.",
+        "Journey to Sigiriya: Begin your private transfer towards Sigiriya, travelling through Sri Lanka's scenic countryside.",
+        "Pinnawala Elephant Orphanage: En route, visit Pinnawala Elephant Orphanage to learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on your arrival time.",
+        "Continue to Sigiriya: Resume your journey towards Sigiriya or Habarana after the visit.",
+        "Hotel Check-in: Arrive at your hotel, check in and take some time to relax after your journey.",
+        "Relaxing Dinner: Enjoy a relaxing dinner with beautiful views of the Sigiriya Rock area."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiri01.jpg"
+    },
+    {
+      day: 2,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's exploration.",
+        "Sigiriya Rock Fortress: Visit the UNESCO World Heritage Site and climb the iconic rock fortress with a specialist guide.",
+        "Ancient Royal Citadel: Discover the extraordinary remains of King Kashyapa's ancient royal citadel and learn about its historical significance.",
+        "Village Safari: After the hike, enjoy a complimentary village safari to experience traditional rural life in Sri Lanka.",
+        "Traditional Sri Lankan Lunch: Enjoy a traditional Sri Lankan lunch as part of the village experience.",
+        "Pidurangala Rock: Visit nearby Pidurangala Rock for a contrasting viewpoint overlooking Sigiriya, then return to your hotel for free time."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiri02.jpg"
+    },
+    {
+      day: 3,
+      title: "Dambulla Cave Temple & Journey to Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel before checking out and departing for Kandy.",
+        "Dambulla Cave Temple: Explore the UNESCO-listed cave temple complex, featuring five caves filled with Buddhist murals and statues spanning more than 2,000 years.",
+        "Buddhist Art & Heritage: Discover the temple's historic religious artwork and learn about its cultural and spiritual significance.",
+        "Traditional Craft Village: Visit a traditional craft village to observe batik-making and wood carving.",
+        "Spice Garden: Stop at a spice garden en route to Kandy to learn about Sri Lankan spices and their traditional uses.",
+        "Cinnamon Tea Tasting & Kandy Arrival: Enjoy a complimentary cinnamon tea tasting before continuing to Kandy and checking in to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/dambulu01.jpg"
+    },
+    {
+      day: 4,
+      title: "Kandy's Living Heritage",
+      points: [
+        "Breakfast: Start the day with breakfast at your hotel in Kandy.",
+        "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple and learn about its centuries-old custodial rituals and religious importance.",
+        "Temple Heritage: Explore the temple's sacred surroundings and discover its connection to Sri Lanka's royal and Buddhist traditions.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, established during the Kandyan Kingdom.",
+        "Botanical Exploration: Enjoy a leisurely walk through the gardens and appreciate their diverse plant collections and landscaped grounds.",
+        "Kandyan Cultural Dance: Attend a traditional Kandyan cultural dance performance before returning to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy011.jpg"
+    },
+    {
+      day: 5,
+      title: "Colombo & Departure",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel in Kandy and complete check-out before departing for Colombo.",
+        "Journey to Colombo: Travel by private vehicle towards Colombo, enjoying the changing scenery along the way.",
+        "Gangaramaya Temple: Visit Gangaramaya Temple and explore its distinctive architecture and religious surroundings.",
+        "Colombo Free Time: Enjoy free time in Colombo before your scheduled airport transfer.",
+        "Private Airport Transfer: Continue to Bandaranaike International Airport (CMB) with your chauffeur-guide, allowing sufficient time for check-in.",
+        "Departure: Arrive at the airport for your onward flight, bringing your five-day Sri Lankan journey to an end."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo011.jpg"
+    }
+  ],
+  hotelRecommendation: "Comfortable hotels in Sigiriya or Habarana and Kandy, selected according to your preferred comfort level and travel dates.",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for airport transfers, sightseeing and travel between destinations.",
+  meals: "Daily breakfast. A traditional Sri Lankan lunch is included during the village safari on Day 2. Other lunches and dinners are at your own choice unless arranged in advance.",
+  included: [
+    "4 nights' accommodation",
+    "Daily breakfast",
+    "Traditional Sri Lankan lunch during the village safari on Day 2",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Transfers and visits listed in the itinerary, subject to opening hours and operating schedules"
+  ],
+  excluded: [
+    "International flights",
+    "Sri Lankan visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees and specialist guide charges unless specified in the confirmed quotation",
+    "Village safari charges unless confirmed as included",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  optionalExperiences: [
+    "Specialist guiding at Sigiriya Rock Fortress",
+    "Additional cultural experiences, subject to availability",
+    "Room upgrades, subject to availability"
+  ],
+  tourFaqs: [
+    {
+      q: "Which UNESCO World Heritage Sites are included?",
+      a: "The itinerary includes Sigiriya Rock Fortress and Dambulla Cave Temple, both UNESCO World Heritage Sites."
+    },
+    {
+      q: "Is Pinnawala Elephant Orphanage included on arrival day?",
+      a: "The visit is planned en route to Sigiriya. Whether it can be completed depends on your flight arrival time and the day's schedule."
+    },
+    {
+      q: "Is the village safari included?",
+      a: "A complimentary village safari and traditional Sri Lankan lunch are listed in the Day 2 itinerary. The final quotation should confirm the included arrangements."
+    },
+    {
+      q: "Is climbing Sigiriya Rock Fortress physically demanding?",
+      a: "The climb involves many stairs and walking, so a moderate level of fitness is helpful. Guests should allow enough time and wear comfortable footwear."
+    },
+    {
+      q: "Can Pidurangala Rock be visited on the same day as Sigiriya?",
+      a: "The itinerary schedules both visits on Day 2. Completing both depends on the time spent at Sigiriya, weather, fitness and the day's conditions."
+    },
+    {
+      q: "Does the tour include airport drop-off?",
+      a: "Yes, the final day's itinerary includes a private transfer to Bandaranaike International Airport (CMB), timed around your departure flight."
+    }
+  ]
+},
+
+
+{
+  slug: "sri-lanka-sacred-cities-cultural-heritage-7-day-tour",
+  title: "Sri Lanka Sacred Cities & Cultural Heritage",
+  category: "Cultural Heritage Tours",
+  duration: "7 Days / 6 Nights",
+  highlights: [
+    "Pinnawala Elephant Orphanage",
+    "Anuradhapura Sacred City — UNESCO World Heritage Site",
+    "Sri Maha Bodhi & Atamasthana",
+    "Ruwanwelisaya Stupa",
+    "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+    "Pidurangala Rock Viewpoint",
+    "Traditional Village Safari & Sri Lankan Lunch",
+    "Dambulla Cave Temple — UNESCO World Heritage Site",
+    "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+    "Royal Botanical Gardens, Peradeniya",
+    "Traditional Kandyan Cultural Dance",
+    "Pettah Bazaar & Colombo City Experience",
+    "Gangaramaya Temple & Colombo National Museum"
+  ],
+  price: "From $999 pp",
+  blurb: "Discover Sri Lanka's sacred cities, ancient kingdoms and living traditions on a seven-day cultural journey from Anuradhapura to Sigiriya, Kandy and Colombo.",
+  motif: "heritage",
+  imageUrl: "/documents/images/tour/Buddha_Statue.jpg",
+  heroTitle: "Sri Lanka Sacred Cities & Cultural Heritage — 7 Days",
+  intro: "Journey through Sri Lanka's remarkable cultural heritage, exploring ancient Buddhist cities, UNESCO World Heritage Sites, traditional craftsmanship and the vibrant atmosphere of Colombo.",
+  overview: "Begin with a scenic journey to Anuradhapura, Sri Lanka's first ancient capital, and explore its sacred Buddhist landmarks. Continue to Sigiriya to discover its iconic rock fortress, ancient gardens and nearby Pidurangala viewpoint. Visit Dambulla Cave Temple before travelling to Kandy, where the Temple of the Sacred Tooth Relic, Royal Botanical Gardens and traditional Kandyan dance reveal the island's rich cultural identity. Continue to Colombo for gem heritage, traditional craftsmanship, lively markets and city landmarks before your departure.",
+  bestFor: "Culture and history enthusiasts, couples, families and travellers interested in ancient kingdoms, Buddhist heritage and traditional Sri Lankan life.",
+  groupSize: "Private tour with a dedicated chauffeur-guide.",
+  physicalLevel: "Moderate — climbing Sigiriya Rock Fortress and walking around archaeological and temple sites require reasonable mobility. Some sites include stairs and uneven surfaces.",
+  destinationsCovered: "Airport → Pinnawala → Anuradhapura → Sigiriya → Dambulla → Kandy → Colombo → Airport",
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Anuradhapura",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB), where you will receive a traditional flower-garland welcome and assistance with your luggage.",
+        "Journey to Anuradhapura: Begin your private journey through Sri Lanka's scenic countryside towards the island's ancient northern capital.",
+        "Pinnawala Elephant Orphanage: En route, learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on your arrival time.",
+        "Scenic Drive: Continue towards Anuradhapura, enjoying the changing landscapes and rural scenery along the way.",
+        "Tissawewa Reservoir: Arrive in Anuradhapura and enjoy the peaceful surroundings and sunset views over the historic reservoir, time permitting.",
+        "Hotel Check-in: Settle into your hotel and relax after the journey."
+      ],
+      overnight: "Hotel near Anuradhapura.",
+      imageUrl: "/documents/images/tour/anuradhapura05.jpg"
+    },
+    {
+      day: 2,
+      title: "Anuradhapura's Sacred City",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's cultural exploration.",
+        "UNESCO World Heritage Site: Explore the ancient city of Anuradhapura, Sri Lanka's first ancient capital and one of the island's most important archaeological sites.",
+        "Sri Maha Bodhi: Visit the sacred Bodhi tree, traditionally associated with the tree under which the Buddha attained enlightenment.",
+        "Atamasthana: Discover Anuradhapura's eight sacred places, including revered stupas, ancient monasteries and important Buddhist sites.",
+        "Ruwanwelisaya Stupa: Admire one of Sri Lanka's most iconic stupas and an important centre of Buddhist devotion.",
+        "Mihintale & Transfer to Sigiriya: If time permits, visit Mihintale, traditionally associated with the introduction of Buddhism to Sri Lanka, before continuing to Sigiriya or Habarana for hotel check-in."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/anuradhapura06.jpg"
+    },
+    {
+      day: 3,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before setting out to explore Sigiriya.",
+        "UNESCO World Heritage Site: Discover the ancient city of Sigiriya, renowned for its remarkable archaeological remains and historic royal citadel.",
+        "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and explore the remains of King Kashyapa's ancient royal complex.",
+        "Ancient Frescoes & Gardens: Discover the celebrated frescoes, landscaped gardens and ingenious features of this historic site.",
+        "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and the surrounding landscape.",
+        "Village Safari & Traditional Lunch: Enjoy a complimentary village safari and a traditional Sri Lankan meal before returning to your hotel for free time."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiriya07.jpg"
+    },
+    {
+      day: 4,
+      title: "Dambulla Cave Temple & Journey to Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and check out before departing for Dambulla.",
+        "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, celebrated for its ancient Buddhist art and sacred atmosphere.",
+        "Historic Cave Complex: Discover the cave shrines, Buddhist statues and intricate murals depicting religious stories and traditions.",
+        "Buddhist Heritage: Learn about the temple's long history as an important centre of worship and pilgrimage.",
+        "Traditional Craft Village: Experience local craftsmanship and discover traditional Sri Lankan arts, including batik-making and wood carving.",
+        "Scenic Drive to Kandy: Travel through the island's cultural heartland towards the historic hill capital, check in to your hotel and enjoy the evening at leisure."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/dambulla07.jpg"
+    },
+    {
+      day: 5,
+      title: "Kandy's Living Heritage",
+      points: [
+        "Breakfast: Begin the day with breakfast at your hotel in Kandy.",
+        "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, a UNESCO World Heritage Site that houses Sri Lanka's sacred Tooth Relic.",
+        "Sacred Rituals: Learn about the temple's centuries-old traditions and its significance in Sri Lankan Buddhist culture.",
+        "Royal Botanical Gardens: Explore the gardens at Peradeniya, known for their diverse tropical plants, towering trees and landscaped grounds.",
+        "Kandyan Heritage: Discover the cultural traditions and royal history associated with the former capital of the Kandyan Kingdom.",
+        "Traditional Kandyan Dance: Enjoy a lively cultural performance featuring traditional dance, rhythmic drumming and colourful costumes before returning to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy07.jpg"
+    },
+    {
+      day: 6,
+      title: "Kandy to Colombo",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for the journey to Colombo.",
+        "Gem Museum: Discover Sri Lanka's renowned gem heritage and learn about the island's precious and semi-precious stones.",
+        "Traditional Lacquerware Workshop: Observe traditional craftsmanship and learn about decorative techniques used to create Sri Lankan lacquerware.",
+        "Journey to Colombo: Travel towards the commercial capital, passing through changing landscapes along the way.",
+        "Pettah Bazaar: Explore the lively Pettah district, known for its bustling streets, traditional shops, markets and local atmosphere.",
+        "Colombo City Experience & Farewell Dinner: Enjoy a glimpse of Colombo's vibrant blend of culture and commerce before a farewell dinner and overnight stay."
+      ],
+      overnight: "Hotel in Colombo.",
+      imageUrl: "/documents/images/tour/colombo07.jpg"
+    },
+    {
+      day: 7,
+      title: "Colombo & Departure",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for your departure, subject to your flight schedule.",
+        "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
+        "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
+        "City Highlights: Enjoy a final glimpse of Colombo's urban scenery and cultural landmarks, depending on available time.",
+        "Free Time & Airport Transfer: Enjoy some leisure time before travelling to Bandaranaike International Airport (CMB) with your chauffeur-guide.",
+        "Departure: Bid farewell to Sri Lanka with lasting memories of its sacred cities, ancient monuments and living traditions."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo08.jpg"
+    }
+  ],
+  hotelRecommendation: "Comfortable hotels near Anuradhapura, in Sigiriya or Habarana, in Kandy and in Colombo, selected according to your preferred comfort level and travel dates.",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for airport transfers, sightseeing and intercity travel.",
+  meals: "Daily breakfast. A traditional Sri Lankan lunch is planned during the village safari on Day 3. Other lunches and dinners are at your own choice unless arranged in advance.",
+  included: [
+    "6 nights' accommodation",
+    "Daily breakfast",
+    "Traditional Sri Lankan lunch during the village safari on Day 3, subject to confirmation",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome with traditional flower garlands",
+    "Transfers and visits listed in the itinerary, subject to opening hours and operating schedules"
+  ],
+  excluded: [
+    "International flights",
+    "Sri Lankan visa fees",
+    "Lunches and dinners unless specified",
+    "Entrance fees and specialist guide charges unless specified in the confirmed quotation",
+    "Village safari charges unless confirmed as included",
+    "Gem museum or workshop charges, if applicable",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  optionalExperiences: [
+    "Specialist guiding at Sigiriya Rock Fortress",
+    "Additional time exploring Anuradhapura's sacred sites",
+    "Additional cultural experiences, subject to availability",
+    "Room upgrades, subject to availability"
+  ],
+  tourFaqs: [
+    {
+      q: "Which UNESCO World Heritage Sites are included in this tour?",
+      a: "The itinerary includes the Sacred City of Anuradhapura, the Ancient City of Sigiriya, the Dambulla Cave Temple complex and the Sacred City of Kandy, represented by the Temple of the Sacred Tooth Relic."
+    },
+    {
+      q: "Will we visit Mihintale?",
+      a: "Mihintale is planned as a time-permitting visit on Day 2. Whether it can be included depends on the time available before the transfer to Sigiriya or Habarana."
+    },
+    {
+      q: "Is the Sigiriya Rock climb included?",
+      a: "The itinerary includes a climb of Sigiriya Rock Fortress with a specialist guide. Entrance tickets and guide charges should be confirmed in the final quotation."
+    },
+    {
+      q: "Is the village safari included?",
+      a: "A complimentary village safari and traditional Sri Lankan lunch are listed for Day 3. The final quotation should confirm the exact inclusions."
+    },
+    {
+      q: "Can all the Colombo visits be completed on the departure day?",
+      a: "The Gangaramaya Temple, Colombo National Museum and city highlights are subject to your flight time and museum opening hours. The schedule may need to be shortened to allow sufficient time for airport check-in."
+    },
+    {
+      q: "How many nights are included?",
+      a: "The itinerary includes six nights: one near Anuradhapura, two in Sigiriya or Habarana, two in Kandy and one in Colombo."
+    }
+  ]
+},
+
+  
+{
+  slug: "sri-lanka-ancient-kingdoms-unesco-heritage-8-day-tour",
+  title: "Sri Lanka Ancient Kingdoms & UNESCO Heritage",
+  category: "Cultural Heritage Tours",
+  duration: "8 Days / 7 Nights",
+  highlights: [
+    "Pinnawala Elephant Orphanage",
+    "Anuradhapura Sacred City — UNESCO World Heritage Site",
+    "Sri Maha Bodhi & Atamasthana",
+    "Mihintale — Sacred Buddhist Heritage",
+    "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+    "Cycling Through Ancient Polonnaruwa",
+    "Royal Palace of King Parakramabahu",
+    "Polonnaruwa Quadrangle, Vatadage & Hatadage",
+    "Gal Vihara Rock-Cut Buddha Statues",
+    "Rankoth Vehera & Parakrama Samudra",
+    "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+    "Pidurangala Rock Viewpoint",
+    "Traditional Village Safari & Sri Lankan Lunch",
+    "Dambulla Cave Temple — UNESCO World Heritage Site",
+    "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+    "Royal Botanical Gardens, Peradeniya",
+    "Traditional Kandyan Cultural Dance",
+    "Pettah Bazaar & Colombo Heritage"
+  ],
+  price: "From $1,099 pp",
+  blurb: "Journey through Sri Lanka's ancient kingdoms and UNESCO World Heritage Sites, discovering sacred Buddhist cities, remarkable rock-cut sculptures, royal citadels and the living traditions of Kandy and Colombo.",
+  motif: "heritage",
+  imageUrl: "/documents/images/tour/Ruwanwelisaya Stupa.jpg",
+  heroTitle: "Sri Lanka Ancient Kingdoms & UNESCO Heritage — 8 Days",
+  intro: "Discover the remarkable legacy of Sri Lanka's ancient kingdoms on a private eight-day cultural journey through Anuradhapura, Polonnaruwa, Sigiriya, Dambulla, Kandy and Colombo.",
+  overview: "Begin in Anuradhapura, Sri Lanka's first ancient capital, and explore its sacred Buddhist heritage. Continue to Polonnaruwa, a UNESCO World Heritage Site, where ancient royal ruins, sacred monuments and magnificent Buddha sculptures reveal the achievements of a historic kingdom. Discover Sigiriya Rock Fortress, enjoy a traditional village safari and visit Dambulla Cave Temple. In Kandy, explore the Temple of the Sacred Tooth Relic and Royal Botanical Gardens before continuing to Colombo for traditional craftsmanship, bustling markets and cultural landmarks.",
+  bestFor: "History enthusiasts, cultural travellers, couples, families and visitors interested in ancient kingdoms, Buddhist heritage, archaeology and UNESCO World Heritage Sites.",
+  groupSize: "Private tour with a dedicated chauffeur-guide. Cycling in Polonnaruwa and specialist guiding at archaeological sites can be arranged according to the confirmed itinerary.",
+  physicalLevel: "Moderate — Sigiriya involves a substantial stair climb, while cycling and walking around archaeological sites require reasonable mobility. Some temple and heritage areas have uneven surfaces.",
+  destinationsCovered: "Airport → Pinnawala → Anuradhapura → Polonnaruwa → Sigiriya → Dambulla → Kandy → Colombo → Airport",
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Anuradhapura",
+      points: [
+        "Airport Welcome: Meet your chauffeur-guide at Bandaranaike International Airport (CMB) and receive a traditional flower-garland welcome before beginning your journey.",
+        "Journey to Anuradhapura: Travel through Sri Lanka's scenic countryside towards the island's first ancient capital.",
+        "Pinnawala Elephant Orphanage: En route, learn about Asian elephant care and conservation and observe the elephants during their daily activities, depending on your arrival time.",
+        "Scenic Countryside Drive: Continue towards Anuradhapura, enjoying views of rural villages and the changing landscapes along the way.",
+        "Tissawewa Reservoir: Arrive in Anuradhapura and enjoy the peaceful atmosphere and sunset views over the historic reservoir, time permitting.",
+        "Hotel Check-in: Settle into your hotel near Anuradhapura and relax after the journey."
+      ],
+      overnight: "Hotel near Anuradhapura.",
+      imageUrl: "/documents/images/tour/anuradhapura04.jpg"
+    },
+    {
+      day: 2,
+      title: "Anuradhapura's Sacred City",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before exploring Anuradhapura's ancient heritage.",
+        "UNESCO World Heritage Site: Discover the Sacred City of Anuradhapura, Sri Lanka's first ancient capital and one of its most important archaeological and religious centres.",
+        "Sri Maha Bodhi: Visit the sacred Bodhi tree, revered as one of the island's most important Buddhist pilgrimage sites.",
+        "Atamasthana: Explore Anuradhapura's eight sacred places, discovering important stupas, monasteries and Buddhist landmarks.",
+        "Mihintale: If time permits, visit the sacred site traditionally associated with Arahat Mahinda Thera's meeting with King Devanampiyatissa and the introduction of Buddhism to Sri Lanka.",
+        "Journey to Polonnaruwa: Continue towards Polonnaruwa through the Cultural Triangle and check in to your hotel near the ancient city."
+      ],
+      overnight: "Hotel near Polonnaruwa.",
+      imageUrl: "/documents/images/tour/anuradhapura07.jpg"
+    },
+    {
+      day: 3,
+      title: "Polonnaruwa Ancient City",
+      points: [
+        "Breakfast: Enjoy breakfast before setting out to explore the ancient royal capital of Polonnaruwa.",
+        "UNESCO World Heritage Site: Discover the Ancient City of Polonnaruwa, a UNESCO-listed archaeological site that preserves the remains of a historic Sri Lankan kingdom.",
+        "Cycling Through Ancient Polonnaruwa: Explore the historic city by bicycle, travelling among its ancient ruins and archaeological monuments.",
+        "Royal Palace & Quadrangle: Visit the remains of King Parakramabahu's Royal Palace and explore the sacred Quadrangle, including the Vatadage and Hatadage.",
+        "Gal Vihara & Rankoth Vehera: Admire the magnificent rock-cut Buddha statues at Gal Vihara and discover the impressive Rankoth Vehera stupa.",
+        "Parakrama Samudra & Sigiriya Transfer: Enjoy scenic views of Parakrama Samudra before driving through the Cultural Triangle to your hotel in Sigiriya or Habarana."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/polonnaruwa02.jpg"
+    },
+    {
+      day: 4,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning your exploration of Sigiriya.",
+        "UNESCO World Heritage Site: Discover the Ancient City of Sigiriya, renowned for its extraordinary archaeological remains and historic royal citadel.",
+        "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and explore the remains of King Kashyapa's ancient royal complex.",
+        "Ancient Frescoes & Gardens: Discover the celebrated frescoes, landscaped gardens and ingenious features that make Sigiriya one of Sri Lanka's most remarkable historic sites.",
+        "Pidurangala Rock: Visit nearby Pidurangala Rock for a contrasting panoramic view of Sigiriya and the surrounding landscape.",
+        "Village Safari & Traditional Lunch: Enjoy a complimentary village safari and a traditional Sri Lankan lunch before returning to your hotel for free time."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiriya08.jpg"
+    },
+    {
+      day: 5,
+      title: "Dambulla Cave Temple & Journey to Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for the journey to Kandy.",
+        "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, celebrated for its ancient Buddhist cave shrines, statues and religious artwork.",
+        "Historic Cave Complex: Discover the intricate murals and Buddhist sculptures that reflect centuries of religious devotion and artistic tradition.",
+        "Buddhist Heritage: Learn about Dambulla's enduring importance as a place of worship and pilgrimage.",
+        "Traditional Craft Village: Visit a traditional craft village to observe local craftsmanship, including batik-making and wood carving.",
+        "Drive to Kandy: Continue through Sri Lanka's cultural heartland, arrive in Kandy and check in to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/dambulla06.jpg"
+    },
+    {
+      day: 6,
+      title: "Kandy's Living Heritage",
+      points: [
+        "Breakfast: Begin the day with breakfast at your hotel in Kandy.",
+        "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, part of the UNESCO-listed Sacred City of Kandy and home to Sri Lanka's sacred Tooth Relic.",
+        "Sacred Rituals & Traditions: Learn about the temple's centuries-old custodial rituals and its importance in Sri Lankan Buddhist culture.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, known for their diverse tropical plants, towering trees and landscaped grounds.",
+        "Kandyan Heritage: Discover the royal history and cultural traditions associated with the former capital of the Kandyan Kingdom.",
+        "Traditional Kandyan Dance: Enjoy a cultural performance featuring traditional dance, rhythmic drumming and colourful costumes before returning to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy09.jpg"
+    },
+    {
+      day: 7,
+      title: "Kandy to Colombo",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel before departing Kandy for Colombo.",
+        "Gem Museum: Discover Sri Lanka's renowned gem heritage and learn about the island's precious and semi-precious stones.",
+        "Traditional Lacquerware Workshop: Observe traditional craftsmanship and learn about the decorative techniques used to create Sri Lankan lacquerware.",
+        "Journey to Colombo: Travel towards the commercial capital, enjoying the changing landscapes along the way.",
+        "Pettah Bazaar: Explore the lively Pettah district, known for its bustling streets, traditional shops, markets and local atmosphere.",
+        "Colombo Evening & Farewell Dinner: Enjoy time in the city before celebrating your Sri Lankan journey with a farewell dinner."
+      ],
+      overnight: "Hotel in Colombo.",
+      imageUrl: "/documents/images/tour/colombo20.jpg"
+    },
+    {
+      day: 8,
+      title: "Colombo & Departure",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for departure, depending on your flight schedule.",
+        "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
+        "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
+        "Final Colombo Exploration: Enjoy a final glimpse of the city's cultural landmarks and urban atmosphere, depending on available time.",
+        "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur-guide, allowing sufficient time for check-in.",
+        "Departure: Bid farewell to Sri Lanka with lasting memories of its ancient kingdoms, sacred cities and living cultural traditions."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo21.jpg"
+    }
+  ],
+  hotelRecommendation: "Comfortable hotels near Anuradhapura, in Sigiriya or Habarana, in Kandy and in Colombo, selected according to your preferred comfort level and travel dates.",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for airport transfers, sightseeing and intercity travel. Bicycle hire in Polonnaruwa can be arranged according to the confirmed package.",
+  meals: "Daily breakfast. A traditional Sri Lankan lunch is planned during the village safari on Day 4. Other lunches and dinners are at your own choice unless arranged in advance.",
+  included: [
+    "7 nights' accommodation",
+    "Daily breakfast",
+    "Traditional Sri Lankan lunch during the village safari on Day 4, subject to confirmation",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome with traditional flower garlands",
+    "Transfers and visits listed in the itinerary, subject to opening hours and operating schedules"
+  ],
+  excluded: [
+    "International flights",
+    "Sri Lankan visa fees",
+    "Lunches and dinners unless specified",
+    "UNESCO World Heritage Site and other attraction entrance fees unless specified in the confirmed quotation",
+    "Specialist guides at archaeological sites unless specified",
+    "Bicycle hire and related charges in Polonnaruwa unless confirmed as included",
+    "Village safari charges unless confirmed as included",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  optionalExperiences: [
+    "Specialist guiding at Sigiriya Rock Fortress",
+    "Bicycle hire for exploring Polonnaruwa",
+    "Additional time exploring Anuradhapura's sacred monuments",
+    "Room upgrades, subject to availability"
+  ],
+  tourFaqs: [
+    {
+      q: "Which UNESCO World Heritage Sites are included in this tour?",
+      a: "The itinerary includes the Sacred City of Anuradhapura, the Ancient City of Polonnaruwa, the Ancient City of Sigiriya, the Dambulla Cave Temple complex and the Sacred City of Kandy."
+    },
+    {
+      q: "Can we cycle through Polonnaruwa's ancient city?",
+      a: "Yes. Day 3 includes cycling through the archaeological area. Bicycle hire should be confirmed as included or arranged separately in the final quotation."
+    },
+    {
+      q: "Is Mihintale guaranteed on Day 2?",
+      a: "Mihintale is a time-permitting visit. Its inclusion depends on the time available for exploring Anuradhapura and travelling to Polonnaruwa."
+    },
+    {
+      q: "Is the Sigiriya Rock climb included?",
+      a: "The itinerary includes a climb of Sigiriya Rock Fortress with a specialist guide. Entrance tickets and guide charges should be confirmed in the final quotation."
+    },
+    {
+      q: "Is the village safari and lunch included?",
+      a: "A complimentary village safari and traditional Sri Lankan lunch are listed for Day 4. The final quotation should confirm the exact inclusions."
+    },
+    {
+      q: "Can we visit the Colombo National Museum on departure day?",
+      a: "The visit depends on your flight time and the museum's opening hours. The schedule may need to be shortened to allow sufficient time for airport check-in."
+    }
+  ]
+},
+
+{
+  slug: "sri-lanka-ancient-kingdoms-galle-heritage-10-day-tour",
+  title: "Ancient Kingdoms & Galle Heritage Journey",
+  category: "Cultural Heritage Tours",
+  duration: "10 Days / 9 Nights",
+  highlights: [
+    "Sri Maha Bodhi — Anuradhapura Sacred City",
+    "Anuradhapura's Ancient Buddhist Stupas",
+    "Jetavanaramaya & Abhayagiri Stupas",
+    "Isurumuniya Rock Temple",
+    "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+    "Cycling Through Medieval Polonnaruwa",
+    "Gal Vihara Rock-Cut Buddha Sculptures",
+    "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+    "Pidurangala Rock Viewpoint",
+    "Dambulla Cave Temple — UNESCO World Heritage Site",
+    "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+    "Royal Botanical Gardens, Peradeniya",
+    "Traditional Kandyan Cultural Dance",
+    "Galle Fort — UNESCO World Heritage Site",
+    "Dutch Reformed Church & Maritime Museum",
+    "Pettah Bazaar, Colombo",
+    "Gangaramaya Temple & Colombo National Museum"
+  ],
+  price: "From $1,199 pp",
+  blurb: "Explore Sri Lanka's ancient kingdoms, sacred Buddhist landmarks and colonial coastal heritage on a ten-day private journey from Anuradhapura and Sigiriya to Kandy, Galle Fort and Colombo.",
+  motif: "heritage",
+  imageUrl: "/documents/images/tour/Sri_Lankan_Cultural_Temple.jpg",
+  heroTitle: "Ancient Kingdoms & Galle Heritage Journey — 10 Days",
+  intro: "Travel through Sri Lanka's extraordinary cultural landscape, from the sacred cities of the ancient kings to the colonial ramparts and historic streets of Galle Fort.",
+  overview: "Begin in Anuradhapura, exploring its sacred Bodhi tree and ancient Buddhist monuments. Continue to Polonnaruwa to cycle among the ruins of the medieval capital and admire the celebrated sculptures of Gal Vihara. Discover Sigiriya Rock Fortress and Dambulla Cave Temple before travelling to Kandy, home to the Temple of the Sacred Tooth Relic and Royal Botanical Gardens. Continue south to Galle, where Portuguese, Dutch and British-era heritage lives on within the historic fort walls. Finish in Colombo with visits to Pettah Bazaar, Gangaramaya Temple and the National Museum.",
+  bestFor: "History enthusiasts, cultural travellers, couples and private travellers interested in ancient kingdoms, Buddhist heritage and colonial architecture.",
+  groupSize: "Private tour with a dedicated chauffeur-guide. Specialist guiding at archaeological and heritage sites can be arranged according to the confirmed package.",
+  physicalLevel: "Moderate — climbing Sigiriya Rock Fortress, cycling around Polonnaruwa and walking through historic sites involve stairs, uneven surfaces and outdoor activity.",
+  destinationsCovered: "Airport → Anuradhapura → Polonnaruwa → Sigiriya → Dambulla → Kandy → Galle → Colombo → Airport",
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Anuradhapura",
+      points: [
+        "Airport Welcome: Arrive at Bandaranaike International Airport (CMB), where your chauffeur-guide will welcome you and assist with your luggage.",
+        "Journey to Anuradhapura: Begin your private journey through Sri Lanka's countryside towards the island's ancient capital.",
+        "Scenic Countryside Drive: Enjoy views of rural villages and changing landscapes along the way.",
+        "Sri Maha Bodhi: Visit the sacred Bodhi tree in Anuradhapura, one of Sri Lanka's most revered Buddhist pilgrimage sites.",
+        "Tissawewa Reservoir: Enjoy the peaceful atmosphere and sunset views over the historic reservoir, time permitting.",
+        "Hotel Check-in: Settle into your hotel near Anuradhapura and relax after the journey."
+      ],
+      overnight: "Hotel near Anuradhapura.",
+      imageUrl: "/documents/images/tour/anuradhapura001.jpg"
+    },
+    {
+      day: 2,
+      title: "Anuradhapura's Sacred City",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before exploring Anuradhapura's ancient heritage.",
+        "Jetavanaramaya Stupa: Visit one of the great stupas of ancient Anuradhapura and learn about its historical and religious significance.",
+        "Abhayagiri Stupa: Explore another major monastic centre of the ancient capital, associated with centuries of Buddhist scholarship and worship.",
+        "Isurumuniya Rock Temple: Discover this historic rock temple, known for its distinctive setting and celebrated stone carvings.",
+        "Ancient City Exploration: Enjoy time discovering the sacred atmosphere and archaeological heritage of Anuradhapura.",
+        "Journey to Polonnaruwa: Travel towards Polonnaruwa and check in to your hotel near the ancient city."
+      ],
+      overnight: "Hotel near Polonnaruwa.",
+      imageUrl: "/documents/images/tour/anuradhapura002.jpg"
+    },
+    {
+      day: 3,
+      title: "Polonnaruwa Ancient City",
+      points: [
+        "Breakfast: Enjoy breakfast before setting out to explore the medieval capital of Polonnaruwa.",
+        "UNESCO World Heritage Site: Discover the Ancient City of Polonnaruwa, recognised for its remarkable archaeological remains and historic urban landscape.",
+        "Cycling Among the Ruins: Explore the ancient city by bicycle, travelling among historic buildings, monuments and archaeological remains.",
+        "Royal Heritage: Discover the remains of Polonnaruwa's royal capital and learn about the kingdom's historic significance.",
+        "Gal Vihara: Admire the remarkable rock-cut Buddha sculptures, celebrated for their craftsmanship and serene expressions.",
+        "Journey to Sigiriya: Continue through Sri Lanka's Cultural Triangle to your hotel in Sigiriya or Habarana."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/polonnaruwa001.jpg"
+    },
+    {
+      day: 4,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's exploration.",
+        "UNESCO World Heritage Site: Visit the Ancient City of Sigiriya, famous for its dramatic rock formation and extraordinary archaeological remains.",
+        "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and discover the remains of King Kashyapa's ancient royal citadel.",
+        "Frescoes & Royal Gardens: Explore the celebrated frescoes, landscaped water gardens and historic features of the fortress.",
+        "Pidurangala Rock: Visit nearby Pidurangala Rock for a contrasting panoramic view of Sigiriya and its surrounding landscape.",
+        "Hotel Leisure Time: Return to your hotel and enjoy free time to relax after the day's exploration."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiriya001.jpg"
+    },
+    {
+      day: 5,
+      title: "Dambulla Cave Temple & Journey to Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel before departing for Dambulla.",
+        "Dambulla Cave Temple: Explore this UNESCO World Heritage Site, renowned for its historic Buddhist cave shrines, statues and murals.",
+        "Sacred Cave Complex: Discover the religious artwork and learn about the temple's long history as a centre of Buddhist worship.",
+        "Traditional Craft Village: Visit a traditional craft village to discover local craftsmanship and Sri Lankan artistic traditions.",
+        "Journey to Kandy: Continue through the cultural heartland towards the historic hill capital.",
+        "Hotel Check-in: Arrive in Kandy, settle into your hotel and enjoy the evening at leisure."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/dambulla001.jpg"
+    },
+    {
+      day: 6,
+      title: "Kandy's Living Heritage",
+      points: [
+        "Breakfast: Begin the day with breakfast at your hotel in Kandy.",
+        "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, part of the UNESCO-listed Sacred City of Kandy and home to Sri Lanka's sacred Tooth Relic.",
+        "Sacred Traditions: Learn about the temple's historic custodial rituals and its importance in Sri Lankan Buddhist culture.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, known for their tropical plant collections, towering trees and landscaped grounds.",
+        "Kandyan Heritage: Discover the royal history and cultural traditions associated with the former Kandyan Kingdom.",
+        "Traditional Kandyan Dance: Enjoy a cultural performance featuring traditional dance, rhythmic drumming and colourful costumes before returning to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy001.jpg"
+    },
+    {
+      day: 7,
+      title: "Kandy to Galle",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for the journey south.",
+        "Journey to the Southern Coast: Travel by private vehicle towards Galle, passing through Sri Lanka's changing landscapes.",
+        "Arrival in Galle: Reach the historic coastal city and check in to your boutique hotel within Galle Fort.",
+        "Galle Fort Ramparts: Walk along the historic fortifications and enjoy the ocean views as the afternoon moves towards sunset.",
+        "Colonial Heritage: Discover the atmosphere of Galle's historic streets, shaped by centuries of maritime trade and colonial influence.",
+        "Dinner Within the Fort: Enjoy dinner within the historic fort walls before returning to your boutique hotel."
+      ],
+      overnight: "Boutique hotel within Galle Fort.",
+      imageUrl: "/documents/images/tour/galle001.jpg"
+    },
+    {
+      day: 8,
+      title: "Galle Fort's Colonial Heritage",
+      points: [
+        "Breakfast: Enjoy breakfast at your boutique hotel within Galle Fort.",
+        "UNESCO World Heritage Site: Explore Galle Fort, a historic fortified town recognised for its outstanding blend of European architectural influences and South Asian traditions.",
+        "Guided Fort Walk: Walk through the historic streets and discover Portuguese, Dutch and British-era architecture.",
+        "Dutch Reformed Church: Visit this historic church and learn about its place within Galle's colonial heritage.",
+        "Maritime Museum: Explore the Maritime Museum to learn about the region's seafaring history, subject to opening hours.",
+        "Free Evening in Galle Fort: Enjoy time at leisure within the fort, discovering its cafés, boutiques and historic atmosphere."
+      ],
+      overnight: "Boutique hotel within Galle Fort.",
+      imageUrl: "/documents/images/tour/galle002.jpg"
+    },
+    {
+      day: 9,
+      title: "Galle to Colombo",
+      points: [
+        "Breakfast: Enjoy a leisurely breakfast at your hotel in Galle.",
+        "Free Time in Galle: Enjoy a relaxed morning within the historic fort, depending on your preferred pace.",
+        "Journey to Colombo: Depart Galle and travel towards Sri Lanka's commercial capital.",
+        "Pettah Bazaar: Explore the lively market district, known for its busy streets, traditional shops and local atmosphere.",
+        "Colombo City Experience: Enjoy a glimpse of Colombo's blend of heritage, commerce and everyday city life.",
+        "Farewell Dinner: Celebrate your journey through Sri Lanka's ancient kingdoms and coastal heritage with a farewell dinner in Colombo."
+      ],
+      overnight: "Hotel in Colombo.",
+      imageUrl: "/documents/images/tour/colombo001.jpg"
+    },
+    {
+      day: 10,
+      title: "Colombo & Departure",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for departure, depending on your flight schedule.",
+        "Gangaramaya Temple: Visit one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
+        "Colombo National Museum: Explore Sri Lanka's largest museum and discover exhibits highlighting the island's history, art and cultural heritage, subject to opening hours.",
+        "Final Colombo Exploration: Enjoy a final glimpse of the city's cultural landmarks and urban atmosphere, depending on available time.",
+        "Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur-guide, allowing sufficient time for check-in.",
+        "Departure: Bid farewell to Sri Lanka with lasting memories of its ancient kingdoms, sacred landmarks and colonial coastal heritage."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo002.jpg"
+    }
+  ],
+  hotelRecommendation: "Comfortable hotels near Anuradhapura, in Polonnaruwa, in Sigiriya or Habarana, in Kandy, a boutique hotel within Galle Fort and a comfortable hotel in Colombo.",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for airport transfers, sightseeing and intercity journeys. Bicycle hire in Polonnaruwa can be arranged according to the confirmed package.",
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless specified in the confirmed quotation. Dinner within Galle Fort on Day 7 and a farewell dinner in Colombo on Day 9 are planned in the itinerary.",
+  included: [
+    "9 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Transfers and visits listed in the itinerary, subject to opening hours and operating schedules"
+  ],
+  excluded: [
+    "International flights",
+    "Sri Lankan visa fees",
+    "Lunches and dinners unless specified in the confirmed quotation",
+    "Entrance fees to heritage sites and museums unless specified",
+    "Specialist guide charges at Sigiriya and other heritage sites unless specified",
+    "Bicycle hire and related charges in Polonnaruwa unless confirmed as included",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  optionalExperiences: [
+    "Specialist guiding at Sigiriya Rock Fortress",
+    "Bicycle hire for exploring Polonnaruwa",
+    "Additional heritage experiences, subject to availability",
+    "Room upgrades, subject to availability"
+  ],
+  tourFaqs: [
+    {
+      q: "Which UNESCO World Heritage Sites are included in this tour?",
+      a: "The itinerary includes the Ancient City of Polonnaruwa, the Ancient City of Sigiriya, the Dambulla Cave Temple complex, the Sacred City of Kandy and the Old Town of Galle and its Fortifications."
+    },
+    {
+      q: "Is Anuradhapura included in the cultural itinerary?",
+      a: "Yes. The first two days focus on Anuradhapura's sacred Buddhist heritage, including Sri Maha Bodhi, Jetavanaramaya, Abhayagiri and Isurumuniya."
+    },
+    {
+      q: "Can we cycle through Polonnaruwa?",
+      a: "Yes. Day 3 includes cycling among the ruins of the medieval capital. Bicycle hire should be confirmed in the final quotation."
+    },
+    {
+      q: "Is climbing Sigiriya Rock Fortress physically demanding?",
+      a: "The climb includes many stairs and walking, so a moderate level of fitness is helpful. Comfortable footwear and sufficient time are recommended."
+    },
+    {
+      q: "How much time is available in Galle Fort?",
+      a: "The itinerary includes a sunset walk on Day 7 and a guided heritage walk with visits to the Dutch Reformed Church and Maritime Museum on Day 8."
+    },
+    {
+      q: "Can the Colombo visits be completed on departure day?",
+      a: "Gangaramaya Temple and the National Museum are planned for Day 10, but the visits depend on your flight time and museum opening hours. The schedule should allow sufficient time for airport check-in."
+    }
+  ]
+},
+
+ 
+{
+  slug: "sri-lanka-sacred-kingdoms-hidden-heritage-12-day-tour",
+  title: "Sacred Kingdoms & Hidden Heritage of Sri Lanka",
+  category: "Cultural Heritage Tours",
+  duration: "12 Days / 11 Nights",
+  highlights: [
+    "Sri Maha Bodhi — Anuradhapura",
+    "Anuradhapura Sacred City — UNESCO World Heritage Site",
+    "Jetavanaramaya & Abhayagiri Stupas",
+    "Isurumuniya Rock Temple",
+    "Ritigala Forest Monastery Ruins",
+    "Mihintale — Sacred Buddhist Heritage",
+    "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+    "Cycling Through Medieval Polonnaruwa",
+    "Gal Vihara Rock-Cut Buddha Sculptures",
+    "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+    "Pidurangala Rock Viewpoint",
+    "Dambulla Cave Temple — UNESCO World Heritage Site",
+    "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+    "Royal Botanical Gardens, Peradeniya",
+    "Traditional Kandyan Cultural Dance",
+    "Galle Fort — UNESCO World Heritage Site",
+    "Dutch Reformed Church & Maritime Museum",
+    "Colombo National Museum",
+    "Gangaramaya Temple & Pettah Bazaar"
+  ],
+  price: "From $1,399 pp",
+  blurb: "Discover Sri Lanka's sacred ancient capitals, secluded forest monasteries, remarkable archaeological treasures and colonial coastal heritage on a twelve-day private cultural journey.",
+  motif: "heritage",
+  imageUrl: "/documents/images/tour/SriLankan_Heritage_Architecture.jpg",
+  heroTitle: "Sacred Kingdoms & Hidden Heritage — 12 Days",
+  intro: "Journey beyond the familiar highlights of Sri Lanka to discover sacred Buddhist cities, forest monasteries, ancient royal capitals and the atmospheric colonial streets of Galle.",
+  overview: "Explore Anuradhapura's sacred monuments and ancient stupas, then venture to the forest monastery ruins of Ritigala and the revered pilgrimage site of Mihintale. Continue to Polonnaruwa, where cycling among medieval ruins reveals the legacy of a historic kingdom. Discover the UNESCO-listed Sigiriya Rock Fortress and Dambulla Cave Temple before travelling to Kandy for sacred rituals, botanical gardens and traditional dance. Finish along the southern coast in Galle Fort, exploring its layered colonial architecture before discovering Colombo's museums, temples, markets and historic districts.",
+  bestFor: "History enthusiasts, cultural travellers, archaeology lovers, photographers and private travellers seeking Sri Lanka's ancient kingdoms and lesser-visited heritage sites.",
+  groupSize: "Private tour with a dedicated chauffeur-guide. Specialist guides and bicycle hire can be arranged according to the confirmed package.",
+  physicalLevel: "Moderate — Sigiriya involves a substantial stair climb, while cycling, forest walks and archaeological sites require reasonable mobility. Ritigala may include uneven forest paths.",
+  destinationsCovered: "Airport → Anuradhapura → Ritigala → Mihintale → Polonnaruwa → Sigiriya → Dambulla → Kandy → Galle → Colombo → Airport",
+  itinerary: [
+    {
+      day: 1,
+      title: "Arrival & Anuradhapura",
+      points: [
+        "Airport Welcome: Arrive at Bandaranaike International Airport (CMB), where your chauffeur-guide will welcome you and assist with your luggage.",
+        "Journey to Anuradhapura: Begin your private journey through Sri Lanka's countryside towards the island's first ancient capital.",
+        "Scenic Countryside Drive: Enjoy views of rural villages, cultivated land and changing landscapes along the way.",
+        "Sri Maha Bodhi: Visit the sacred Bodhi tree in Anuradhapura, one of Sri Lanka's most revered Buddhist pilgrimage sites.",
+        "Tissawewa Reservoir: Enjoy the peaceful atmosphere and sunset views over the historic reservoir, time permitting.",
+        "Hotel Check-in: Settle into your hotel near Anuradhapura and relax after the journey."
+      ],
+      overnight: "Hotel near Anuradhapura.",
+      imageUrl: "/documents/images/tour/anuradhapura003.jpg"
+    },
+    {
+      day: 2,
+      title: "Anuradhapura's Sacred City",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before exploring the ancient capital.",
+        "UNESCO World Heritage Site: Discover the Sacred City of Anuradhapura, celebrated for its ancient urban remains and enduring Buddhist heritage.",
+        "Jetavanaramaya Stupa: Visit this monumental stupa and learn about its importance in the religious and architectural history of ancient Sri Lanka.",
+        "Abhayagiri Stupa: Explore another important ancient Buddhist monastic centre associated with centuries of religious scholarship and worship.",
+        "Isurumuniya Rock Temple: Discover this historic rock temple, known for its distinctive setting and celebrated stone carvings.",
+        "Reflective Evening: Return to your hotel and enjoy a peaceful evening after a day immersed in Anuradhapura's sacred heritage."
+      ],
+      overnight: "Hotel near Anuradhapura.",
+      imageUrl: "/documents/images/tour/anuradhapura004.jpg"
+    },
+    {
+      day: 3,
+      title: "Anuradhapura's Outer Monasteries",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast and prepare for a day exploring Sri Lanka's quieter heritage sites.",
+        "Journey to Ritigala: Travel towards the forested surroundings of Ritigala, known for its secluded archaeological remains.",
+        "Ritigala Forest Monastery: Explore the ruins of this ancient monastic complex, set among woodland and natural surroundings.",
+        "Forest Heritage Walk: Discover the surviving stone structures, pathways and monastic features while enjoying the tranquil forest atmosphere.",
+        "Mihintale: Explore the sacred site traditionally associated with Arahat Mahinda Thera's meeting with King Devanampiyatissa and the introduction of Buddhism to Sri Lanka.",
+        "Journey to Polonnaruwa: Continue towards Polonnaruwa and check in to your hotel near the ancient city."
+      ],
+      overnight: "Hotel near Polonnaruwa.",
+      imageUrl: "/documents/images/tour/ritigala001.jpg"
+    },
+    {
+      day: 4,
+      title: "Polonnaruwa Ancient City",
+      points: [
+        "Breakfast: Enjoy breakfast before setting out to discover the medieval capital of Polonnaruwa.",
+        "UNESCO World Heritage Site: Explore the Ancient City of Polonnaruwa, recognised for its exceptional archaeological remains and historic urban landscape.",
+        "Cycling Among the Ruins: Cycle through the ancient city and discover historic buildings, religious monuments and remnants of the medieval kingdom.",
+        "Royal Capital Heritage: Explore the remains of the ancient capital and learn about the kingdom's historic significance.",
+        "Gal Vihara: Admire the remarkable rock-cut Buddha sculptures, celebrated for their craftsmanship and serene expressions.",
+        "Journey to Sigiriya: Continue through Sri Lanka's Cultural Triangle to your hotel in Sigiriya or Habarana."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/polonnaruwa003.jpg"
+    },
+    {
+      day: 5,
+      title: "Sigiriya Rock Fortress",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before beginning the day's exploration.",
+        "UNESCO World Heritage Site: Discover the Ancient City of Sigiriya, renowned for its dramatic rock formation and extraordinary archaeological remains.",
+        "Sigiriya Rock Climb: Ascend the iconic fortress with a specialist guide and explore the remains of King Kashyapa's ancient royal citadel.",
+        "Frescoes & Royal Gardens: Discover the celebrated frescoes, landscaped gardens and ingenious features of this remarkable historic site.",
+        "Pidurangala Rock: Visit the nearby rock for a contrasting panoramic view of Sigiriya and the surrounding landscape.",
+        "Hotel Leisure Time: Return to your hotel and enjoy free time to relax after the day's exploration."
+      ],
+      overnight: "Hotel in Sigiriya or Habarana.",
+      imageUrl: "/documents/images/tour/sigiriya004.jpg"
+    },
+    {
+      day: 6,
+      title: "Dambulla Cave Temple & Journey to Kandy",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel before departing for Dambulla.",
+        "UNESCO World Heritage Site: Explore the Dambulla Cave Temple complex, renowned for its historic Buddhist cave shrines, statues and murals.",
+        "Sacred Cave Art: Discover the intricate paintings and sculptures that reflect centuries of Buddhist devotion and artistic tradition.",
+        "Buddhist Heritage: Learn about Dambulla's enduring role as a place of worship and pilgrimage.",
+        "Traditional Craft Village: Visit a traditional craft village to discover Sri Lankan craftsmanship and local artistic traditions.",
+        "Journey to Kandy: Continue through the cultural heartland to Kandy, check in to your hotel and enjoy the evening at leisure."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/dambulla003.jpg"
+    },
+    {
+      day: 7,
+      title: "Kandy's Living Heritage",
+      points: [
+        "Breakfast: Begin the day with breakfast at your hotel in Kandy.",
+        "Temple of the Sacred Tooth Relic: Visit this revered Buddhist temple, part of the UNESCO-listed Sacred City of Kandy and home to Sri Lanka's sacred Tooth Relic.",
+        "Sacred Traditions: Learn about the temple's historic rituals and its importance in Sri Lankan Buddhist culture.",
+        "Royal Botanical Gardens: Explore the Royal Botanical Gardens in Peradeniya, known for their tropical plant collections, towering trees and landscaped grounds.",
+        "Kandyan Heritage: Discover the royal history and cultural traditions associated with the former Kandyan Kingdom.",
+        "Traditional Kandyan Dance: Enjoy a cultural performance featuring traditional dance, rhythmic drumming and colourful costumes before returning to your hotel."
+      ],
+      overnight: "Hotel in Kandy.",
+      imageUrl: "/documents/images/tour/kandy003.jpg"
+    },
+    {
+      day: 8,
+      title: "Kandy to Galle",
+      points: [
+        "Breakfast & Check-out: Enjoy breakfast at your hotel and prepare for the journey south.",
+        "Journey to the Southern Coast: Travel by private vehicle towards Galle, enjoying the changing landscapes along the way.",
+        "Arrival in Galle: Reach the historic coastal city and check in to your boutique hotel within Galle Fort.",
+        "Galle Fort Ramparts: Walk along the historic fortifications and enjoy views of the Indian Ocean as the sun sets, time permitting.",
+        "Colonial Atmosphere: Explore the surroundings of the historic fort and discover the atmosphere of its heritage streets.",
+        "Dinner Within the Fort: Enjoy dinner within Galle's historic fort walls before returning to your boutique hotel."
+      ],
+      overnight: "Boutique hotel within Galle Fort.",
+      imageUrl: "/documents/images/tour/galle002.jpg"
+    },
+    {
+      day: 9,
+      title: "Galle Fort's Colonial Heritage",
+      points: [
+        "Breakfast: Enjoy breakfast at your boutique hotel within Galle Fort.",
+        "UNESCO World Heritage Site: Discover the Old Town of Galle and its Fortifications, recognised for its historic architecture and distinctive blend of European and South Asian influences.",
+        "Guided Fort Walk: Explore the historic streets and learn about the Portuguese, Dutch and British influences that shaped the fort.",
+        "Dutch Reformed Church: Visit this historic church and discover its place within Galle's colonial heritage.",
+        "Maritime Museum: Explore the Maritime Museum to learn about the region's maritime history, subject to opening hours.",
+        "Free Evening in the Fort: Enjoy time at leisure within Galle Fort, exploring its cafés, boutiques and atmospheric streets."
+      ],
+      overnight: "Boutique hotel within Galle Fort.",
+      imageUrl: "/documents/images/tour/galle003.jpg"
+    },
+    {
+      day: 10,
+      title: "Galle to Colombo",
+      points: [
+        "Breakfast: Enjoy a leisurely breakfast at your hotel in Galle.",
+        "Morning at Leisure: Take time to enjoy the historic fort and its relaxed coastal atmosphere.",
+        "Check-out: Complete your hotel check-out and prepare for the journey to Colombo.",
+        "Journey to Colombo: Travel by private vehicle towards Sri Lanka's commercial capital.",
+        "Arrival & Hotel Check-in: Arrive in Colombo and settle into your hotel.",
+        "Free Evening: Enjoy a relaxed evening at your own pace after the journey from Galle."
+      ],
+      overnight: "Hotel in Colombo.",
+      imageUrl: "/documents/images/tour/colombo003.jpg"
+    },
+    {
+      day: 11,
+      title: "Colombo's Layered Heritage",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel before exploring Colombo's cultural landmarks.",
+        "Colombo National Museum: Discover exhibits highlighting Sri Lanka's history, art and cultural heritage, subject to opening hours.",
+        "Gangaramaya Temple: Explore one of Colombo's best-known Buddhist temples, recognised for its distinctive architecture and collection of religious artefacts.",
+        "Pettah Bazaar: Experience the busy streets, traditional shops and vibrant market atmosphere of Colombo's historic trading district.",
+        "Colonial-era Fort District: Explore the historic Fort area and discover traces of Colombo's colonial-era architecture and commercial history.",
+        "Farewell Dinner: Celebrate your journey through Sri Lanka's sacred cities, ancient kingdoms and coastal heritage with a farewell dinner in Colombo."
+      ],
+      overnight: "Hotel in Colombo.",
+      imageUrl: "/documents/images/tour/colombo004.jpg"
+    },
+    {
+      day: 12,
+      title: "Departure",
+      points: [
+        "Breakfast: Enjoy breakfast at your hotel and prepare for your final morning in Sri Lanka.",
+        "Free Morning: Spend time at leisure before departure, depending on your flight schedule.",
+        "Last-minute Shopping: Enjoy an opportunity to purchase souvenirs and gifts if time permits.",
+        "Hotel Check-out: Complete check-out and ensure your belongings are ready for the airport transfer.",
+        "Private Airport Transfer: Travel to Bandaranaike International Airport (CMB) with your chauffeur-guide, allowing sufficient time for check-in.",
+        "Departure: Bid farewell to Sri Lanka with lasting memories of its ancient kingdoms, sacred sites and colonial heritage."
+      ],
+      overnight: "N/A — departure day.",
+      imageUrl: "/documents/images/tour/colombo005.jpg"
+    }
+  ],
+  hotelRecommendation: "Comfortable hotels near Anuradhapura, Polonnaruwa and Sigiriya or Habarana, followed by a hotel in Kandy, a boutique hotel within Galle Fort and a hotel in Colombo.",
+  transportation: "Private air-conditioned vehicle with a dedicated chauffeur-guide for airport transfers, sightseeing and intercity journeys. Bicycle hire in Polonnaruwa can be arranged according to the confirmed package.",
+  meals: "Daily breakfast. Lunches and dinners are at your own choice unless specified in the confirmed quotation. Dinner within Galle Fort on Day 8 and a farewell dinner in Colombo on Day 11 are planned in the itinerary.",
+  included: [
+    "11 nights' accommodation",
+    "Daily breakfast",
+    "Private air-conditioned vehicle and chauffeur-guide",
+    "Airport welcome and luggage assistance",
+    "Transfers and visits listed in the itinerary, subject to opening hours and operating schedules"
+  ],
+  excluded: [
+    "International flights",
+    "Sri Lankan visa fees",
+    "Lunches and dinners unless specified in the confirmed quotation",
+    "Entrance fees to archaeological sites, temples and museums unless specified",
+    "Specialist guiding at Sigiriya and other heritage sites unless specified",
+    "Bicycle hire and related charges in Polonnaruwa unless confirmed as included",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  optionalExperiences: [
+    "Specialist guiding at Sigiriya Rock Fortress",
+    "Bicycle hire for exploring Polonnaruwa",
+    "Additional time exploring Anuradhapura's sacred monuments",
+    "Room upgrades, subject to availability"
+  ],
+  tourFaqs: [
+    {
+      q: "Which UNESCO World Heritage Sites are included in this tour?",
+      a: "The itinerary includes the Sacred City of Anuradhapura, the Ancient City of Polonnaruwa, the Ancient City of Sigiriya, the Dambulla Cave Temple complex, the Sacred City of Kandy and the Old Town of Galle and its Fortifications."
+    },
+    {
+      q: "What makes this tour different from a standard cultural itinerary?",
+      a: "Alongside the major ancient cities, the itinerary includes Ritigala's forest monastery ruins, Mihintale's sacred Buddhist heritage and two nights within historic Galle Fort."
+    },
+    {
+      q: "Is Ritigala suitable for all travellers?",
+      a: "Ritigala involves walking on forest paths and uneven surfaces. Conditions may vary, so suitable footwear and a reasonable level of mobility are recommended."
+    },
+    {
+      q: "Can we cycle through Polonnaruwa?",
+      a: "Yes. Day 4 includes cycling among the ancient ruins. Bicycle hire should be confirmed in the final quotation."
+    },
+    {
+      q: "Is the Sigiriya Rock climb physically demanding?",
+      a: "The climb involves many stairs and walking. A moderate level of fitness and comfortable footwear are recommended."
+    },
+    {
+      q: "Can the Colombo National Museum be visited on the departure day?",
+      a: "The museum is scheduled for Day 11, leaving Day 12 for departure and last-minute shopping. The airport transfer on Day 12 should be timed around your flight."
+       }
+  ],
+},
+
   {
     slug: "ramayana-highlights-5-day",
     title: "Ramayana Highlights of Sri Lanka",
-    category: "Ramayana",
+    category: "Ramayana Tours",
     duration: "5 Days / 4 Nights",
     highlights: [
       "Munneswaram and Manavari Temples",
@@ -5228,10 +5844,10 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Seetha Amman Temple and Ashok Vatika traditions",
       "Ravana Falls and Ravana Cave"
     ],
-    price: "From $1,650 pp",
+    price: "From $750 pp",
     blurb: "Discover Sri Lanka's best-known Ramayana-associated temples, sacred landscapes and legendary sites on a private five-day journey.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/ramayana.png",
+    imageUrl: "/documents/images/tour/dunsinane-falls-nuwara-eliya-sri-lanka.jpg",
     heroTitle: "Ramayana Highlights — 5 Days",
     intro: "Follow the traditions of the Ramayana across Sri Lanka, visiting ancient Hindu temples, sacred highland shrines and landscapes associated with the story of Rama and Sita. This compact private journey combines meaningful pilgrimage stops with the beauty of the central highlands.",
     overview: "A five-day Ramayana-focused journey for travellers with limited time. The route begins near Chilaw, continues through Kandy and Nuwara Eliya, explores Ella and returns to the airport.",
@@ -5251,7 +5867,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Transfer to Kandy: Continue inland if arrival time and temple opening hours permit; otherwise stay overnight near Chilaw and adjust the following day."
         ],
         overnight: "Hotel in Kandy, subject to arrival time; otherwise Chilaw.",
-        imageUrl: "/documents/images/tour/munneswaram.png"
+        imageUrl: "/documents/images/tour/munneswaram-manavari-ramayana-temples.jpg"
       },
       {
         day: 2,
@@ -5265,7 +5881,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Nuwara Eliya Arrival: Check in and relax after the journey."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/hanuman-temple.png"
+        imageUrl: "/documents/images/tour/temple -of-the-thooth-kandy-sri-lanka.jpg"
       },
       {
         day: 3,
@@ -5279,7 +5895,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Return to the hotel for dinner."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/seetha-amman.png"
+        imageUrl: "/documents/images/tour/seetha-amman-temple-ashok-vatika-sri-lanka.jpg"
       },
       {
         day: 4,
@@ -5293,7 +5909,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Settle into your hotel and enjoy dinner."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/rawanaella.png"
+        imageUrl: "/documents/images/tour/ravana-falls-cave-ella-sri-lanka.jpg"
       },
       {
         day: 5,
@@ -5306,7 +5922,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Departure: Conclude your Ramayana journey."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo3.png"
+        imageUrl: "/documents/images/tour/ella-sri-lanka-scenic-mountain-journey.jpg"
       }
     ],
     hotelRecommendation: "Selected comfortable hotels in Kandy, Nuwara Eliya and Ella. Accommodation near Chilaw may be required for late arrivals.",
@@ -5346,7 +5962,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   {
     slug: "ramayana-sacred-trail-7-day",
     title: "Ramayana Sacred Trail of Sri Lanka",
-    category: "Ramayana",
+    category: "Ramayana Tours",
     duration: "7 Days / 6 Nights",
     highlights: [
       "Munneswaram and Manavari Temples",
@@ -5356,10 +5972,10 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Ussangoda and Galle's coastal heritage",
       "Kelaniya and Panchamuga Anjaneyar Temple"
     ],
-    price: "From $2,250 pp",
+    price: "From $950 pp",
     blurb: "Explore major Ramayana-associated sites from the western coast to the highlands and southern shoreline.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/ramayana.png",
+    imageUrl: "/documents/images/tour/festival-of-colours.jpg",
     heroTitle: "Ramayana Sacred Trail — 7 Days",
     intro: "Journey through Sri Lanka's Ramayana pilgrimage landscape, from the temples of Chilaw to the highland shrines around Nuwara Eliya, the Ravana-associated sites of Ella and the southern coast.",
     overview: "A seven-day private journey focusing on the principal Ramayana-associated sites without adding the distant Trincomalee detour.",
@@ -5380,7 +5996,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and rest."
         ],
         overnight: "Hotel in Kandy; for late arrivals, stay in Chilaw and adjust the route.",
-        imageUrl: "/documents/images/tour/munneswaram.png"
+        imageUrl: "/documents/images/tour/munneswaram-manavari-temples.jpg"
       },
       {
         day: 2,
@@ -5394,7 +6010,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Nuwara Eliya: Check in and enjoy a relaxed evening."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/hanuman-temple.png"
+        imageUrl: "/documents/images/tour/bhakta-hanuman-ramboda.jpg"
       },
       {
         day: 3,
@@ -5408,7 +6024,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Return to your hotel."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/seetha-amman.png"
+        imageUrl: "/documents/images/tour/seetha-amman.jpg"
       },
       {
         day: 4,
@@ -5422,7 +6038,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax and enjoy dinner."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/rawanaella.png"
+        imageUrl: "/documents/images/tour/rawanaella.jpg"
       },
       {
         day: 5,
@@ -5436,7 +6052,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax at your hotel."
         ],
         overnight: "Hotel in Galle or Unawatuna.",
-        imageUrl: "/documents/images/tour/ussangoda.png"
+        imageUrl: "/documents/images/tour/Ussangoda Red Soil Plateau.jpg"
       },
       {
         day: 6,
@@ -5450,7 +6066,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Arrive in Colombo and enjoy dinner."
         ],
         overnight: "Hotel in Colombo.",
-        imageUrl: "/documents/images/tour/galle.png"
+        imageUrl: "/documents/images/tour/Galle Fort Lighthouse.jpg"
       },
       {
         day: 7,
@@ -5463,7 +6079,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Airport Transfer: Travel to CMB with sufficient time for check-in."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo3.png"
+        imageUrl: "/documents/images/tour/Beira Lake & Gangaramaya Temple.jpg"
       }
     ],
     hotelRecommendation: "Selected hotels in Kandy, Nuwara Eliya, Ella, Galle and Colombo.",
@@ -5502,7 +6118,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   {
     slug: "complete-ramayana-yatra-8-day",
     title: "Complete Ramayana Yatra",
-    category: "Ramayana",
+    category: "Ramayana Tours",
     duration: "8 Days / 7 Nights",
     highlights: [
       "Munneswaram and Manavari Temples",
@@ -5512,10 +6128,10 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Seetha Amman Temple and Divurumpola",
       "Ravana Falls and Ravana Cave"
     ],
-    price: "From $2,650 pp",
+    price: "From $1,050 pp",
     blurb: "A broader Ramayana pilgrimage linking the west coast, Trincomalee, the central highlands and Ella.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/ramayana.png",
+    imageUrl: "/documents/images/tour/skyward-guardian.jpg",
     heroTitle: "Complete Ramayana Yatra — 8 Days",
     intro: "Explore a wider collection of Sri Lanka's Ramayana-associated pilgrimage locations, including the temples of Chilaw, Trincomalee's sacred coastline and the highland sites connected by tradition with Hanuman, Sita and Ravana.",
     overview: "This eight-day private tour adds Trincomalee to the western and hill-country Ramayana route. It is more transfer-intensive than the seven-day tour, but offers a broader selection of temples.",
@@ -5535,7 +6151,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax after the journey."
         ],
         overnight: "Hotel in Anuradhapura or a convenient north-central location.",
-        imageUrl: "/documents/images/tour/munneswaram.png"
+        imageUrl: "/documents/images/tour/munneswaram-manavari-sacred-sites.jpg"
       },
       {
         day: 2,
@@ -5548,7 +6164,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and rest."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/trincomalee.png"
+        imageUrl: "/documents/images/tour/trincomalee_beach.jpg"
       },
       {
         day: 3,
@@ -5562,7 +6178,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening at Leisure: Relax by the coast."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/koneswaram.png"
+        imageUrl: "/documents/images/tour/koneswaram-swami-rock-temple.jpg"
       },
       {
         day: 4,
@@ -5575,7 +6191,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Settle into your hotel and enjoy dinner."
         ],
         overnight: "Hotel in Sigiriya or Dambulla.",
-        imageUrl: "/documents/images/tour/sigiriya5.png"
+        imageUrl: "/documents/images/tour/sigiriya-dambulla-heritage-ro.jpg"
       },
       {
         day: 5,
@@ -5589,7 +6205,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
+        imageUrl: "/documents/images/tour/Kandy_Sri_Lanka_Temple_of_the_tooth.jpg"
       },
       {
         day: 6,
@@ -5603,7 +6219,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Enjoy dinner and relax."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/hanuman-temple.png"
+        imageUrl: "/documents/images/tour/ramboda-hanuman-temple-highlands.jpg"
       },
       {
         day: 7,
@@ -5617,7 +6233,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Ravana Falls: Stop for a short visit if daylight and road conditions allow."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/seetha-amman.png"
+        imageUrl: "/documents/images/tour/seetha-amman-seetha-eliya.jpg"
       },
       {
         day: 8,
@@ -5630,7 +6246,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Airport Arrival: Allow ample time for the long drive and check-in."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/rawanaella.png"
+        imageUrl: "/documents/images/tour/ravana-cave-ella-landmark.jpg"
       }
     ],
     hotelRecommendation: "Selected hotels in the north-central region, Trincomalee, Sigiriya, Kandy, Nuwara Eliya and Ella.",
@@ -5669,7 +6285,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   {
     slug: "ramayana-heritage-legends-10-day",
     title: "Ramayana Heritage & Legends",
-    category: "Ramayana",
+    category: "Ramayana Tours",
     duration: "10 Days / 9 Nights",
     highlights: [
       "Munneswaram and Manavari Temples",
@@ -5680,10 +6296,10 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Kataragama and Ussangoda",
       "Galle Fort and Kelaniya"
     ],
-    price: "From $3,250 pp",
+    price: "From $1,150 pp",
     blurb: "A comprehensive Ramayana-themed journey through the island's major pilgrimage regions and southern landscapes.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/ramayana.png",
+    imageUrl: "/documents/images/tour/stone-heritage.jpg",
     heroTitle: "Ramayana Heritage & Legends — 10 Days",
     intro: "Discover the broad geography of Sri Lanka's Ramayana-associated traditions on a private journey from the western coast to Trincomalee, the highlands and the south. This itinerary combines important temples with cultural heritage, scenic countryside and time to appreciate each region.",
     overview: "A ten-day route covering the major northern, eastern, central and southern Ramayana-associated locations, arranged to reduce unnecessary backtracking.",
@@ -5703,7 +6319,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Continue North: Travel towards a convenient overnight location if arrival time allows."
         ],
         overnight: "Hotel in Chilaw or Anuradhapura, based on arrival time.",
-        imageUrl: "/documents/images/tour/munneswaram.png"
+        imageUrl: "/documents/images/tour/munneswaram-manavari-ramayana-temples.jpg"
       },
       {
         day: 2,
@@ -5716,7 +6332,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax and enjoy dinner."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/trincomalee.png"
+        imageUrl: "/documents/images/tour/fort-frederick-trincomalee-heritage.jpg"
       },
       {
         day: 3,
@@ -5730,7 +6346,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Afternoon Leisure: Enjoy the coast or return to the hotel."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/koneswaram.png"
+        imageUrl: "/documents/images/tour/pathrakali-amman-trincomalee.jpg"
       },
       {
         day: 4,
@@ -5743,7 +6359,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and relax."
         ],
         overnight: "Hotel in Sigiriya or Dambulla.",
-        imageUrl: "/documents/images/tour/sigiriya5.png"
+        imageUrl: "/documents/images/tour/sigiriya-lion-rock-cultural-triangle.jpg"
       },
       {
         day: 5,
@@ -5757,7 +6373,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
+        imageUrl: "/documents/images/tour/Kandy_Sri_Lanka_Temple_of_the_tooth.jpg"
       },
       {
         day: 6,
@@ -5771,7 +6387,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/hanuman-temple.png"
+        imageUrl: "/documents/images/tour/ramboda-hanuman-temple-sacred-shrine.jpg"
       },
       {
         day: 7,
@@ -5785,7 +6401,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Relax at the hotel."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/seetha-amman.png"
+        imageUrl: "/documents/images/tour/hakgala-floral-garden-nuwara-eliya.jpg"
       },
       {
         day: 8,
@@ -5799,7 +6415,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/rawanaella.png"
+        imageUrl: "/documents/images/tour/ravana-waterfall-ella-highlands.jpg"
       },
       {
         day: 9,
@@ -5813,7 +6429,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax and enjoy dinner."
         ],
         overnight: "Hotel in Galle or the southern coast.",
-        imageUrl: "/documents/images/tour/ussangoda.png"
+        imageUrl: "/documents/images/tour/kataragama-sacred-pilgrimage-temple.jpg"
       },
       {
         day: 10,
@@ -5827,7 +6443,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Airport Transfer: Arrive at CMB with sufficient time for check-in."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/galle.png"
+        imageUrl: "/documents/images/tour/rumassala-beach-galle-coastal-landscape.jpg"
       }
     ],
     hotelRecommendation: "Selected hotels in Chilaw or the north-central region, Trincomalee, Sigiriya, Kandy, Nuwara Eliya, Ella and Galle.",
@@ -5867,7 +6483,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
   {
     slug: "ultimate-ramayana-pilgrimage-12-day",
     title: "Ultimate Ramayana Pilgrimage of Sri Lanka",
-    category: "Ramayana",
+    category: "Ramayana Tours",
     duration: "12 Days / 11 Nights",
     highlights: [
       "Munneswaram and Manavari Temples",
@@ -5878,10 +6494,10 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Divurumpola, Ravana Cave and Ravana Falls",
       "Kataragama, Ussangoda, Galle and Kelaniya"
     ],
-    price: "From $3,850 pp",
+    price: "From $1,250 pp",
     blurb: "A more relaxed Ramayana pilgrimage combining major temple regions, sacred heritage, highland landscapes and the southern coast.",
     motif: "heritage",
-    imageUrl: "/documents/images/tour/ramayana.png",
+    imageUrl: "/documents/images/tour/golden-devotion.jpg",
     heroTitle: "Ultimate Ramayana Pilgrimage — 12 Days",
     intro: "Follow Sri Lanka's Ramayana-associated pilgrimage traditions on a comprehensive private journey. Visit the temples of Chilaw, explore Anuradhapura's sacred heritage, discover Trincomalee's ocean-facing shrines and travel through the central highlands to sites associated with Sita, Hanuman and Ravana. Finish with the sacred landscapes and historic coastal towns of the south.",
     overview: "A twelve-day itinerary allowing more time for travel between distant regions and a broader selection of pilgrimage visits. It combines the west coast, north-central heritage, east coast, central highlands and south coast.",
@@ -5902,7 +6518,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and rest."
         ],
         overnight: "Hotel in Anuradhapura; for late arrivals, stay near Chilaw and adjust the next day.",
-        imageUrl: "/documents/images/tour/munneswaram.png"
+        imageUrl: "/documents/images/tour/munneswaram-hindu-temple-chilaw.jpg"
       },
       {
         day: 2,
@@ -5916,7 +6532,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Relax at the hotel."
         ],
         overnight: "Hotel in Anuradhapura.",
-        imageUrl: "/documents/images/tour/anuradhapura.png"
+        imageUrl: "/documents/images/tour/ruwanwelisaya-sacred-stupa-anuradhapura.jpg"
       },
       {
         day: 3,
@@ -5929,7 +6545,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and relax."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/trincomalee.png"
+        imageUrl: "/documents/images/tour/kanniya-hot-water-springs-trincomalee.jpg"
       },
       {
         day: 4,
@@ -5943,7 +6559,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Afternoon at Leisure: Relax by the coast."
         ],
         overnight: "Hotel in Trincomalee.",
-        imageUrl: "/documents/images/tour/koneswaram.png"
+        imageUrl: "/documents/images/tour/koneswaram-swami-rock-trincomalee.jpg"
       },
       {
         day: 5,
@@ -5956,7 +6572,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Relax and enjoy dinner."
         ],
         overnight: "Hotel in Sigiriya or Dambulla.",
-        imageUrl: "/documents/images/tour/sigiriya5.png"
+        imageUrl: "/documents/images/tour/sigiriya-lion-rock-fortress-landscape.jpg"
       },
       {
         day: 6,
@@ -5970,7 +6586,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Return to your hotel for dinner."
         ],
         overnight: "Hotel in Sigiriya or Dambulla.",
-        imageUrl: "/documents/images/tour/sigiriya.png"
+        imageUrl: "/documents/images/tour/dambulla-golden-cave-temple-heritage.jpg"
       },
       {
         day: 7,
@@ -5984,7 +6600,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Kandy.",
-        imageUrl: "/documents/images/tour/kandy.png"
+        imageUrl: "/documents/images/tour/kandy-lake-sacred-tooth-temple-view.jpg"
       },
       {
         day: 8,
@@ -5998,7 +6614,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and relax."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/hanuman-temple.png"
+        imageUrl: "/documents/images/tour/ramboda-falls-mountain-waterfall.jpg"
       },
       {
         day: 9,
@@ -6012,7 +6628,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Evening Leisure: Return to the hotel."
         ],
         overnight: "Hotel in Nuwara Eliya.",
-        imageUrl: "/documents/images/tour/seetha-amman.png"
+        imageUrl: "/documents/images/tour/nuwara-eliya-green-tea-plantation (2).jpg"
       },
       {
         day: 10,
@@ -6026,7 +6642,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner."
         ],
         overnight: "Hotel in Ella.",
-        imageUrl: "/documents/images/tour/rawanaella.png"
+        imageUrl: "/documents/images/tour/ravana-waterfall-ella-highland-scenery.jpg"
       },
       {
         day: 11,
@@ -6040,7 +6656,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Hotel Check-in: Enjoy dinner and relax."
         ],
         overnight: "Hotel in Galle or Unawatuna.",
-        imageUrl: "/documents/images/tour/ussangoda.png"
+        imageUrl: "/documents/images/tour/ussangoda-beach.jpg"
       },
       {
         day: 12,
@@ -6054,7 +6670,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Airport Departure: Arrive at CMB with sufficient time for airline check-in."
         ],
         overnight: "N/A — departure day.",
-        imageUrl: "/documents/images/tour/colombo3.png"
+        imageUrl: "/documents/images/tour/galle-fort-historic-coastal-ramparts.jpg"
       }
     ],
     hotelRecommendation: "Selected hotels in Chilaw or Anuradhapura, Trincomalee, Sigiriya, Kandy, Nuwara Eliya, Ella and Galle.",
