@@ -1508,7 +1508,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
       "Daily breakfast + 1 lunch",
       "Private vehicle and driver throughout",
       "Reserved train tickets, Nanu Oya to Ella",
-      "2 jeep safaris in Yala National Park",
+      
     ],
     excluded: ["International flights", "Visa fees", "Meals not specified", "Personal expenses and tips", "Travel insurance"],
     optionalExperiences: ["Additional Yala safari session", "Galle Fort sunset rampart walk with guide", "Whale watching add-on from Mirissa"],
