@@ -5867,7 +5867,7 @@ title: "Sigiriya → Dambulla → Spice Garden → Kandy",
           "Transfer to Kandy: Continue inland if arrival time and temple opening hours permit; otherwise stay overnight near Chilaw and adjust the following day."
         ],
         overnight: "Hotel in Kandy, subject to arrival time; otherwise Chilaw.",
-        imageUrl: "/documents/images/tour/munneswaram-manavari-ramayana-temples-sri-lanka.jpg.jpg"
+        imageUrl: "/documents/images/tour/munneswaram-manavari-ramayana-temples.jpg"
       },
       {
         day: 2,
