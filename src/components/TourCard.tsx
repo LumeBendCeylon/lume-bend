@@ -24,6 +24,11 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
     ? tourT(`${translationKey}.blurb`)
     : tour.blurb;
 
+  const translatedDuration = tourT.has(`${translationKey}.duration`) ? tourT(`${translationKey}.duration`) : tour.duration;
+
+  const priceMatch = tour.price.match(/^From\s+(.+?)\s*pp$/i);
+  const translatedPrice = priceMatch ? `${t("from")} ${priceMatch[1]} ${t("perPerson")}`.trim().replace(/\s+/g, " ") : tour.price;
+
   const translatedHighlights = tour.highlights.map((highlight, i) =>
     tourT.has(`${translationKey}.highlights.${i}`)
       ? tourT(`${translationKey}.highlights.${i}`)
@@ -61,7 +66,7 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
         <h3 className="font-display text-xl text-forest-dark">{translatedTitle}</h3>
 
         <p className="mt-1 flex items-center gap-1.5 text-xs text-ink/60">
-          <Clock className="h-3.5 w-3.5" /> {tour.duration}
+          <Clock className="h-3.5 w-3.5" /> {translatedDuration}
         </p>
 
         <p className="mt-3 text-sm leading-relaxed text-ink/70">{translatedBlurb}</p>
@@ -76,7 +81,7 @@ export default function TourCard({ tour, index = 0 }: { tour: Tour; index?: numb
         </ul>
 
         <div className="mt-6 flex items-center justify-between border-t border-forest/10 pt-4">
-          <span className="text-sm font-semibold text-forest-dark">{tour.price}</span>
+          <span className="text-sm font-semibold text-forest-dark">{translatedPrice}</span>
 
           <div className="flex items-center gap-4">
             {tour.itinerary && (

@@ -233,8 +233,37 @@
       "Cultural Heritage Tours": "Cultural Heritage Tours",
       "Ayurveda & Wellness Tours": "Ayurveda & Wellness Tours",
       "Ramayana Tours": "Ramayana Tours"
-    }
+    },
+    "from": "From",
+    "perPerson": "pp"
   },
+"TourExplorer": {
+  "tourType": "Tour Type",
+  "allTourTypes": "All Tour Types",
+  "monthToTravel": "Month to Travel",
+  "allMonths": "All Months to Travel",
+  "search": "Search",
+  "tourTypesSummary": "{count} tour types — choose one to see its packages",
+  "packagesCount": "{count} packages",
+  "packageSummary": "{count} packages in {category}",
+  "bestIn": "best in",
+  "noTours": "No tours in this category yet — try another Tour Type.",
+  "months": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  }
+},
+
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -309,11 +338,502 @@
     "items": {
       "golden-grand-escape-5-day": {
         "title": "Golden Ceylon Escape",
-        "blurb": "Five days of private luxury across Sri Lanka's Cultural Triangle and hill capital, with nothing left to chance.",
+        "blurb": "Discover ancient fortresses, sacred temples and Sri Lanka's cultural heart on a privately guided five-day luxury escape.",
         "highlights": {
-          "0": "Private sunrise Sigiriya climb",
-          "1": "Candlelit rooftop dinner",
-          "2": "Temple of the Tooth evening ceremony"
+          "0": "Private journey through Sri Lanka's Cultural Triangle",
+          "1": "Pinnawala elephant experience",
+          "2": "Sigiriya Rock Fortress and Dambulla Cave Temple",
+          "3": "Temple of the Sacred Tooth Relic",
+          "4": "Luxury chauffeur-guided touring"
+        },
+        "duration": "5 Days / 4 Nights"
+      },
+      "highlands-ella-luxury-7-day": {
+        "title": "Highlands & Ella Luxury Journey",
+        "blurb": "Journey from ancient rock citadels into misty tea country and Ella's spectacular highlands on a private luxury escape.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Sigiriya Rock Fortress",
+          "1": "Sacred City of Kandy",
+          "2": "Ceylon tea plantation and factory visit",
+          "3": "Scenic Nanu Oya to Ella railway journey",
+          "4": "Nine Arch Bridge and Ella viewpoints"
+        }
+      },
+      "highlands-wildlife-luxury-8-day": {
+        "title": "Highlands & Wildlife Luxury Escape",
+        "blurb": "Combine Sri Lanka's ancient heritage, misty tea hills and unforgettable wildlife landscapes in one private luxury journey.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Luxury arrival in Negombo",
+          "1": "Sigiriya and Dambulla heritage",
+          "2": "Kandy's sacred cultural landmarks",
+          "3": "Scenic tea-country railway journey",
+          "4": "Private Yala National Park safari"
+        }
+      },
+      "grand-ceylon-luxury-10-day": {
+        "title": "Grand Ceylon Luxury Tour",
+        "blurb": "Explore Sri Lanka's ancient kingdoms, highland tea estates, wildlife reserves and southern coast on a private ten-day luxury journey.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Polonnaruwa UNESCO World Heritage Site",
+          "1": "Sigiriya Rock Fortress and Dambulla Cave Temple",
+          "2": "Luxury tea-country experience",
+          "3": "Scenic train journey to Ella",
+          "4": "Yala wildlife safari",
+          "5": "Mirissa and historic Galle Fort"
+        }
+      },
+      "ultimate-ceylon-luxury-12-day": {
+        "title": "The Ultimate Ceylon Luxury Journey",
+        "blurb": "Experience Sri Lanka's ancient kingdoms, tea-covered mountains, wildlife and southern coastline on an exceptional private luxury journey.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "Anuradhapura and Polonnaruwa UNESCO heritage",
+          "1": "Sigiriya Rock Fortress and Dambulla Cave Temple",
+          "2": "Sacred Kandy and the Temple of the Tooth",
+          "3": "Tea plantations and scenic hill-country railway",
+          "4": "Yala National Park wildlife safari",
+          "5": "Mirissa, Galle Fort and Bentota coastline"
+        }
+      },
+      "general-5-day-tour": {
+        "title": "Ceylon Discovery Escape",
+        "blurb": "A 5-day classic introduction to Sri Lanka's Cultural Triangle and hill capital — the essentials, well paced.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Sigiriya Rock Fortress",
+          "1": "Pinnawala Elephant Orphanage",
+          "2": "Dambulla Cave Temple",
+          "3": "Temple of the Tooth, Kandy"
+        }
+      },
+      "general-7-day-tour": {
+        "title": "The Essence of Ceylon",
+        "blurb": "A 7-day route adding misty hill country and the famous Kandy–Ella train ride to the classic Cultural Triangle circuit.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Sigiriya & Dambulla",
+          "1": "Scenic train to Ella",
+          "2": "Nine Arch Bridge & tea country"
+        }
+      },
+      "general-8-day-tour": {
+        "title": "Ceylon Wonders Journey",
+        "blurb": "Our 7-day hill country route with a full safari day added — culture, tea country and wildlife in one trip.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Cultural Triangle & tea country",
+          "1": "Nine Arch Bridge by train",
+          "2": "Yala safari"
+        }
+      },
+      "general-10-day-tour": {
+        "title": "The Grand Ceylon Experience",
+        "blurb": "Our 8-day culture-to-safari route, extended with an ancient city and proper time to relax on the south coast.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Ancient city of Polonnaruwa",
+          "1": "Hill country by train",
+          "2": "Yala safari & south coast beaches"
+        }
+      },
+      "general-12-day-tour": {
+        "title": "The Ultimate Sri Lanka Journey",
+        "blurb": "The most complete General Tour — both ancient capitals, hill country, safari and a proper south coast finish.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "Two ancient capitals",
+          "1": "Hill country by train",
+          "2": "Yala safari & extended south coast"
+        }
+      },
+      "family-pinnawala-kandy-bentota-5-day-tour": {
+        "title": "Little Explorers Family Escape",
+        "blurb": "A relaxed family escape combining memorable wildlife experiences, Kandy's cultural attractions and a beachside finish in Bentota.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Experience",
+          "1": "Kandy Cultural Heritage",
+          "2": "Kandy Lake & Royal Botanical Gardens",
+          "3": "Family-Friendly Turtle Conservation Visit",
+          "4": "Bentota River Safari",
+          "5": "Relaxing Family Beach Resort Stay"
+        }
+      },
+      "little-explorers-highlands-to-coast-7-day-tour": {
+        "title": "Little Explorers Highlands to Coast",
+        "blurb": "A family-friendly Sri Lankan adventure combining elephant encounters, cultural discoveries, misty tea-country scenery, a memorable train journey and relaxing beach days.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Experience",
+          "1": "Temple of the Sacred Tooth Relic",
+          "2": "Royal Botanical Gardens, Peradeniya",
+          "3": "Nuwara Eliya Tea Factory Experience",
+          "4": "Gregory Lake Family Pedal-Boat Ride",
+          "5": "Scenic Train Journey from Nanu Oya to Ella",
+          "6": "Nine Arch Bridge",
+          "7": "Ravana Falls",
+          "8": "Bentota River Safari",
+          "9": "Relaxing Family Beach Stay"
+        }
+      },
+      "family-elephant-highlands-wildlife-8-day-tour": {
+        "title": "Elephant, Highlands & Wildlife Family Escape",
+        "blurb": "A family adventure combining elephant encounters, hill-country scenery, a memorable train journey, wildlife safari and relaxing beach time.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Experience",
+          "1": "Kandy Lake & Spice Garden",
+          "2": "Temple of the Sacred Tooth Relic",
+          "3": "Royal Botanical Gardens, Peradeniya",
+          "4": "Tea Factory Visit in Nuwara Eliya",
+          "5": "Gregory Lake Pedal-Boat Ride",
+          "6": "Scenic Train Journey from Nanu Oya to Ella",
+          "7": "Nine Arch Bridge",
+          "8": "Udawalawe National Park Jeep Safari",
+          "9": "Elephant Transit Home Visit",
+          "10": "Bentota Beach Relaxation",
+          "11": "Optional Turtle Hatchery Visit"
+        }
+      },
+      "ultimate-family-sri-lanka-adventure-10-day-tour": {
+        "title": "Ultimate Family Sri Lanka Adventure",
+        "blurb": "A memorable 10-day family holiday combining ancient landmarks, elephants, cultural discoveries, scenic train travel, wildlife safaris and relaxing beach days.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Relaxing Arrival in Negombo",
+          "1": "Sigiriya Rock Fortress",
+          "2": "Traditional Village Tour & Canoe Ride",
+          "3": "Pinnawala Elephant Experience",
+          "4": "Kandy Cultural Heritage",
+          "5": "Royal Botanical Gardens, Peradeniya",
+          "6": "Nuwara Eliya Tea Factory Visit",
+          "7": "Gregory Lake Pedal-Boat Ride",
+          "8": "Scenic Train Journey from Nanu Oya to Ella",
+          "9": "Nine Arch Bridge",
+          "10": "Udawalawe National Park Jeep Safari",
+          "11": "Elephant Transit Home Visit",
+          "12": "Bentota Turtle Conservation Visit",
+          "13": "Bentota Beach & River Safari"
+        }
+      },
+      "sri-lanka-adventure-highlands-rainforest-coast-12-day-tour": {
+        "title": "Sri Lanka Adventure: Highlands, Rainforest & Coast",
+        "blurb": "An adventurous 12-day journey through Sri Lanka's highlands, tea plantations, rainforest wilderness, wildlife parks and spectacular southern coastline.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "White-Water Rafting in Kitulgala",
+          "1": "Nuwara Eliya Tea Factory & Tea Tasting",
+          "2": "Horton Plains National Park & World's End",
+          "3": "Lipton's Seat Panoramic Viewpoint",
+          "4": "Ella Hiking & Nine Arch Bridge",
+          "5": "Little Adam's Peak & Ravana Falls",
+          "6": "Udawalawe National Park Jeep Safari",
+          "7": "Sinharaja Rainforest Guided Trek",
+          "8": "Whale Watching in Mirissa",
+          "9": "Madu River Boat Safari",
+          "10": "Bentota Water Sports",
+          "11": "Colombo City Tour"
+        }
+      },
+      "adventure-5-day-tour": {
+        "title": "Wild Ceylon Escape",
+        "blurb": "A fast-paced 5-day route through rivers, rainforest canopy and hill-country trails.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Kitulgala whitewater rafting",
+          "1": "Rainforest canopy ziplining",
+          "2": "Ella hiking trails"
+        }
+      },
+      "adventure-7-day-tour": {
+        "title": "Ceylon Adventure Trails",
+        "blurb": "Our 5-day adventure sprint extended with a wildlife safari for a fuller adrenaline-and-nature route.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Kitulgala rafting & ziplining",
+          "1": "Ella hiking trails",
+          "2": "Yala jeep safari"
+        }
+      },
+      "adventure-8-day-tour": {
+        "title": "Beyond the Highlands",
+        "blurb": "Our 7-day river-to-safari route with a surf day on the south coast added.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Kitulgala rafting & ziplining",
+          "1": "Ella hiking & Yala safari",
+          "2": "Mirissa surfing"
+        }
+      },
+      "adventure-10-day-tour": {
+        "title": "Ultimate Adventure Sri Lanka",
+        "blurb": "Our 8-day river-to-surf circuit with Sigiriya's climbable fortress added at the start.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "udawalawa safari",
+          "1": "Ella hiking",
+          "2": "sinharaja trekking"
+        }
+      },
+      "sri-lanka-wildlife-safari-whale-watching-5-day-tour": {
+        "title": "Wildlife Safari & Whale Watching Escape",
+        "blurb": "A five-day wildlife adventure combining elephant encounters in Udawalawe, a safari through Yala's diverse habitats and an offshore whale-watching experience in Mirissa.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Udawalawe National Park Jeep Safari",
+          "1": "Wild Elephant Encounters",
+          "2": "Yala National Park Jeep Safari",
+          "3": "Leopard & Wildlife Tracking",
+          "4": "Mirissa Whale-Watching Excursion",
+          "5": "Dolphin Watching Opportunities",
+          "6": "Sri Lanka's Southern Coastal Scenery"
+        }
+      },
+      "coastal-love-escape-5-day-tour": {
+        "title": "Coastal Love Escape",
+        "blurb": "A romantic southern coast escape combining Mirissa's tropical beaches, Galle's historic charm and Bentota's relaxed beachfront luxury.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Romantic Mirissa Beach",
+          "1": "Coconut Tree Hill",
+          "2": "Historic Galle Fort",
+          "3": "Bentota Beachside Luxury",
+          "4": "Romantic Sunset & Dining Experiences"
+        }
+      },
+      "island-romance-7-day-tour": {
+        "title": "Island Romance Escape",
+        "blurb": "A romantic seven-day journey combining Kandy's cultural charm, Hiriketiya's tropical coastline, Mirissa's beautiful beaches, Galle's historic heritage and Bentota's relaxing beachfront luxury.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Romantic Kandy Lake & Temple of the Tooth",
+          "1": "Hiriketiya's Tropical Beach Escape",
+          "2": "Mirissa Beach & Coconut Tree Hill",
+          "3": "UNESCO-listed Galle Fort",
+          "4": "Bentota Beachside Luxury",
+          "5": "Sunset Experiences & Romantic Dining"
+        }
+      },
+      "highland-to-coast-romance-8-day-tour": {
+        "title": "Highland to Coast Romance",
+        "blurb": "A romantic eight-day escape combining Kandy's cultural charm, Nuwara Eliya's misty tea country and the tropical beaches of Hiriketiya, Mirissa, Galle and Bentota.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Kandy Cultural Heritage & Lake",
+          "1": "Nuwara Eliya Tea Plantations",
+          "2": "Romantic Hiriketiya Beach",
+          "3": "Mirissa Beach & Coconut Tree Hill",
+          "4": "UNESCO-listed Galle Fort",
+          "5": "Bentota Beachside Luxury",
+          "6": "Romantic Sunsets & Private Dining"
+        }
+      },
+      "grand-honeymoon-journey-10-day-tour": {
+        "title": "The Grand Honeymoon Journey",
+        "blurb": "A comprehensive romantic journey combining ancient heritage, misty tea hills, wildlife encounters and the beauty of Sri Lanka's southern coast.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Sigiriya Rock Fortress",
+          "1": "Temple of the Sacred Tooth Relic",
+          "2": "Nuwara Eliya Tea Plantations",
+          "3": "Scenic Train Journey to Ella",
+          "4": "Yala National Park Safari",
+          "5": "Galle Fort & Mirissa Beach"
+        }
+      },
+      "ultimate-ceylon-love-story-12-day-tour": {
+        "title": "The Ultimate Ceylon Love Story",
+        "blurb": "An extended luxury journey through Sri Lanka's ancient kingdoms, misty tea country, wildlife-rich wilderness and peaceful southern coastline.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "Sigiriya Rock Fortress",
+          "1": "Ancient City of Polonnaruwa",
+          "2": "Sacred City of Kandy",
+          "3": "Nuwara Eliya Tea Country",
+          "4": "Ella's Scenic Highlands",
+          "5": "Yala National Park Safari",
+          "6": "Tangalle Coastal Retreat",
+          "7": "Galle Fort — UNESCO World Heritage Site"
+        }
+      },
+      "sigiriya-kandy-cultural-heritage-5-day-tour": {
+        "title": "Sigiriya & Kandy Cultural Heritage",
+        "blurb": "Discover Sri Lanka's cultural heritage through the ancient rock fortress of Sigiriya, the sacred temples of Dambulla and Kandy, traditional village life and Colombo's distinctive religious architecture.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Orphanage",
+          "1": "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+          "2": "Complimentary Village Safari & Traditional Lunch",
+          "3": "Pidurangala Rock Viewpoint",
+          "4": "Dambulla Cave Temple — UNESCO World Heritage Site",
+          "5": "Temple of the Sacred Tooth Relic",
+          "6": "Royal Botanical Gardens, Peradeniya",
+          "7": "Traditional Kandyan Cultural Dance",
+          "8": "Gangaramaya Temple, Colombo"
+        }
+      },
+      "sri-lanka-sacred-cities-cultural-heritage-7-day-tour": {
+        "title": "Sri Lanka Sacred Cities & Cultural Heritage",
+        "blurb": "Discover Sri Lanka's sacred cities, ancient kingdoms and living traditions on a seven-day cultural journey from Anuradhapura to Sigiriya, Kandy and Colombo.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Orphanage",
+          "1": "Anuradhapura Sacred City — UNESCO World Heritage Site",
+          "2": "Sri Maha Bodhi & Atamasthana",
+          "3": "Ruwanwelisaya Stupa",
+          "4": "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+          "5": "Pidurangala Rock Viewpoint",
+          "6": "Traditional Village Safari & Sri Lankan Lunch",
+          "7": "Dambulla Cave Temple — UNESCO World Heritage Site",
+          "8": "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+          "9": "Royal Botanical Gardens, Peradeniya",
+          "10": "Traditional Kandyan Cultural Dance",
+          "11": "Pettah Bazaar & Colombo City Experience",
+          "12": "Gangaramaya Temple & Colombo National Museum"
+        }
+      },
+      "sri-lanka-ancient-kingdoms-unesco-heritage-8-day-tour": {
+        "title": "Sri Lanka Ancient Kingdoms & UNESCO Heritage",
+        "blurb": "Journey through Sri Lanka's ancient kingdoms and UNESCO World Heritage Sites, discovering sacred Buddhist cities, remarkable rock-cut sculptures, royal citadels and the living traditions of Kandy and Colombo.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Pinnawala Elephant Orphanage",
+          "1": "Anuradhapura Sacred City — UNESCO World Heritage Site",
+          "2": "Sri Maha Bodhi & Atamasthana",
+          "3": "Mihintale — Sacred Buddhist Heritage",
+          "4": "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+          "5": "Cycling Through Ancient Polonnaruwa",
+          "6": "Royal Palace of King Parakramabahu",
+          "7": "Polonnaruwa Quadrangle, Vatadage & Hatadage",
+          "8": "Gal Vihara Rock-Cut Buddha Statues",
+          "9": "Rankoth Vehera & Parakrama Samudra",
+          "10": "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+          "11": "Pidurangala Rock Viewpoint",
+          "12": "Traditional Village Safari & Sri Lankan Lunch",
+          "13": "Dambulla Cave Temple — UNESCO World Heritage Site",
+          "14": "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+          "15": "Royal Botanical Gardens, Peradeniya",
+          "16": "Traditional Kandyan Cultural Dance",
+          "17": "Pettah Bazaar & Colombo Heritage"
+        }
+      },
+      "sri-lanka-ancient-kingdoms-galle-heritage-10-day-tour": {
+        "title": "Ancient Kingdoms & Galle Heritage Journey",
+        "blurb": "Explore Sri Lanka's ancient kingdoms, sacred Buddhist landmarks and colonial coastal heritage on a ten-day private journey from Anuradhapura and Sigiriya to Kandy, Galle Fort and Colombo.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Sri Maha Bodhi — Anuradhapura Sacred City",
+          "1": "Anuradhapura's Ancient Buddhist Stupas",
+          "2": "Jetavanaramaya & Abhayagiri Stupas",
+          "3": "Isurumuniya Rock Temple",
+          "4": "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+          "5": "Cycling Through Medieval Polonnaruwa",
+          "6": "Gal Vihara Rock-Cut Buddha Sculptures",
+          "7": "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+          "8": "Pidurangala Rock Viewpoint",
+          "9": "Dambulla Cave Temple — UNESCO World Heritage Site",
+          "10": "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+          "11": "Royal Botanical Gardens, Peradeniya",
+          "12": "Traditional Kandyan Cultural Dance",
+          "13": "Galle Fort — UNESCO World Heritage Site",
+          "14": "Dutch Reformed Church & Maritime Museum",
+          "15": "Pettah Bazaar, Colombo",
+          "16": "Gangaramaya Temple & Colombo National Museum"
+        }
+      },
+      "sri-lanka-sacred-kingdoms-hidden-heritage-12-day-tour": {
+        "title": "Sacred Kingdoms & Hidden Heritage of Sri Lanka",
+        "blurb": "Discover Sri Lanka's sacred ancient capitals, secluded forest monasteries, remarkable archaeological treasures and colonial coastal heritage on a twelve-day private cultural journey.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "Sri Maha Bodhi — Anuradhapura",
+          "1": "Anuradhapura Sacred City — UNESCO World Heritage Site",
+          "2": "Jetavanaramaya & Abhayagiri Stupas",
+          "3": "Isurumuniya Rock Temple",
+          "4": "Ritigala Forest Monastery Ruins",
+          "5": "Mihintale — Sacred Buddhist Heritage",
+          "6": "Polonnaruwa Ancient City — UNESCO World Heritage Site",
+          "7": "Cycling Through Medieval Polonnaruwa",
+          "8": "Gal Vihara Rock-Cut Buddha Sculptures",
+          "9": "Sigiriya Rock Fortress — UNESCO World Heritage Site",
+          "10": "Pidurangala Rock Viewpoint",
+          "11": "Dambulla Cave Temple — UNESCO World Heritage Site",
+          "12": "Temple of the Sacred Tooth Relic — UNESCO World Heritage Site",
+          "13": "Royal Botanical Gardens, Peradeniya",
+          "14": "Traditional Kandyan Cultural Dance",
+          "15": "Galle Fort — UNESCO World Heritage Site",
+          "16": "Dutch Reformed Church & Maritime Museum",
+          "17": "Colombo National Museum",
+          "18": "Gangaramaya Temple & Pettah Bazaar"
+        }
+      },
+      "ramayana-highlights-5-day": {
+        "title": "Ramayana Highlights of Sri Lanka",
+        "blurb": "Discover Sri Lanka's best-known Ramayana-associated temples, sacred landscapes and legendary sites on a private five-day journey.",
+        "duration": "5 Days / 4 Nights",
+        "highlights": {
+          "0": "Munneswaram and Manavari Temples",
+          "1": "Temple of the Sacred Tooth Relic",
+          "2": "Sri Bhakta Hanuman Temple",
+          "3": "Seetha Amman Temple and Ashok Vatika traditions",
+          "4": "Ravana Falls and Ravana Cave"
+        }
+      },
+      "ramayana-sacred-trail-7-day": {
+        "title": "Ramayana Sacred Trail of Sri Lanka",
+        "blurb": "Explore major Ramayana-associated sites from the western coast to the highlands and southern shoreline.",
+        "duration": "7 Days / 6 Nights",
+        "highlights": {
+          "0": "Munneswaram and Manavari Temples",
+          "1": "Sri Bhakta Hanuman Temple",
+          "2": "Seetha Amman Temple and Divurumpola",
+          "3": "Ravana Falls and Ravana Cave",
+          "4": "Ussangoda and Galle's coastal heritage",
+          "5": "Kelaniya and Panchamuga Anjaneyar Temple"
+        }
+      },
+      "complete-ramayana-yatra-8-day": {
+        "title": "Complete Ramayana Yatra",
+        "blurb": "A broader Ramayana pilgrimage linking the west coast, Trincomalee, the central highlands and Ella.",
+        "duration": "8 Days / 7 Nights",
+        "highlights": {
+          "0": "Munneswaram and Manavari Temples",
+          "1": "Koneswaram Temple and Kanniya Hot Springs",
+          "2": "Sigiriya and Dambulla heritage",
+          "3": "Sri Bhakta Hanuman Temple",
+          "4": "Seetha Amman Temple and Divurumpola",
+          "5": "Ravana Falls and Ravana Cave"
+        }
+      },
+      "ramayana-heritage-legends-10-day": {
+        "title": "Ramayana Heritage & Legends",
+        "blurb": "A comprehensive Ramayana-themed journey through the island's major pilgrimage regions and southern landscapes.",
+        "duration": "10 Days / 9 Nights",
+        "highlights": {
+          "0": "Munneswaram and Manavari Temples",
+          "1": "Koneswaram Temple and Kanniya Hot Springs",
+          "2": "Sigiriya and Dambulla",
+          "3": "Sri Bhakta Hanuman and Seetha Amman Temples",
+          "4": "Divurumpola, Ravana Cave and Ravana Falls",
+          "5": "Kataragama and Ussangoda",
+          "6": "Galle Fort and Kelaniya"
+        }
+      },
+      "ultimate-ramayana-pilgrimage-12-day": {
+        "title": "Ultimate Ramayana Pilgrimage of Sri Lanka",
+        "blurb": "A more relaxed Ramayana pilgrimage combining major temple regions, sacred heritage, highland landscapes and the southern coast.",
+        "duration": "12 Days / 11 Nights",
+        "highlights": {
+          "0": "Munneswaram and Manavari Temples",
+          "1": "Anuradhapura sacred heritage",
+          "2": "Koneswaram Temple, Shankari Devi and Kanniya Hot Springs",
+          "3": "Sigiriya and Dambulla UNESCO heritage",
+          "4": "Sri Bhakta Hanuman Temple and Seetha Amman Temple",
+          "5": "Divurumpola, Ravana Cave and Ravana Falls",
+          "6": "Kataragama, Ussangoda, Galle and Kelaniya"
         }
       }
     }
