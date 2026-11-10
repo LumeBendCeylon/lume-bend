@@ -1,0 +1,502 @@
+{
+ "golden-grand-escape-5-day": {
+  "title": "Escapade Dorée à Ceylan",
+  "blurb": "Découvrez forteresses antiques, temples sacrés et cœur culturel du Sri Lanka lors d’une escapade de luxe de cinq jours, guidée en privé.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Voyage privé à travers le Triangle culturel du Sri Lanka",
+   "Expérience avec les éléphants de Pinnawala",
+   "Forteresse rocheuse de Sigiriya et temple troglodyte de Dambulla",
+   "Temple de la Dent sacrée",
+   "Circuit de luxe avec chauffeur-guide"
+  ]
+ },
+ "highlands-ella-luxury-7-day": {
+  "title": "Voyage de luxe dans les Hautes Terres et à Ella",
+  "blurb": "Des citadelles rocheuses antiques aux collines brumeuses du pays du thé et aux spectaculaires hauts plateaux d’Ella, lors d’une escapade de luxe privée.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Forteresse rocheuse de Sigiriya",
+   "Ville sacrée de Kandy",
+   "Visite d’une plantation et d’une usine de thé de Ceylan",
+   "Pittoresque trajet en train de Nanu Oya à Ella",
+   "Pont aux Neuf Arches et points de vue d’Ella"
+  ]
+ },
+ "highlands-wildlife-luxury-8-day": {
+  "title": "Escapade de luxe : Hautes Terres et faune sauvage",
+  "blurb": "Alliez le patrimoine antique du Sri Lanka, ses collines de thé embrumées et d’inoubliables paysages sauvages lors d’un voyage de luxe privé.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Arrivée de luxe à Negombo",
+   "Patrimoine de Sigiriya et de Dambulla",
+   "Sites culturels sacrés de Kandy",
+   "Pittoresque trajet en train à travers le pays du thé",
+   "Safari privé dans le parc national de Yala"
+  ]
+ },
+ "grand-ceylon-luxury-10-day": {
+  "title": "Grand circuit de luxe à Ceylan",
+  "blurb": "Explorez les royaumes antiques du Sri Lanka, ses domaines de thé des hautes terres, ses réserves fauniques et sa côte sud lors d’un voyage de luxe privé de dix jours.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Polonnaruwa, site du patrimoine mondial de l’UNESCO",
+   "Forteresse rocheuse de Sigiriya et temple troglodyte de Dambulla",
+   "Expérience de luxe dans le pays du thé",
+   "Pittoresque trajet en train jusqu’à Ella",
+   "Safari faunique à Yala",
+   "Mirissa et le fort historique de Galle"
+  ]
+ },
+ "ultimate-ceylon-luxury-12-day": {
+  "title": "Le voyage de luxe ultime à Ceylan",
+  "blurb": "Vivez les royaumes antiques du Sri Lanka, ses montagnes couvertes de thé, sa faune sauvage et son littoral sud lors d’un voyage de luxe privé d’exception.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Patrimoine UNESCO d’Anuradhapura et de Polonnaruwa",
+   "Forteresse rocheuse de Sigiriya et temple troglodyte de Dambulla",
+   "Kandy la sacrée et le Temple de la Dent",
+   "Plantations de thé et pittoresque ligne ferroviaire des hautes terres",
+   "Safari faunique dans le parc national de Yala",
+   "Mirissa, fort de Galle et côte de Bentota"
+  ]
+ },
+ "general-5-day-tour": {
+  "title": "Escapade à la découverte de Ceylan",
+  "blurb": "Une introduction classique de 5 jours au Triangle culturel du Sri Lanka et à la capitale des hautes terres : l’essentiel, à un rythme agréable.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Forteresse rocheuse de Sigiriya",
+   "Orphelinat d’éléphants de Pinnawala",
+   "Temple troglodyte de Dambulla",
+   "Temple de la Dent, Kandy"
+  ]
+ },
+ "general-7-day-tour": {
+  "title": "L’essence de Ceylan",
+  "blurb": "Un itinéraire de 7 jours qui ajoute les collines brumeuses et le célèbre trajet en train Kandy–Ella au circuit classique du Triangle culturel.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Sigiriya et Dambulla",
+   "Pittoresque trajet en train jusqu’à Ella",
+   "Pont aux Neuf Arches et pays du thé"
+  ]
+ },
+ "general-8-day-tour": {
+  "title": "Voyage aux merveilles de Ceylan",
+  "blurb": "Notre itinéraire de 7 jours dans les hautes terres, avec une journée de safari complète en plus : culture, pays du thé et faune sauvage en un seul voyage.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Triangle culturel et pays du thé",
+   "Pont aux Neuf Arches en train",
+   "Safari à Yala"
+  ]
+ },
+ "general-10-day-tour": {
+  "title": "La grande expérience de Ceylan",
+  "blurb": "Notre itinéraire de 8 jours de la culture au safari, prolongé par une cité antique et un vrai temps de détente sur la côte sud.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Cité antique de Polonnaruwa",
+   "Hautes terres en train",
+   "Safari à Yala et plages de la côte sud"
+  ]
+ },
+ "general-12-day-tour": {
+  "title": "Le voyage ultime au Sri Lanka",
+  "blurb": "Le circuit classique le plus complet : les deux capitales antiques, les hautes terres, le safari et une belle fin de séjour sur la côte sud.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Deux capitales antiques",
+   "Hautes terres en train",
+   "Safari à Yala et séjour prolongé sur la côte sud"
+  ]
+ },
+ "family-pinnawala-kandy-bentota-5-day-tour": {
+  "title": "Escapade en famille des Petits Explorateurs",
+  "blurb": "Une escapade familiale détendue alliant expériences inoubliables avec la faune, attractions culturelles de Kandy et fin de séjour en bord de mer à Bentota.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Expérience avec les éléphants de Pinnawala",
+   "Patrimoine culturel de Kandy",
+   "Lac de Kandy et Jardins botaniques royaux",
+   "Visite familiale d’un centre de protection des tortues",
+   "Safari fluvial à Bentota",
+   "Séjour en famille dans un complexe balnéaire"
+  ]
+ },
+ "little-explorers-highlands-to-coast-7-day-tour": {
+  "title": "Les Petits Explorateurs : des hautes terres à la côte",
+  "blurb": "Une aventure sri-lankaise adaptée aux familles : rencontres avec les éléphants, découvertes culturelles, paysages brumeux du pays du thé, trajet en train mémorable et journées de plage détendues.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Expérience avec les éléphants de Pinnawala",
+   "Temple de la Dent sacrée",
+   "Jardins botaniques royaux de Peradeniya",
+   "Visite d’une usine de thé à Nuwara Eliya",
+   "Balade en pédalo en famille sur le lac Gregory",
+   "Pittoresque trajet en train de Nanu Oya à Ella",
+   "Pont aux Neuf Arches",
+   "Chutes de Ravana",
+   "Safari fluvial à Bentota",
+   "Séjour détente en famille à la plage"
+  ]
+ },
+ "family-elephant-highlands-wildlife-8-day-tour": {
+  "title": "Escapade en famille : éléphants, hautes terres et faune sauvage",
+  "blurb": "Une aventure familiale alliant rencontres avec les éléphants, paysages des hautes terres, trajet en train mémorable, safari et détente à la plage.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Expérience avec les éléphants de Pinnawala",
+   "Lac de Kandy et jardin d’épices",
+   "Temple de la Dent sacrée",
+   "Jardins botaniques royaux de Peradeniya",
+   "Visite d’une usine de thé à Nuwara Eliya",
+   "Balade en pédalo sur le lac Gregory",
+   "Pittoresque trajet en train de Nanu Oya à Ella",
+   "Pont aux Neuf Arches",
+   "Safari en jeep dans le parc national d’Udawalawe",
+   "Visite de l’Elephant Transit Home",
+   "Détente sur la plage de Bentota",
+   "Visite facultative d’un centre d’incubation de tortues"
+  ]
+ },
+ "ultimate-family-sri-lanka-adventure-10-day-tour": {
+  "title": "L’aventure familiale ultime au Sri Lanka",
+  "blurb": "Des vacances en famille inoubliables de 10 jours alliant sites antiques, éléphants, découvertes culturelles, pittoresques trajets en train, safaris et journées de plage détendues.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Arrivée tout en douceur à Negombo",
+   "Forteresse rocheuse de Sigiriya",
+   "Visite d’un village traditionnel et balade en canoë",
+   "Expérience avec les éléphants de Pinnawala",
+   "Patrimoine culturel de Kandy",
+   "Jardins botaniques royaux de Peradeniya",
+   "Visite d’une usine de thé à Nuwara Eliya",
+   "Balade en pédalo sur le lac Gregory",
+   "Pittoresque trajet en train de Nanu Oya à Ella",
+   "Pont aux Neuf Arches",
+   "Safari en jeep dans le parc national d’Udawalawe",
+   "Visite de l’Elephant Transit Home",
+   "Visite d’un centre de protection des tortues à Bentota",
+   "Plage et safari fluvial à Bentota"
+  ]
+ },
+ "sri-lanka-adventure-highlands-rainforest-coast-12-day-tour": {
+  "title": "Aventure au Sri Lanka : hautes terres, forêt tropicale et côte",
+  "blurb": "Un voyage d’aventure de 12 jours à travers les hautes terres du Sri Lanka, ses plantations de thé, sa forêt tropicale sauvage, ses parcs animaliers et son spectaculaire littoral sud.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Rafting en eaux vives à Kitulgala",
+   "Usine de thé et dégustation à Nuwara Eliya",
+   "Parc national de Horton Plains et World’s End",
+   "Point de vue panoramique de Lipton’s Seat",
+   "Randonnée à Ella et Pont aux Neuf Arches",
+   "Little Adam’s Peak et chutes de Ravana",
+   "Safari en jeep dans le parc national d’Udawalawe",
+   "Trek guidé dans la forêt tropicale de Sinharaja",
+   "Observation des baleines à Mirissa",
+   "Safari en bateau sur la rivière Madu",
+   "Sports nautiques à Bentota",
+   "Visite de la ville de Colombo"
+  ]
+ },
+ "adventure-5-day-tour": {
+  "title": "Escapade sauvage à Ceylan",
+  "blurb": "Un itinéraire dynamique de 5 jours entre rivières, canopée de la forêt tropicale et sentiers des hautes terres.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Rafting en eaux vives à Kitulgala",
+   "Tyrolienne dans la canopée de la forêt tropicale",
+   "Sentiers de randonnée d’Ella"
+  ]
+ },
+ "adventure-7-day-tour": {
+  "title": "Sentiers d’aventure de Ceylan",
+  "blurb": "Notre sprint d’aventure de 5 jours prolongé par un safari faunique, pour un itinéraire plus riche en adrénaline et en nature.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Rafting et tyrolienne à Kitulgala",
+   "Sentiers de randonnée d’Ella",
+   "Safari en jeep à Yala"
+  ]
+ },
+ "adventure-8-day-tour": {
+  "title": "Au-delà des hautes terres",
+  "blurb": "Notre itinéraire de 7 jours des rivières au safari, avec une journée de surf sur la côte sud en plus.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Rafting et tyrolienne à Kitulgala",
+   "Randonnée à Ella et safari à Yala",
+   "Surf à Mirissa"
+  ]
+ },
+ "adventure-10-day-tour": {
+  "title": "L’aventure ultime au Sri Lanka",
+  "blurb": "Notre circuit de 8 jours des rivières au surf, avec en plus, au départ, la forteresse de Sigiriya que l’on peut gravir.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Safari à Udawalawe",
+   "Randonnée à Ella",
+   "Trekking à Sinharaja"
+  ]
+ },
+ "sri-lanka-wildlife-safari-whale-watching-5-day-tour": {
+  "title": "Escapade safari et observation des baleines",
+  "blurb": "Une aventure faunique de cinq jours alliant rencontres avec les éléphants à Udawalawe, safari à travers les habitats variés de Yala et sortie en mer pour observer les baleines à Mirissa.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Safari en jeep dans le parc national d’Udawalawe",
+   "Rencontres avec des éléphants sauvages",
+   "Safari en jeep dans le parc national de Yala",
+   "Pistage des léopards et de la faune",
+   "Sortie d’observation des baleines à Mirissa",
+   "Possibilités d’observation des dauphins",
+   "Paysages côtiers du sud du Sri Lanka"
+  ]
+ },
+ "coastal-love-escape-5-day-tour": {
+  "title": "Escapade romantique sur la côte",
+  "blurb": "Une escapade romantique sur la côte sud alliant les plages tropicales de Mirissa, le charme historique de Galle et le luxe balnéaire décontracté de Bentota.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Plage romantique de Mirissa",
+   "Coconut Tree Hill",
+   "Fort historique de Galle",
+   "Luxe en bord de plage à Bentota",
+   "Couchers de soleil et dîners romantiques"
+  ]
+ },
+ "island-romance-7-day-tour": {
+  "title": "Escapade romantique sur l’île",
+  "blurb": "Un voyage romantique de sept jours alliant le charme culturel de Kandy, le littoral tropical de Hiriketiya, les belles plages de Mirissa, le patrimoine historique de Galle et le luxe balnéaire de Bentota.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Lac de Kandy romantique et Temple de la Dent",
+   "Escapade sur la plage tropicale de Hiriketiya",
+   "Plage de Mirissa et Coconut Tree Hill",
+   "Fort de Galle, classé à l’UNESCO",
+   "Luxe en bord de plage à Bentota",
+   "Couchers de soleil et dîners romantiques"
+  ]
+ },
+ "highland-to-coast-romance-8-day-tour": {
+  "title": "Romance des hautes terres à la côte",
+  "blurb": "Une escapade romantique de huit jours alliant le charme culturel de Kandy, le pays du thé brumeux de Nuwara Eliya et les plages tropicales de Hiriketiya, Mirissa, Galle et Bentota.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Patrimoine culturel et lac de Kandy",
+   "Plantations de thé de Nuwara Eliya",
+   "Plage romantique de Hiriketiya",
+   "Plage de Mirissa et Coconut Tree Hill",
+   "Fort de Galle, classé à l’UNESCO",
+   "Luxe en bord de plage à Bentota",
+   "Couchers de soleil romantiques et dîners privés"
+  ]
+ },
+ "grand-honeymoon-journey-10-day-tour": {
+  "title": "Le grand voyage de noces",
+  "blurb": "Un voyage romantique complet alliant patrimoine antique, collines de thé brumeuses, rencontres avec la faune et beauté de la côte sud du Sri Lanka.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Forteresse rocheuse de Sigiriya",
+   "Temple de la Dent sacrée",
+   "Plantations de thé de Nuwara Eliya",
+   "Pittoresque trajet en train jusqu’à Ella",
+   "Safari dans le parc national de Yala",
+   "Fort de Galle et plage de Mirissa"
+  ]
+ },
+ "ultimate-ceylon-love-story-12-day-tour": {
+  "title": "La plus belle histoire d’amour de Ceylan",
+  "blurb": "Un voyage de luxe prolongé à travers les royaumes antiques du Sri Lanka, son pays du thé brumeux, sa nature sauvage riche en faune et son paisible littoral sud.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Forteresse rocheuse de Sigiriya",
+   "Cité antique de Polonnaruwa",
+   "Kandy la sacrée",
+   "Pays du thé de Nuwara Eliya",
+   "Pittoresques hauts plateaux d’Ella",
+   "Safari dans le parc national de Yala",
+   "Retraite côtière à Tangalle",
+   "Fort de Galle, site du patrimoine mondial de l’UNESCO"
+  ]
+ },
+ "sigiriya-kandy-cultural-heritage-5-day-tour": {
+  "title": "Patrimoine culturel de Sigiriya et de Kandy",
+  "blurb": "Découvrez le patrimoine culturel du Sri Lanka à travers l’antique forteresse rocheuse de Sigiriya, les temples sacrés de Dambulla et de Kandy, la vie traditionnelle des villages et l’architecture religieuse singulière de Colombo.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Orphelinat d’éléphants de Pinnawala",
+   "Forteresse rocheuse de Sigiriya, site du patrimoine mondial de l’UNESCO",
+   "Safari en village offert et déjeuner traditionnel",
+   "Point de vue du rocher de Pidurangala",
+   "Temple troglodyte de Dambulla, site du patrimoine mondial de l’UNESCO",
+   "Temple de la Dent sacrée",
+   "Jardins botaniques royaux de Peradeniya",
+   "Danse culturelle traditionnelle de Kandy",
+   "Temple Gangaramaya, Colombo"
+  ]
+ },
+ "sri-lanka-sacred-cities-cultural-heritage-7-day-tour": {
+  "title": "Villes sacrées et patrimoine culturel du Sri Lanka",
+  "blurb": "Découvrez les villes sacrées, les royaumes antiques et les traditions vivantes du Sri Lanka lors d’un voyage culturel de sept jours, d’Anuradhapura à Colombo en passant par Sigiriya et Kandy.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Orphelinat d’éléphants de Pinnawala",
+   "Cité sacrée d’Anuradhapura, site du patrimoine mondial de l’UNESCO",
+   "Sri Maha Bodhi et Atamasthana",
+   "Stupa de Ruwanwelisaya",
+   "Forteresse rocheuse de Sigiriya, site du patrimoine mondial de l’UNESCO",
+   "Point de vue du rocher de Pidurangala",
+   "Safari en village traditionnel et déjeuner sri-lankais",
+   "Temple troglodyte de Dambulla, site du patrimoine mondial de l’UNESCO",
+   "Temple de la Dent sacrée, site du patrimoine mondial de l’UNESCO",
+   "Jardins botaniques royaux de Peradeniya",
+   "Danse culturelle traditionnelle de Kandy",
+   "Bazar de Pettah et découverte de Colombo",
+   "Temple Gangaramaya et Musée national de Colombo"
+  ]
+ },
+ "sri-lanka-ancient-kingdoms-unesco-heritage-8-day-tour": {
+  "title": "Royaumes antiques et patrimoine UNESCO du Sri Lanka",
+  "blurb": "Voyagez à travers les royaumes antiques et les sites du patrimoine mondial de l’UNESCO du Sri Lanka : cités bouddhiques sacrées, remarquables sculptures rupestres, citadelles royales et traditions vivantes de Kandy et de Colombo.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Orphelinat d’éléphants de Pinnawala",
+   "Cité sacrée d’Anuradhapura, site du patrimoine mondial de l’UNESCO",
+   "Sri Maha Bodhi et Atamasthana",
+   "Mihintale, patrimoine bouddhique sacré",
+   "Cité antique de Polonnaruwa, site du patrimoine mondial de l’UNESCO",
+   "À vélo à travers l’antique Polonnaruwa",
+   "Palais royal du roi Parakramabahu",
+   "Quadrilatère de Polonnaruwa, Vatadage et Hatadage",
+   "Statues de Bouddha sculptées dans la roche de Gal Vihara",
+   "Rankoth Vehera et Parakrama Samudra",
+   "Forteresse rocheuse de Sigiriya, site du patrimoine mondial de l’UNESCO",
+   "Point de vue du rocher de Pidurangala",
+   "Safari en village traditionnel et déjeuner sri-lankais",
+   "Temple troglodyte de Dambulla, site du patrimoine mondial de l’UNESCO",
+   "Temple de la Dent sacrée, site du patrimoine mondial de l’UNESCO",
+   "Jardins botaniques royaux de Peradeniya",
+   "Danse culturelle traditionnelle de Kandy",
+   "Bazar de Pettah et patrimoine de Colombo"
+  ]
+ },
+ "sri-lanka-ancient-kingdoms-galle-heritage-10-day-tour": {
+  "title": "Royaumes antiques et patrimoine de Galle",
+  "blurb": "Explorez les royaumes antiques, les hauts lieux bouddhiques et le patrimoine colonial côtier du Sri Lanka lors d’un voyage privé de dix jours, d’Anuradhapura et Sigiriya à Kandy, au fort de Galle et à Colombo.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Sri Maha Bodhi, cité sacrée d’Anuradhapura",
+   "Stupas bouddhiques antiques d’Anuradhapura",
+   "Stupas de Jetavanaramaya et d’Abhayagiri",
+   "Temple rupestre d’Isurumuniya",
+   "Cité antique de Polonnaruwa, site du patrimoine mondial de l’UNESCO",
+   "À vélo à travers la Polonnaruwa médiévale",
+   "Sculptures de Bouddha taillées dans la roche de Gal Vihara",
+   "Forteresse rocheuse de Sigiriya, site du patrimoine mondial de l’UNESCO",
+   "Point de vue du rocher de Pidurangala",
+   "Temple troglodyte de Dambulla, site du patrimoine mondial de l’UNESCO",
+   "Temple de la Dent sacrée, site du patrimoine mondial de l’UNESCO",
+   "Jardins botaniques royaux de Peradeniya",
+   "Danse culturelle traditionnelle de Kandy",
+   "Fort de Galle, site du patrimoine mondial de l’UNESCO",
+   "Église réformée néerlandaise et Musée maritime",
+   "Bazar de Pettah, Colombo",
+   "Temple Gangaramaya et Musée national de Colombo"
+  ]
+ },
+ "sri-lanka-sacred-kingdoms-hidden-heritage-12-day-tour": {
+  "title": "Royaumes sacrés et patrimoine caché du Sri Lanka",
+  "blurb": "Découvrez les capitales antiques sacrées du Sri Lanka, ses monastères forestiers isolés, ses remarquables trésors archéologiques et son patrimoine colonial côtier lors d’un voyage culturel privé de douze jours.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Sri Maha Bodhi, Anuradhapura",
+   "Cité sacrée d’Anuradhapura, site du patrimoine mondial de l’UNESCO",
+   "Stupas de Jetavanaramaya et d’Abhayagiri",
+   "Temple rupestre d’Isurumuniya",
+   "Ruines du monastère forestier de Ritigala",
+   "Mihintale, patrimoine bouddhique sacré",
+   "Cité antique de Polonnaruwa, site du patrimoine mondial de l’UNESCO",
+   "À vélo à travers la Polonnaruwa médiévale",
+   "Sculptures de Bouddha taillées dans la roche de Gal Vihara",
+   "Forteresse rocheuse de Sigiriya, site du patrimoine mondial de l’UNESCO",
+   "Point de vue du rocher de Pidurangala",
+   "Temple troglodyte de Dambulla, site du patrimoine mondial de l’UNESCO",
+   "Temple de la Dent sacrée, site du patrimoine mondial de l’UNESCO",
+   "Jardins botaniques royaux de Peradeniya",
+   "Danse culturelle traditionnelle de Kandy",
+   "Fort de Galle, site du patrimoine mondial de l’UNESCO",
+   "Église réformée néerlandaise et Musée maritime",
+   "Musée national de Colombo",
+   "Temple Gangaramaya et bazar de Pettah"
+  ]
+ },
+ "ramayana-highlights-5-day": {
+  "title": "Les incontournables du Ramayana au Sri Lanka",
+  "blurb": "Découvrez les temples, paysages sacrés et sites légendaires les plus connus du Sri Lanka liés au Ramayana lors d’un voyage privé de cinq jours.",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+   "Temples de Munneswaram et de Manavari",
+   "Temple de la Dent sacrée",
+   "Temple Sri Bhakta Hanuman",
+   "Temple Seetha Amman et traditions d’Ashok Vatika",
+   "Chutes et grotte de Ravana"
+  ]
+ },
+ "ramayana-sacred-trail-7-day": {
+  "title": "Sentier sacré du Ramayana au Sri Lanka",
+  "blurb": "Explorez les principaux sites liés au Ramayana, de la côte ouest aux hautes terres puis au littoral sud.",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+   "Temples de Munneswaram et de Manavari",
+   "Temple Sri Bhakta Hanuman",
+   "Temple Seetha Amman et Divurumpola",
+   "Chutes et grotte de Ravana",
+   "Ussangoda et patrimoine côtier de Galle",
+   "Kelaniya et temple Panchamuga Anjaneyar"
+  ]
+ },
+ "complete-ramayana-yatra-8-day": {
+  "title": "Yatra complet du Ramayana",
+  "blurb": "Un pèlerinage du Ramayana plus étendu, reliant la côte ouest, Trincomalee, les hautes terres centrales et Ella.",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+   "Temples de Munneswaram et de Manavari",
+   "Temple de Koneswaram et sources chaudes de Kanniya",
+   "Patrimoine de Sigiriya et de Dambulla",
+   "Temple Sri Bhakta Hanuman",
+   "Temple Seetha Amman et Divurumpola",
+   "Chutes et grotte de Ravana"
+  ]
+ },
+ "ramayana-heritage-legends-10-day": {
+  "title": "Ramayana : patrimoine et légendes",
+  "blurb": "Un voyage complet sur le thème du Ramayana à travers les principales régions de pèlerinage de l’île et les paysages du sud.",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+   "Temples de Munneswaram et de Manavari",
+   "Temple de Koneswaram et sources chaudes de Kanniya",
+   "Sigiriya et Dambulla",
+   "Temples Sri Bhakta Hanuman et Seetha Amman",
+   "Divurumpola, grotte et chutes de Ravana",
+   "Kataragama et Ussangoda",
+   "Fort de Galle et Kelaniya"
+  ]
+ },
+ "ultimate-ramayana-pilgrimage-12-day": {
+  "title": "Le grand pèlerinage du Ramayana au Sri Lanka",
+  "blurb": "Un pèlerinage du Ramayana plus paisible, alliant grandes régions de temples, patrimoine sacré, paysages des hautes terres et côte sud.",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+   "Temples de Munneswaram et de Manavari",
+   "Patrimoine sacré d’Anuradhapura",
+   "Temple de Koneswaram, Shankari Devi et sources chaudes de Kanniya",
+   "Patrimoine UNESCO de Sigiriya et de Dambulla",
+   "Temple Sri Bhakta Hanuman et temple Seetha Amman",
+   "Divurumpola, grotte et chutes de Ravana",
+   "Kataragama, Ussangoda, Galle et Kelaniya"
+  ]
+ }
+}
