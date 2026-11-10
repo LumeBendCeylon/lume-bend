@@ -237,32 +237,32 @@
     "from": "Ab",
     "perPerson": "p. P."
   },
-"TourExplorer": {
-  "tourType": "Reiseart",
-  "allTourTypes": "Alle Reisearten",
-  "monthToTravel": "Reisemonat",
-  "allMonths": "Alle Reisemonate",
-  "search": "Suchen",
-  "tourTypesSummary": "{count} Reisearten — wählen Sie eine aus, um die Pakete zu sehen",
-  "packagesCount": "{count} Pakete",
-  "packageSummary": "{count} Pakete in {category}",
-  "bestIn": "am besten im",
-  "noTours": "Noch keine Reisen in dieser Kategorie — bitte wählen Sie eine andere Reiseart.",
-  "months": {
-    "January": "Januar",
-    "February": "Februar",
-    "March": "März",
-    "April": "April",
-    "May": "Mai",
-    "June": "Juni",
-    "July": "Juli",
-    "August": "August",
-    "September": "September",
-    "October": "Oktober",
-    "November": "November",
-    "December": "Dezember"
-  }
-},
+  "TourExplorer": {
+    "tourType": "Reiseart",
+    "allTourTypes": "Alle Reisearten",
+    "monthToTravel": "Reisemonat",
+    "allMonths": "Alle Reisemonate",
+    "search": "Suchen",
+    "tourTypesSummary": "{count} Reisearten — wählen Sie eine aus, um die Pakete zu sehen",
+    "packagesCount": "{count} Pakete",
+    "packageSummary": "{count} Pakete in {category}",
+    "bestIn": "am besten im",
+    "noTours": "Noch keine Reisen in dieser Kategorie — bitte wählen Sie eine andere Reiseart.",
+    "months": {
+      "January": "Januar",
+      "February": "Februar",
+      "March": "März",
+      "April": "April",
+      "May": "Mai",
+      "June": "Juni",
+      "July": "Juli",
+      "August": "August",
+      "September": "September",
+      "October": "Oktober",
+      "November": "November",
+      "December": "Dezember"
+    }
+  },
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -836,5 +836,37 @@
         }
       }
     }
+  },
+  "TourDetail": {
+    "home": "Startseite",
+    "tours": "Touren",
+    "duration": "Dauer",
+    "tourType": "Tourenart",
+    "overview": "Überblick",
+    "bestFor": "Ideal für",
+    "physicalLevel": "Körperliche Anforderung",
+    "groupSize": "Gruppengröße",
+    "allTravellers": "Alle Reisenden",
+    "moderate": "Mittel",
+    "customisable": "Individuell anpassbar",
+    "detailItinerary": "Detaillierte Reiseroute",
+    "dayLabel": "Tag {n}",
+    "overnight": "Übernachtung",
+    "routeMap": "Routenkarte",
+    "tourIncludes": "Inklusivleistungen",
+    "tourExcludes": "Nicht inbegriffen",
+    "hotelRecommendation": "Hotelempfehlung",
+    "transportation": "Transport",
+    "meals": "Mahlzeiten",
+    "optionalExperiences": "Optionale Erlebnisse",
+    "faq": "Häufig gestellte Fragen",
+    "allYearRound": "Ganzjährig",
+    "startingFrom": "Ab",
+    "perPersonDouble": "Pro Person im Doppelzimmer",
+    "interested": "Interessiert?",
+    "clickInquiry": "Hier klicken, um eine Anfrage zu senden",
+    "tourHighlights": "Tour-Highlights",
+    "startPlanning": "Planen Sie jetzt Ihre Sri-Lanka-Reise",
+    "planIntro": "Bitte geben Sie so viele Informationen wie möglich an, damit wir uns ein gutes Bild von Ihren Wünschen machen können. Unser Team sendet Ihnen innerhalb von 48 Stunden das beste Angebot."
   }
 }

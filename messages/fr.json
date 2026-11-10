@@ -238,31 +238,31 @@
     "perPerson": "par pers."
   },
   "TourExplorer": {
-  "tourType": "Type de circuit",
-  "allTourTypes": "Tous les circuits",
-  "monthToTravel": "Mois du voyage",
-  "allMonths": "Tous les mois",
-  "search": "Rechercher",
-  "tourTypesSummary": "{count} types de circuits — choisissez-en un pour voir les forfaits",
-  "packagesCount": "{count} forfaits",
-  "packageSummary": "{count} forfaits dans {category}",
-  "bestIn": "idéal en",
-  "noTours": "Aucun circuit dans cette catégorie pour le moment — essayez un autre type.",
-  "months": {
-    "January": "Janvier",
-    "February": "Février",
-    "March": "Mars",
-    "April": "Avril",
-    "May": "Mai",
-    "June": "Juin",
-    "July": "Juillet",
-    "August": "Août",
-    "September": "Septembre",
-    "October": "Octobre",
-    "November": "Novembre",
-    "December": "Décembre"
-  }
-},
+    "tourType": "Type de circuit",
+    "allTourTypes": "Tous les circuits",
+    "monthToTravel": "Mois du voyage",
+    "allMonths": "Tous les mois",
+    "search": "Rechercher",
+    "tourTypesSummary": "{count} types de circuits — choisissez-en un pour voir les forfaits",
+    "packagesCount": "{count} forfaits",
+    "packageSummary": "{count} forfaits dans {category}",
+    "bestIn": "idéal en",
+    "noTours": "Aucun circuit dans cette catégorie pour le moment — essayez un autre type.",
+    "months": {
+      "January": "Janvier",
+      "February": "Février",
+      "March": "Mars",
+      "April": "Avril",
+      "May": "Mai",
+      "June": "Juin",
+      "July": "Juillet",
+      "August": "Août",
+      "September": "Septembre",
+      "October": "Octobre",
+      "November": "Novembre",
+      "December": "Décembre"
+    }
+  },
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -836,5 +836,37 @@
         }
       }
     }
+  },
+  "TourDetail": {
+    "home": "Accueil",
+    "tours": "Circuits",
+    "duration": "Durée",
+    "tourType": "Type de circuit",
+    "overview": "Aperçu",
+    "bestFor": "Idéal pour",
+    "physicalLevel": "Niveau physique",
+    "groupSize": "Taille du groupe",
+    "allTravellers": "Tous les voyageurs",
+    "moderate": "Modéré",
+    "customisable": "Personnalisable",
+    "detailItinerary": "Itinéraire détaillé",
+    "dayLabel": "Jour {n}",
+    "overnight": "Nuit",
+    "routeMap": "Carte de l’itinéraire",
+    "tourIncludes": "Le circuit comprend",
+    "tourExcludes": "Le circuit ne comprend pas",
+    "hotelRecommendation": "Hôtel recommandé",
+    "transportation": "Transport",
+    "meals": "Repas",
+    "optionalExperiences": "Expériences optionnelles",
+    "faq": "Questions fréquentes",
+    "allYearRound": "Toute l’année",
+    "startingFrom": "À partir de",
+    "perPersonDouble": "Par personne, base chambre double",
+    "interested": "Intéressé(e) ?",
+    "clickInquiry": "Cliquez ici pour envoyer une demande",
+    "tourHighlights": "Points forts du circuit",
+    "startPlanning": "Commencez à planifier votre voyage au Sri Lanka",
+    "planIntro": "Donnez-nous autant d’informations que possible afin que nous puissions bien cerner vos besoins. Notre équipe vous enverra le meilleur devis sous 48 heures."
   }
 }

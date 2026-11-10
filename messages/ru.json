@@ -237,33 +237,32 @@
     "from": "От",
     "perPerson": "с чел."
   },
-"TourExplorer": {
-  "tourType": "Тип тура",
-  "allTourTypes": "Все типы туров",
-  "monthToTravel": "Месяц путешествия",
-  "allMonths": "Все месяцы",
-  "search": "Поиск",
-  "tourTypesSummary": "{count} типов туров — выберите один, чтобы увидеть пакеты",
-  "packagesCount": "{count} пакетов",
-  "packageSummary": "{count} пакетов в категории {category}",
-  "bestIn": "лучше всего в",
-  "noTours": "В этой категории пока нет туров — попробуйте другой тип тура.",
-  "months": {
-    "January": "Январь",
-    "February": "Февраль",
-    "March": "Март",
-    "April": "Апрель",
-    "May": "Май",
-    "June": "Июнь",
-    "July": "Июль",
-    "August": "Август",
-    "September": "Сентябрь",
-    "October": "Октябрь",
-    "November": "Ноябрь",
-    "December": "Декабрь"
-  }
-},
-
+  "TourExplorer": {
+    "tourType": "Тип тура",
+    "allTourTypes": "Все типы туров",
+    "monthToTravel": "Месяц путешествия",
+    "allMonths": "Все месяцы",
+    "search": "Поиск",
+    "tourTypesSummary": "{count} типов туров — выберите один, чтобы увидеть пакеты",
+    "packagesCount": "{count} пакетов",
+    "packageSummary": "{count} пакетов в категории {category}",
+    "bestIn": "лучше всего в",
+    "noTours": "В этой категории пока нет туров — попробуйте другой тип тура.",
+    "months": {
+      "January": "Январь",
+      "February": "Февраль",
+      "March": "Март",
+      "April": "Апрель",
+      "May": "Май",
+      "June": "Июнь",
+      "July": "Июль",
+      "August": "Август",
+      "September": "Сентябрь",
+      "October": "Октябрь",
+      "November": "Ноябрь",
+      "December": "Декабрь"
+    }
+  },
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -837,5 +836,37 @@
         }
       }
     }
+  },
+  "TourDetail": {
+    "home": "Главная",
+    "tours": "Туры",
+    "duration": "Продолжительность",
+    "tourType": "Тип тура",
+    "overview": "Обзор",
+    "bestFor": "Подходит для",
+    "physicalLevel": "Физическая подготовка",
+    "groupSize": "Размер группы",
+    "allTravellers": "Всем путешественникам",
+    "moderate": "Средняя",
+    "customisable": "Индивидуально",
+    "detailItinerary": "Подробная программа",
+    "dayLabel": "День {n}",
+    "overnight": "Ночёвка",
+    "routeMap": "Карта маршрута",
+    "tourIncludes": "В стоимость входит",
+    "tourExcludes": "В стоимость не входит",
+    "hotelRecommendation": "Рекомендуемый отель",
+    "transportation": "Транспорт",
+    "meals": "Питание",
+    "optionalExperiences": "Дополнительные впечатления",
+    "faq": "Часто задаваемые вопросы",
+    "allYearRound": "Круглый год",
+    "startingFrom": "Цена от",
+    "perPersonDouble": "На человека при двухместном размещении",
+    "interested": "Заинтересовались?",
+    "clickInquiry": "Нажмите, чтобы отправить запрос",
+    "tourHighlights": "Главное в туре",
+    "startPlanning": "Начните планировать поездку на Шри-Ланку",
+    "planIntro": "Сообщите как можно больше информации, чтобы мы лучше поняли ваши пожелания. Наша команда пришлёт вам лучшее предложение в течение 48 часов."
   }
 }

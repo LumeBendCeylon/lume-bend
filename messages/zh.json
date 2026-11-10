@@ -238,31 +238,31 @@
     "perPerson": "/人"
   },
   "TourExplorer": {
-  "tourType": "旅游类型",
-  "allTourTypes": "所有旅游类型",
-  "monthToTravel": "出行月份",
-  "allMonths": "所有月份",
-  "search": "搜索",
-  "tourTypesSummary": "共 {count} 种旅游类型 — 选择一种查看套餐",
-  "packagesCount": "{count} 个套餐",
-  "packageSummary": "{category}包含 {count} 个套餐",
-  "bestIn": "最佳出行时间：",
-  "noTours": "此类别暂无旅游套餐 — 请尝试其他旅游类型。",
-  "months": {
-    "January": "一月",
-    "February": "二月",
-    "March": "三月",
-    "April": "四月",
-    "May": "五月",
-    "June": "六月",
-    "July": "七月",
-    "August": "八月",
-    "September": "九月",
-    "October": "十月",
-    "November": "十一月",
-    "December": "十二月"
-  }
-},
+    "tourType": "旅游类型",
+    "allTourTypes": "所有旅游类型",
+    "monthToTravel": "出行月份",
+    "allMonths": "所有月份",
+    "search": "搜索",
+    "tourTypesSummary": "共 {count} 种旅游类型 — 选择一种查看套餐",
+    "packagesCount": "{count} 个套餐",
+    "packageSummary": "{category}包含 {count} 个套餐",
+    "bestIn": "最佳出行时间：",
+    "noTours": "此类别暂无旅游套餐 — 请尝试其他旅游类型。",
+    "months": {
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
+    }
+  },
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -836,5 +836,37 @@
         }
       }
     }
+  },
+  "TourDetail": {
+    "home": "首页",
+    "tours": "行程",
+    "duration": "行程时长",
+    "tourType": "行程类型",
+    "overview": "概览",
+    "bestFor": "适合人群",
+    "physicalLevel": "体力要求",
+    "groupSize": "团队规模",
+    "allTravellers": "所有旅行者",
+    "moderate": "中等",
+    "customisable": "可定制",
+    "detailItinerary": "详细行程",
+    "dayLabel": "第{n}天",
+    "overnight": "住宿",
+    "routeMap": "行程路线图",
+    "tourIncludes": "费用包含",
+    "tourExcludes": "费用不含",
+    "hotelRecommendation": "推荐酒店",
+    "transportation": "交通",
+    "meals": "餐食",
+    "optionalExperiences": "可选体验",
+    "faq": "常见问题",
+    "allYearRound": "全年可行",
+    "startingFrom": "起价",
+    "perPersonDouble": "每人（双人同住）",
+    "interested": "感兴趣吗？",
+    "clickInquiry": "点击此处发送咨询",
+    "tourHighlights": "行程亮点",
+    "startPlanning": "开始规划您的斯里兰卡之旅",
+    "planIntro": "请尽可能提供详细信息，以便我们了解您的需求。我们的团队将在48小时内为您发送最优报价。"
   }
 }

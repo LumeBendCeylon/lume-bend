@@ -1,0 +1,126 @@
+{
+  "golden-grand-escape-5-day": {
+    "title": "Goldene Ceylon-Auszeit",
+    "duration": "5 Tage / 4 Nächte",
+    "highlights": [
+      "Private Reise durch Sri Lankas Kulturdreieck",
+      "Pinnawala-Elefantenerlebnis",
+      "Felsenfestung Sigiriya und Höhlentempel von Dambulla",
+      "Tempel der Heiligen Zahnreliquie",
+      "Luxuriöse Rundreise mit Chauffeur und Guide"
+    ],
+    "blurb": "Entdecken Sie antike Festungen, heilige Tempel und das kulturelle Herz Sri Lankas auf einer privat geführten, fünftägigen Luxusreise.",
+    "heroTitle": "Goldene Ceylon-Auszeit – 5 Tage privater Luxus",
+    "intro": "Entdecken Sie Sri Lankas berühmtes Kulturdreieck und die Hauptstadt des Hochlands auf einer privaten Reise, die antikes Erbe, Begegnungen mit der Tierwelt und erlesene Gastfreundschaft verbindet. Von den Elefantenerlebnissen in Pinnawala über Sigiriyas beeindruckende Felsenfestung bis zu den heiligen Tempeltraditionen Kandys zeigt jeder Tag eine andere Seite der Insel. Genießen Sie einen eigenen Chauffeur, sorgfältig ausgewählte Fünf-Sterne-Unterkünfte und eine durchdacht geplante Reiseroute.",
+    "overview": "Eine kurze private Rundreise für Reisende, die Sri Lankas kulturelle Höhepunkte in fünf Tagen erleben möchten. Die Route verbindet Negombo, Pinnawala, Sigiriya, Dambulla, Kandy und Colombo mit privaten Transfers, geführten Besichtigungen und Luxusunterkünften.",
+    "bestFor": "Paare, Hochzeitsreisende und Luxusreisende mit kurzem Aufenthalt",
+    "groupSize": "Privat – nur Sie und Ihre Mitreisenden",
+    "physicalLevel": "Leicht bis mittel, mit optionalem Aufstieg auf den Sigiriya",
+    "destinationsCovered": "Negombo → Pinnawala → Sigiriya → Dambulla → Kandy → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft, Pinnawala & Sigiriya",
+        "points": [
+          "Empfang am Flughafen: Traditioneller Empfang mit Blumengirlande am Bandaranaike International Airport (CMB).",
+          "Privater Chauffeur: Treffen Sie Ihren englischsprachigen Chauffeur-Guide, der Ihnen auch beim Gepäck hilft.",
+          "Pinnawala-Elefantenerlebnis: Besuchen Sie Pinnawala und erfahren Sie mehr über Elefantenpflege und Artenschutz. Die Aktivitäten richten sich nach dem Programm vor Ort und den aktuellen Bedingungen.",
+          "Landschaftliche Fahrt: Weiterfahrt nach Sigiriya durch Sri Lankas Landschaft, mit Erfrischungspause.",
+          "Hotel-Check-in: Ankunft in Ihrem Luxushotel, Entspannung und Abendessen."
+        ],
+        "overnight": "Luxushotel mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Felsenfestung Sigiriya: Erkunden Sie diese UNESCO-Welterbestätte und ihre antiken königlichen Überreste.",
+          "Wassergärten: Entdecken Sie die angelegten Gärten und die historische Wasserbaukunst.",
+          "Fresken von Sigiriya: Bewundern Sie die berühmten Fresken und die historische Spiegelwand.",
+          "Löwentatzen-Eingang: Erkunden Sie das monumentale Tor und steigen Sie auf Wunsch Richtung Gipfel.",
+          "Panoramablicke: Genießen Sie die Aussicht auf die umliegende Landschaft, je nach Wetter und Fitness."
+        ],
+        "overnight": "Luxushotel mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Höhlentempel von Dambulla & Kandy",
+        "points": [
+          "Frühstück & Check-out: Abreise aus Sigiriya nach dem Frühstück.",
+          "Höhlentempel von Dambulla: Erkunden Sie diese UNESCO-Welterbestätte, bekannt für ihre buddhistischen Wandmalereien und Statuen.",
+          "Höhlenheiligtümer: Entdecken Sie die historischen Malereien und die heiligen Innenräume.",
+          "Landschaftliche Fahrt: Fahrt durch die zentralen Ebenen Richtung Kandy.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
+          "Kandy-See: Genießen Sie vor dem Abendessen einen gemütlichen Spaziergang am See."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Kandy."
+      },
+      {
+        "title": "Kulturerbe von Kandy & Transfer nach Colombo",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Kandy erkunden: Entdecken Sie die kulturelle Atmosphäre der Stadt und die umliegenden Hügel.",
+          "Königlicher Botanischer Garten: Besuch in Peradeniya, sofern Öffnungszeiten und Tagesablauf es erlauben.",
+          "Mittagessen & Abfahrt: Mittagessen vor der Fahrt Richtung Colombo.",
+          "Landschaftliche Fahrt: Fahrt durch Sri Lankas abwechslungsreiche Landschaften, mit Erfrischungspause.",
+          "Hotel-Check-in: Ankunft in Colombo und Abendessen in Ihrem Hotel."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Colombo."
+      },
+      {
+        "title": "Colombo & Abreise zum Flughafen",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Höhepunkte von Colombo: Besuch des Independence Square oder des Galle Face Green, je nach Abflugzeit.",
+          "Letzte Einkäufe: Stöbern Sie, sofern die Zeit es erlaubt, nach Ceylon-Tee und lokalen Souvenirs.",
+          "Mittagessen: Mittagessen vor dem Flughafentransfer.",
+          "Privater Transfer: Fahrt zum Bandaranaike International Airport (CMB).",
+          "Abreise: Ankunft mit ausreichend Zeit für den Check-in bei der Fluggesellschaft."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Ausgewählte Fünf-Sterne-Häuser in Sigiriya, Kandy und Colombo, gewählt wegen aufmerksamen Services, Komfort, besonderem Charakter und bequemer Anbindung an die wichtigsten Sehenswürdigkeiten der Reiseroute.",
+    "transportation": "Privates klimatisiertes Luxusfahrzeug mit eigenem englischsprachigem Chauffeur-Guide für Flughafentransfers, Fahrten zwischen den Städten und die geplanten Besichtigungen.",
+    "meals": "Frühstück, Mittag- und Abendessen täglich von Tag 1 bis Tag 4, dazu Frühstück und Mittagessen an Tag 5. Die Mahlzeiten am Anreisetag hängen von der Flugzeit ab. Besondere Ernährungswünsche bitte vorab mitteilen.",
+    "included": [
+      "4 Nächte in ausgewählten Fünf-Sterne-Hotels",
+      "Täglich Frühstück, Mittag- und Abendessen gemäß dem angegebenen Verpflegungsplan",
+      "Privater Chauffeur-Guide und klimatisiertes Fahrzeug",
+      "Empfang am Flughafen mit traditionellen Blumengirlanden",
+      "Eintritt in Pinnawala, je nach gewähltem Besucherprogramm",
+      "Eintritt zur Felsenfestung Sigiriya",
+      "Eintritt zum Höhlentempel von Dambulla",
+      "Eintritt zum Tempel der Heiligen Zahnreliquie",
+      "Eintrittsgelder für weitere Sehenswürdigkeiten, die in der endgültigen Reiseroute ausdrücklich bestätigt werden"
+    ],
+    "excluded": [
+      "Internationale Flüge",
+      "Visagebühren für Sri Lanka",
+      "Reiseversicherung",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Alkoholische Getränke und Premium-Getränke",
+      "Optionale Aktivitäten, die nicht als inbegriffen aufgeführt sind",
+      "Spa-Behandlungen und Zimmer-Upgrades"
+    ],
+    "optionalExperiences": [
+      "Privater, geführter Sonnenaufgangsaufstieg auf den Sigiriya, je nach Öffnungszeiten",
+      "Traditionelles srilankisches Kocherlebnis",
+      "Private kandysche Kulturvorführung",
+      "Spa-Behandlung im Hotel",
+      "Privates Dinner-Erlebnis im Hotel"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Ist der Aufstieg auf den Sigiriya verpflichtend?",
+        "a": "Nein. Gäste können die unteren Gärten und die umliegende Landschaft auch ohne Aufstieg zum Gipfel erkunden. Der Aufstieg umfasst viele Stufen und ist nicht für jeden Reisenden geeignet."
+      },
+      {
+        "q": "Sind Mahlzeiten und Eintrittsgelder inbegriffen?",
+        "a": "Das Paket umfasst täglich Frühstück, Mittag- und Abendessen sowie die Eintrittsgelder, die in der bestätigten Reiseroute ausdrücklich aufgeführt sind."
+      },
+      {
+        "q": "Kann diese Tour verlängert werden?",
+        "a": "Ja. Zusätzliche Tage für das Hochland, die Wildtierregionen oder die Südküste können arrangiert werden."
+      }
+    ]
+  }
+}

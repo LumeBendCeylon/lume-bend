@@ -237,33 +237,32 @@
     "from": "From",
     "perPerson": "pp"
   },
-"TourExplorer": {
-  "tourType": "Tour Type",
-  "allTourTypes": "All Tour Types",
-  "monthToTravel": "Month to Travel",
-  "allMonths": "All Months to Travel",
-  "search": "Search",
-  "tourTypesSummary": "{count} tour types — choose one to see its packages",
-  "packagesCount": "{count} packages",
-  "packageSummary": "{count} packages in {category}",
-  "bestIn": "best in",
-  "noTours": "No tours in this category yet — try another Tour Type.",
-  "months": {
-    "January": "January",
-    "February": "February",
-    "March": "March",
-    "April": "April",
-    "May": "May",
-    "June": "June",
-    "July": "July",
-    "August": "August",
-    "September": "September",
-    "October": "October",
-    "November": "November",
-    "December": "December"
-  }
-},
-
+  "TourExplorer": {
+    "tourType": "Tour Type",
+    "allTourTypes": "All Tour Types",
+    "monthToTravel": "Month to Travel",
+    "allMonths": "All Months to Travel",
+    "search": "Search",
+    "tourTypesSummary": "{count} tour types — choose one to see its packages",
+    "packagesCount": "{count} packages",
+    "packageSummary": "{count} packages in {category}",
+    "bestIn": "best in",
+    "noTours": "No tours in this category yet — try another Tour Type.",
+    "months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    }
+  },
   "ServicesGrid": {
     "items": {
       "plane": {
@@ -837,5 +836,37 @@
         }
       }
     }
+  },
+  "TourDetail": {
+    "home": "Home",
+    "tours": "Tours",
+    "duration": "Duration",
+    "tourType": "Tour Type",
+    "overview": "Overview",
+    "bestFor": "Best For",
+    "physicalLevel": "Physical Level",
+    "groupSize": "Group Size",
+    "allTravellers": "All travellers",
+    "moderate": "Moderate",
+    "customisable": "Customisable",
+    "detailItinerary": "Detail Itinerary",
+    "dayLabel": "Day {n}",
+    "overnight": "Overnight",
+    "routeMap": "Tour Route Map",
+    "tourIncludes": "Tour Includes",
+    "tourExcludes": "Tour Excludes",
+    "hotelRecommendation": "Hotel Recommendation",
+    "transportation": "Transportation",
+    "meals": "Meals",
+    "optionalExperiences": "Optional Experiences",
+    "faq": "Frequently Asked Questions",
+    "allYearRound": "All Year Round",
+    "startingFrom": "Starting From",
+    "perPersonDouble": "Per person on double sharing basis",
+    "interested": "Interested?",
+    "clickInquiry": "Click here to send an inquiry",
+    "tourHighlights": "Tour Highlights",
+    "startPlanning": "Start Planning Your Sri Lanka Tour",
+    "planIntro": "Please give as much information as you can so that we can get a good idea about your requirements. Our team will send you the best quote within 48 hours."
   }
 }
