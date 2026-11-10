@@ -122,5 +122,496 @@
         "a": "Ja. Zusätzliche Tage für das Hochland, die Wildtierregionen oder die Südküste können arrangiert werden."
       }
     ]
+  },
+  "highlands-ella-luxury-7-day": {
+    "title": "Luxusreise durch Hochland & Ella",
+    "duration": "7 Tage / 6 Nächte",
+    "highlights": [
+      "Felsenfestung Sigiriya",
+      "Die heilige Stadt Kandy",
+      "Besuch einer Ceylon-Teeplantage und -Fabrik",
+      "Malerische Zugfahrt von Nanu Oya nach Ella",
+      "Nine Arch Bridge und Aussichtspunkte in Ella"
+    ],
+    "blurb": "Von antiken Felsenfestungen ins nebelverhangene Teeland und zu Ellas spektakulärem Hochland – auf einer privaten Luxusreise.",
+    "heroTitle": "Luxusreise durch Hochland & Ella – 7 Tage",
+    "intro": "Erleben Sie Sri Lankas Kulturdreieck und das zentrale Hochland auf einer privaten Luxusreise, die antikes Erbe, Teelandschaften und unvergessliche Bahnstrecken verbindet. Entdecken Sie Sigiriya, Kandy, Nuwara Eliya und Ella, bevor Sie im Komfort eines Fahrzeugs mit eigenem Chauffeur nach Colombo zurückkehren.",
+    "overview": "Eine siebentägige Privatreise mit Schwerpunkt auf kulturellen Sehenswürdigkeiten und dem landschaftlich reizvollen Hochland. Die Reiseroute lässt Zeit für die Kulturstätten von Sigiriya und Kandy, Teeplantagen, eine Zugfahrt durch das Hochland und Ellas ikonische Landschaften.",
+    "bestFor": "Paare, Naturliebhaber und kulturinteressierte Luxusreisende",
+    "groupSize": "Privat – nur Sie und Ihre Mitreisenden",
+    "physicalLevel": "Mittel, mit optionalen Wanderungen und Felsaufstiegen",
+    "destinationsCovered": "Sigiriya → Kandy → Nuwara Eliya → Ella → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft & Sigiriya",
+        "points": [
+          "Empfang am Flughafen: Treffen Sie Ihren Chauffeur-Guide am CMB, mit traditionellen Blumengirlanden.",
+          "Privater Transfer: Fahrt nach Sigiriya mit einer Erfrischungspause unterwegs.",
+          "Hotel-Check-in: Beziehen Sie Ihr Luxusresort.",
+          "Nachmittag zur freien Verfügung: Entspannen Sie am Pool oder genießen Sie die ländliche Umgebung.",
+          "Abendessen: Genießen Sie das Abendessen im Hotel."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya & Dambulla",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Resort.",
+          "Felsenfestung Sigiriya: Erkunden Sie die UNESCO-Welterbestätte, die königlichen Gärten und die historische Felsenzitadelle.",
+          "Fresken und Löwentatzen: Entdecken Sie die berühmten Fresken und den monumentalen Eingang.",
+          "Höhlentempel von Dambulla: Besuchen Sie den UNESCO-gelisteten Höhlenkomplex mit seinen buddhistischen Wandmalereien und Statuen.",
+          "Mittagessen & Rückfahrt: Mittagessen und Rückkehr in Ihr Resort.",
+          "Abend zur freien Verfügung: Entspannen Sie sich und genießen Sie das Abendessen."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Von Sigiriya nach Kandy",
+        "points": [
+          "Frühstück & Check-out: Abreise nach dem Frühstück.",
+          "Landschaftliche Fahrt: Fahrt durch die zentralen Ebenen Richtung Kandy.",
+          "Gewürzgarten in Matale: Entdecken Sie srilankische Gewürze und traditionelle Heilpflanzen.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie den heiligen Tempel in der UNESCO-gelisteten Altstadt von Kandy.",
+          "Kandy-See: Genießen Sie einen ruhigen Spaziergang am See.",
+          "Hotel-Check-in: Abendessen in Ihrem Hotel."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Kandy."
+      },
+      {
+        "title": "Von Kandy nach Nuwara Eliya",
+        "points": [
+          "Frühstück & Abreise: Beginn der landschaftlich reizvollen Fahrt ins Hochland.",
+          "Teeplantage: Besuchen Sie ein Teegut und erfahren Sie mehr über den Ceylon-Teeanbau.",
+          "Teefabrik: Entdecken Sie den traditionellen Prozess der Teeherstellung.",
+          "Teeverkostung: Probieren Sie frisch aufgebrühten Ceylon-Tee.",
+          "Ramboda-Wasserfälle: Halt, um den Wasserfall und die Bergkulisse zu bewundern.",
+          "Nuwara Eliya: Check-in und entspannter Abend."
+        ],
+        "overnight": "Fünf-Sterne-Hotel oder luxuriöses Heritage-Haus in Nuwara Eliya."
+      },
+      {
+        "title": "Hochland von Nuwara Eliya",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Koloniale Stadt: Erkunden Sie die historische Architektur und die Gärten von Nuwara Eliya.",
+          "Gregory-See: Genießen Sie die Seelandschaft und optionale Aktivitäten.",
+          "Aussichten über das Teeland: Erkunden Sie nahegelegene Teelandschaften und Bergaussichtspunkte.",
+          "Mittagessen: Entspanntes Mittagessen in einem ausgewählten Restaurant.",
+          "Abend zur freien Verfügung: Rückkehr ins Hotel zum Abendessen und zur Erholung."
+        ],
+        "overnight": "Fünf-Sterne-Hotel oder luxuriöses Heritage-Haus in Nuwara Eliya."
+      },
+      {
+        "title": "Malerische Zugfahrt nach Ella",
+        "points": [
+          "Frühstück & Transfer: Fahrt zum Bahnhof Nanu Oya.",
+          "Hochlandbahn: Genießen Sie die malerische Zugfahrt Richtung Ella, vorbehaltlich Fahrplan und Verfügbarkeit reservierter Plätze.",
+          "Teeplantagen: Bewundern Sie unterwegs die sanften Teegüter und Bergtäler.",
+          "Ankunft in Ella: Ihr Chauffeur erwartet Sie am Bahnhof.",
+          "Nine Arch Bridge: Besuch der ikonischen Eisenbahnbrücke, sofern Zeit und Ankunftszeiten es erlauben.",
+          "Hotel-Check-in: Entspannen Sie sich und genießen Sie das Abendessen in Ella."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Ella."
+      },
+      {
+        "title": "Von Ella nach Colombo & Abreise",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Aussichtspunkt in Ella: Kurzer landschaftlicher Halt, sofern die Zeit es erlaubt.",
+          "Privater Transfer: Beginn der Fahrt nach Colombo oder direkt zum CMB.",
+          "Mittagessen: Mittagessen unterwegs.",
+          "Ankunft am Flughafen: Ankunft mit ausreichend Zeit für den Check-in bei der Fluggesellschaft."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Ausgewählte Fünf-Sterne- und erstklassige Luxushäuser in Sigiriya, Kandy, Nuwara Eliya und Ella – mit Schwerpunkt auf Aussicht, Komfort, aufmerksamem Service und bequemer Anbindung an die Sehenswürdigkeiten.",
+    "transportation": "Privates klimatisiertes Luxusfahrzeug mit englischsprachigem Chauffeur-Guide. Die Zugfahrt von Nanu Oya nach Ella unterliegt den Fahrplänen und der Verfügbarkeit reservierter Plätze.",
+    "meals": "Täglich Frühstück, Mittag- und Abendessen von Tag 1 bis Tag 6, an Tag 7 (Abreise) Frühstück und Mittagessen. Mahlzeiten unterwegs werden in ausgewählten Hotels und Restaurants organisiert.",
+    "included": [
+      "6 Nächte in ausgewählten Fünf-Sterne- bzw. erstklassigen Luxusunterkünften",
+      "Täglich Frühstück, Mittag- und Abendessen gemäß dem angegebenen Verpflegungsplan",
+      "Privater Chauffeur-Guide und klimatisiertes Fahrzeug",
+      "Eintritt zur Felsenfestung Sigiriya",
+      "Eintritt zum Höhlentempel von Dambulla",
+      "Eintritt zum Tempel der Heiligen Zahnreliquie",
+      "Besuch einer Teefabrik mit Verkostung, soweit bestätigt",
+      "Zugticket Nanu Oya–Ella in der bestätigten Klasse, vorbehaltlich Verfügbarkeit",
+      "Eintrittsgelder für weitere Sehenswürdigkeiten, die in der bestätigten Reiseroute ausdrücklich aufgeführt sind"
+    ],
+    "excluded": [
+      "Internationale Flüge und Visagebühren",
+      "Reiseversicherung",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Alkoholische Getränke",
+      "Optionale Aktivitäten und Spa-Behandlungen",
+      "Zug-Upgrades oder alternative Transportmittel über das vereinbarte Paket hinaus"
+    ],
+    "optionalExperiences": [
+      "Geführter Sonnenaufgangsaufstieg auf den Sigiriya",
+      "Privates Erlebnis auf einem Teegut",
+      "Geführte Wanderung zu Little Adam's Peak",
+      "Privates Dinner-Erlebnis im Hochland",
+      "Wellnessbehandlung im Hotel"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Ist die Zugfahrt nach Ella garantiert?",
+        "a": "Die Zugfahrt hängt von den Fahrplänen und der Verfügbarkeit reservierter Plätze ab. Sind keine Tickets erhältlich oder fallen Verbindungen aus, kann ein privater Straßentransfer organisiert werden."
+      },
+      {
+        "q": "Sind alle Mahlzeiten in der Reiseroute enthalten?",
+        "a": "Ja. Frühstück, Mittag- und Abendessen sind gemäß dem Verpflegungsplan des Pakets enthalten. Getränke und Zuschläge für Premium-Restaurants können extra kosten."
+      },
+      {
+        "q": "Kann die Reise individuell angepasst werden?",
+        "a": "Ja. Besichtigungen, Hotelkategorien und optionale Erlebnisse lassen sich auf Ihre Interessen und Reisedaten abstimmen."
+      }
+    ]
+  },
+  "highlands-wildlife-luxury-8-day": {
+    "title": "Luxusreise durch Hochland & Tierwelt",
+    "duration": "8 Tage / 7 Nächte",
+    "highlights": [
+      "Luxuriöse Ankunft in Negombo",
+      "Kulturerbe von Sigiriya und Dambulla",
+      "Heilige Kulturstätten in Kandy",
+      "Malerische Zugfahrt durch das Teeland",
+      "Private Safari im Yala-Nationalpark"
+    ],
+    "blurb": "Verbinden Sie Sri Lankas antikes Erbe, nebelverhangene Teeberge und unvergessliche Wildnislandschaften auf einer privaten Luxusreise.",
+    "heroTitle": "Luxusreise durch Hochland & Tierwelt – 8 Tage",
+    "intro": "Entdecken Sie Sri Lanka auf einer sorgfältig zusammengestellten Reise, die das Kulturdreieck, das heilige Kandy, nebelverhangene Teeplantagen, Ellas dramatische Landschaft und die Tierwelt des Yala-Nationalparks verbindet. Private Transfers, Luxusunterkünfte und geplante Besichtigungen lassen Sie die kontrastreichen Landschaften der Insel in aller Ruhe erleben.",
+    "overview": "Eine achttägige private Rundreise, die Negombo mit Sigiriya, Kandy, Nuwara Eliya, Ella und Yala verbindet, mit Abreise ab Colombo. Die Route vereint Besichtigungen des Kulturerbes, Erlebnisse im Teeland, malerische Bahnfahrten und eine eigene Wildtiersafari.",
+    "bestFor": "Paare, Luxusreisende, Tierliebhaber und Fotografen",
+    "groupSize": "Privat – nur Sie und Ihre Mitreisenden",
+    "physicalLevel": "Mittel, mit optionalen Wanderungen und Felsaufstiegen",
+    "destinationsCovered": "Negombo → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft in Negombo",
+        "points": [
+          "Empfang am Flughafen: Traditionelle Blumengirlanden am CMB.",
+          "Begrüßung durch den Chauffeur: Treffen Sie Ihren privaten Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
+          "Transfer nach Negombo: Fahrt zu Ihrem Hotel direkt am Strand.",
+          "Hotel-Check-in: Mittagessen und Zimmerbezug.",
+          "Entspannung an der Küste: Verbringen Sie den Nachmittag zur freien Verfügung vor dem Abendessen."
+        ],
+        "overnight": "Fünf-Sterne-Strandhotel in Negombo."
+      },
+      {
+        "title": "Von Negombo nach Sigiriya",
+        "points": [
+          "Frühstück & Check-out: Beginn der Fahrt ins Kulturdreieck Sri Lankas.",
+          "Landschaftliche Fahrt: Fahrt durch ländliche Gegenden mit Erfrischungspause.",
+          "Mittagessen unterwegs: Mittagessen in einem ausgewählten Restaurant.",
+          "Ankunft in Sigiriya: Check-in in Ihrem Luxusresort.",
+          "Nachmittag zur freien Verfügung: Entspannen Sie sich und genießen Sie die Umgebung des Resorts.",
+          "Abendessen: Mahlzeit im Hotel."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya & Dambulla",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Felsenfestung Sigiriya: Erkunden Sie die UNESCO-Welterbestätte und ihre antike königliche Landschaft.",
+          "Wassergärten: Entdecken Sie die historischen Gartenanlagen und Wasserspiele.",
+          "Höhlentempel von Dambulla: Besuchen Sie den UNESCO-gelisteten Komplex aus buddhistischen Höhlen, Wandmalereien und Statuen.",
+          "Mittagessen: Mittagessen während des Besichtigungstages.",
+          "Abend zur freien Verfügung: Rückkehr ins Resort zum Abendessen und zur Erholung."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Von Sigiriya nach Kandy",
+        "points": [
+          "Frühstück & Abreise: Fahrt Richtung Kandy.",
+          "Gewürzgarten in Matale: Erfahren Sie mehr über einheimische Gewürze und traditionelle Heilpflanzen.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie den heiligen Tempel in der UNESCO-gelisteten Stadt Kandy.",
+          "Kandy-See: Genießen Sie einen gemütlichen Spaziergang am See.",
+          "Mittagessen & Check-in: Mittagessen vor dem Check-in im Hotel.",
+          "Abend zur freien Verfügung: Abendessen und Entspannung."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Kandy."
+      },
+      {
+        "title": "Von Kandy nach Nuwara Eliya",
+        "points": [
+          "Frühstück: Abreise nach dem Frühstück.",
+          "Fahrt durch das Teeland: Bewundern Sie Bergkulisse und sanfte Teegüter.",
+          "Besuch einer Teefabrik: Entdecken Sie, wie Ceylon-Tee entsteht.",
+          "Teeverkostung: Probieren Sie frisch aufgebrühten Tee.",
+          "Ramboda-Wasserfälle: Halt am Wasserfall, sofern die Zeit es erlaubt.",
+          "Check-in in Nuwara Eliya: Abendessen und ein entspannter Abend."
+        ],
+        "overnight": "Fünf-Sterne-Hotel oder luxuriöses Heritage-Haus in Nuwara Eliya."
+      },
+      {
+        "title": "Von Nuwara Eliya nach Ella",
+        "points": [
+          "Frühstück & Transfer: Fahrt zum Bahnhof Nanu Oya.",
+          "Malerische Zugfahrt: Fahrt durch Teeplantagen und nebelverhangene Berglandschaften Richtung Ella, vorbehaltlich der Zugverfügbarkeit.",
+          "Ankunft in Ella: Ihr Chauffeur erwartet Sie am Bahnhof.",
+          "Nine Arch Bridge: Besuch der ikonischen Eisenbahnbrücke, sofern es der Zeitplan erlaubt.",
+          "Ella: Erkunden Sie den Ort oder nahegelegene Aussichtspunkte ganz entspannt.",
+          "Hotel-Check-in: Abendessen in Ihrem Luxushaus."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Ella."
+      },
+      {
+        "title": "Von Ella nach Yala – Tiererlebnis",
+        "points": [
+          "Frühstück & Check-out: Frühstück vor der Abreise aus Ella.",
+          "Landschaftliche Fahrt: Fahrt nach Süden durch wechselnde Hoch- und Tieflandschaften.",
+          "Ankunft in Yala: Check-in in Ihrer Luxus-Safari-Lodge.",
+          "Private Jeep-Safari: Nachmittagssafari, sofern Ankunftszeit und Öffnungszeiten des Parks es erlauben.",
+          "Tierbeobachtung: Halten Sie Ausschau nach Elefanten, Krokodilen, Hirschen und Vögeln; Leopardensichtungen sind nicht garantiert.",
+          "Abendessen: Rückkehr zur Lodge zum Abendessen und zur Erholung."
+        ],
+        "overnight": "Luxus-Safari-Lodge in Yala oder Tissamaharama."
+      },
+      {
+        "title": "Von Yala nach Colombo & Abreise",
+        "points": [
+          "Frühstück: Frühstück in der Lodge.",
+          "Option Morgensafari: Wurde die Safari an Tag 7 nicht durchgeführt, kann vor der Abreise eine Morgensafari organisiert werden, abhängig von der Abflugzeit.",
+          "Privater Transfer: Fahrt Richtung Colombo und zum Bandaranaike International Airport.",
+          "Mittagessen: Mittagessen unterwegs.",
+          "Abreise: Ankunft am CMB mit ausreichend Zeit für den Check-in."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Ausgewählte Fünf-Sterne-Hotels und Luxusresorts in Negombo, Sigiriya, Kandy, Nuwara Eliya und Ella, gefolgt von einer erstklassigen Safari-Lodge in der Region Yala.",
+    "transportation": "Privates klimatisiertes Luxusfahrzeug mit englischsprachigem Chauffeur-Guide auf der gesamten Strecke auf der Straße. Die Bahnetappe im Hochland unterliegt Fahrplan und Platzverfügbarkeit. Die Yala-Safari erfolgt in einem separaten Allradfahrzeug.",
+    "meals": "Täglich Frühstück, Mittag- und Abendessen von Tag 1 bis Tag 7, dazu Frühstück und Mittagessen an Tag 8. Die Safari-Zeiten können die Reihenfolge beeinflussen, in der das Frühstück serviert wird.",
+    "included": [
+      "7 Nächte in ausgewählten Fünf-Sterne-Hotels, Luxusresorts und einer erstklassigen Safari-Lodge",
+      "Täglich Frühstück, Mittag- und Abendessen gemäß dem Verpflegungsplan",
+      "Privater Chauffeur-Guide und klimatisiertes Fahrzeug",
+      "Empfang am Flughafen",
+      "Eintritt zur Felsenfestung Sigiriya und zum Höhlentempel von Dambulla",
+      "Eintritt zum Tempel der Heiligen Zahnreliquie",
+      "Bestätigter Besuch einer Teefabrik mit Verkostung",
+      "Zugticket Nanu Oya–Ella in der vereinbarten Klasse, vorbehaltlich Verfügbarkeit",
+      "Eintritt zum Yala-Nationalpark und eine Standard-Jeep-Safari im Allradfahrzeug",
+      "Weitere Eintrittsgelder, die in der endgültig bestätigten Reiseroute ausdrücklich aufgeführt sind"
+    ],
+    "excluded": [
+      "Internationale Flüge und Visagebühren",
+      "Reiseversicherung",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Alkoholische Getränke und Premium-Getränke",
+      "Optionale Aktivitäten, die nicht als inbegriffen aufgeführt sind",
+      "Zusätzliche Safaris über das bestätigte Paket hinaus",
+      "Zimmer-Upgrades und Spa-Behandlungen"
+    ],
+    "optionalExperiences": [
+      "Privater Sonnenaufgangsaufstieg auf den Sigiriya",
+      "Geführte Wanderung zu Little Adam's Peak",
+      "Erstklassiges Erlebnis auf einem Teegut",
+      "Zusätzliche Yala-Safari",
+      "Privates Dinner in der Safari-Lodge"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Ist eine Leopardensichtung im Yala garantiert?",
+        "a": "Nein. Yala ist berühmt für seine Leoparden, doch Sichtungen hängen von den Bewegungen der Tiere und den Bedingungen ab. Auf der Safari bietet sich außerdem die Gelegenheit, Elefanten, Vögel und andere Tiere zu sehen."
+      },
+      {
+        "q": "Ist der Safari-Jeep inbegriffen?",
+        "a": "Eine Standard-Jeep-Safari im Allradfahrzeug ist im vorgeschlagenen Paket samt Parkeintritt enthalten. Jede weitere Safari muss gesondert bestätigt werden."
+      },
+      {
+        "q": "Können wir mit dem Zug nach Ella fahren?",
+        "a": "Die Reiseroute enthält die malerische Zugfahrt, sofern reservierte Plätze und Fahrpläne es zulassen. Ist sie nicht möglich, kann ein privater, landschaftlich reizvoller Straßentransfer organisiert werden."
+      }
+    ]
+  },
+  "grand-ceylon-luxury-10-day": {
+    "title": "Große Ceylon-Luxusreise",
+    "duration": "10 Tage / 9 Nächte",
+    "highlights": [
+      "Polonnaruwa – UNESCO-Welterbestätte",
+      "Felsenfestung Sigiriya und Höhlentempel von Dambulla",
+      "Luxuriöses Erlebnis im Teeland",
+      "Malerische Zugfahrt nach Ella",
+      "Wildtiersafari in Yala",
+      "Mirissa und das historische Galle Fort"
+    ],
+    "blurb": "Erkunden Sie Sri Lankas antike Königreiche, Teeplantagen im Hochland, Wildschutzgebiete und die Südküste auf einer privaten zehntägigen Luxusreise.",
+    "heroTitle": "Große Ceylon-Luxusreise – 10 Tage quer über die Insel",
+    "intro": "Reisen Sie quer durch Sri Lanka auf einer sorgfältig kuratierten Mischung aus antiken Königreichen, spektakulärer Hochlandkulisse, Tierwelt und Küstenerbe. Erkunden Sie Polonnaruwa und Sigiriya, entdecken Sie die heiligen Traditionen Kandys, fahren Sie durch Teeplantagen und besuchen Sie Ella, bevor Sie die Wildnis des Yala und die historische Küste rund um Mirissa und Galle erleben.",
+    "overview": "Eine zehntägige Privatroute für Reisende, die einen breiten Einblick in Sri Lankas kulturelle und natürliche Höhepunkte wünschen. Luxusunterkünfte, ein eigener Chauffeur-Guide, eine landschaftlich reizvolle Bahnfahrt und eine Wildtiersafari vereinen die eindrucksvollsten Landschaften der Insel.",
+    "bestFor": "Luxusreisende Paare, Kulturinteressierte und Tierliebhaber",
+    "groupSize": "Privat – nur Sie und Ihre Mitreisenden",
+    "physicalLevel": "Mittel, mit optionalen Aufstiegen und Naturspaziergängen",
+    "destinationsCovered": "Negombo → Polonnaruwa → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Mirissa → Galle → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft in Negombo",
+        "points": [
+          "Empfang am Flughafen: Traditionelle Blumengirlanden am CMB.",
+          "Begrüßung durch den Chauffeur: Treffen Sie Ihren privaten Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
+          "Transfer nach Negombo: Fahrt zu Ihrem luxuriösen Strandhotel.",
+          "Mittagessen & Entspannung: Mittagessen und Erholung nach dem Flug.",
+          "Abend an der Küste: Entspannen Sie im Hotel vor dem Abendessen."
+        ],
+        "overnight": "Fünf-Sterne-Strandhotel in Negombo."
+      },
+      {
+        "title": "Von Negombo nach Polonnaruwa",
+        "points": [
+          "Frühstück & Check-out: Beginn der Fahrt Richtung Polonnaruwa.",
+          "Ländliche Landschaft: Fahrt durch Sri Lankas ländliche Gegenden.",
+          "Mittagspause: Mittagessen unterwegs.",
+          "Ankunft in Polonnaruwa: Besuch ausgewählter archäologischer Denkmäler, sofern die Zeit es erlaubt.",
+          "Hotel-Check-in: Zimmerbezug und Abendessen."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in der Region Polonnaruwa."
+      },
+      {
+        "title": "Antike Stadt Polonnaruwa & Sigiriya",
+        "points": [
+          "Frühstück: Frühstück vor der Erkundung der antiken Stadt.",
+          "UNESCO-Stätte Polonnaruwa: Entdecken Sie die historische königliche Hauptstadt und ihre archäologischen Überreste.",
+          "Königlicher Palastkomplex: Erkunden Sie ausgewählte Palastruinen und antike Bauwerke.",
+          "Gal Vihara: Bewundern Sie die berühmten in den Fels gehauenen Buddha-Statuen.",
+          "Transfer nach Sigiriya: Nach dem Mittagessen Weiterfahrt ins Kulturdreieck.",
+          "Resort-Check-in: Entspannen Sie sich und genießen Sie das Abendessen in Ihrem Hotel."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya & Dambulla",
+        "points": [
+          "Frühstück: Frühstück im Resort.",
+          "Felsenfestung Sigiriya: Erkunden Sie die UNESCO-gelistete Felsenzitadelle, die königlichen Gärten und die historischen Fresken.",
+          "Löwentatzen-Eingang: Entdecken Sie das ikonische Tor und die umliegende archäologische Landschaft.",
+          "Höhlentempel von Dambulla: Besuchen Sie den UNESCO-gelisteten Höhlenkomplex mit seiner historischen buddhistischen Kunst.",
+          "Mittagessen: Mittagessen während des Besichtigungstages.",
+          "Abend zur freien Verfügung: Rückkehr ins Resort zum Abendessen."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Von Sigiriya nach Kandy",
+        "points": [
+          "Frühstück & Abreise: Fahrt Richtung Kandy.",
+          "Gewürzgarten in Matale: Entdecken Sie srilankische Gewürze und traditionelle Heilpflanzen.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie den heiligen Tempel in der UNESCO-gelisteten Stadt Kandy.",
+          "Kandy-See: Genießen Sie einen gemütlichen Spaziergang am See.",
+          "Hotel-Check-in: Entspannung vor dem Abendessen."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Kandy."
+      },
+      {
+        "title": "Von Kandy nach Nuwara Eliya",
+        "points": [
+          "Frühstück: Abreise aus Kandy nach dem Frühstück.",
+          "Bergstraße mit Aussicht: Bewundern Sie üppige Täler und Teeplantagen.",
+          "Besuch einer Teefabrik: Erfahren Sie mehr über die Produktion von Ceylon-Tee.",
+          "Teeverkostung: Probieren Sie frisch aufgebrühten Tee.",
+          "Ramboda-Wasserfälle: Halt für Fotos und Aussicht, sofern die Zeit es erlaubt.",
+          "Check-in in Nuwara Eliya: Abendessen und ein entspannter Abend."
+        ],
+        "overnight": "Fünf-Sterne-Hotel oder luxuriöses Heritage-Haus in Nuwara Eliya."
+      },
+      {
+        "title": "Von Nuwara Eliya nach Ella",
+        "points": [
+          "Frühstück & Transfer: Fahrt zum Bahnhof Nanu Oya.",
+          "Malerische Zugfahrt: Fahrt durch Teegüter und Berglandschaften Richtung Ella, vorbehaltlich Verfügbarkeit.",
+          "Ankunft in Ella: Ihr Chauffeur erwartet Sie am Bahnhof.",
+          "Nine Arch Bridge: Besuch der ikonischen Eisenbahnbrücke, sofern der Zeitplan es erlaubt.",
+          "Ella: Genießen Sie ausgewählte Aussichtspunkte oder einen entspannten Bummel durch den Ort.",
+          "Hotel-Check-in: Abendessen in Ihrem Hotel."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Ella."
+      },
+      {
+        "title": "Von Ella nach Yala – Tiererlebnis",
+        "points": [
+          "Frühstück & Check-out: Beginn der Fahrt nach Süden.",
+          "Landschaftliche Fahrt: Fahrt durch Hochland- und Tieflandschaften.",
+          "Ankunft in Yala: Check-in in der Safari-Lodge.",
+          "Nachmittagssafari: Jeep-Safari im Allradfahrzeug, sofern Ankunftszeit und Öffnungszeiten des Parks es erlauben.",
+          "Tierbeobachtung: Halten Sie Ausschau nach Elefanten, Krokodilen, Hirschen und Vögeln; Leopardensichtungen sind nicht garantiert.",
+          "Abendessen: Entspannung in der Safari-Lodge."
+        ],
+        "overnight": "Luxus-Safari-Lodge in Yala oder Tissamaharama."
+      },
+      {
+        "title": "Yala, Mirissa & Galle Fort",
+        "points": [
+          "Frühsafari: Wurde sie an Tag 8 nicht durchgeführt, genießen Sie eine Morgensafari, abhängig vom Zeitplan.",
+          "Frühstück & Check-out: Rückkehr zur Lodge und Vorbereitung auf die Fahrt entlang der Küste.",
+          "Küste von Mirissa: Kurzer Halt in Mirissa für einen Küstenbesuch, sofern die Zeit es erlaubt.",
+          "Galle Fort: Erkunden Sie die UNESCO-Welterbestätte, die historischen Festungsmauern und die kolonialen Gassen.",
+          "Leuchtturm von Galle: Genießen Sie den Meerblick und fotografieren Sie.",
+          "Hotel-Check-in: Entspannen Sie sich und genießen Sie das Abendessen in der Region Galle."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Galle."
+      },
+      {
+        "title": "Von Galle nach Colombo & Abreise",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Fahrt entlang der Küste: Fahrt nach Norden Richtung Colombo.",
+          "Optionaler Halt in Colombo: Besuch des Galle Face Green oder eines ausgewählten Wahrzeichens, sofern die Abflugzeit es erlaubt.",
+          "Mittagessen: Mittagessen unterwegs oder in Colombo.",
+          "Flughafentransfer: Weiterfahrt zum Bandaranaike International Airport.",
+          "Abreise: Ankunft mit ausreichend Zeit für den Check-in bei der Fluggesellschaft."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Ausgewählte Fünf-Sterne-Hotels, Luxusresorts und eine erstklassige Safari-Lodge in Negombo, Polonnaruwa, Sigiriya, Kandy, Nuwara Eliya, Ella, Yala und Galle. Die endgültige Auswahl der Unterkünfte hängt von der Verfügbarkeit und den bestätigten Paketpreisen ab.",
+    "transportation": "Privates klimatisiertes Luxusfahrzeug mit eigenem englischsprachigem Chauffeur-Guide für die gesamte Strecke auf der Straße. Die Bahnetappe Nanu Oya–Ella unterliegt Fahrplan und Platzverfügbarkeit. Die Yala-Safari erfolgt in einem separaten Allradfahrzeug.",
+    "meals": "Täglich Frühstück, Mittag- und Abendessen von Tag 1 bis Tag 9, an Tag 10 (Abreise) Frühstück und Mittagessen. Die Zeiten der Mahlzeiten können für frühe Safaris und Bahnfahrpläne angepasst werden.",
+    "included": [
+      "9 Nächte in ausgewählten Fünf-Sterne-Hotels, Luxusresorts und einer erstklassigen Safari-Lodge",
+      "Täglich Frühstück, Mittag- und Abendessen gemäß dem Verpflegungsplan",
+      "Privater Chauffeur-Guide und klimatisiertes Fahrzeug",
+      "Empfang am Flughafen",
+      "Eintritt zur archäologischen Stätte Polonnaruwa",
+      "Eintritt zur Felsenfestung Sigiriya und zum Höhlentempel von Dambulla",
+      "Eintritt zum Tempel der Heiligen Zahnreliquie",
+      "Bestätigter Besuch einer Teefabrik mit Verkostung",
+      "Zugticket Nanu Oya–Ella in der vereinbarten Klasse, vorbehaltlich Verfügbarkeit",
+      "Eintritt zum Yala-Nationalpark und eine Standard-Jeep-Safari im Allradfahrzeug",
+      "Eintritt zum Galle Fort und weitere Eintrittsgelder, die in der bestätigten Reiseroute ausdrücklich aufgeführt sind"
+    ],
+    "excluded": [
+      "Internationale Flüge und Visagebühren",
+      "Reiseversicherung",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Alkoholische Getränke",
+      "Zusätzliche Safaris über das im Paket enthaltene Kontingent hinaus",
+      "Optionale Erlebnisse, die nicht als inbegriffen aufgeführt sind",
+      "Hotel-Upgrades und Spa-Behandlungen"
+    ],
+    "optionalExperiences": [
+      "Privates Dorferlebnis in der Nähe von Sigiriya",
+      "Sonnenaufgangsaufstieg auf den Sigiriya",
+      "Zusätzliche Wildtiersafari im Yala",
+      "Privates Erlebnis auf einem Teegut",
+      "Romantisches Dinner an der Küste in Galle oder Mirissa"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Umfasst die Reiseroute UNESCO-Stätten?",
+        "a": "Ja. Die Route umfasst die UNESCO-gelistete antike Stadt Polonnaruwa, die Felsenfestung Sigiriya, den Höhlentempel von Dambulla und die heilige Stadt Kandy."
+      },
+      {
+        "q": "Können wir sowohl Mirissa als auch Galle sehen?",
+        "a": "Ja. Beide sind Teil der Route. Reihenfolge der Besichtigungen und Aufenthaltsdauer an den einzelnen Zielen hängen von den Safari-Zeiten und den Straßenverhältnissen ab."
+      },
+      {
+        "q": "Ist die Safari inbegriffen?",
+        "a": "Das vorgeschlagene Paket umfasst eine Standard-Jeep-Safari im Yala samt Parkeintritt. Zusätzliche Safaris können gegen Aufpreis organisiert werden."
+      }
+    ]
   }
 }
