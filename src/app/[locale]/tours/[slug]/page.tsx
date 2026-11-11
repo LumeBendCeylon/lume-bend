@@ -68,7 +68,7 @@ async function findTour(slug: string, locale = "en"): Promise<Tour | null> {
   // win over the version baked into this file at build time.
   const custom = await getCustomTourBySlug(slug);
   if (custom && custom.itinerary && custom.itinerary.length > 0) {
-    return customTourToTour(custom);
+    return translateTour(customTourToTour(custom), locale);
   }
   const staticMatch = detailedTours.find((t) => t.slug === slug);
   if (staticMatch) return translateTour(staticMatch, locale);

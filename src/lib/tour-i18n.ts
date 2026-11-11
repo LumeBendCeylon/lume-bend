@@ -1,8 +1,11 @@
 import type { Tour } from "@/lib/data";
 import de from "@/i18n/tours-de.json";
+import fr from "@/i18n/tours-fr.json";
+import ru from "@/i18n/tours-ru.json";
+import zh from "@/i18n/tours-zh.json";
 
 // Add fr / ru / zh here when their tours-<locale>.json files exist.
-const overlays: Record<string, Record<string, any>> = { de };
+const overlays: Record<string, Record<string, any>> = { de, fr, ru, zh };
 
 const FIELDS = [
   "title", "duration", "highlights", "blurb", "heroTitle", "intro", "overview",
