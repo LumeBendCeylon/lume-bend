@@ -1,0 +1,330 @@
+{
+  "ultimate-ceylon-luxury-12-day": {
+    "title": "Die ultimative Ceylon-Luxusreise",
+    "duration": "12 Tage / 11 Nächte",
+    "highlights": [
+      "UNESCO-Welterbe in Anuradhapura und Polonnaruwa",
+      "Felsenfestung Sigiriya und Höhlentempel von Dambulla",
+      "Das heilige Kandy und der Zahntempel",
+      "Teeplantagen und malerische Bahnfahrt durch das Hochland",
+      "Wildtiersafari im Yala-Nationalpark",
+      "Mirissa, Galle Fort und die Küste von Bentota"
+    ],
+    "blurb": "Erleben Sie Sri Lankas antike Königreiche, teebedeckte Berge, Tierwelt und Südküste auf einer außergewöhnlichen privaten Luxusreise.",
+    "heroTitle": "Die ultimative Ceylon-Luxusreise – 12 Tage private Entdeckungen",
+    "intro": "Erleben Sie Sri Lanka in aller Tiefe auf einer privaten zwölftägigen Reise, die antike Hauptstädte, dramatische Felsenfestungen, heilige Tempel, nebelverhangenes Hochland, Wildschutzgebiete und tropische Strände verbindet. Entdecken Sie das reiche Erbe von Anuradhapura und Polonnaruwa, reisen Sie durch das Teeland, genießen Sie eine Wildtiersafari im Yala und beenden Sie die Reise entlang der historischen Süd- und Westküste. Jede Etappe ist auf private Touren, Luxusunterkünfte und unvergessliche lokale Erlebnisse ausgerichtet.",
+    "overview": "Eine umfassende Luxusrundreise zu Sri Lankas kulturellen, natürlichen und küstennahen Höhepunkten. Die Route verbindet UNESCO-Welterbestätten, Teelandschaften, eine malerische Zugfahrt, eine Wildtiersafari und das Küstenerbe von Mirissa, Galle und Bentota – begleitet von einem privaten Chauffeur-Guide.",
+    "bestFor": "Luxusreisende, Paare, Hochzeitsreisende, Kulturliebhaber und Tierfreunde",
+    "groupSize": "Privat – nur Sie und Ihre Mitreisenden",
+    "physicalLevel": "Mittel, mit optionalen Aufstiegen, archäologischen Spaziergängen und Aussichtspunkten im Hochland",
+    "destinationsCovered": "Negombo → Anuradhapura → Polonnaruwa → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Mirissa → Galle → Bentota → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft in Negombo",
+        "points": [
+          "Empfang am Flughafen: Traditionelle Blumengirlanden am Bandaranaike International Airport.",
+          "Begrüßung durch den privaten Chauffeur: Treffen Sie Ihren englischsprachigen Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
+          "Transfer nach Negombo: Fahrt zu Ihrem luxuriösen Strandhotel.",
+          "Mittagessen & Entspannung: Mittagessen und Erholung von der Anreise.",
+          "Abend an der Küste: Entspannen Sie an der Küste vor dem Abendessen."
+        ],
+        "overnight": "Fünf-Sterne-Strandhotel in Negombo."
+      },
+      {
+        "title": "Von Negombo nach Anuradhapura",
+        "points": [
+          "Frühstück & Check-out: Abreise aus Negombo nach dem Frühstück.",
+          "Landschaftliche Fahrt: Fahrt durch Sri Lankas ländliche Gegenden Richtung antikes Königreich im Norden.",
+          "Erfrischungspause: Genießen Sie eine Pause während der Fahrt.",
+          "Ankunft in Anuradhapura: Check-in im Hotel und Mittagessen.",
+          "Freie Zeit: Entspannen Sie sich oder besuchen Sie eine nahegelegene Stätte, sofern die Ankunftszeit es erlaubt.",
+          "Abendessen: Abendessen im Hotel."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Anuradhapura."
+      },
+      {
+        "title": "Das antike Königreich Anuradhapura",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "UNESCO-Welterbestätte: Erkunden Sie die antike Stadt Anuradhapura.",
+          "Ruwanwelisaya-Stupa: Besuchen Sie die monumentale Stupa und ihre heilige Umgebung.",
+          "Jaya Sri Maha Bodhi: Entdecken Sie den verehrten heiligen Bodhi-Baum.",
+          "Antike Monumente: Erkunden Sie ausgewählte historische Klöster und archäologische Überreste.",
+          "Rückkehr zum Hotel: Mittag- und Abendessen, mit Zeit zur Entspannung."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Anuradhapura."
+      },
+      {
+        "title": "Von Anuradhapura nach Polonnaruwa",
+        "points": [
+          "Frühstück & Check-out: Abreise aus Anuradhapura nach dem Frühstück.",
+          "Landschaftliche Fahrt: Fahrt Richtung Polonnaruwa durch Sri Lankas Trockenzonen-Landschaften.",
+          "UNESCO-Stätte Polonnaruwa: Erkunden Sie die antike Königsstadt und ihre historischen Überreste.",
+          "Königlicher Palastkomplex: Entdecken Sie ausgewählte Palastruinen und archäologische Strukturen.",
+          "Gal Vihara: Bewundern Sie die berühmten in den Fels gehauenen Buddha-Statuen.",
+          "Hotel-Check-in: Abendessen und Erholung nach der Besichtigung."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Polonnaruwa oder Umgebung."
+      },
+      {
+        "title": "Von Polonnaruwa nach Sigiriya",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Letzter Besuch einer Kulturstätte: Erkunden Sie ein weiteres Monument in Polonnaruwa, sofern die Zeit es erlaubt.",
+          "Transfer nach Sigiriya: Fahrt durch die Landschaft des Kulturdreiecks.",
+          "Mittagessen: Mittagessen unterwegs oder im Resort.",
+          "Check-in im Luxusresort: Beziehen Sie Ihre Unterkunft.",
+          "Nachmittag zur freien Verfügung: Entspannung vor dem Abendessen."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya & Dambulla",
+        "points": [
+          "Frühstück: Frühstück im Resort.",
+          "Felsenfestung Sigiriya: Erkunden Sie die UNESCO-Welterbestätte und ihre antike königliche Landschaft.",
+          "Wassergärten: Entdecken Sie die bemerkenswerten Gärten und die historische Baukunst.",
+          "Fresken & Löwentatzen-Eingang: Erkunden Sie die berühmten Fresken und das monumentale Tor.",
+          "Höhlentempel von Dambulla: Besuchen Sie den UNESCO-gelisteten Höhlenkomplex mit seinen buddhistischen Wandmalereien und Statuen.",
+          "Rückkehr zum Resort: Abendessen und ein entspannter Abend."
+        ],
+        "overnight": "Luxusresort mit fünf Sternen in Sigiriya."
+      },
+      {
+        "title": "Von Sigiriya nach Kandy",
+        "points": [
+          "Frühstück & Check-out: Abreise aus Sigiriya nach dem Frühstück.",
+          "Landschaftliche Fahrt: Fahrt durch die zentralen Ebenen Richtung Kandy.",
+          "Gewürzgarten in Matale: Erfahren Sie mehr über einheimische Gewürze und traditionelle Heilpflanzen.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
+          "Kandy-See: Genießen Sie einen entspannenden Spaziergang am See.",
+          "Hotel-Check-in: Abendessen in Ihrem Luxushotel."
+        ],
+        "overnight": "Fünf-Sterne-Hotel in Kandy."
+      },
+      {
+        "title": "Von Kandy nach Nuwara Eliya",
+        "points": [
+          "Frühstück & Abreise: Beginn der landschaftlich reizvollen Fahrt ins Hochland.",
+          "Fahrt durch das Teeland: Bewundern Sie üppige Täler, Bergpanoramen und sanfte Teeplantagen.",
+          "Besuch einer Teefabrik: Entdecken Sie den traditionellen Herstellungsprozess von Ceylon-Tee.",
+          "Teeverkostung: Probieren Sie frisch aufgebrühten Tee.",
+          "Ramboda-Wasserfälle: Halt, um den Wasserfall und die Umgebung zu bewundern, sofern die Zeit es erlaubt.",
+          "Check-in in Nuwara Eliya: Abendessen und ein entspannter Abend."
+        ],
+        "overnight": "Fünf-Sterne-Hotel oder luxuriöses Heritage-Haus in Nuwara Eliya."
+      },
+      {
+        "title": "Malerische Zugfahrt nach Ella",
+        "points": [
+          "Frühstück & Transfer: Fahrt zum Bahnhof Nanu Oya.",
+          "Malerische Zugfahrt: Fahrt durch Teegüter, nebelverhangene Berge und reizvolle Landschaft Richtung Ella, vorbehaltlich der Zugverfügbarkeit.",
+          "Ankunft in Ella: Ihr Chauffeur erwartet Sie am Bahnhof.",
+          "Nine Arch Bridge: Besuch der ikonischen Eisenbahnbrücke, sofern der Zeitplan es erlaubt.",
+          "Ella: Erkunden Sie den Ort oder genießen Sie einen Aussichtspunkt.",
+          "Hotel-Check-in: Abendessen und Entspannung."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Ella."
+      },
+      {
+        "title": "Von Ella nach Yala – Tiererlebnis",
+        "points": [
+          "Frühstück & Check-out: Abreise aus Ella nach dem Frühstück.",
+          "Landschaftlicher Transfer: Fahrt nach Süden durch Hoch- und Tiefland.",
+          "Ankunft in Yala: Check-in in Ihrer Luxus-Safari-Lodge.",
+          "Nachmittagssafari: Jeep-Safari im Allradfahrzeug, sofern Ankunftszeit und Öffnungszeiten des Parks es erlauben.",
+          "Tierbeobachtung: Halten Sie Ausschau nach Elefanten, Krokodilen, Hirschen und Vögeln; Leopardensichtungen sind nicht garantiert.",
+          "Abendessen: Abendessen und Entspannung in der Lodge."
+        ],
+        "overnight": "Luxus-Safari-Lodge in Yala oder Tissamaharama."
+      },
+      {
+        "title": "Yala, Mirissa & Galle Fort",
+        "points": [
+          "Safari am frühen Morgen: Genießen Sie eine Morgensafari, falls sie an Tag 10 nicht durchgeführt wurde, abhängig vom Zeitplan.",
+          "Frühstück & Check-out: Rückkehr zur Lodge und Vorbereitung auf die Fahrt entlang der Küste.",
+          "Küste von Mirissa: Küstenhalt mit Blick auf den Indischen Ozean.",
+          "Galle Fort: Erkunden Sie die UNESCO-Welterbestätte, ihre historischen Gassen und die koloniale Architektur.",
+          "Leuchtturm von Galle: Genießen Sie den Meerblick und fotografieren Sie.",
+          "Hotel-Check-in: Abendessen in der Region Galle."
+        ],
+        "overnight": "Fünf-Sterne- oder erstklassiges Luxushotel in Galle."
+      },
+      {
+        "title": "Galle, Bentota & Abreise ab Colombo",
+        "points": [
+          "Frühstück & Check-out: Frühstück vor der Abreise.",
+          "Fahrt entlang der Küste: Fahrt nach Norden entlang Sri Lankas West- und Südküste.",
+          "Halt in Bentota: Kurzer Küstenbesuch, sofern die Zeit es erlaubt.",
+          "Mittagessen: Mittagessen in einem ausgewählten Restaurant unterwegs.",
+          "Flughafentransfer: Weiterfahrt zum Bandaranaike International Airport (CMB).",
+          "Abreise: Ankunft mit ausreichend Zeit für den Check-in bei der Fluggesellschaft."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Eine sorgfältige Auswahl an Fünf-Sterne-Hotels, Luxusresorts und erstklassigen Safari-Lodges in Negombo, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Nuwara Eliya, Ella, Yala und Galle. Die endgültigen Häuser werden nach Verfügbarkeit, Reisedaten und dem vereinbarten Paketpreis ausgewählt.",
+    "transportation": "Privates klimatisiertes Luxusfahrzeug mit eigenem englischsprachigem Chauffeur-Guide auf der gesamten Strecke auf der Straße. Die Zugfahrt von Nanu Oya nach Ella unterliegt Fahrplan und Platzverfügbarkeit. Die Yala-Safari erfolgt in einem separaten Allradfahrzeug.",
+    "meals": "Täglich Frühstück, Mittag- und Abendessen von Tag 1 bis Tag 11, an Tag 12 (Abreise) Frühstück und Mittagessen. Die Zeiten der Mahlzeiten können für frühe Safaris und Zugfahrpläne angepasst werden.",
+    "included": [
+      "11 Nächte in ausgewählten Fünf-Sterne-Hotels, Luxusresorts und einer erstklassigen Safari-Lodge",
+      "Täglich Frühstück, Mittag- und Abendessen gemäß dem angegebenen Verpflegungsplan",
+      "Privater Chauffeur-Guide und klimatisiertes Fahrzeug",
+      "Empfang am Flughafen mit traditionellen Blumengirlanden",
+      "Eintritt zur archäologischen Stätte Anuradhapura",
+      "Eintritt zur archäologischen Stätte Polonnaruwa",
+      "Eintritt zur Felsenfestung Sigiriya und zum Höhlentempel von Dambulla",
+      "Eintritt zum Tempel der Heiligen Zahnreliquie",
+      "Bestätigter Besuch einer Teefabrik mit Verkostung",
+      "Zugticket Nanu Oya–Ella in der vereinbarten Klasse, vorbehaltlich Verfügbarkeit",
+      "Eintritt zum Yala-Nationalpark und eine Standard-Jeep-Safari im Allradfahrzeug",
+      "Eintrittsgelder für weitere Sehenswürdigkeiten, die in der bestätigten Reiseroute ausdrücklich aufgeführt sind"
+    ],
+    "excluded": [
+      "Internationale Flüge und Visagebühren",
+      "Reiseversicherung",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Alkoholische Getränke und Premium-Getränke",
+      "Optionale Erlebnisse, die nicht als inbegriffen aufgeführt sind",
+      "Zusätzliche Wildtiersafaris über das im Paket enthaltene Kontingent hinaus",
+      "Spa-Behandlungen und Zimmer-Upgrades"
+    ],
+    "optionalExperiences": [
+      "Privates Dorferlebnis im Kulturdreieck",
+      "Geführter Sonnenaufgangsaufstieg auf den Sigiriya",
+      "Erstklassiges Erlebnis auf einem Teegut",
+      "Zusätzliche Wildtiersafari im Yala",
+      "Privates romantisches Dinner an der Südküste",
+      "Private Wellnessbehandlung in ausgewählten Luxushotels"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Welche UNESCO-Welterbestätten sind enthalten?",
+        "a": "Die Route umfasst Anuradhapura, Polonnaruwa, die Felsenfestung Sigiriya, den Höhlentempel von Dambulla und die heilige Stadt Kandy."
+      },
+      {
+        "q": "Sind alle Mahlzeiten und Eintrittsgelder inbegriffen?",
+        "a": "Das vorgeschlagene Paket umfasst täglich Frühstück, Mittag- und Abendessen sowie den Eintritt zu den in der bestätigten Reiseroute ausdrücklich aufgeführten Sehenswürdigkeiten. Für optionale Aktivitäten können zusätzliche Kosten anfallen."
+      },
+      {
+        "q": "Sind alle Unterkünfte Fünf-Sterne-Häuser?",
+        "a": "Die Reise ist auf Fünf-Sterne-Hotels, Luxusresorts und erstklassige Safari-Lodges ausgelegt. Die konkreten Häuser werden je nach Verfügbarkeit und endgültigem Paketpreis bestätigt."
+      },
+      {
+        "q": "Kann die Reiseroute individuell angepasst werden?",
+        "a": "Ja. Hotelwahl, Besichtigungstempo, optionale Aktivitäten und besondere Dinner-Arrangements lassen sich auf Ihre Wünsche abstimmen."
+      }
+    ]
+  },
+  "general-5-day-tour": {
+    "title": "Ceylon-Entdeckungsreise",
+    "duration": "5 Tage / 4 Nächte",
+    "highlights": [
+      "Felsenfestung Sigiriya",
+      "Elefantenwaisenhaus Pinnawala",
+      "Höhlentempel von Dambulla",
+      "Zahntempel in Kandy"
+    ],
+    "blurb": "Eine klassische fünftägige Einführung in Sri Lankas Kulturdreieck und die Hauptstadt des Hochlands – das Wesentliche, in angenehmem Tempo.",
+    "heroTitle": "Sri Lanka klassisch entdecken – 5 Tage durch das Kulturdreieck",
+    "intro": "Ein kurzer, runder erster Blick auf Sri Lanka: die berühmteste Felsenfestung der Insel, ihre antiken Höhlentempel und die Hochlandstadt Kandy – ohne gehetzten Zeitplan.",
+    "overview": "Diese fünftägige Route bleibt im kompakten Kulturdreieck Sri Lankas und in Kandy. Sie ist ideal für Reisende mit wenig Zeit, die die Highlights des Landes dennoch in Ruhe und nicht im Zeitraffer sehen möchten.",
+    "bestFor": "Erstbesucher, kurze Zwischenstopps, Paare und Alleinreisende",
+    "groupSize": "Privates Fahrzeug – Gruppengröße individuell anpassbar",
+    "physicalLevel": "Leicht, mit einem mittelschweren Felsaufstieg",
+    "destinationsCovered": "Negombo → Pinnawala → Sigiriya → Dambulla → Kandy → Colombo",
+    "itinerary": [
+      {
+        "title": "Ankunft, Pinnawala & Sigiriya",
+        "points": [
+          "Empfang am Bandaranaike International Airport (CMB) mit traditionellen Blumengirlanden.",
+          "Treffen Sie Ihren privaten Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
+          "Fahrt Richtung Pinnawala durch Sri Lankas reizvolle Landschaft.",
+          "Besuch des Elefantenwaisenhauses Pinnawala, um die Elefanten zu beobachten.",
+          "Genießen Sie eine erfrischende Königskokosnuss und landschaftliche Stopps auf dem Weg nach Sigiriya.",
+          "Ankunft in Sigiriya, Check-in im Hotel und Erholung."
+        ],
+        "overnight": "Boutique-Hotel in Sigiriya."
+      },
+      {
+        "title": "Felsenfestung Sigiriya & Umgebung",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück im Hotel.",
+          "Felsenfestung Sigiriya: Erkunden Sie diese UNESCO-Welterbestätte mit ihren antiken Fresken, Wassergärten und dem ikonischen Löwentatzen-Eingang.",
+          "Gipfelblick: Steigen Sie zum Gipfel hinauf und genießen Sie den Panoramablick über die Landschaft, je nach Wetter und Fitness.",
+          "Mittagessen & Entspannung: Rückkehr zum Hotel zum Mittagessen oder für freie Zeit.",
+          "Dorferlebnis: Optionale Dorftour, um das traditionelle srilankische Leben und die lokale Küche kennenzulernen.",
+          "Abend zur freien Verfügung: Entspannen Sie im Hotel oder fotografieren Sie die schöne Umgebung."
+        ],
+        "overnight": "Boutique-Hotel in Sigiriya."
+      },
+      {
+        "title": "Sigiriya → Dambulla → Gewürzgarten → Kandy",
+        "points": [
+          "Frühstück & Check-out: Frühstück im Hotel vor der Abreise aus Sigiriya.",
+          "Höhlentempel von Dambulla: Erkunden Sie diese UNESCO-Welterbestätte, berühmt für ihre antiken buddhistischen Wandmalereien und Statuen.",
+          "Gewürzgarten in Matale: Entdecken Sie srilankische Gewürze wie Zimt, Kardamom, Nelken und Pfeffer und ihre traditionelle Verwendung.",
+          "Ankunft in Kandy: Fahrt durch reizvolle Landschaften und Check-in im Hotel.",
+          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen buddhistischen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
+          "Kandy-See: Genießen Sie vor dem Abendessen einen entspannenden Spaziergang am See."
+        ],
+        "overnight": "Boutique-Hotel in Kandy."
+      },
+      {
+        "title": "Kandy erkunden → Colombo",
+        "points": [
+          "Frühstück & Check-out: Frühstück im Hotel vor der Abreise aus Kandy.",
+          "Königlicher Botanischer Garten: Optionaler Besuch der schönen Gärten mit tropischen Pflanzen und berühmten Palmenalleen in Peradeniya.",
+          "Stadt Kandy: Kunsthandwerk einkaufen oder einen Aussichtspunkt mit Blick über die Stadt besuchen.",
+          "Edelstein- und Mineralienmuseum: Entdecken Sie Sri Lankas berühmte Edelsteine und sein Mineralienerbe (optional).",
+          "Fahrt nach Colombo: Fahrt durch reizvolle Landschaften mit einer Erfrischungspause unterwegs.",
+          "Abend in Colombo: Check-in im Hotel und Spaziergang am Meer auf dem Galle Face Green, anschließend lokales Streetfood oder Abendessen."
+        ],
+        "overnight": "Boutique-Hotel in Colombo."
+      },
+      {
+        "title": "Stadtrundfahrt Colombo → Abreise zum Flughafen",
+        "points": [
+          "Frühstück & Check-out: Frühstück im Hotel und Vorbereitung auf die Abreise.",
+          "Stadtrundfahrt Colombo: Besuch des Gangaramaya-Tempels und des Independence Square, je nach Abflugzeit.",
+          "Einkaufen: Letzte Einkäufe von Ceylon-Tee, Souvenirs und lokalem Kunsthandwerk.",
+          "Flughafentransfer: Gepäck abholen und Transfer zum Bandaranaike International Airport (CMB) für Ihren Flug.",
+          "Abreise: Beenden Sie Ihre Sri-Lanka-Reise mit unvergesslichen Erinnerungen an Kultur und landschaftliche Schönheit."
+        ],
+        "overnight": "Entfällt – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Komfortable 3- bis 4-Sterne-Hotels in Negombo, Sigiriya/Habarana, Kandy und Colombo.",
+    "transportation": "Privates klimatisiertes Fahrzeug mit Fahrer an allen 5 Tagen.",
+    "meals": "Täglich Frühstück. Mittagessen an Tag 2 inbegriffen (Mittagessen im Dorf). Übrige Mahlzeiten nach eigener Wahl.",
+    "included": [
+      "4 Übernachtungen in den aufgeführten Unterkünften",
+      "Täglich Frühstück + 1 Mittagessen",
+      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
+      "Eintritt zu Sigiriya, Dambulla und zum Zahntempel",
+      "Eintritt zum Elefantenwaisenhaus Pinnawala"
+    ],
+    "excluded": [
+      "Internationale Flüge",
+      "Visagebühren",
+      "Nicht aufgeführte Mahlzeiten",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Reiseversicherung"
+    ],
+    "optionalExperiences": [
+      "Heißluftballonfahrt über dem Kulturdreieck",
+      "Kandyscher Kulturtanz",
+      "Kochkurs im Dorf"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Reichen 5 Tage, um Sri Lanka zu sehen?",
+        "a": "Sie reichen für einen konzentrierten Blick auf das Kulturdreieck und Kandy. Wenn Sie auch Hochland und Strände sehen möchten, bieten unsere 7- oder 8-tägigen Rundreisen ein vollständigeres Bild."
+      },
+      {
+        "q": "Wie anspruchsvoll ist der Aufstieg auf den Sigiriya?",
+        "a": "Es sind etwa 1.200 Stufen, mit einigen steilen, offenen Abschnitten nahe dem Gipfel – für die meisten Reisenden in entspanntem Tempo machbar."
+      }
+    ]
+  }
+}
