@@ -1125,8 +1125,33 @@
       "generalEnquiry": "Allgemeine Anfrage",
       "travellers": "{count, plural, one {# Reisender} other {# Reisende}}"
     }
+  },
+    "SustainabilityPage": {
+    "metaTitle": "Nachhaltigkeit",
+    "metaDescription": "Reisehinweise für Sri Lanka und die Richtlinien von Lume Bend Ceylon für nachhaltigen Tourismus.",
+    "eyebrow": "Verantwortungsvoll reisen",
+    "title": "Nachhaltigkeit",
+    "subtitle": "Wie wir Sie auf Sri Lanka vorbereiten und wie wir während Ihres Aufenthalts verantwortungsvoll reisen.",
+    "travelTitle": "Reisehinweise für Sri Lanka",
+    "travelText": "Praktische Hinweise für Ihre Reise – Visa, Packliste, Gesundheits- und Sicherheitshinweise, lokale Bräuche und Etikette sowie was Sie bei der Ankunft erwartet.",
+    "travelButton": "Reisehinweise herunterladen (PDF)",
+    "policyTitle": "Unsere Richtlinien für nachhaltigen Tourismus",
+    "policyText": "Unsere Verpflichtungen zu Partnerschaft mit lokalen Gemeinschaften, Tierschutz, Abfallreduzierung und der Unterstützung lokaler Existenzgrundlagen in jeder von uns gestalteten Reiseroute.",
+    "policyButton": "Nachhaltigkeitsrichtlinie herunterladen (PDF)",
+    "commitmentEyebrow": "Unser Versprechen",
+    "commitmentTitle": "Verantwortungsvoll reisen – von Grund auf",
+    "commitmentDescription": "Nachhaltigkeit ist für uns kein separates Extra – sie prägt, wie jede Reiseroute entsteht.",
+    "values": {
+      "communityTitle": "Partnerschaft mit Gemeinden",
+      "communityText": "Wir arbeiten in jeder Region mit Gästehäusern, Guides und Fahrern in lokalem Besitz zusammen.",
+      "wildlifeTitle": "Schutz der Tierwelt",
+      "wildlifeText": "Unsere Safari-Partner halten verantwortungsvolle Beobachtungsabstände ein und unterstützen den Naturschutz in den Parks.",
+      "footprintTitle": "Unseren Fußabdruck verringern",
+      "footprintText": "Wir bevorzugen wiederverwendbare Materialien, vermeiden Einwegplastik und ermutigen unsere Gäste, es uns gleichzutun."
+    }
   }
 }
+
 
 
 

@@ -1124,8 +1124,33 @@
       "generalEnquiry": "Demande générale",
       "travellers": "{count, plural, one {# voyageur} other {# voyageurs}}"
     }
+  },
+    "SustainabilityPage": {
+    "metaTitle": "Développement durable",
+    "metaDescription": "Conseils de voyage pour le Sri Lanka et politiques de tourisme durable de Lume Bend Ceylon.",
+    "eyebrow": "Voyager de façon responsable",
+    "title": "Développement durable",
+    "subtitle": "Comment nous vous aidons à préparer votre voyage au Sri Lanka, et comment nous voyageons de façon responsable pendant votre séjour.",
+    "travelTitle": "Conseils de voyage pour le Sri Lanka",
+    "travelText": "Des informations pratiques pour votre voyage : visas, quoi emporter, santé et sécurité, coutumes locales et savoir-vivre, et à quoi s'attendre à l'arrivée.",
+    "travelButton": "Télécharger les conseils de voyage (PDF)",
+    "policyTitle": "Nos politiques de tourisme durable",
+    "policyText": "Nos engagements en matière de partenariat avec les communautés, de protection de la faune, de réduction des déchets et de soutien aux moyens de subsistance locaux dans chaque itinéraire que nous concevons.",
+    "policyButton": "Télécharger la politique de durabilité (PDF)",
+    "commitmentEyebrow": "Notre engagement",
+    "commitmentTitle": "Un voyage responsable, dès la conception",
+    "commitmentDescription": "Pour nous, la durabilité n'est pas un ajout : elle façonne la conception de chaque itinéraire.",
+    "values": {
+      "communityTitle": "Partenariat avec les communautés",
+      "communityText": "Nous travaillons avec des maisons d'hôtes, des guides et des chauffeurs locaux dans chaque région visitée.",
+      "wildlifeTitle": "Protection de la faune",
+      "wildlifeText": "Nos partenaires de safari respectent des distances d'observation responsables et soutiennent la conservation des parcs.",
+      "footprintTitle": "Réduire notre empreinte",
+      "footprintText": "Nous privilégions les matériaux réutilisables, limitons le plastique à usage unique et encourageons nos voyageurs à faire de même."
+    }
   }
 }
+
 
 
 

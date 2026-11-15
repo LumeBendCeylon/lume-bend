@@ -5719,8 +5719,33 @@
       "generalEnquiry": "一般咨询",
       "travellers": "{count} 位旅客"
     }
+  },
+    "SustainabilityPage": {
+    "metaTitle": "可持续发展",
+    "metaDescription": "斯里兰卡旅行须知，以及 Lume Bend Ceylon 的可持续旅游政策。",
+    "eyebrow": "负责任旅行",
+    "title": "可持续发展",
+    "subtitle": "我们如何帮助您为斯里兰卡之行做好准备，以及在您旅行期间我们如何践行负责任旅行。",
+    "travelTitle": "斯里兰卡旅行须知",
+    "travelText": "实用的旅行指南——签证、行李清单、健康与安全提示、当地习俗与礼仪，以及抵达后的注意事项。",
+    "travelButton": "下载旅行须知（PDF）",
+    "policyTitle": "我们的可持续旅游政策",
+    "policyText": "在我们设计的每一条行程中，我们都致力于社区合作、野生动物保护、减少废弃物并支持当地居民的生计。",
+    "policyButton": "下载可持续发展政策（PDF）",
+    "commitmentEyebrow": "我们的承诺",
+    "commitmentTitle": "从设计之初就负责任",
+    "commitmentDescription": "对我们而言，可持续发展不是额外附加项，而是每条行程设计的根本。",
+    "values": {
+      "communityTitle": "社区合作",
+      "communityText": "在我们到访的每个地区，都与当地人经营的民宿、导游和司机合作。",
+      "wildlifeTitle": "野生动物保护",
+      "wildlifeText": "我们的野生动物观赏合作伙伴遵守负责任的观赏距离，并支持公园保护工作。",
+      "footprintTitle": "减少环境足迹",
+      "footprintText": "我们优先使用可重复使用的材料，尽量减少一次性塑料，并鼓励客人一同践行。"
+    }
   }
 }
+
 
 
 

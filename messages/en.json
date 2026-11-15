@@ -1125,6 +1125,30 @@
       "generalEnquiry": "General Enquiry",
       "travellers": "{count, plural, one {# traveller} other {# travellers}}"
     }
+  },
+  "SustainabilityPage": {
+    "metaTitle": "Sustainability",
+    "metaDescription": "Travel instructions for visiting Sri Lanka and Lume Bend Ceylon's sustainable tourism policies.",
+    "eyebrow": "Travel Responsibly",
+    "title": "Sustainability",
+    "subtitle": "How we help you prepare for Sri Lanka, and how we travel responsibly while you're here.",
+    "travelTitle": "Travel Instructions for Sri Lanka",
+    "travelText": "Practical guidance for your trip — visas, what to pack, health and safety notes, local customs and etiquette, and what to expect on arrival.",
+    "travelButton": "Download Travel Instructions (PDF)",
+    "policyTitle": "Our Sustainable Tourism Policies",
+    "policyText": "Our commitments around community partnership, wildlife protection, waste reduction and supporting local livelihoods across every itinerary we design.",
+    "policyButton": "Download Sustainability Policy (PDF)",
+    "commitmentEyebrow": "Our Commitment",
+    "commitmentTitle": "Responsible Travel, By Design",
+    "commitmentDescription": "Sustainability isn't a separate add-on for us — it shapes how every itinerary is built.",
+    "values": {
+      "communityTitle": "Community Partnership",
+      "communityText": "We work with locally owned guesthouses, guides and drivers across every region we visit.",
+      "wildlifeTitle": "Wildlife Protection",
+      "wildlifeText": "Our safari partners follow responsible viewing distances and support park conservation efforts.",
+      "footprintTitle": "Reducing Our Footprint",
+      "footprintText": "We favour reusable materials, minimise single-use plastics, and encourage guests to do the same."
+    }
   }
 }
 
