@@ -885,7 +885,24 @@
     "whatsapp": "Chat on WhatsApp",
     "otherPlatforms": "Find Us on Other Platforms",
     "mapPlaceholder": "Google Map placeholder — embed your location here",
-    "enquiryTitle": "Send an Enquiry"
+    "enquiryTitle": "Send an Enquiry",
+      "form": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "whatsapp": "WhatsApp Number",
+      "country": "Country",
+      "arrivalDate": "Arrival Date",
+      "departureDate": "Departure Date",
+      "travelers": "Number of Travelers",
+      "tourType": "Tour Type",
+      "tourTypePlaceholder": "Select a tour type",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about the trip you're imagining...",
+      "submit": "Send Enquiry",
+      "errorGeneric": "Something went wrong. Please try again.",
+      "successTitle": "Enquiry Sent",
+      "successText": "Thank you, a travel specialist will be in touch within one business day with a tailored proposal."
+    }
   },
     "Plan": {
     "landing": {
@@ -944,23 +961,6 @@
       "errorGeneric": "Something went wrong. Please try again."
     }
   },
-      "form": {
-      "fullName": "Full Name",
-      "email": "Email",
-      "whatsapp": "WhatsApp Number",
-      "country": "Country",
-      "arrivalDate": "Arrival Date",
-      "departureDate": "Departure Date",
-      "travelers": "Number of Travelers",
-      "tourType": "Tour Type",
-      "tourTypePlaceholder": "Select a tour type",
-      "message": "Message",
-      "messagePlaceholder": "Tell us about the trip you're imagining...",
-      "submit": "Send Enquiry",
-      "errorGeneric": "Something went wrong. Please try again.",
-      "successTitle": "Enquiry Sent",
-      "successText": "Thank you — a travel specialist will be in touch within one business day with a tailored proposal."
-    },
       "QuoteForm": {
     "name": "Your Name",
     "startDate": "Tour Start Date",

@@ -883,7 +883,24 @@
     "whatsapp": "Discuter sur WhatsApp",
     "otherPlatforms": "Retrouvez-nous sur d'autres plateformes",
     "mapPlaceholder": "Emplacement Google Maps – intégrez ici votre adresse",
-    "enquiryTitle": "Envoyer une demande"
+    "enquiryTitle": "Envoyer une demande",
+     "form": {
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "whatsapp": "Numéro WhatsApp",
+      "country": "Pays",
+      "arrivalDate": "Date d'arrivée",
+      "departureDate": "Date de départ",
+      "travelers": "Nombre de voyageurs",
+      "tourType": "Type de voyage",
+      "tourTypePlaceholder": "Sélectionnez un type de voyage",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous du voyage dont vous rêvez...",
+      "submit": "Envoyer la demande",
+      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
+      "successTitle": "Demande envoyée",
+      "successText": "Merci – un spécialiste du voyage vous contactera sous un jour ouvré avec une proposition sur mesure."
+    }
   },
     "Plan": {
     "landing": {
@@ -942,23 +959,7 @@
       "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
     }
   },
-      "form": {
-      "fullName": "Nom complet",
-      "email": "E-mail",
-      "whatsapp": "Numéro WhatsApp",
-      "country": "Pays",
-      "arrivalDate": "Date d'arrivée",
-      "departureDate": "Date de départ",
-      "travelers": "Nombre de voyageurs",
-      "tourType": "Type de voyage",
-      "tourTypePlaceholder": "Sélectionnez un type de voyage",
-      "message": "Message",
-      "messagePlaceholder": "Parlez-nous du voyage dont vous rêvez...",
-      "submit": "Envoyer la demande",
-      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
-      "successTitle": "Demande envoyée",
-      "successText": "Merci – un spécialiste du voyage vous contactera sous un jour ouvré avec une proposition sur mesure."
-    },
+      
       "QuoteForm": {
     "name": "Votre nom",
     "startDate": "Date de début du circuit",

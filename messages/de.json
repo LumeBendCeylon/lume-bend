@@ -883,7 +883,24 @@
     "whatsapp": "Per WhatsApp chatten",
     "otherPlatforms": "Weitere Plattformen",
     "mapPlaceholder": "Google-Maps-Platzhalter – hier Ihren Standort einbetten",
-    "enquiryTitle": "Anfrage senden"
+    "enquiryTitle": "Anfrage senden",
+     "form": {
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "whatsapp": "WhatsApp-Nummer",
+      "country": "Land",
+      "arrivalDate": "Anreisedatum",
+      "departureDate": "Abreisedatum",
+      "travelers": "Anzahl der Reisenden",
+      "tourType": "Reiseart",
+      "tourTypePlaceholder": "Reiseart auswählen",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von der Reise, die Sie sich vorstellen ...",
+      "submit": "Anfrage senden",
+      "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+      "successTitle": "Anfrage gesendet",
+      "successText": "Vielen Dank – ein Reiseexperte meldet sich innerhalb eines Werktags mit einem maßgeschneiderten Vorschlag bei Ihnen."
+    }
   },
     "Plan": {
     "landing": {
@@ -940,25 +957,8 @@
       "travellerFallback": "Reisegast",
       "backHome": "Zur Startseite",
       "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
-    }
     },
-        "form": {
-      "fullName": "Vollständiger Name",
-      "email": "E-Mail",
-      "whatsapp": "WhatsApp-Nummer",
-      "country": "Land",
-      "arrivalDate": "Anreisedatum",
-      "departureDate": "Abreisedatum",
-      "travelers": "Anzahl der Reisenden",
-      "tourType": "Reiseart",
-      "tourTypePlaceholder": "Reiseart auswählen",
-      "message": "Nachricht",
-      "messagePlaceholder": "Erzählen Sie uns von der Reise, die Sie sich vorstellen ...",
-      "submit": "Anfrage senden",
-      "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
-      "successTitle": "Anfrage gesendet",
-      "successText": "Vielen Dank – ein Reiseexperte meldet sich innerhalb eines Werktags mit einem maßgeschneiderten Vorschlag bei Ihnen."
-    },
+    
       "QuoteForm": {
     "name": "Ihr Name",
     "startDate": "Reisebeginn",
@@ -1012,6 +1012,7 @@
     "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
     "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
   }
+}
 }
 
 
