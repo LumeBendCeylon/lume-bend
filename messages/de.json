@@ -337,11 +337,11 @@
     "items": {
       "golden-grand-escape-5-day": {
         "title": "Goldene Ceylon-Auszeit",
-        "blurb": "Entdecken Sie antike Festungen, heilige Tempel und das kulturelle Herz Sri Lankas auf einer privat geführten, fünftägigen Luxusreise.",
+        "blurb": "Fünf Tage voller privatem Luxus im Kulturdreieck Sri Lankas und in der Hügelland-Hauptstadt Kandy – bis ins Detail durchdacht.",
         "highlights": {
-          "0": "Private Reise durch Sri Lankas Kulturdreieck",
-          "1": "Pinnawala-Elefantenerlebnis",
-          "2": "Felsenfestung Sigiriya und Höhlentempel von Dambulla",
+          "0": "Private Sigiriya-Besteigung bei Sonnenaufgang",
+          "1": "Romantisches Abendessen bei Kerzenschein auf der Dachterrasse",
+          "2": "Abendzeremonie im Zahntempel",
           "3": "Tempel der Heiligen Zahnreliquie",
           "4": "Luxuriöse Rundreise mit Chauffeur und Guide"
         },
@@ -868,5 +868,21 @@
     "tourHighlights": "Tour-Highlights",
     "startPlanning": "Planen Sie jetzt Ihre Sri-Lanka-Reise",
     "planIntro": "Bitte geben Sie so viele Informationen wie möglich an, damit wir uns ein gutes Bild von Ihren Wünschen machen können. Unser Team sendet Ihnen innerhalb von 48 Stunden das beste Angebot."
+  },
+  "Contact": {
+    "metaTitle": "Kontakt",
+    "metaDescription": "Senden Sie Lume Bend Ceylon Ihre Reisedaten und Interessen und erhalten Sie einen maßgeschneiderten Reisevorschlag für Sri Lanka.",
+    "eyebrow": "Kontakt aufnehmen",
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Erzählen Sie uns von der Reise, die Sie sich vorstellen.",
+    "reachTitle": "Direkt erreichen",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "office": "Büro",
+    "officeValue": "Matale, Sri Lanka",
+    "whatsapp": "Per WhatsApp chatten",
+    "otherPlatforms": "Weitere Plattformen",
+    "mapPlaceholder": "Google-Maps-Platzhalter – hier Ihren Standort einbetten",
+    "enquiryTitle": "Anfrage senden"
   }
 }

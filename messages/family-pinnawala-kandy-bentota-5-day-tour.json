@@ -1,0 +1,134 @@
+{
+  "title": "Escapade en famille des petits explorateurs",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+    "Expérience auprès des éléphants de Pinnawala",
+    "Patrimoine culturel de Kandy",
+    "Lac de Kandy et jardins botaniques royaux",
+    "Visite familiale d'un centre de protection des tortues",
+    "Safari fluvial sur la Bentota",
+    "Séjour détente en famille dans un resort en bord de mer"
+  ],
+  "blurb": "Une escapade familiale détendue mêlant expériences mémorables avec la faune, attractions culturelles de Kandy et fin de séjour en bord de mer à Bentota.",
+  "heroTitle": "Escapade en famille des petits explorateurs — 5 jours d'aventures en famille",
+  "intro": "Découvrez le Sri Lanka en famille lors d'un voyage adapté aux enfants, avec éléphants, expériences culturelles, beaux jardins et journées de détente à la plage.",
+  "overview": "Commencez par une expérience auprès des éléphants à Pinnawala avant de découvrir les attractions culturelles et les espaces verts de Kandy. Poursuivez vers Bentota pour un séjour côtier familial, avec la possibilité d'en apprendre davantage sur la protection des tortues marines, d'explorer des voies d'eau bordées de mangroves et de profiter de moments tranquilles à la plage et à la piscine.",
+  "bestFor": "Familles avec enfants de tous âges recherchant des vacances détendues avec rencontres animalières, expériences culturelles et détente en bord de mer.",
+  "groupSize": "Véhicule privé — adapté à la taille et aux besoins de votre famille.",
+  "physicalLevel": "Facile — très peu de marche, avec des activités flexibles adaptées aux familles.",
+  "destinationsCovered": "Aéroport → Pinnawala → Kandy → Bentota → Aéroport",
+  "itinerary": [
+    {
+      "title": "Arrivée, Pinnawala et Kandy",
+      "points": [
+        "Accueil à l'aéroport : retrouvez votre chauffeur-guide à l'aéroport international Bandaranaike (CMB), qui vous aide avec vos bagages.",
+        "Route vers Pinnawala : traversez la campagne sri-lankaise en direction de la région de Pinnawala.",
+        "Expérience des éléphants de Pinnawala : visitez l'orphelinat d'éléphants de Pinnawala pour observer les éléphants et découvrir leurs soins et leur préservation.",
+        "Déjeuner en famille : profitez d'un déjeuner détendu en chemin avant de poursuivre vers Kandy.",
+        "Arrivée à Kandy : installez-vous dans votre hôtel familial et reposez-vous après le trajet.",
+        "Lac de Kandy : si le temps le permet, profitez d'une facile promenade en soirée autour du lac pittoresque au centre-ville."
+      ],
+      "overnight": "Hôtel familial à Kandy."
+    },
+    {
+      "title": "Expérience familiale à Kandy",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à votre hôtel familial avant de commencer les activités du jour.",
+        "Temple de la Dent sacrée : visitez le Sri Dalada Maligawa et découvrez l'un des plus importants sites culturels et religieux du Sri Lanka.",
+        "Jardins botaniques royaux de Peradeniya : explorez de vastes jardins, des plantes tropicales et des sentiers ombragés, avec beaucoup d'espace pour les enfants.",
+        "Temps en famille dans les jardins : profitez d'une promenade tranquille et de photos de famille dans le beau cadre des jardins.",
+        "Danse culturelle kandyenne optionnelle : découvrez la musique et la danse sri-lankaises traditionnelles, selon le programme des spectacles.",
+        "Soirée détente : regagnez votre hôtel et profitez du dîner et de moments en famille à votre rythme."
+      ],
+      "overnight": "Hôtel familial à Kandy."
+    },
+    {
+      "title": "De Kandy à Bentota",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de quitter Kandy.",
+        "Route panoramique : roulez vers la côte ouest à travers la campagne et les paysages changeants du Sri Lanka.",
+        "Pause déjeuner en famille : faites une pause confortable en chemin, selon la durée du trajet et les préférences de la famille.",
+        "Visite d'un centre de protection des tortues : visitez un centre local où les enfants peuvent en apprendre davantage sur les tortues marines et leur protection, sous réserve de disponibilité et de pratiques responsables de soin des animaux.",
+        "Arrivée à Bentota : poursuivez vers Bentota et installez-vous dans votre resort balnéaire adapté aux familles.",
+        "Détente en bord de mer : passez la soirée à vous détendre à la piscine ou sur la plage avant de dîner ensemble."
+      ],
+      "overnight": "Resort balnéaire adapté aux familles à Bentota."
+    },
+    {
+      "title": "Aventure en famille à Bentota",
+      "points": [
+        "Petit-déjeuner tranquille : profitez du petit-déjeuner au resort et commencez la journée au rythme de votre famille.",
+        "Safari fluvial sur la Bentota : faites une douce excursion en bateau dans les voies d'eau bordées de mangroves et guettez les oiseaux et autres animaux locaux, selon disponibilité.",
+        "Découverte de la nature : profitez des paysages de la rivière et faites découvrir aux enfants l'environnement naturel de la région.",
+        "Temps à la plage en famille : passez du temps sur la plage de Bentota ou détendez-vous à la piscine du resort.",
+        "Activités nautiques optionnelles : choisissez des activités nautiques locales adaptées, selon l'âge des enfants, la météo et les conditions de sécurité.",
+        "Coucher de soleil et dîner en famille : profitez d'une soirée détendue en bord de mer, suivie d'un dîner au resort ou dans un restaurant voisin."
+      ],
+      "overnight": "Resort balnéaire adapté aux familles à Bentota."
+    },
+    {
+      "title": "Matinée à la plage et départ",
+      "points": [
+        "Dernier petit-déjeuner : profitez d'un petit-déjeuner ensemble au resort.",
+        "Plage ou piscine : passez une dernière matinée détendue à profiter de la plage ou des équipements du resort, selon l'horaire de votre vol.",
+        "Départ de l'hôtel : faites vos bagages et effectuez le check-out à une heure convenable.",
+        "Transfert privé : entamez le trajet de Bentota vers l'aéroport international Bandaranaike (CMB).",
+        "Pause confort : faites une courte pause rafraîchissement en chemin si nécessaire.",
+        "Départ de l'aéroport : arrivez avec suffisamment d'avance pour l'enregistrement et votre vol de départ."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Hébergement familial confortable à Kandy, puis resort balnéaire à Bentota avec équipements adaptés aux familles et accès à la piscine.",
+  "transportation": "Véhicule privé climatisé avec chauffeur-guide dédié, avec des pauses confortables organisées selon les besoins de votre famille.",
+  "meals": "Petit-déjeuner quotidien. Autres repas au choix, sauf organisation préalable.",
+  "included": [
+    "4 nuits d'hébergement",
+    "Petit-déjeuner quotidien",
+    "Véhicule privé climatisé et chauffeur-guide",
+    "Accueil à l'aéroport et aide avec les bagages",
+    "Visites décrites dans l'itinéraire, selon l'accès et les horaires d'ouverture"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Déjeuners et dîners sauf indication contraire",
+    "Droits d'entrée sauf confirmation dans le devis",
+    "Frais de l'expérience auprès des éléphants sauf indication contraire",
+    "Entrée ou dons au centre de protection des tortues sauf indication contraire",
+    "Safari fluvial sur la Bentota",
+    "Activités nautiques optionnelles",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Spectacle de danse culturelle kandyenne",
+    "Safari en bateau sur la rivière Bentota",
+    "Activités nautiques familiales adaptées",
+    "Excursions supplémentaires adaptées aux familles",
+    "Arrangements de restauration spéciaux en famille"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Ce circuit convient-il aux familles avec de jeunes enfants ?",
+      "a": "Oui. L'itinéraire comprend des expériences adaptées aux familles, des visites de jardins, la découverte de la faune et de la détente à la plage, avec un véhicule privé et de la flexibilité pour les pauses en famille."
+    },
+    {
+      "q": "L'itinéraire peut-il être adapté à nos enfants ?",
+      "a": "Oui. Les horaires de départ, les arrêts de repos et certaines activités peuvent être personnalisés selon les besoins de votre famille et l'âge de vos enfants."
+    },
+    {
+      "q": "Le safari fluvial sur la Bentota convient-il aux enfants ?",
+      "a": "Un safari fluvial peut convenir aux familles, selon les mesures de sécurité de l'opérateur, les équipements du bateau, l'âge des enfants et la météo. La disponibilité doit être confirmée à l'avance."
+    },
+    {
+      "q": "Les droits d'entrée sont-ils inclus dans le prix du circuit ?",
+      "a": "Les droits d'entrée et les activités optionnelles ne sont inclus que lorsqu'ils sont expressément confirmés dans le devis final."
+    },
+    {
+      "q": "Peut-on passer plus de temps à la plage ?",
+      "a": "Oui. L'itinéraire peut être personnalisé pour ajouter du temps à la plage ou à la piscine, selon la durée totale et l'horaire de départ."
+    }
+  ],
+  "price": "À partir de 1 800 $ par pers."
+}

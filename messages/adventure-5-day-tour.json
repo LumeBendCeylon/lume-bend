@@ -1,0 +1,113 @@
+{
+  "title": "Évasion au cœur du Ceylan sauvage",
+  "duration": "5 jours / 4 nuits",
+  "highlights": [
+    "Rafting en eaux vives à Kitulgala",
+    "Tyrolienne au-dessus de la canopée de la forêt tropicale",
+    "Sentiers de randonnée à Ella"
+  ],
+  "blurb": "Un circuit dynamique de 5 jours à travers les rivières, la canopée de la forêt tropicale et les sentiers des hautes terres.",
+  "heroTitle": "Sprint aventure au Ceylan — 5 jours entre rivières, canopée et sentiers",
+  "intro": "Un circuit d'aventure compact pour les voyageurs qui disposent de peu de temps mais débordent d'énergie : rafting en eaux vives, tyrolienne au-dessus de la forêt tropicale et randonnée vers l'un des plus beaux points de vue du Sri Lanka.",
+  "overview": "Ce circuit réunit trois environnements d'aventure distincts — rivière, canopée de forêt tropicale et sentiers de montagne — en cinq journées riches en activités.",
+  "bestFor": "Les voyageurs actifs, les groupes d'amis et les couples en quête d'aventure.",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable.",
+  "physicalLevel": "Modéré à difficile.",
+  "destinationsCovered": "Kitulgala → Nuwara Eliya → Haputale → Ella → Colombo",
+  "itinerary": [
+    {
+      "title": "Accueil à l'aéroport, Kitulgala et rafting en eaux vives",
+      "points": [
+        "Accueil à l'aéroport : Recevez un accueil traditionnel avec une guirlande de fleurs à l'aéroport international Bandaranaike (CMB).",
+        "Rencontre avec votre guide : Retrouvez votre chauffeur-guide anglophone et bénéficiez d'une assistance pour vos bagages.",
+        "Route panoramique : Traversez les paysages de campagne du Sri Lanka en direction de Kitulgala.",
+        "Rafting en eaux vives : Découvrez les rapides de la rivière Kelani, sous réserve des conditions de la rivière et de votre heure d'arrivée.",
+        "Aventure dans la nature : Profitez éventuellement d'une promenade dans la jungle ou d'une excursion le long d'un ruisseau, selon le temps disponible.",
+        "Installation à l'hôtel : Détendez-vous et profitez d'un dîner au cœur de la forêt tropicale luxuriante de Kitulgala."
+      ],
+      "overnight": "Hôtel à Kitulgala."
+    },
+    {
+      "title": "Nuwara Eliya, région du thé et sites panoramiques",
+      "points": [
+        "Petit-déjeuner et départ : Quittez Kitulgala et partez à la découverte des hautes terres centrales du Sri Lanka.",
+        "Route panoramique en montagne : Admirez les vallées verdoyantes, les plantations de thé et les villages pittoresques.",
+        "Fabrique de thé de Ceylan : Découvrez les méthodes traditionnelles de production du thé et profitez d'une dégustation guidée.",
+        "Lac Gregory : Promenez-vous au bord du lac ou profitez éventuellement d'une balade en bateau, selon les disponibilités.",
+        "Jardin botanique de Hakgala : Explorez ses jardins paysagers et ses collections de plantes de climat frais, selon les horaires d'ouverture.",
+        "Installation à l'hôtel : Détendez-vous et profitez de l'atmosphère fraîche des hautes terres de Nuwara Eliya."
+      ],
+      "overnight": "Hôtel à Nuwara Eliya."
+    },
+    {
+      "title": "Randonnée à Horton Plains, World's End et Haputale",
+      "points": [
+        "Départ matinal : Prenez la route vers le parc national de Horton Plains.",
+        "Randonnée à Horton Plains : Explorez les forêts nuageuses enveloppées de brume, les prairies et les paysages uniques des hautes terres.",
+        "World's End : Admirez cette impressionnante falaise et ses panoramas spectaculaires, selon les conditions météorologiques.",
+        "Cascade de Baker's Falls : Découvrez cette magnifique cascade située le long du sentier de randonnée.",
+        "Transfert panoramique : Continuez vers Haputale à travers les routes de montagne et les paysages de plantations de thé.",
+        "Installation à l'hôtel : Détendez-vous et profitez d'une soirée paisible à Haputale."
+      ],
+      "overnight": "Hôtel à Haputale."
+    },
+    {
+      "title": "Lipton's Seat, grotte de Ravana et Ella",
+      "points": [
+        "Départ matinal : Partez vers Lipton's Seat pour admirer les magnifiques panoramas des hautes terres.",
+        "Lipton's Seat : Admirez les plantations de thé vallonnées et les paysages lointains, selon les conditions météorologiques.",
+        "Route panoramique : Continuez vers Ella à travers les magnifiques paysages montagneux du Sri Lanka.",
+        "Grotte de Ravana : Explorez cette grotte historique associée à la légende du roi Ravana.",
+        "Cascade de Ravana : Admirez la cascade depuis les zones d'observation aménagées.",
+        "Ville d'Ella : Découvrez les cafés locaux et installez-vous dans votre hôtel."
+      ],
+      "overnight": "Hôtel à Ella."
+    },
+    {
+      "title": "Little Adam's Peak, pont des Neuf Arches et départ",
+      "points": [
+        "Little Adam's Peak : Profitez d'une randonnée panoramique offrant de belles vues sur les montagnes et les plantations de thé d'Ella.",
+        "Pont des Neuf Arches : Visitez cet emblématique viaduc ferroviaire entouré de collines verdoyantes.",
+        "Point de vue panoramique : Photographiez le pont et observez le passage d'un train si les horaires le permettent.",
+        "Petit-déjeuner et rafraîchissements : Profitez d'un repas ou d'une pause rafraîchissante à Ella selon vos besoins.",
+        "Transfert vers Colombo : Traversez les hautes terres et les plaines en direction de Colombo.",
+        "Départ : Continuez vers l'aéroport en fonction de l'horaire de votre vol."
+      ],
+      "overnight": "Sans nuitée — jour du départ."
+    }
+  ],
+  "hotelRecommendation": "Lodges d'aventure à Kitulgala et hôtels situés sur les collines à Ella.",
+  "transportation": "Véhicule privé climatisé avec chauffeur ; guides certifiés pour les activités de rafting et de tyrolienne.",
+  "meals": "Petit-déjeuner quotidien, ainsi qu'un déjeuner le jour du rafting et de la tyrolienne. Les autres repas sont à votre charge.",
+  "included": [
+    "4 nuits d'hébergement selon l'itinéraire",
+    "Petit-déjeuner quotidien et un déjeuner",
+    "Véhicule privé et chauffeur pendant toute la durée du circuit",
+    "Rafting en eaux vives avec des guides certifiés",
+    "Session de tyrolienne dans la forêt tropicale",
+    "Équipement de sécurité pour toutes les activités"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non mentionnés dans les prestations incluses",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Excursion supplémentaire à Ella Rock au lever du soleil",
+    "Kayak en eaux vives à la place du rafting",
+    "Canyoning près de Kitulgala"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Faut-il avoir de l'expérience en rafting ?",
+      "a": "Non. Les rapides de niveau 2 à 3 de la rivière Kelani conviennent aux débutants, avec des consignes de sécurité complètes et des guides certifiés."
+    },
+    {
+      "q": "Quel niveau de condition physique est nécessaire ?",
+      "a": "Une condition physique raisonnable est utile pour la randonnée à Ella Rock, mais le rythme de toutes les activités peut être adapté au groupe."
+    }
+  ],
+  "price": "À partir de 1 050 $ par personne"
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Voyage de luxe dans les hautes terres et à Ella",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+    "Forteresse du rocher de Sigiriya",
+    "Ville sacrée de Kandy",
+    "Visite d'une plantation et d'une usine de thé de Ceylan",
+    "Voyage panoramique en train de Nanu Oya à Ella",
+    "Pont aux Neuf Arches et points de vue d'Ella"
+  ],
+  "blurb": "Des citadelles rocheuses antiques aux brumeuses terres du thé et aux spectaculaires hauteurs d'Ella, un voyage de luxe privé.",
+  "heroTitle": "Voyage de luxe dans les hautes terres et à Ella — 7 jours",
+  "intro": "Vivez le Triangle culturel du Sri Lanka et les hautes terres centrales lors d'un voyage privé de luxe alliant patrimoine ancien, paysages de plantations de thé et inoubliables trajets en train. Découvrez Sigiriya, Kandy, Nuwara Eliya et Ella avant de retourner à Colombo dans le confort d'un véhicule avec chauffeur dédié.",
+  "overview": "Un voyage privé de sept jours centré sur les sites culturels et les paisibles hautes terres. L'itinéraire laisse le temps de visiter les sites patrimoniaux de Sigiriya et de Kandy, les plantations de thé, un trajet en train dans les hautes terres et les paysages emblématiques d'Ella.",
+  "bestFor": "Couples, amoureux de la nature et voyageurs de luxe passionnés de culture",
+  "groupSize": "Privé — uniquement vous et vos compagnons de voyage",
+  "physicalLevel": "Modéré, avec randonnées et ascensions de rochers optionnelles",
+  "destinationsCovered": "Sigiriya → Kandy → Nuwara Eliya → Ella → Colombo",
+  "itinerary": [
+    {
+      "title": "Arrivée et Sigiriya",
+      "points": [
+        "Accueil à l'aéroport : retrouvez votre chauffeur-guide à CMB avec des colliers de fleurs traditionnels.",
+        "Transfert privé : rendez-vous à Sigiriya avec une pause rafraîchissement en chemin.",
+        "Installation à l'hôtel : prenez vos quartiers dans votre resort de luxe.",
+        "Après-midi libre : détendez-vous au bord de la piscine ou profitez de la campagne environnante.",
+        "Dîner : dînez à l'hôtel."
+      ],
+      "overnight": "Resort de luxe cinq étoiles à Sigiriya."
+    },
+    {
+      "title": "Forteresse du rocher de Sigiriya et Dambulla",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner au resort.",
+        "Forteresse du rocher de Sigiriya : explorez le site classé à l'UNESCO, les jardins royaux et l'antique citadelle rocheuse.",
+        "Fresques et pattes du lion : découvrez les célèbres fresques et l'imposante entrée.",
+        "Temple troglodytique de Dambulla : visitez le complexe de grottes classé à l'UNESCO et ses peintures murales et statues bouddhiques.",
+        "Déjeuner et retour : savourez le déjeuner et regagnez votre resort.",
+        "Soirée libre : détendez-vous et dînez."
+      ],
+      "overnight": "Resort de luxe cinq étoiles à Sigiriya."
+    },
+    {
+      "title": "De Sigiriya à Kandy",
+      "points": [
+        "Petit-déjeuner et départ : quittez l'hôtel après le petit-déjeuner.",
+        "Route panoramique : traversez les plaines centrales en direction de Kandy.",
+        "Jardin d'épices de Matale : découvrez les épices sri-lankaises et les plantes médicinales traditionnelles.",
+        "Temple de la Dent sacrée : visitez le temple sacré de la ville historique de Kandy, classée à l'UNESCO.",
+        "Lac de Kandy : profitez d'une paisible promenade au bord du lac.",
+        "Installation à l'hôtel : dînez à votre hôtel."
+      ],
+      "overnight": "Hôtel cinq étoiles à Kandy."
+    },
+    {
+      "title": "De Kandy à Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : entamez la route panoramique vers les hautes terres.",
+        "Plantation de thé : visitez un domaine de thé et découvrez la culture du thé de Ceylan.",
+        "Usine de thé : découvrez le procédé traditionnel de fabrication du thé.",
+        "Dégustation de thé : goûtez un thé de Ceylan fraîchement infusé.",
+        "Chutes de Ramboda : arrêtez-vous pour admirer la cascade et le paysage montagneux.",
+        "Nuwara Eliya : installez-vous et profitez d'une soirée tranquille."
+      ],
+      "overnight": "Hôtel cinq étoiles ou propriété de luxe de caractère à Nuwara Eliya."
+    },
+    {
+      "title": "Les hautes terres de Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Ville coloniale : explorez l'architecture historique et les jardins de Nuwara Eliya.",
+        "Lac Gregory : profitez du paysage au bord du lac et des activités optionnelles.",
+        "Vues sur les plantations de thé : explorez les paysages de thé voisins et les points de vue sur la montagne.",
+        "Déjeuner : savourez un déjeuner détendu dans un restaurant sélectionné.",
+        "Soirée libre : regagnez l'hôtel pour le dîner et la détente."
+      ],
+      "overnight": "Hôtel cinq étoiles ou propriété de luxe de caractère à Nuwara Eliya."
+    },
+    {
+      "title": "Voyage panoramique en train vers Ella",
+      "points": [
+        "Petit-déjeuner et transfert : rendez-vous à la gare de Nanu Oya.",
+        "Train des hautes terres : profitez du trajet panoramique vers Ella, sous réserve des horaires des trains et de la disponibilité des places réservées.",
+        "Plantations de thé : admirez les domaines de thé vallonnés et les vallées de montagne le long du parcours.",
+        "Arrivée à Ella : retrouvez votre chauffeur à la gare.",
+        "Pont aux Neuf Arches : visitez ce pont ferroviaire emblématique si les horaires et l'heure d'arrivée le permettent.",
+        "Installation à l'hôtel : détendez-vous et dînez à Ella."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Ella."
+    },
+    {
+      "title": "D'Ella à Colombo et départ",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Point de vue d'Ella : faites un bref arrêt panoramique si le temps le permet.",
+        "Transfert privé : prenez la route vers Colombo ou directement vers CMB.",
+        "Déjeuner : savourez le déjeuner en cours de route.",
+        "Arrivée à l'aéroport : arrivez avec suffisamment d'avance pour l'enregistrement."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Établissements cinq étoiles et de luxe premium sélectionnés à Sigiriya, Kandy, Nuwara Eliya et Ella, privilégiant le cadre, le confort, un service attentionné et un accès pratique aux visites.",
+  "transportation": "Véhicule de luxe climatisé privé avec chauffeur-guide anglophone. Le trajet en train Nanu Oya–Ella dépend des horaires ferroviaires et de la disponibilité des places réservées.",
+  "meals": "Petit-déjeuner, déjeuner et dîner quotidiens du jour 1 au jour 6, avec petit-déjeuner et déjeuner le jour 7 (départ). Les repas pendant les trajets sont organisés dans des hôtels et restaurants sélectionnés.",
+  "included": [
+    "6 nuits dans un hébergement cinq étoiles ou de luxe premium sélectionné",
+    "Petit-déjeuner, déjeuner et dîner quotidiens selon la formule de repas indiquée",
+    "Chauffeur-guide privé et véhicule climatisé",
+    "Droit d'entrée à la forteresse du rocher de Sigiriya",
+    "Droit d'entrée au temple troglodytique de Dambulla",
+    "Entrée au temple de la Dent sacrée",
+    "Visite et dégustation à l'usine de thé, lorsque confirmées",
+    "Billet de train Nanu Oya–Ella dans la classe confirmée, selon disponibilité",
+    "Droits d'entrée des autres attractions expressément indiquées dans l'itinéraire confirmé"
+  ],
+  "excluded": [
+    "Vols internationaux et frais de visa",
+    "Assurance voyage",
+    "Dépenses personnelles et pourboires",
+    "Boissons alcoolisées",
+    "Activités optionnelles et soins spa",
+    "Surclassements de train ou transports alternatifs en dehors du forfait convenu"
+  ],
+  "optionalExperiences": [
+    "Ascension guidée de Sigiriya au lever du soleil",
+    "Expérience privée dans un domaine de thé",
+    "Randonnée guidée au Little Adam's Peak",
+    "Dîner privé dans les hautes terres",
+    "Soin de bien-être à l'hôtel"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Le trajet en train vers Ella est-il garanti ?",
+      "a": "Le trajet en train dépend des horaires ferroviaires et de la disponibilité des places réservées. Un transfert privé par la route peut être organisé si les billets ne sont pas disponibles ou si les services sont perturbés."
+    },
+    {
+      "q": "L'itinéraire inclut-il tous les repas ?",
+      "a": "Oui. Le petit-déjeuner, le déjeuner et le dîner sont inclus selon la formule de repas du forfait. Les boissons et les suppléments de restauration premium peuvent être facturés en sus."
+    },
+    {
+      "q": "Le voyage peut-il être personnalisé ?",
+      "a": "Oui. Les visites, les catégories d'hôtels et les expériences optionnelles peuvent être adaptées à vos centres d'intérêt et à vos dates de voyage."
+    }
+  ],
+  "price": "À partir de 2 799 $ par pers."
+}

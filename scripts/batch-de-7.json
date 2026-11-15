@@ -1,0 +1,115 @@
+
+{
+  "adventure-5-day-tour": {
+    "title": "Wildes Ceylon-Abenteuer",
+    "duration": "5 Tage / 4 Nächte",
+    "highlights": [
+      "Wildwasser-Rafting in Kitulgala",
+      "Ziplining durch die Regenwald-Kronen",
+      "Wanderwege rund um Ella"
+    ],
+    "blurb": "Eine abwechslungsreiche 5-tägige Reise durch Flüsse, die Baumkronen des Regenwaldes und die Wanderwege des Hochlands.",
+    "heroTitle": "Ceylon-Abenteuer in 5 Tagen – Flüsse, Regenwald und Wanderwege",
+    "intro": "Eine kompakte Abenteuerrundreise für Reisende mit wenig Zeit, aber viel Energie – mit Wildwasser-Rafting, einer Regenwald-Zipline und einer Wanderung zu einem der schönsten Aussichtspunkte Sri Lankas.",
+    "overview": "Diese Route verbindet drei unterschiedliche Abenteuerwelten – Fluss, Regenwald-Kronendach und Hochland-Wanderwege – in fünf erlebnisreichen Tagen.",
+    "bestFor": "Aktive Reisende, Freundesgruppen und abenteuerlustige Paare.",
+    "groupSize": "Privatfahrzeug – Gruppengröße individuell anpassbar.",
+    "physicalLevel": "Mittelschwer bis anspruchsvoll",
+    "destinationsCovered": "Kitulgala → Nuwara Eliya → Haputale → Ella → Colombo",
+    "itinerary": [
+      {
+        "title": "Flughafenempfang, Kitulgala und Wildwasser-Rafting",
+        "points": [
+          "Willkommen am Flughafen: Sie werden am Bandaranaike International Airport (CMB) traditionell mit einer Blumengirlande empfangen.",
+          "Treffen mit Ihrem Guide: Lernen Sie Ihren englischsprachigen Chauffeur-Reiseleiter kennen und erhalten Sie Unterstützung mit Ihrem Gepäck.",
+          "Malerische Fahrt: Reisen Sie durch die ländlichen Landschaften Sri Lankas in Richtung Kitulgala.",
+          "Wildwasser-Rafting: Erleben Sie aufregende Stromschnellen auf dem Kelani-Fluss, abhängig von den Flussbedingungen und Ihrer Ankunftszeit.",
+          "Naturabenteuer: Unternehmen Sie, sofern es die Zeit erlaubt, optional eine Dschungelwanderung oder ein Abenteuer entlang eines Baches.",
+          "Hotel-Check-in: Entspannen Sie sich und genießen Sie Ihr Abendessen inmitten des üppigen Regenwaldes von Kitulgala."
+        ],
+        "overnight": "Hotel in Kitulgala."
+      },
+      {
+        "title": "Nuwara Eliya, Teeanbaugebiet und malerische Sehenswürdigkeiten",
+        "points": [
+          "Frühstück und Abfahrt: Verlassen Sie Kitulgala und reisen Sie in das zentrale Hochland Sri Lankas.",
+          "Malerische Bergfahrt: Bewundern Sie grüne Täler, Teeplantagen und idyllische Dörfer.",
+          "Ceylon-Teefabrik: Entdecken Sie die traditionelle Teeherstellung und genießen Sie eine geführte Teeprobe.",
+          "Gregory-See: Unternehmen Sie einen Spaziergang am Seeufer oder eine optionale Bootsfahrt, abhängig von der Verfügbarkeit.",
+          "Botanischer Garten Hakgala: Erkunden Sie die gepflegten Gartenanlagen und die Pflanzensammlungen des kühlen Hochlandklimas, abhängig von den Öffnungszeiten.",
+          "Hotel-Check-in: Entspannen Sie sich in der angenehm kühlen Hochlandatmosphäre von Nuwara Eliya."
+        ],
+        "overnight": "Hotel in Nuwara Eliya."
+      },
+      {
+        "title": "Wanderung durch Horton Plains, World's End und Haputale",
+        "points": [
+          "Frühe Abfahrt: Fahren Sie zum Horton-Plains-Nationalpark.",
+          "Wanderung durch Horton Plains: Erkunden Sie neblige Nebelwälder, Graslandschaften und die einzigartige Hochlandlandschaft.",
+          "World's End: Bewundern Sie den beeindruckenden Steilhang und die weiten Panoramablicke, sofern es die Wetterbedingungen erlauben.",
+          "Baker's Falls: Besuchen Sie den malerischen Wasserfall entlang des Wanderwegs.",
+          "Malerischer Transfer: Setzen Sie Ihre Reise über Bergstraßen und durch Teeplantagen in Richtung Haputale fort.",
+          "Hotel-Check-in: Entspannen Sie sich und genießen Sie einen ruhigen Abend in Haputale."
+        ],
+        "overnight": "Hotel in Haputale."
+      },
+      {
+        "title": "Lipton's Seat, Ravana-Höhle und Ella",
+        "points": [
+          "Frühe Abfahrt: Fahren Sie zum Lipton's Seat und genießen Sie die beeindruckenden Ausblicke auf das Hochland.",
+          "Lipton's Seat: Bewundern Sie die sanften Hügel der Teeplantagen und die weit entfernte Landschaft, sofern es die Wetterbedingungen erlauben.",
+          "Malerische Fahrt: Setzen Sie Ihre Reise durch das wunderschöne Hochland Sri Lankas in Richtung Ella fort.",
+          "Ravana-Höhle: Erkunden Sie die historische Höhle, die mit der Legende von König Ravana verbunden ist.",
+          "Ravana-Wasserfall: Bewundern Sie den Wasserfall von den ausgewiesenen Aussichtspunkten aus.",
+          "Ort Ella: Entdecken Sie die örtlichen Cafés und checken Sie in Ihrem Hotel ein."
+        ],
+        "overnight": "Hotel in Ella."
+      },
+      {
+        "title": "Little Adam's Peak, Neun-Bogen-Brücke und Abreise",
+        "points": [
+          "Little Adam's Peak: Unternehmen Sie eine malerische Wanderung mit herrlichen Ausblicken auf die Berge und Teeplantagen von Ella.",
+          "Neun-Bogen-Brücke: Besuchen Sie das berühmte Eisenbahnviadukt, das von üppig grünen Hügeln umgeben ist.",
+          "Malerischer Aussichtspunkt: Fotografieren Sie die Brücke und beobachten Sie einen vorbeifahrenden Zug, sofern es der Fahrplan erlaubt.",
+          "Frühstück und Erfrischungen: Genießen Sie bei Bedarf eine Mahlzeit oder Erfrischungen in Ella.",
+          "Transfer nach Colombo: Reisen Sie durch das Hochland und die tiefer gelegenen Landschaften in Richtung Colombo.",
+          "Abreise: Fahren Sie entsprechend Ihrem Flugplan weiter zum Flughafen."
+        ],
+        "overnight": "Nicht zutreffend – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Abenteuer-Lodges in Kitulgala und Hotels in Hanglage in Ella.",
+    "transportation": "Privates, klimatisiertes Fahrzeug mit Fahrer während der gesamten Reise; zertifizierte Rafting- und Zipline-Guides an den Aktivitätstagen.",
+    "meals": "Tägliches Frühstück sowie ein Mittagessen am Rafting- und Ziplining-Tag. Weitere Mahlzeiten nach eigener Wahl.",
+    "included": [
+      "4 Übernachtungen in den aufgeführten Unterkünften",
+      "Tägliches Frühstück und 1 Mittagessen",
+      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
+      "Wildwasser-Rafting mit zertifizierten Guides",
+      "Ziplining-Erlebnis im Regenwald",
+      "Sicherheitsausrüstung für alle Aktivitäten"
+    ],
+    "excluded": [
+      "Internationale Flüge",
+      "Visagebühren",
+      "Nicht ausdrücklich aufgeführte Mahlzeiten",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Reiseversicherung"
+    ],
+    "optionalExperiences": [
+      "Zusätzlicher Sonnenaufgangsausflug zum Ella Rock",
+      "Wildwasser-Kajakfahren als Alternative zum Rafting",
+      "Canyoning in der Nähe von Kitulgala"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Benötigen wir Erfahrung im Rafting?",
+        "a": "Nein – die Stromschnellen der Schwierigkeitsgrade 2 bis 3 auf dem Kelani-Fluss eignen sich auch für Anfänger. Eine umfassende Sicherheitseinweisung und zertifizierte Guides sind vorgesehen."
+      },
+      {
+        "q": "Wie fit müssen wir sein?",
+        "a": "Eine angemessene körperliche Fitness ist besonders für die Wanderung zum Ella Rock hilfreich. Das Tempo aller Aktivitäten kann jedoch an die jeweilige Gruppe angepasst werden."
+      }
+    ]
+  }
+}

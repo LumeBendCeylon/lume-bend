@@ -1,0 +1,138 @@
+
+{
+  "adventure-7-day-tour": {
+    "title": "Ceylon-Abenteuerpfade",
+    "duration": "7 Tage / 6 Nächte",
+    "highlights": [
+      "Rafting und Ziplining in Kitulgala",
+      "Wanderwege rund um Ella",
+      "Jeep-Safari im Udawalawe-Nationalpark"
+    ],
+    "blurb": "Unsere fünftägige Abenteuerreise, erweitert um eine Wildtiersafari für eine abwechslungsreiche Route voller Adrenalin und Natur.",
+    "heroTitle": "Ceylon-Abenteuerpfad – 7 Tage voller Flüsse, Wanderwege und Safari-Erlebnisse",
+    "intro": "Diese Reise führt Sie auf derselben abenteuerlichen Route von den Flüssen ins Hochland und anschließend weiter in den Süden zum Udawalawe-Nationalpark. Dort erwarten Sie Jeep-Safaris auf der Suche nach wilden Elefanten und anderen Tieren – eine perfekte Ergänzung zu den aufregenden Outdoor-Aktivitäten.",
+    "overview": "Diese Route folgt unserer fünftägigen Abenteuerreise und führt anschließend weiter in den Süden zum Udawalawe-Nationalpark, wo zwei Safari-Fahrten auf Sie warten, bevor es zurück nach Colombo geht.",
+    "bestFor": "Aktive Reisende, die zusätzlich eine ausgedehnte Wildtiersafari erleben möchten",
+    "groupSize": "Privatfahrzeug – Gruppengröße individuell anpassbar",
+    "physicalLevel": "Mittel bis anspruchsvoll",
+    "destinationsCovered": "Kitulgala → Nuwara Eliya → Haputale → Ella → Udawalawe → Colombo",
+    "itinerary": [
+      {
+        "title": "Flughafenempfang und Abenteuer in Kitulgala",
+        "points": [
+          "Empfang am Flughafen: Begrüßung mit einer traditionellen Blumengirlande am internationalen Flughafen Bandaranaike (CMB).",
+          "Treffen mit Ihrem Reiseleiter: Lernen Sie Ihren Reiseleiter kennen und erhalten Sie Unterstützung mit Ihrem Gepäck.",
+          "Malerische Fahrt: Fahren Sie durch die tropische Landschaft Sri Lankas nach Kitulgala.",
+          "Wildwasser-Rafting: Erleben Sie die Stromschnellen des Kelani-Flusses, abhängig von Ihrer Ankunftszeit und den Flussbedingungen.",
+          "Naturabenteuer: Unternehmen Sie optional einen Dschungelspaziergang oder eine vor Ort verfügbare Abenteueraktivität, sofern es die Zeit erlaubt.",
+          "Hotel-Check-in: Genießen Sie das Abendessen und entspannen Sie sich inmitten der Regenwaldlandschaft von Kitulgala."
+        ],
+        "overnight": "Hotel in Kitulgala."
+      },
+      {
+        "title": "Malerische Fahrt nach Nuwara Eliya und ins Teeanbaugebiet",
+        "points": [
+          "Frühstück und Abfahrt: Verlassen Sie Kitulgala und fahren Sie in das zentrale Hochland Sri Lankas.",
+          "Malerische Bergfahrt: Bewundern Sie Wasserfälle, grüne Täler und malerische Teeplantagen.",
+          "Ceylon-Teefabrik: Entdecken Sie die traditionelle Teeherstellung und die verschiedenen Verarbeitungsschritte.",
+          "Teeverkostung: Probieren Sie authentischen Ceylon-Tee und entdecken Sie seine unverwechselbaren Aromen.",
+          "Gregory-See: Unternehmen Sie einen Spaziergang am Seeufer oder eine optionale Bootsfahrt, je nach Verfügbarkeit.",
+          "Botanischer Garten Hakgala: Erkunden Sie die Hochlandpflanzen und die liebevoll gestalteten Gartenanlagen, abhängig von den Öffnungszeiten."
+        ],
+        "overnight": "Hotel in Nuwara Eliya."
+      },
+      {
+        "title": "Wanderung durch Horton Plains und Besuch von World's End",
+        "points": [
+          "Frühe Abfahrt: Fahren Sie von Nuwara Eliya zum Horton-Plains-Nationalpark.",
+          "Wanderung durch Horton Plains: Beginnen Sie die etwa 9 km lange Rundwanderung durch Nebelwälder und Graslandschaften.",
+          "World's End: Bewundern Sie die beeindruckende Steilklippe und genießen Sie die weiten Panoramablicke, sofern das Wetter es zulässt.",
+          "Baker's Falls: Besuchen Sie den malerischen Wasserfall, der von üppiger Vegetation umgeben ist.",
+          "Tierbeobachtung: Halten Sie entlang des Wanderwegs Ausschau nach Sambarhirschen und Hochlandvögeln.",
+          "Weiterfahrt nach Haputale: Genießen Sie die malerische Fahrt durch die Berge und beziehen Sie Ihr Hotel."
+        ],
+        "overnight": "Hotel in Haputale."
+      },
+      {
+        "title": "Lipton's Seat und Weiterfahrt nach Ella",
+        "points": [
+          "Frühe Abfahrt: Fahren Sie zum Lipton's Seat, einem berühmten Aussichtspunkt im Teeanbaugebiet Sri Lankas.",
+          "Lipton's Seat: Genießen Sie den Panoramablick auf Teeplantagen und Bergketten, sofern das Wetter es zulässt.",
+          "Spaziergang durch Teeplantagen: Erkunden Sie die umliegende Teelandschaft und machen Sie schöne Erinnerungsfotos.",
+          "Ceylon-Tee: Genießen Sie, sofern verfügbar, eine erfrischende Tasse lokalen Tees.",
+          "Malerische Weiterfahrt: Fahren Sie durch das wunderschöne Hochland weiter in Richtung Ella.",
+          "Ella-Stadt: Beziehen Sie Ihr Hotel und erkunden Sie in Ihrer Freizeit die örtlichen Cafés und Restaurants."
+        ],
+        "overnight": "Hotel in Ella."
+      },
+      {
+        "title": "Wanderung in Ella, Nine Arch Bridge und Weiterfahrt nach Udawalawe",
+        "points": [
+          "Little Adam's Peak: Wandern Sie zum Aussichtspunkt und genießen Sie das Panorama auf die Berge und Teeplantagen.",
+          "Nine Arch Bridge: Besuchen Sie das berühmte Eisenbahnviadukt von Ella, das von üppig grünen Hügeln umgeben ist.",
+          "Zugbeobachtung: Fotografieren Sie einen vorbeifahrenden Zug, sofern es der Fahrplan ermöglicht.",
+          "Ravana-Höhle: Erkunden Sie die Höhle, die in der lokalen Folklore mit König Ravana verbunden ist.",
+          "Ravana-Wasserfall: Bewundern Sie den malerischen Wasserfall von den ausgewiesenen Aussichtspunkten aus.",
+          "Weiterfahrt nach Udawalawe: Fahren Sie in Richtung der südlichen Tiefebene und beziehen Sie Ihre Unterkunft in der Nähe des Nationalparks."
+        ],
+        "overnight": "Hotel in der Nähe des Udawalawe-Nationalparks."
+      },
+      {
+        "title": "Safari im Udawalawe-Nationalpark und Weiterfahrt nach Colombo",
+        "points": [
+          "Frühe Abfahrt: Fahren Sie zu einer geführten Jeep-Safari in den Udawalawe-Nationalpark.",
+          "Elefantensafari: Halten Sie in den Graslandschaften und Buschgebieten Ausschau nach wilden Asiatischen Elefanten.",
+          "Tierbeobachtung: Entdecken Sie möglicherweise Wasserbüffel, Hirsche, Krokodile und verschiedene Vogelarten.",
+          "Tierfotografie: Halten Sie unvergessliche Tierbeobachtungen fest und beachten Sie dabei die Parkregeln.",
+          "Frühstück und Weiterfahrt: Kehren Sie, sofern es der Zeitplan erlaubt, zum Frühstück zurück und beginnen Sie anschließend die Fahrt nach Colombo.",
+          "Ankunft in Colombo: Beziehen Sie Ihr Hotel und entspannen Sie sich nach der Reise."
+        ],
+        "overnight": "Hotel in Colombo."
+      },
+      {
+        "title": "Stadterlebnis in Colombo und Abschluss der Reise",
+        "points": [
+          "Frühstück: Genießen Sie das Frühstück in Ihrem Hotel.",
+          "Galle Face Green: Unternehmen Sie, sofern es die Zeit erlaubt, einen Spaziergang entlang der beliebten Uferpromenade von Colombo.",
+          "Independence Square: Besuchen Sie dieses bedeutende Denkmal zur Erinnerung an die Unabhängigkeit Sri Lankas.",
+          "Colombo Fort: Erkunden Sie das historische Geschäftsviertel und seine beeindruckende Architektur.",
+          "Shopping und Gastronomie: Stöbern Sie auf lokalen Märkten nach Souvenirs und genießen Sie sri-lankische Erfrischungen.",
+          "Abreise oder Transfer: Beenden Sie Ihre Reise mit einem Transfer zu Ihrem vereinbarten Ziel."
+        ],
+        "overnight": "Keine Übernachtung – Abreisetag."
+      }
+    ],
+    "hotelRecommendation": "Abenteuer-Lodges in Kitulgala, Hotels in Hanglage in Ella und safari-inspirierte Unterkünfte in der Nähe von Udawalawe.",
+    "transportation": "Privates, klimatisiertes Fahrzeug mit Fahrer; zertifizierte Rafting- und Zipline-Guides sowie ein 4x4-Safari-Jeep für Udawalawe.",
+    "meals": "Tägliches Frühstück sowie ein Mittagessen am Tag des Raftings und Ziplinings. Weitere Mahlzeiten nach eigener Wahl.",
+    "included": [
+      "6 Übernachtungen in den aufgeführten Unterkünften",
+      "Tägliches Frühstück und 1 Mittagessen",
+      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
+      "Wildwasser-Rafting und Ziplining",
+      "2 Jeep-Safaris im Udawalawe-Nationalpark"
+    ],
+    "excluded": [
+      "Internationale Flüge",
+      "Visagebühren",
+      "Nicht ausdrücklich aufgeführte Mahlzeiten",
+      "Persönliche Ausgaben und Trinkgelder",
+      "Reiseversicherung"
+    ],
+    "optionalExperiences": [
+      "Zusätzlicher Sonnenaufgangsausflug zum Ella Rock",
+      "Canyoning in der Nähe von Kitulgala",
+      "Zusätzliche Safari im Udawalawe-Nationalpark"
+    ],
+    "tourFaqs": [
+      {
+        "q": "Ist Udawalawe als richtige Safari oder nur als kurze Durchfahrt eingeplant?",
+        "a": "Es sind zwei separate Jeep-Safaris mit einem erfahrenen Fährtenleser und Safari-Guide vorgesehen. Sie finden am frühen Morgen und am späten Nachmittag statt, wenn die Tierwelt besonders aktiv ist."
+      },
+      {
+        "q": "Können wir statt der Safari mehr Rafting-Aktivitäten unternehmen?",
+        "a": "Ja, diese Reiseroute dient als Ausgangspunkt. Wir können zusätzliche Tage auf dem Fluss einplanen, wenn Sie diesem Erlebnis den Vorzug geben möchten."
+      }
+    ]
+  }
+}

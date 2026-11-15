@@ -1,0 +1,147 @@
+{
+  "title": "Voyage aux merveilles de Ceylan",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+    "Triangle culturel et pays du thé",
+    "Pont aux Neuf Arches en train",
+    "Safari à Yala"
+  ],
+  "blurb": "Notre circuit des hautes terres de 7 jours, complété par une journée complète de safari — culture, pays du thé et faune sauvage en un seul voyage.",
+  "heroTitle": "Ceylan complet — 8 jours de culture, de hautes terres et de safari",
+  "intro": "Le classique circuit du Triangle culturel et des hautes terres, prolongé vers le sud jusqu'au parc national de Yala pour un véritable safari avant le retour à Colombo.",
+  "overview": "Cet itinéraire suit notre circuit des hautes terres de 7 jours à travers Sigiriya, Kandy et Ella, puis continue vers le sud jusqu'à Yala pour un safari en jeep, avant de regagner la côte pour le départ.",
+  "bestFor": "Voyageurs qui souhaitent culture, hautes terres et faune sauvage sans extension balnéaire",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable",
+  "physicalLevel": "Facile à modéré",
+  "destinationsCovered": "Negombo → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Colombo",
+  "itinerary": [
+    {
+      "title": "Arrivée, Pinnawala et Sigiriya",
+      "points": [
+        "Accueil à l'aéroport : arrivez à l'aéroport international Bandaranaike (CMB) et recevez un collier de fleurs traditionnel.",
+        "Accueil du chauffeur : retrouvez votre chauffeur-guide privé, qui vous aide avec vos bagages.",
+        "Orphelinat d'éléphants de Pinnawala : observez les éléphants et découvrez leurs soins et leur préservation.",
+        "Route panoramique : poursuivez vers Sigiriya à travers la belle campagne sri-lankaise.",
+        "Installation à l'hôtel : arrivez à Sigiriya et reposez-vous après le trajet.",
+        "Soirée libre : profitez du dîner et d'une soirée paisible à l'hôtel."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Forteresse du rocher de Sigiriya",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Forteresse du rocher de Sigiriya : explorez ce site classé à l'UNESCO, avec ses jardins d'eau antiques, ses fresques et ses ruines historiques.",
+        "Entrée des pattes du lion : découvrez le portail emblématique de l'antique citadelle rocheuse.",
+        "Vues du sommet : grimpez au sommet pour des vues panoramiques sur la campagne environnante.",
+        "Expérience au village : profitez d'une visite optionnelle d'un village traditionnel.",
+        "Soirée libre : détendez-vous à l'hôtel ou explorez les environs."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Temple troglodytique de Dambulla et Kandy",
+      "points": [
+        "Petit-déjeuner et départ : quittez Sigiriya après le petit-déjeuner.",
+        "Temple troglodytique de Dambulla : explorez ce site classé à l'UNESCO, célèbre pour ses anciennes peintures murales et statues bouddhiques.",
+        "Jardin d'épices de Matale : découvrez les épices sri-lankaises et les plantes ayurvédiques traditionnelles.",
+        "Route panoramique vers Kandy : traversez les beaux paysages du centre du Sri Lanka.",
+        "Temple de la Dent sacrée : visitez ce temple sacré de la ville sainte de Kandy, classée à l'UNESCO.",
+        "Lac de Kandy : profitez d'une promenade relaxante au bord du lac."
+      ],
+      "overnight": "Hôtel de charme à Kandy."
+    },
+    {
+      "title": "De Kandy à Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de gagner les pittoresques hautes terres.",
+        "Visite d'une usine de thé : découvrez le procédé de fabrication du thé et profitez d'une dégustation.",
+        "Chutes de Ramboda : admirez la belle cascade et le paysage de montagne environnant.",
+        "Route panoramique : poursuivez à travers de luxuriantes plantations de thé vers Nuwara Eliya.",
+        "Arrivée à Nuwara Eliya : explorez la charmante ville de montagne surnommée « Petite Angleterre ».",
+        "Lac Gregory : profitez d'une promenade relaxante au bord du lac ou d'activités optionnelles, selon le temps disponible."
+      ],
+      "overnight": "Hôtel de charme à Nuwara Eliya."
+    },
+    {
+      "title": "Voyage panoramique en train de Nanu Oya à Ella",
+      "points": [
+        "Petit-déjeuner et transfert : profitez du petit-déjeuner puis rendez-vous à la gare de Nanu Oya.",
+        "Voyage panoramique en train : traversez plantations de thé, montagnes brumeuses, tunnels et pittoresque campagne.",
+        "Arrivée à Ella : retrouvez votre transfert et rendez-vous à l'hôtel.",
+        "Installation à l'hôtel : prenez vos quartiers et détendez-vous.",
+        "Ville d'Ella : explorez la ville à votre rythme et découvrez ses cafés et boutiques locales.",
+        "Soirée détente : profitez du dîner et de l'atmosphère paisible des hautes terres."
+      ],
+      "overnight": "Hôtel de charme à Ella."
+    },
+    {
+      "title": "Visites d'Ella et transfert vers Yala",
+      "points": [
+        "Pont aux Neuf Arches : visitez cet emblématique pont ferroviaire entouré d'une verdure luxuriante.",
+        "Little Adam's Peak : profitez d'une jolie promenade et de vues panoramiques sur les montagnes d'Ella.",
+        "Chutes de Ravana : arrêtez-vous pour admirer la pittoresque cascade, selon le temps disponible.",
+        "Route vers Yala : traversez les paysages du sud du Sri Lanka en direction de la région sauvage.",
+        "Installation à l'hôtel : arrivez à votre hôtel dans la région de Yala ou de Tissamaharama.",
+        "Préparation du safari : détendez-vous et préparez-vous à l'aventure animalière à venir."
+      ],
+      "overnight": "Hôtel de charme près de Yala."
+    },
+    {
+      "title": "Safari matinal à Yala et transfert vers Galle",
+      "points": [
+        "Safari matinal : explorez le parc national de Yala en jeep 4x4 avec un chauffeur et un pisteur expérimentés.",
+        "Observation de la faune : cherchez éléphants du Sri Lanka, crocodiles, cerfs, oiseaux colorés et, avec un peu de chance, léopards.",
+        "Petit-déjeuner et départ : regagnez l'hôtel pour le petit-déjeuner, selon la formule de safari.",
+        "Route côtière panoramique : roulez vers Galle le long de la belle côte sud du Sri Lanka.",
+        "Arrivée à Galle : installez-vous à l'hôtel et reposez-vous après le trajet.",
+        "Soirée libre : profitez d'une soirée paisible à Galle."
+      ],
+      "overnight": "Hôtel de charme à Galle."
+    },
+    {
+      "title": "Fort de Galle et départ à l'aéroport",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner à l'hôtel avant de partir.",
+        "Fort de Galle : explorez ce site classé au patrimoine mondial de l'UNESCO, réputé pour ses rues historiques et son architecture coloniale.",
+        "Phare de Galle : visitez le célèbre phare et profitez des vues sur l'océan Indien.",
+        "Photographie et shopping : profitez de temps pour les photos et l'achat de souvenirs.",
+        "Transfert à l'aéroport : rendez-vous à l'aéroport international Bandaranaike (CMB) selon l'horaire de votre vol.",
+        "Départ : concluez votre voyage au Sri Lanka avec de merveilleux souvenirs de sa culture, de ses paysages et de sa faune."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Hôtels 3 à 4 étoiles partout, avec un hébergement de type camp de safari près de Yala.",
+  "transportation": "Véhicule privé climatisé avec chauffeur ; places de train réservées, Nanu Oya–Ella ; jeep safari 4x4 pour les sorties à Yala.",
+  "meals": "Petit-déjeuner quotidien, plus déjeuner le jour 2. Autres repas au choix.",
+  "included": [
+    "7 nuits d'hébergement comme indiqué",
+    "Petit-déjeuner quotidien + 1 déjeuner",
+    "Véhicule privé et chauffeur pendant tout le circuit",
+    "Billets de train réservés, Nanu Oya–Ella"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non spécifiés",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Session de safari supplémentaire à Yala",
+    "Promenade guidée sur les remparts du fort de Galle au coucher du soleil",
+    "Observation des baleines en option depuis Mirissa"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Que peut-on s'attendre à voir à Yala ?",
+      "a": "Yala compte l'une des plus fortes densités de léopards au monde, ainsi que des éléphants, des crocodiles et une avifaune abondante — les observations varient selon les visites, mais les léopards sont vus régulièrement."
+    },
+    {
+      "q": "Un safari l'après-midi et un le matin suffisent-ils ?",
+      "a": "Deux safaris augmentent nettement vos chances de belles observations, car les animaux sont plus actifs à l'aube et au crépuscule."
+    }
+  ],
+  "price": "À partir de 850 $ par pers."
+}

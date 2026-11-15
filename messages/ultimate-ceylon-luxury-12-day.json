@@ -1,0 +1,218 @@
+{
+  "title": "L'ultime voyage de luxe à Ceylan",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+    "Patrimoine UNESCO d'Anuradhapura et de Polonnaruwa",
+    "Forteresse de Sigiriya et temple troglodytique de Dambulla",
+    "Kandy la sacrée et le temple de la Dent",
+    "Plantations de thé et train panoramique des hautes terres",
+    "Safari animalier au parc national de Yala",
+    "Mirissa, fort de Galle et côte de Bentota"
+  ],
+  "blurb": "Découvrez les royaumes antiques du Sri Lanka, ses montagnes couvertes de thé, sa faune et son littoral sud lors d'un exceptionnel voyage privé de luxe.",
+  "heroTitle": "L'ultime voyage de luxe à Ceylan — 12 jours de découverte privée",
+  "intro": "Découvrez le Sri Lanka en profondeur lors d'un voyage privé de douze jours reliant capitales antiques, spectaculaires forteresses rocheuses, temples sacrés, hautes terres brumeuses, réserves animalières et plages tropicales. Découvrez le riche patrimoine de l'île à Anuradhapura et Polonnaruwa, traversez les terres du thé, profitez d'un safari à Yala et terminez le long de la côte historique du sud et de l'ouest. Chaque étape est conçue autour de visites privées, d'hébergements de luxe et d'expériences locales mémorables.",
+  "overview": "Un circuit de luxe complet à travers les sites culturels, naturels et côtiers du Sri Lanka. L'itinéraire associe sites du patrimoine mondial de l'UNESCO, paysages de terres du thé, trajet ferroviaire panoramique, safari animalier et patrimoine côtier à Mirissa, Galle et Bentota, avec le soutien d'un chauffeur-guide privé.",
+  "bestFor": "Voyageurs de luxe, couples, jeunes mariés, amoureux de culture et passionnés de faune sauvage",
+  "groupSize": "Privé — uniquement vous et vos compagnons de voyage",
+  "physicalLevel": "Modéré, avec ascensions, promenades archéologiques et points de vue des hautes terres optionnels",
+  "destinationsCovered": "Negombo → Anuradhapura → Polonnaruwa → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Mirissa → Galle → Bentota → Colombo",
+  "itinerary": [
+    {
+      "title": "Arrivée à Negombo",
+      "points": [
+        "Accueil à l'aéroport : recevez des colliers de fleurs traditionnels à l'aéroport international Bandaranaike.",
+        "Accueil du chauffeur privé : retrouvez votre chauffeur-guide anglophone, qui vous aide avec vos bagages.",
+        "Transfert vers Negombo : rendez-vous à votre hôtel de luxe en bord de mer.",
+        "Déjeuner et détente : savourez le déjeuner et remettez-vous de votre voyage.",
+        "Soirée en bord de mer : détendez-vous près de la côte avant le dîner."
+      ],
+      "overnight": "Hôtel cinq étoiles en bord de mer à Negombo."
+    },
+    {
+      "title": "De Negombo à Anuradhapura",
+      "points": [
+        "Petit-déjeuner et départ : quittez Negombo après le petit-déjeuner.",
+        "Route panoramique : traversez la campagne sri-lankaise en direction de l'antique royaume du nord.",
+        "Pause rafraîchissement : profitez d'une pause pendant le trajet.",
+        "Arrivée à Anuradhapura : installez-vous à l'hôtel et déjeunez.",
+        "Temps libre : détendez-vous ou visitez un site voisin si l'heure d'arrivée le permet.",
+        "Dîner : dînez à l'hôtel."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Anuradhapura."
+    },
+    {
+      "title": "Le royaume antique d'Anuradhapura",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Site du patrimoine UNESCO : explorez la cité antique d'Anuradhapura.",
+        "Stupa Ruwanwelisaya : visitez le stupa monumental et son enceinte sacrée.",
+        "Jaya Sri Maha Bodhi : découvrez l'espace vénéré de l'arbre de la Bodhi sacré.",
+        "Monuments anciens : explorez une sélection de monastères historiques et de vestiges archéologiques.",
+        "Retour à l'hôtel : savourez déjeuner et dîner, avec du temps pour vous détendre."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Anuradhapura."
+    },
+    {
+      "title": "D'Anuradhapura à Polonnaruwa",
+      "points": [
+        "Petit-déjeuner et départ : quittez Anuradhapura après le petit-déjeuner.",
+        "Route panoramique : roulez vers Polonnaruwa à travers les paysages de la zone sèche du Sri Lanka.",
+        "Site UNESCO de Polonnaruwa : explorez l'antique cité royale et ses vestiges historiques.",
+        "Complexe du palais royal : découvrez des ruines de palais et des structures archéologiques sélectionnées.",
+        "Gal Vihara : admirez les célèbres statues de Bouddha sculptées dans la roche.",
+        "Installation à l'hôtel : dînez et détendez-vous après les visites."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Polonnaruwa ou à proximité."
+    },
+    {
+      "title": "De Polonnaruwa à Sigiriya",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Dernière visite patrimoniale : explorez un monument supplémentaire de Polonnaruwa si le temps le permet.",
+        "Transfert vers Sigiriya : traversez la campagne du Triangle culturel.",
+        "Déjeuner : savourez le déjeuner en route ou au resort.",
+        "Installation au resort de luxe : prenez vos quartiers dans votre hébergement.",
+        "Après-midi libre : détendez-vous avant le dîner."
+      ],
+      "overnight": "Resort de luxe cinq étoiles à Sigiriya."
+    },
+    {
+      "title": "Forteresse du rocher de Sigiriya et Dambulla",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner au resort.",
+        "Forteresse du rocher de Sigiriya : explorez le site classé au patrimoine mondial de l'UNESCO et son ancien paysage royal.",
+        "Jardins d'eau : découvrez les remarquables jardins et l'ingénierie historique.",
+        "Fresques et entrée des pattes du lion : explorez les célèbres fresques et l'imposant portail.",
+        "Temple troglodytique de Dambulla : visitez le complexe de grottes classé à l'UNESCO et ses peintures murales et statues bouddhiques.",
+        "Retour au resort : dînez et profitez d'une soirée de détente."
+      ],
+      "overnight": "Resort de luxe cinq étoiles à Sigiriya."
+    },
+    {
+      "title": "De Sigiriya à Kandy",
+      "points": [
+        "Petit-déjeuner et départ : quittez Sigiriya après le petit-déjeuner.",
+        "Route panoramique : traversez les plaines centrales en direction de Kandy.",
+        "Jardin d'épices de Matale : découvrez les épices sri-lankaises et les plantes médicinales traditionnelles.",
+        "Temple de la Dent sacrée : visitez ce temple sacré de la ville sainte de Kandy, classée à l'UNESCO.",
+        "Lac de Kandy : profitez d'une promenade relaxante au bord du lac.",
+        "Installation à l'hôtel : dînez dans votre hôtel de luxe."
+      ],
+      "overnight": "Hôtel cinq étoiles à Kandy."
+    },
+    {
+      "title": "De Kandy à Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : entamez le voyage panoramique vers les hautes terres.",
+        "Route des terres du thé : admirez vallées luxuriantes, panoramas de montagne et plantations de thé vallonnées.",
+        "Visite d'une usine de thé : découvrez le procédé traditionnel de fabrication du thé de Ceylan.",
+        "Dégustation de thé : goûtez un thé fraîchement infusé.",
+        "Chutes de Ramboda : arrêtez-vous pour admirer la cascade et le paysage environnant, selon le temps disponible.",
+        "Installation à Nuwara Eliya : dînez et profitez d'une soirée tranquille."
+      ],
+      "overnight": "Hôtel cinq étoiles ou propriété de luxe de caractère à Nuwara Eliya."
+    },
+    {
+      "title": "Voyage panoramique en train vers Ella",
+      "points": [
+        "Petit-déjeuner et transfert : rendez-vous à la gare de Nanu Oya.",
+        "Voyage panoramique en train : traversez domaines de thé, montagnes brumeuses et campagne pittoresque en direction d'Ella, sous réserve de disponibilité des trains.",
+        "Arrivée à Ella : retrouvez votre chauffeur à la gare.",
+        "Pont aux Neuf Arches : visitez ce pont ferroviaire emblématique si le timing le permet.",
+        "Ville d'Ella : explorez la ville ou profitez d'un point de vue panoramique.",
+        "Installation à l'hôtel : dînez et détendez-vous."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Ella."
+    },
+    {
+      "title": "D'Ella à Yala : expérience de la faune sauvage",
+      "points": [
+        "Petit-déjeuner et départ : quittez Ella après le petit-déjeuner.",
+        "Transfert panoramique : descendez vers le sud à travers hautes et basses terres.",
+        "Arrivée à Yala : installez-vous dans votre lodge de safari de luxe.",
+        "Safari l'après-midi : profitez d'un safari en jeep 4x4 si l'heure d'arrivée et les horaires du parc le permettent.",
+        "Observation de la faune : cherchez éléphants, crocodiles, cerfs et oiseaux ; l'observation de léopards n'est pas garantie.",
+        "Dîner : dînez et détendez-vous au lodge."
+      ],
+      "overnight": "Lodge de safari de luxe à Yala ou Tissamaharama."
+    },
+    {
+      "title": "Yala, Mirissa et fort de Galle",
+      "points": [
+        "Safari matinal : profitez d'un safari matinal s'il n'a pas été effectué le jour 10, selon l'horaire.",
+        "Petit-déjeuner et départ : regagnez le lodge et préparez-vous pour le voyage côtier.",
+        "Côte de Mirissa : profitez d'un arrêt côtier et de vues sur l'océan Indien.",
+        "Fort de Galle : explorez ce site classé au patrimoine mondial de l'UNESCO, ses rues historiques et son architecture coloniale.",
+        "Phare de Galle : profitez de la vue sur l'océan et de la photographie.",
+        "Installation à l'hôtel : dînez dans la région de Galle."
+      ],
+      "overnight": "Hôtel cinq étoiles ou de luxe premium à Galle."
+    },
+    {
+      "title": "Galle, Bentota et départ depuis Colombo",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de partir.",
+        "Voyage côtier : roulez vers le nord le long du littoral ouest et sud du Sri Lanka.",
+        "Arrêt à Bentota : profitez d'une courte visite côtière si le temps le permet.",
+        "Déjeuner : savourez le déjeuner dans un restaurant sélectionné en route.",
+        "Transfert à l'aéroport : poursuivez jusqu'à l'aéroport international Bandaranaike (CMB).",
+        "Départ : arrivez avec suffisamment d'avance pour l'enregistrement."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Une sélection d'hôtels cinq étoiles, de resorts de luxe et de lodges de safari premium à Negombo, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Nuwara Eliya, Ella, Yala et Galle. Les établissements définitifs sont choisis selon les disponibilités, les dates de voyage et le tarif convenu du forfait.",
+  "transportation": "Véhicule de luxe climatisé privé avec chauffeur-guide anglophone dédié pour tout l'itinéraire routier. Le trajet en train Nanu Oya–Ella dépend des horaires ferroviaires et de la disponibilité des places réservées. Le safari à Yala s'effectue dans un véhicule 4x4 distinct.",
+  "meals": "Petit-déjeuner, déjeuner et dîner quotidiens du jour 1 au jour 11, avec petit-déjeuner et déjeuner le jour 12 (départ). L'horaire des repas peut être ajusté pour les safaris matinaux et les horaires de train.",
+  "included": [
+    "11 nuits dans des hôtels cinq étoiles, resorts de luxe et un lodge de safari premium sélectionnés",
+    "Petit-déjeuner, déjeuner et dîner quotidiens selon la formule de repas indiquée",
+    "Chauffeur-guide privé et véhicule climatisé",
+    "Accueil à l'aéroport avec colliers de fleurs traditionnels",
+    "Entrée au site archéologique d'Anuradhapura",
+    "Entrée au site archéologique de Polonnaruwa",
+    "Entrée à la forteresse de Sigiriya et au temple troglodytique de Dambulla",
+    "Entrée au temple de la Dent sacrée",
+    "Visite d'usine de thé et dégustation confirmées",
+    "Billet de train Nanu Oya–Ella dans la classe convenue, selon disponibilité",
+    "Entrée au parc national de Yala et un safari standard en jeep 4x4",
+    "Droits d'entrée d'autres attractions expressément indiquées dans l'itinéraire confirmé"
+  ],
+  "excluded": [
+    "Vols internationaux et frais de visa",
+    "Assurance voyage",
+    "Dépenses personnelles et pourboires",
+    "Boissons alcoolisées et boissons premium",
+    "Expériences optionnelles non mentionnées comme incluses",
+    "Safaris animaliers supplémentaires au-delà du forfait",
+    "Soins spa et surclassements de chambre"
+  ],
+  "optionalExperiences": [
+    "Expérience privée dans un village du Triangle culturel",
+    "Ascension guidée de Sigiriya au lever du soleil",
+    "Expérience premium dans un domaine de thé",
+    "Safari animalier supplémentaire à Yala",
+    "Dîner romantique privé sur la côte sud",
+    "Soin de bien-être privé dans certains hôtels de luxe"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Quels sites du patrimoine mondial de l'UNESCO sont inclus ?",
+      "a": "Le parcours comprend Anuradhapura, Polonnaruwa, la forteresse de Sigiriya, le temple troglodytique de Dambulla et la ville sacrée de Kandy."
+    },
+    {
+      "q": "Tous les repas et droits d'entrée sont-ils inclus ?",
+      "a": "Le forfait proposé comprend le petit-déjeuner, le déjeuner et le dîner quotidiens, ainsi que l'entrée aux attractions expressément indiquées dans l'itinéraire confirmé. Les activités optionnelles peuvent entraîner des frais supplémentaires."
+    },
+    {
+      "q": "Tous les hébergements sont-ils cinq étoiles ?",
+      "a": "Le circuit est conçu autour d'hôtels cinq étoiles, de resorts de luxe et de lodges de safari premium. Les établissements précis sont confirmés selon les disponibilités et le prix final du forfait."
+    },
+    {
+      "q": "L'itinéraire peut-il être personnalisé ?",
+      "a": "Oui. Le choix des hôtels, le rythme des visites, les activités optionnelles et les dîners spéciaux peuvent être adaptés à vos préférences."
+    }
+  ],
+  "price": "À partir de 3 699 $ par pers."
+}

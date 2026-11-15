@@ -1,0 +1,125 @@
+{
+  "title": "L'essence de Ceylan",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+    "Sigiriya et Dambulla",
+    "Train panoramique vers Ella",
+    "Pont aux Neuf Arches et pays du thé"
+  ],
+  "blurb": "Un circuit de 7 jours qui ajoute les brumeuses hautes terres et le célèbre trajet en train Kandy–Ella au classique circuit du Triangle culturel.",
+  "heroTitle": "Au cœur de Ceylan — 7 jours des cités antiques au pays du thé",
+  "intro": "Tout ce que propose notre circuit classique de 5 jours, prolongé jusqu'aux collines : plantations de thé, air frais de montagne et l'un des trajets en train les plus pittoresques du monde.",
+  "overview": "Cet itinéraire suit le même début dans le Triangle culturel que notre circuit de 5 jours, puis monte dans les hautes terres pour découvrir plantations de thé, cascades et le célèbre trajet ferroviaire entre Nuwara Eliya et Ella.",
+  "bestFor": "Voyageurs qui souhaitent réunir villes, culture et hautes terres en un seul voyage",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable",
+  "physicalLevel": "Facile à modéré",
+  "destinationsCovered": "Sigiriya → Kandy → Nuwara Eliya → Ella → Colombo",
+  "itinerary": [
+    {
+      "title": "Arrivée, Pinnawala et Sigiriya",
+      "points": [
+        "Accueil à l'aéroport : retrouvez votre chauffeur privé à l'aéroport international Bandaranaike (CMB) et recevez un collier de fleurs traditionnel.",
+        "Orphelinat d'éléphants de Pinnawala : observez les éléphants et découvrez leurs soins et leur préservation.",
+        "Route panoramique vers Sigiriya : profitez des paysages de campagne tout au long du trajet.",
+        "Installation à l'hôtel : arrivez à Sigiriya, reposez-vous après le voyage et profitez de la soirée libre."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Forteresse du rocher de Sigiriya et alentours",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Forteresse du rocher de Sigiriya : explorez ce site classé à l'UNESCO, avec ses jardins d'eau antiques, ses fresques et ses ruines historiques.",
+        "Vues du sommet : grimpez à la forteresse pour des vues panoramiques sur la campagne, selon la météo et votre condition physique.",
+        "Expérience au village : profitez d'une visite optionnelle d'un village voisin ou détendez-vous à l'hôtel."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Sigiriya → Dambulla → Jardin d'épices → Kandy",
+      "points": [
+        "Petit-déjeuner et départ : quittez Sigiriya après le petit-déjeuner.",
+        "Temple troglodytique de Dambulla : explorez ce site classé à l'UNESCO, réputé pour ses statues bouddhiques et ses peintures murales anciennes.",
+        "Jardin d'épices de Matale : découvrez les épices sri-lankaises, les plantes ayurvédiques et leurs usages traditionnels.",
+        "Arrivée à Kandy : traversez des paysages pittoresques et installez-vous à l'hôtel.",
+        "Temple de la Dent sacrée : visitez ce temple sacré de la ville sainte de Kandy, classée à l'UNESCO.",
+        "Soirée libre : profitez d'une soirée détendue à Kandy."
+      ],
+      "overnight": "Hôtel de charme à Kandy."
+    },
+    {
+      "title": "Kandy → Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de gagner les pittoresques hautes terres du Sri Lanka.",
+        "Usine de thé : découvrez le procédé de fabrication du thé et profitez d'une dégustation.",
+        "Chutes de Ramboda : admirez la belle cascade et le paysage de montagne environnant.",
+        "Arrivée à Nuwara Eliya : explorez cette charmante ville de montagne, surnommée la « Petite Angleterre ».",
+        "Lac Gregory : profitez d'une promenade relaxante au bord du lac ou d'activités optionnelles, selon le temps disponible."
+      ],
+      "overnight": "Hôtel de charme à Nuwara Eliya."
+    },
+    {
+      "title": "Voyage panoramique en train : Nanu Oya → Ella",
+      "points": [
+        "Petit-déjeuner et transfert : profitez du petit-déjeuner puis rendez-vous à la gare de Nanu Oya.",
+        "Voyage panoramique en train : traversez plantations de thé, montagnes brumeuses, tunnels et pittoresque campagne.",
+        "Arrivée à Ella : retrouvez votre transfert et rendez-vous à l'hôtel.",
+        "Ville d'Ella : installez-vous et profitez d'une soirée tranquille à explorer la ville à votre rythme."
+      ],
+      "overnight": "Hôtel de charme à Ella."
+    },
+    {
+      "title": "Visites d'Ella → Colombo",
+      "points": [
+        "Pont aux Neuf Arches : visitez cet emblématique pont ferroviaire entouré d'une verdure luxuriante.",
+        "Little Adam's Peak : profitez d'une jolie promenade et de vues panoramiques sur les montagnes d'Ella.",
+        "Chutes de Ravana : arrêtez-vous pour admirer la pittoresque cascade, selon le temps et l'état des routes.",
+        "Route vers Colombo : roulez vers la capitale avec une pause rafraîchissement adaptée.",
+        "Installation à l'hôtel : arrivez à Colombo et détendez-vous à l'hôtel."
+      ],
+      "overnight": "Hôtel de charme à Colombo."
+    },
+    {
+      "title": "Visite de Colombo → Départ à l'aéroport",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner et préparez votre départ.",
+        "Visite de Colombo : visitez le temple Gangaramaya, la place de l'Indépendance et Galle Face Green, selon l'horaire du vol.",
+        "Shopping : dernières emplettes optionnelles de thé de Ceylan, souvenirs et artisanat local.",
+        "Transfert à l'aéroport : rendez-vous à l'aéroport international Bandaranaike (CMB) pour votre départ."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Hôtels 3 à 4 étoiles à Negombo, Sigiriya, Kandy, Nuwara Eliya, Ella et Colombo.",
+  "transportation": "Véhicule privé climatisé avec chauffeur pour les transferts routiers ; places réservées en 2e classe pour le train Nanu Oya–Ella.",
+  "meals": "Petit-déjeuner quotidien, plus déjeuner le jour 2. Autres repas au choix.",
+  "included": [
+    "6 nuits d'hébergement comme indiqué",
+    "Petit-déjeuner quotidien",
+    "Véhicule privé et chauffeur pendant tout le circuit",
+    "Billets de train réservés, Nanu Oya–Ella"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non spécifiés",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Randonnée au lever du soleil au Little Adam's Peak",
+    "Rafting en eaux vives près de Kitulgala (détour)",
+    "Soin spa ayurvédique, Nuwara Eliya"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Faut-il réserver le train à l'avance ?",
+      "a": "Oui — les places réservées sur cet itinéraire sont complètes des semaines à l'avance en haute saison, c'est pourquoi nous les réservons dans votre forfait."
+    },
+    {
+      "q": "Fait-il froid à Nuwara Eliya ?",
+      "a": "Il y fait nettement plus frais que dans le reste de l'île — les soirées peuvent descendre à 12–16 °C, prévoyez donc une veste légère."
+    }
+  ],
+  "price": "À partir de 750 $ par pers."
+}

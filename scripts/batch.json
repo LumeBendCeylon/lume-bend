@@ -1,444 +1,156 @@
-﻿{
-  "general-7-day-tour": {
-    "title": "Das Wesen Ceylons",
+﻿
+{
+  "island-romance-7-day-tour": {
+    "title": "Romantische Insel-Auszeit",
     "duration": "7 Tage / 6 Nächte",
     "highlights": [
-      "Sigiriya & Dambulla",
-      "Malerische Zugfahrt nach Ella",
-      "Nine Arch Bridge & Teeland"
+      "Romantischer Kandy-See und Zahntempel",
+      "Tropische Strandauszeit in Hiriketiya",
+      "Strand von Mirissa und Coconut Tree Hill",
+      "UNESCO-geschütztes Galle Fort",
+      "Luxus direkt am Strand von Bentota",
+      "Sonnenuntergänge und romantische Abendessen"
     ],
-    "blurb": "Eine siebentägige Route, die den klassischen Rundkurs durch das Kulturdreieck um nebliges Hochland und die berühmte Zugfahrt von Kandy nach Ella ergänzt.",
-    "heroTitle": "Herz von Ceylon – 7 Tage von antiken Städten ins Teeland",
-    "intro": "Alles aus unserer fünftägigen Klassikerreise, erweitert um das Hochland – Teegüter, kühle Bergluft und eine der landschaftlich schönsten Zugfahrten der Welt.",
-    "overview": "Diese Route folgt zunächst demselben Auftakt im Kulturdreieck wie unsere fünftägige Tour und führt dann weiter ins Hochland zu Teeplantagen, Wasserfällen und der berühmten Zugfahrt zwischen Nuwara Eliya und Ella.",
-    "bestFor": "Reisende, die Städte, Kultur und Hochland auf einer Reise erleben möchten",
-    "groupSize": "Privates Fahrzeug – Gruppengröße individuell anpassbar",
-    "physicalLevel": "Leicht bis mittel",
-    "destinationsCovered": "Sigiriya → Kandy → Nuwara Eliya → Ella → Colombo",
+    "blurb": "Eine romantische siebentägige Reise, die den kulturellen Charme von Kandy, die tropische Küste von Hiriketiya, die wunderschönen Strände von Mirissa, das historische Erbe von Galle und den entspannten Strandluxus von Bentota vereint.",
+    "heroTitle": "Romantische Insel-Auszeit – 7 Tage quer durch Sri Lanka",
+    "intro": "Erleben Sie die romantische Seite Sri Lankas auf einer privaten Reise durch kulturelle Sehenswürdigkeiten, abgeschiedene Küstenlandschaften, historische Gassen und wunderschöne Strände im Süden.",
+    "overview": "Beginnen Sie Ihre Reise in Kandy mit seinem heiligen Kulturerbe und dem friedlichen See. Reisen Sie anschließend südwärts nach Hiriketiya und Mirissa, um tropische Strände zu genießen. Entdecken Sie die historischen Gassen des UNESCO-geschützten Galle Forts, bevor Sie sich in Bentota bei entspannten Strandtagen, optionalen Wellnessangeboten und romantischen Abendessen erholen.",
+    "bestFor": "Paare, die ihre Flitterwochen, einen Jahrestag oder eine romantische Auszeit mit einer Kombination aus Kultur und Entspannung an der Küste feiern möchten.",
+    "groupSize": "Privatfahrzeug mit persönlichem Chauffeur-Reiseleiter – individuell auf Paare abgestimmt.",
+    "physicalLevel": "Einfach",
+    "destinationsCovered": "Flughafen → Kandy → Hiriketiya → Mirissa → Galle → Bentota → Flughafen",
     "itinerary": [
       {
-        "title": "Ankunft, Pinnawala & Sigiriya",
+        "title": "Begrüßung am Flughafen und Fahrt nach Kandy",
         "points": [
-          "Empfang am Flughafen: Treffen Sie Ihren privaten Chauffeur am Bandaranaike International Airport (CMB) und werden Sie traditionell mit einer Blumengirlande begrüßt.",
-          "Elefantenwaisenhaus Pinnawala: Beobachten Sie die Elefanten und erfahren Sie mehr über ihre Pflege und ihren Schutz.",
-          "Landschaftliche Fahrt nach Sigiriya: Genießen Sie unterwegs die Ausblicke auf die Landschaft.",
-          "Hotel-Check-in: Ankunft in Sigiriya, Erholung von der Reise und ein Abend zur freien Verfügung."
+          "Begrüßung am Flughafen: Treffen Sie Ihren Chauffeur-Reiseleiter am Bandaranaike International Airport (CMB), erhalten Sie traditionelle Blumengirlanden und Unterstützung mit Ihrem Gepäck.",
+          "Privater Transfer: Machen Sie es sich in Ihrem klimatisierten Fahrzeug bequem und beginnen Sie Ihre Reise in Richtung der Kulturstadt Kandy.",
+          "Malerische Fahrt: Genießen Sie die abwechslungsreiche Landschaft, üppiges Grün und Ausblicke auf das zentrale Hochland Sri Lankas.",
+          "Ankunft in Kandy: Checken Sie in Ihrem Hotel ein und entspannen Sie sich nach der Reise.",
+          "Kandy-See: Unternehmen Sie einen friedlichen Spaziergang rund um den malerischen See im Herzen der Stadt.",
+          "Romantischer Abend: Genießen Sie ein entspanntes Abendessen in Ihrem Hotel oder einem nahegelegenen Restaurant."
         ],
-        "overnight": "Boutique-Hotel in Sigiriya."
+        "overnight": "Hotel in Kandy."
       },
       {
-        "title": "Felsenfestung Sigiriya & Umgebung",
+        "title": "Kandys Kulturerbe und romantischer Charme des Hochlands",
         "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Felsenfestung Sigiriya: Erkunden Sie diese UNESCO-Welterbestätte mit ihren antiken Wassergärten, Fresken und historischen Ruinen.",
-          "Gipfelblick: Steigen Sie auf die Festung und genießen Sie den Panoramablick über die umliegende Landschaft, je nach Wetter und Fitness.",
-          "Dorferlebnis: Optionaler Besuch eines nahegelegenen Dorfes oder Entspannung im Hotel."
+          "Gemütliches Frühstück: Genießen Sie das Frühstück in Ihrem Hotel, bevor Sie Kandy erkunden.",
+          "Zahntempel: Besuchen Sie Sri Dalada Maligawa, einen bedeutenden buddhistischen Tempel innerhalb der UNESCO-geschützten Heiligen Stadt Kandy.",
+          "Königliches Erbe: Entdecken Sie die historischen Anlagen des ehemaligen Königskomplexes von Kandy und erfahren Sie mehr über das kulturelle Erbe der Stadt.",
+          "Königlicher Botanischer Garten Peradeniya: Spazieren Sie durch die gepflegten Gartenanlagen und bewundern Sie tropische Pflanzen und beeindruckende hohe Bäume.",
+          "Stadterlebnis in Kandy: Erkunden Sie lokale Kunsthandwerksgeschäfte und entdecken Sie traditionelle sri-lankische Handarbeiten.",
+          "Romantisches Abendessen: Kehren Sie in Ihr Hotel zurück und genießen Sie einen friedlichen Abend zu zweit."
         ],
-        "overnight": "Boutique-Hotel in Sigiriya."
+        "overnight": "Hotel in Kandy."
       },
       {
-        "title": "Sigiriya → Dambulla → Gewürzgarten → Kandy",
+        "title": "Malerische Reise in den Süden und Strandauszeit in Hiriketiya",
         "points": [
-          "Frühstück & Check-out: Abreise aus Sigiriya nach dem Frühstück.",
-          "Höhlentempel von Dambulla: Erkunden Sie diese UNESCO-Welterbestätte, bekannt für ihre buddhistischen Statuen und antiken Wandmalereien.",
-          "Gewürzgarten in Matale: Entdecken Sie srilankische Gewürze, ayurvedische Pflanzen und ihre traditionelle Verwendung.",
-          "Ankunft in Kandy: Fahrt durch reizvolle Landschaften und Check-in im Hotel.",
-          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
-          "Abend zur freien Verfügung: Genießen Sie einen entspannten Abend in Kandy."
+          "Abfahrt am Morgen: Genießen Sie Ihr Frühstück, bevor Sie Kandy in Richtung der Südküste Sri Lankas verlassen.",
+          "Malerische Fahrt: Durchqueren Sie mit Ihrem privaten Fahrzeug abwechslungsreiche Landschaften auf dem Weg zur südlichen Küstenregion.",
+          "Ankunft in Hiriketiya: Erreichen Sie die malerische Bucht in der Nähe von Dickwella und checken Sie in Ihrer Unterkunft ein.",
+          "Strand von Hiriketiya: Entdecken Sie die geschwungene Sandbucht, die tropische Vegetation und die entspannte Küstenatmosphäre.",
+          "Entspannung am Strand: Verbringen Sie gemeinsame Zeit am Meer oder genießen Sie ein erfrischendes Getränk in einem nahegelegenen Café.",
+          "Sonnenuntergang und Abendessen: Genießen Sie einen entspannten Abend und ein romantisches Abendessen in dieser wunderschönen Küstenumgebung."
         ],
-        "overnight": "Boutique-Hotel in Kandy."
+        "overnight": "Hotel in Hiriketiya."
       },
       {
-        "title": "Kandy → Nuwara Eliya",
+        "title": "Morgen in Hiriketiya und romantische Strandzeit in Mirissa",
         "points": [
-          "Frühstück & Abreise: Frühstück, danach Fahrt ins landschaftlich reizvolle Hochland Sri Lankas.",
-          "Teefabrik: Entdecken Sie die Teeherstellung und genießen Sie eine Teeverkostung.",
-          "Ramboda-Wasserfälle: Bewundern Sie den schönen Wasserfall und die umliegende Bergkulisse.",
-          "Ankunft in Nuwara Eliya: Erkunden Sie die charmante Hochlandstadt, die auch „Little England“ genannt wird.",
-          "Gregory-See: Genießen Sie einen entspannten Spaziergang am See oder optionale Aktivitäten, sofern die Zeit es erlaubt."
+          "Gemütliches Frühstück: Genießen Sie Ihr Frühstück und starten Sie entspannt in den Tag an der Küste.",
+          "Strand von Hiriketiya: Unternehmen Sie einen morgendlichen Strandspaziergang oder genießen Sie die tropische Landschaft der Bucht.",
+          "Küstenfahrt: Fahren Sie westwärts nach Mirissa und genießen Sie die malerischen Abschnitte der Südküste.",
+          "Coconut Tree Hill: Besuchen Sie den berühmten, von Palmen gesäumten Aussichtspunkt von Mirissa mit Blick auf den Indischen Ozean.",
+          "Strand von Mirissa: Entspannen Sie sich am Sandstrand und genießen Sie gemeinsame Zeit am Meer.",
+          "Romantischer Sonnenuntergang: Beobachten Sie die wechselnden Farben über dem Ozean und genießen Sie anschließend ein Abendessen in einem Strandrestaurant."
         ],
-        "overnight": "Boutique-Hotel in Nuwara Eliya."
+        "overnight": "Hotel in Mirissa."
       },
       {
-        "title": "Malerische Zugfahrt: Nanu Oya → Ella",
+        "title": "Kulturerbe von Galle Fort und romantische Küstenatmosphäre",
         "points": [
-          "Frühstück & Transfer: Frühstück und Transfer zum Bahnhof Nanu Oya.",
-          "Malerische Zugfahrt: Fahrt durch Teeplantagen, nebelverhangene Berge, Tunnel und reizvolle Landschaften.",
-          "Ankunft in Ella: Ihr Transfer erwartet Sie und bringt Sie zum Hotel.",
-          "Ella: Check-in und ein entspannter Abend beim gemütlichen Bummel durch den Ort."
-        ],
-        "overnight": "Boutique-Hotel in Ella."
-      },
-      {
-        "title": "Besichtigungen in Ella → Colombo",
-        "points": [
-          "Nine Arch Bridge: Besuchen Sie die ikonische Eisenbahnbrücke inmitten üppigen Grüns.",
-          "Little Adam's Peak: Genießen Sie eine landschaftlich reizvolle Wanderung und den Panoramablick auf Ellas Berglandschaft.",
-          "Ravana-Wasserfälle: Halt, um den malerischen Wasserfall zu bewundern, je nach Zeit und Straßenverhältnissen.",
-          "Fahrt nach Colombo: Fahrt Richtung Hauptstadt mit einer passenden Erfrischungspause.",
-          "Hotel-Check-in: Ankunft in Colombo und Erholung im Hotel."
-        ],
-        "overnight": "Boutique-Hotel in Colombo."
-      },
-      {
-        "title": "Stadtrundfahrt Colombo → Abreise zum Flughafen",
-        "points": [
-          "Frühstück & Check-out: Frühstück und Vorbereitung auf die Abreise.",
-          "Stadtrundfahrt Colombo: Besuch des Gangaramaya-Tempels, des Independence Square und des Galle Face Green, je nach Abflugzeit.",
-          "Einkaufen: Optionale letzte Einkäufe von Ceylon-Tee, Souvenirs und lokalem Kunsthandwerk.",
-          "Flughafentransfer: Fahrt zum Bandaranaike International Airport (CMB) für Ihren planmäßigen Abflug."
-        ],
-        "overnight": "Entfällt – Abreisetag."
-      }
-    ],
-    "hotelRecommendation": "3- bis 4-Sterne-Hotels in Negombo, Sigiriya, Kandy, Nuwara Eliya, Ella und Colombo.",
-    "transportation": "Privates klimatisiertes Fahrzeug mit Fahrer für die Straßentransfers; reservierte Plätze der 2. Klasse für den Zug von Nanu Oya nach Ella.",
-    "meals": "Täglich Frühstück, dazu Mittagessen an Tag 2. Übrige Mahlzeiten nach eigener Wahl.",
-    "included": [
-      "6 Übernachtungen in den aufgeführten Unterkünften",
-      "Täglich Frühstück + 1 Mittagessen",
-      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
-      "Reservierte Zugtickets von Nanu Oya nach Ella",
-      "Alle in der Reiseroute aufgeführten Eintrittsgelder"
-    ],
-    "excluded": [
-      "Internationale Flüge",
-      "Visagebühren",
-      "Nicht aufgeführte Mahlzeiten",
-      "Persönliche Ausgaben und Trinkgelder",
-      "Reiseversicherung"
-    ],
-    "optionalExperiences": [
-      "Sonnenaufgangswanderung auf Little Adam's Peak",
-      "Wildwasser-Rafting bei Kitulgala (Umweg)",
-      "Ayurvedische Spa-Behandlung in Nuwara Eliya"
-    ],
-    "tourFaqs": [
-      {
-        "q": "Müssen wir den Zug im Voraus buchen?",
-        "a": "Ja – reservierte Plätze auf dieser Strecke sind in der Hauptsaison oft schon Wochen im Voraus ausverkauft. Deshalb buchen wir sie als Teil Ihres Pakets."
-      },
-      {
-        "q": "Ist es in Nuwara Eliya kalt?",
-        "a": "Dort ist es spürbar kühler als im Rest der Insel – abends kann es sich wie 12–16 °C anfühlen. Nehmen Sie daher eine leichte Jacke mit."
-      }
-    ]
-  },
-  "general-8-day-tour": {
-    "title": "Ceylon-Wunderreise",
-    "duration": "8 Tage / 7 Nächte",
-    "highlights": [
-      "Kulturdreieck & Teeland",
-      "Nine Arch Bridge per Zug",
-      "Yala-Safari"
-    ],
-    "blurb": "Unsere siebentägige Hochland-Route mit einem zusätzlichen Safaritag – Kultur, Teeland und Tierwelt auf einer Reise.",
-    "heroTitle": "Ceylon komplett – 8 Tage Kultur, Hochland und Safari",
-    "intro": "Die klassische Route durch das Kulturdreieck und das Hochland, erweitert um den Yala-Nationalpark im Süden für eine richtige Wildtiersafari, bevor es zurück nach Colombo geht.",
-    "overview": "Diese Reiseroute folgt unserer siebentägigen Hochland-Route über Sigiriya, Kandy und Ella und führt dann weiter nach Süden zum Yala für eine Jeep-Safari, bevor es zur Abreise zurück an die Küste geht.",
-    "bestFor": "Reisende, die Kultur, Hochland und Tierwelt erleben möchten, ohne anschließenden Strandaufenthalt",
-    "groupSize": "Privates Fahrzeug – Gruppengröße individuell anpassbar",
-    "physicalLevel": "Leicht bis mittel",
-    "destinationsCovered": "Negombo → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Colombo",
-    "itinerary": [
-      {
-        "title": "Ankunft, Pinnawala & Sigiriya",
-        "points": [
-          "Empfang am Flughafen: Ankunft am Bandaranaike International Airport (CMB) und traditioneller Empfang mit Blumengirlande.",
-          "Begrüßung durch den Chauffeur: Treffen Sie Ihren privaten Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
-          "Elefantenwaisenhaus Pinnawala: Beobachten Sie die Elefanten und erfahren Sie mehr über ihre Pflege und ihren Schutz.",
-          "Landschaftliche Fahrt: Weiterfahrt nach Sigiriya durch Sri Lankas schöne Landschaft.",
-          "Hotel-Check-in: Ankunft in Sigiriya und Erholung von der Reise.",
-          "Abend zur freien Verfügung: Abendessen und ein ruhiger Abend im Hotel."
-        ],
-        "overnight": "Boutique-Hotel in Sigiriya."
-      },
-      {
-        "title": "Felsenfestung Sigiriya",
-        "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Felsenfestung Sigiriya: Erkunden Sie diese UNESCO-Welterbestätte mit ihren antiken Wassergärten, Fresken und historischen Ruinen.",
-          "Löwentatzen-Eingang: Entdecken Sie das ikonische Tor zur antiken Felsenzitadelle.",
-          "Gipfelblick: Steigen Sie zum Gipfel hinauf und genießen Sie den Panoramablick über die umliegende Landschaft.",
-          "Dorferlebnis: Optionaler Besuch eines traditionellen Dorfes.",
-          "Abend zur freien Verfügung: Entspannen Sie im Hotel oder erkunden Sie die Umgebung."
-        ],
-        "overnight": "Boutique-Hotel in Sigiriya."
-      },
-      {
-        "title": "Höhlentempel von Dambulla & Kandy",
-        "points": [
-          "Frühstück & Check-out: Abreise aus Sigiriya nach dem Frühstück.",
-          "Höhlentempel von Dambulla: Erkunden Sie diese UNESCO-Welterbestätte, berühmt für ihre antiken buddhistischen Wandmalereien und Statuen.",
-          "Gewürzgarten in Matale: Entdecken Sie srilankische Gewürze und traditionelle ayurvedische Pflanzen.",
-          "Landschaftliche Fahrt nach Kandy: Fahrt durch die schönen Landschaften Zentral-Sri-Lankas.",
-          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
-          "Kandy-See: Genießen Sie einen entspannenden Spaziergang am See."
-        ],
-        "overnight": "Boutique-Hotel in Kandy."
-      },
-      {
-        "title": "Von Kandy nach Nuwara Eliya",
-        "points": [
-          "Frühstück & Abreise: Frühstück, danach Fahrt ins landschaftlich reizvolle Hochland.",
-          "Besuch einer Teefabrik: Entdecken Sie die Teeherstellung und genießen Sie eine Teeverkostung.",
-          "Ramboda-Wasserfälle: Bewundern Sie den schönen Wasserfall und die umliegende Bergkulisse.",
-          "Landschaftliche Fahrt: Weiterfahrt durch üppige Teeplantagen Richtung Nuwara Eliya.",
-          "Ankunft in Nuwara Eliya: Erkunden Sie die charmante Hochlandstadt, die auch „Little England“ genannt wird.",
-          "Gregory-See: Genießen Sie einen entspannten Spaziergang am See oder optionale Aktivitäten, sofern die Zeit es erlaubt."
-        ],
-        "overnight": "Boutique-Hotel in Nuwara Eliya."
-      },
-      {
-        "title": "Malerische Zugfahrt von Nanu Oya nach Ella",
-        "points": [
-          "Frühstück & Transfer: Frühstück und Transfer zum Bahnhof Nanu Oya.",
-          "Malerische Zugfahrt: Fahrt durch Teeplantagen, nebelverhangene Berge, Tunnel und reizvolle Landschaften.",
-          "Ankunft in Ella: Ihr Transfer erwartet Sie und bringt Sie zum Hotel.",
-          "Hotel-Check-in: Beziehen Sie Ihre Unterkunft und entspannen Sie sich.",
-          "Ella: Erkunden Sie den Ort in Ruhe und entdecken Sie seine Cafés und kleinen Läden.",
-          "Entspannter Abend: Abendessen und die ruhige Atmosphäre des Hochlands."
-        ],
-        "overnight": "Boutique-Hotel in Ella."
-      },
-      {
-        "title": "Besichtigungen in Ella & Transfer nach Yala",
-        "points": [
-          "Nine Arch Bridge: Besuchen Sie die ikonische Eisenbahnbrücke inmitten üppigen Grüns.",
-          "Little Adam's Peak: Genießen Sie eine landschaftlich reizvolle Wanderung und den Panoramablick auf Ellas Berglandschaft.",
-          "Ravana-Wasserfälle: Halt, um den malerischen Wasserfall zu bewundern, sofern die Zeit es erlaubt.",
-          "Fahrt nach Yala: Fahrt durch Sri Lankas südliche Landschaften Richtung Wildtierregion.",
-          "Hotel-Check-in: Ankunft in Ihrem Hotel in der Region Yala oder Tissamaharama.",
-          "Einstimmung auf die Safari: Entspannen Sie sich und bereiten Sie sich auf das bevorstehende Tierabenteuer vor."
-        ],
-        "overnight": "Boutique-Hotel in der Nähe von Yala."
-      },
-      {
-        "title": "Morgensafari im Yala & Transfer nach Galle",
-        "points": [
-          "Safari am frühen Morgen: Erkunden Sie den Yala-Nationalpark im Allrad-Jeep mit erfahrenem Fahrer und Fährtenleser.",
-          "Tierbeobachtung: Halten Sie Ausschau nach srilankischen Elefanten, Krokodilen, Hirschen, farbenprächtigen Vögeln und mit etwas Glück Leoparden.",
-          "Frühstück & Check-out: Rückkehr zum Hotel zum Frühstück, je nach Safari-Paket.",
-          "Küstenfahrt: Fahrt Richtung Galle entlang Sri Lankas schöner Südküste.",
-          "Ankunft in Galle: Check-in im Hotel und Erholung von der Fahrt.",
-          "Abend zur freien Verfügung: Genießen Sie einen ruhigen Abend in Galle."
+          "Entspanntes Frühstück: Genießen Sie das Frühstück in Ihrem Hotel, bevor Sie Mirissa verlassen.",
+          "Küstenfahrt: Fahren Sie entlang der malerischen Südküste in Richtung Galle.",
+          "Galle Fort: Erkunden Sie die UNESCO-Welterbestätte der Altstadt von Galle mit ihrer Festungsanlage, die für ihre historische Architektur und kulturellen Einflüsse bekannt ist.",
+          "Historische Gassen: Schlendern Sie durch charmante Straßen mit historischen Gebäuden, Boutiquen, Kunstgalerien und einladenden Cafés.",
+          "Leuchtturm und Festungsmauern: Bewundern Sie den berühmten Leuchtturm von Galle und genießen Sie den Meerblick von den historischen Befestigungsanlagen.",
+          "Romantischer Abend: Genießen Sie ein Abendessen im oder rund um das Galle Fort, bevor Sie zu Ihrer Unterkunft zurückkehren."
         ],
         "overnight": "Boutique-Hotel in Galle."
       },
       {
-        "title": "Galle Fort & Abreise zum Flughafen",
+        "title": "Luxus am Strand von Bentota und romantische Erlebnisse",
         "points": [
-          "Frühstück & Check-out: Frühstück im Hotel vor der Abreise.",
-          "Galle Fort: Erkunden Sie diese UNESCO-Welterbestätte, bekannt für ihre historischen Gassen und die koloniale Architektur.",
-          "Leuchtturm von Galle: Besuchen Sie den berühmten Leuchtturm und genießen Sie den Blick auf den Indischen Ozean.",
-          "Fotos & Einkaufen: Zeit für Fotos und den Kauf von Souvenirs.",
-          "Flughafentransfer: Fahrt zum Bandaranaike International Airport (CMB) entsprechend Ihrem Flugplan.",
-          "Abreise: Beenden Sie Ihre Sri-Lanka-Reise mit wunderbaren Erinnerungen an Kultur, Landschaft und Tierwelt."
+          "Gemütliches Frühstück: Genießen Sie Ihr Frühstück, bevor Sie Galle in Richtung Bentota verlassen.",
+          "Küstenreise: Fahren Sie mit Ihrem privaten Fahrzeug nordwärts und genießen Sie die malerischen Abschnitte der südwestlichen Küste Sri Lankas.",
+          "Ankunft in Bentota: Checken Sie in Ihrem Strandhotel oder Resort ein und machen Sie es sich gemütlich.",
+          "Strand von Bentota: Genießen Sie die Sandküste, tropische Ausblicke und entspannte gemeinsame Stunden.",
+          "Optionale Flusssafari: Erkunden Sie die von Mangroven gesäumten Wasserwege des Bentota-Flusses und beobachten Sie einheimische Vögel, je nach Verfügbarkeit.",
+          "Abendessen bei Sonnenuntergang: Feiern Sie Ihren letzten Abend mit einem romantischen Abendessen. Ein privates Dinner kann auf Anfrage arrangiert werden."
         ],
-        "overnight": "Entfällt – Abreisetag."
+        "overnight": "Strandresort in Bentota."
+      },
+      {
+        "title": "Entspannung in Bentota und Abreise",
+        "points": [
+          "Letztes Frühstück: Genießen Sie Ihr letztes gemeinsames Frühstück im Hotel.",
+          "Momente am Strand: Unternehmen Sie je nach Flugplan einen letzten Spaziergang am Strand von Bentota oder entspannen Sie sich im Resort.",
+          "Check-out im Hotel: Erledigen Sie den Check-out und bereiten Sie sich auf Ihren privaten Flughafentransfer vor.",
+          "Optionaler Besuch in Colombo: Wenn es Ihr Flugplan erlaubt, unternehmen Sie einen kurzen Besuch ausgewählter Sehenswürdigkeiten in Colombo.",
+          "Optionales Einkaufen: Stöbern Sie nach Souvenirs aus Sri Lanka, sofern es die Zeit erlaubt.",
+          "Flughafentransfer: Fahren Sie rechtzeitig zum Bandaranaike International Airport (CMB), damit Sie Ihren Abflug bequem erreichen."
+        ],
+        "overnight": "Nicht zutreffend – Abreisetag."
       }
     ],
-    "hotelRecommendation": "3- bis 4-Sterne-Hotels auf der gesamten Reise, mit einer Unterkunft im Safari-Camp-Stil in der Nähe von Yala.",
-    "transportation": "Privates klimatisiertes Fahrzeug mit Fahrer; reservierte Zugplätze von Nanu Oya nach Ella; Allrad-Safarijeep für die Pirschfahrten im Yala.",
-    "meals": "Täglich Frühstück, dazu Mittagessen an Tag 2. Übrige Mahlzeiten nach eigener Wahl.",
+    "hotelRecommendation": "Romantische Hotels in Kandy und Hiriketiya, eine Unterkunft direkt am Strand in Mirissa, ein Boutique-Hotel mit historischem Flair in Galle und ein luxuriöses Strandresort in Bentota.",
+    "transportation": "Privates klimatisiertes Fahrzeug mit persönlichem Chauffeur-Reiseleiter während der gesamten Reise.",
+    "meals": "Tägliches Frühstück. Weitere Mahlzeiten nach eigener Wahl, sofern nicht im Voraus vereinbart.",
     "included": [
-      "7 Übernachtungen in den aufgeführten Unterkünften",
-      "Täglich Frühstück + 1 Mittagessen",
-      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
-      "Reservierte Zugtickets von Nanu Oya nach Ella"
+      "6 Übernachtungen",
+      "Tägliches Frühstück",
+      "Privates klimatisiertes Fahrzeug mit Chauffeur-Reiseleiter",
+      "Begrüßung am Flughafen und Unterstützung mit dem Gepäck",
+      "Die im Reiseverlauf beschriebenen Besichtigungen, vorbehaltlich Zugänglichkeit und Öffnungszeiten"
     ],
     "excluded": [
       "Internationale Flüge",
       "Visagebühren",
-      "Nicht aufgeführte Mahlzeiten",
+      "Mittag- und Abendessen, sofern nicht ausdrücklich angegeben",
+      "Eintrittsgebühren, sofern nicht im Angebot bestätigt",
+      "Optionale Aktivitäten und Ausflüge",
+      "Flusssafari und Wassersportaktivitäten",
       "Persönliche Ausgaben und Trinkgelder",
-      "Reiseversicherung"
+      "Reiseversicherung",
+      "Besondere romantische Arrangements, sofern nicht ausdrücklich bestätigt"
     ],
     "optionalExperiences": [
-      "Zusätzliche Safari-Runde im Yala",
-      "Geführter Spaziergang auf den Festungsmauern von Galle Fort bei Sonnenuntergang",
-      "Walbeobachtung als Zusatzprogramm ab Mirissa"
+      "Privates romantisches Abendessen",
+      "Spa-Behandlung für Paare",
+      "Bootssafari auf dem Bentota-Fluss",
+      "Wassersportaktivitäten an geeigneten Küstenorten",
+      "Saisonaler Walbeobachtungsausflug ab Mirissa",
+      "Blumen, Jubiläumstorte oder Zimmerdekoration",
+      "Traditionelle kulturelle Erlebnisse in Kandy"
     ],
     "tourFaqs": [
       {
-        "q": "Was können wir im Yala erwarten?",
-        "a": "Der Yala hat eine der höchsten Leopardendichten der Welt, dazu Elefanten, Krokodile und eine reiche Vogelwelt. Die Sichtungen variieren von Besuch zu Besuch, doch Leoparden werden regelmäßig gesehen."
+        "q": "Ist diese siebentägige Reise für eine Hochzeitsreise geeignet?",
+        "a": "Ja. Diese private Reise verbindet das kulturelle Erbe von Kandy mit tropischen Stränden, dem historischen Galle und einer entspannten Unterkunft direkt am Strand in Bentota."
       },
       {
-        "q": "Genügen eine Nachmittags- und eine Morgensafari?",
-        "a": "Zwei Safaris erhöhen Ihre Chancen auf gute Sichtungen deutlich, da die Tiere in der Morgen- und Abenddämmerung am aktivsten sind."
-      }
-    ]
-  },
-  "general-10-day-tour": {
-    "title": "Das große Ceylon-Erlebnis",
-    "duration": "10 Tage / 9 Nächte",
-    "highlights": [
-      "Antike Stadt Polonnaruwa",
-      "Hochland per Zug",
-      "Yala-Safari & Strände der Südküste"
-    ],
-    "blurb": "Unsere achttägige Route von der Kultur zur Safari, erweitert um eine antike Stadt und ausreichend Zeit zum Entspannen an der Südküste.",
-    "heroTitle": "Ceylon groß entdecken – 10 Tage quer über die ganze Insel",
-    "intro": "Eine umfassende Route durch antike Städte, Teeland, Tierwelt und die Südküste – mit genug Zeit, um an jedem Ort richtig anzukommen, statt nur durchzufahren.",
-    "overview": "Aufbauend auf unserer achttägigen Route ergänzt diese Reiseroute die mittelalterlichen Ruinen von Polonnaruwa und verlängert Ihre Zeit an der Südküste, einschließlich der Chance auf Walbeobachtung ab Mirissa.",
-    "bestFor": "Reisende, die einen vollständigen, gut getakteten Überblick über die Insel wünschen",
-    "groupSize": "Privates Fahrzeug – Gruppengröße individuell anpassbar",
-    "physicalLevel": "Leicht bis mittel",
-    "destinationsCovered": "Negombo → Polonnaruwa → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Mirissa → Galle → Colombo",
-    "itinerary": [
-      {
-        "title": "Ankunft, Pinnawala & Sigiriya",
-        "points": [
-          "Empfang am Flughafen: Ankunft am Bandaranaike International Airport (CMB) und traditioneller Empfang mit Blumengirlande.",
-          "Begrüßung durch den Chauffeur: Treffen Sie Ihren privaten Chauffeur-Guide, der Ihnen beim Gepäck hilft.",
-          "Landschaftliche Fahrt: Beginn der Fahrt Richtung Sigiriya durch Sri Lankas Landschaft.",
-          "Elefantenwaisenhaus Pinnawala: Beobachten Sie die Elefanten und erfahren Sie mehr über ihre Pflege und ihren Schutz.",
-          "Erfrischungspause: Genießen Sie eine erfrischende Königskokosnuss und eine kurze Pause unterwegs.",
-          "Hotel-Check-in: Ankunft in Sigiriya, Erholung und ein Abend zur freien Verfügung."
-        ],
-        "overnight": "Boutique-Hotel in Sigiriya."
+        "q": "Welche Reiseziele sind in dieser Tour enthalten?",
+        "a": "Die Reiseroute umfasst Kandy, Hiriketiya, Mirissa, Galle und Bentota sowie Flughafentransfers zu Beginn und am Ende der Reise."
       },
       {
-        "title": "Felsenfestung Sigiriya",
-        "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Felsenfestung Sigiriya: Erkunden Sie diese UNESCO-Welterbestätte, berühmt für ihre antike Königszitadelle.",
-          "Wassergärten: Entdecken Sie die wunderschön angelegten Gärten und die antiken Wasserbauwerke.",
-          "Fresken von Sigiriya: Bewundern Sie die bemerkenswerten antiken Malereien und die historische Spiegelwand.",
-          "Löwentatzen-Eingang: Erkunden Sie das ikonische Tor, bevor Sie Richtung Gipfel steigen.",
-          "Gipfelblick: Genießen Sie den Panoramablick über die umliegenden Wälder und die Landschaft, je nach Wetter und Fitness."
-        ],
-        "overnight": "Boutique-Hotel in Sigiriya."
+        "q": "Können wir besondere romantische Erlebnisse arrangieren?",
+        "a": "Ja. Private Abendessen, Spa-Behandlungen für Paare, Blumen und andere besondere Arrangements können im Voraus angefragt werden, vorbehaltlich der Verfügbarkeit."
       },
       {
-        "title": "Höhlentempel von Dambulla & Kandy",
-        "points": [
-          "Frühstück & Check-out: Abreise aus Sigiriya nach dem Frühstück.",
-          "Höhlentempel von Dambulla: Erkunden Sie diese UNESCO-Welterbestätte, bekannt für ihre buddhistischen Wandmalereien und Statuen.",
-          "Höhlenheiligtümer: Entdecken Sie die historischen Höhleninnenräume und ihre religiöse Bedeutung.",
-          "Gewürzgarten in Matale: Erfahren Sie mehr über srilankische Gewürze wie Zimt, Kardamom, Nelken und Pfeffer.",
-          "Tempel der Heiligen Zahnreliquie: Besuchen Sie diesen heiligen buddhistischen Tempel in der UNESCO-gelisteten heiligen Stadt Kandy.",
-          "Kandy-See: Genießen Sie vor dem Abendessen einen entspannenden Spaziergang am See."
-        ],
-        "overnight": "Boutique-Hotel in Kandy."
-      },
-      {
-        "title": "Von Kandy nach Nuwara Eliya",
-        "points": [
-          "Frühstück & Abreise: Frühstück, danach Fahrt ins landschaftlich reizvolle Hochland Sri Lankas.",
-          "Landschaftliche Fahrt durchs Hochland: Bewundern Sie unterwegs üppige Berge, Täler und Teeplantagen.",
-          "Besuch einer Teefabrik: Entdecken Sie die traditionelle Teeherstellung.",
-          "Teeverkostung: Probieren Sie frisch aufgebrühten Ceylon-Tee und lernen Sie seine besonderen Aromen kennen.",
-          "Ramboda-Wasserfälle: Halt, um den Wasserfall und die umliegende Bergkulisse zu bewundern.",
-          "Nuwara Eliya: Ankunft in der charmanten Hochlandstadt, die auch „Little England“ genannt wird, und Besuch des Gregory-Sees, sofern die Zeit es erlaubt."
-        ],
-        "overnight": "Boutique-Hotel in Nuwara Eliya."
-      },
-      {
-        "title": "Malerische Zugfahrt von Nanu Oya nach Ella",
-        "points": [
-          "Frühstück & Transfer: Frühstück und Transfer zum Bahnhof Nanu Oya.",
-          "Zugfahrt: Einsteigen in den malerischen Zug Richtung Ella durch Sri Lankas zentrales Hochland.",
-          "Teeplantagen: Bewundern Sie unterwegs sanfte Teegüter und üppig grüne Landschaften entlang der Bahnstrecke.",
-          "Bergkulisse: Genießen Sie Ausblicke auf nebelverhangene Berge, Tunnel und reizvolle Landschaften.",
-          "Ankunft in Ella: Ihr Transfer erwartet Sie und bringt Sie zum Hotel.",
-          "Ella: Check-in, Entspannung und gemütlicher Bummel durch den Ort."
-        ],
-        "overnight": "Boutique-Hotel in Ella."
-      },
-      {
-        "title": "Besichtigungen in Ella & Transfer nach Haputale",
-        "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Nine Arch Bridge: Besuchen Sie die ikonische Eisenbahnbrücke inmitten üppigen Grüns.",
-          "Little Adam's Peak: Genießen Sie eine landschaftlich reizvolle Wanderung und den Panoramablick auf Ellas Berglandschaft.",
-          "Ravana-Wasserfälle: Bewundern Sie den schönen Wasserfall und seine natürliche Umgebung.",
-          "Landschaftliche Fahrt nach Haputale: Weiterfahrt durch das malerische Hochland und seine Teeanbaugebiete.",
-          "Hotel-Check-in: Ankunft in Haputale, Erholung und Vorbereitung auf einen frühen Besuch von Lipton's Seat."
-        ],
-        "overnight": "Boutique-Hotel in Haputale."
-      },
-      {
-        "title": "Haputale & Erkundung des Hochlands",
-        "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Landschaft um Haputale: Entdecken Sie die friedliche Atmosphäre dieser reizvollen Hochlandstadt.",
-          "Blicke auf die Teegüter: Bewundern Sie die sanften Teeplantagen und die nebelverhangenen Berghänge.",
-          "Lokales Erlebnis: Erkunden Sie die umliegenden Dörfer und erfahren Sie mehr über das Teeanbau-Erbe der Region.",
-          "Freie Zeit: Entspannen Sie im Hotel oder genießen Sie die schöne Natur ringsum.",
-          "Früh zu Bett: Ruhen Sie sich aus und bereiten Sie sich auf den frühmorgendlichen Ausflug nach Lipton's Seat vor."
-        ],
-        "overnight": "Boutique-Hotel in Haputale."
-      },
-      {
-        "title": "Lipton's Seat, Diyaluma-Wasserfälle & Transfer nach Yala",
-        "points": [
-          "Frühe Abfahrt: Fahrt nach Lipton's Seat für spektakuläre Ausblicke am frühen Morgen.",
-          "Lipton's Seat: Bewundern Sie den Panoramablick über Teeplantagen, Täler und das ferne Tiefland, je nach Wetter.",
-          "Landschaft der Teegüter: Entdecken Sie die Landschaften rund um das historische Teeanbaugebiet.",
-          "Diyaluma-Wasserfälle: Besuchen Sie einen der höchsten Wasserfälle Sri Lankas und bewundern Sie seine dramatische Naturkulisse.",
-          "Fahrt nach Yala: Weiterfahrt Richtung Yala-Nationalpark durch die wechselnden Landschaften Sri Lankas.",
-          "Hotel-Check-in: Ankunft in der Region Yala oder Tissamaharama, Erholung und Vorbereitung auf die Wildtiersafari."
-        ],
-        "overnight": "Boutique-Hotel in Yala / Tissamaharama."
-      },
-      {
-        "title": "Morgensafari im Yala & Transfer an die Südküste",
-        "points": [
-          "Safari am frühen Morgen: Erkunden Sie den Yala-Nationalpark im Allrad-Jeep mit erfahrenem Fahrer und Fährtenleser.",
-          "Tierbeobachtung: Halten Sie Ausschau nach srilankischen Elefanten, Krokodilen, Hirschen und farbenprächtigen Vögeln.",
-          "Leopardensuche: Achten Sie auf den scheuen srilankischen Leoparden, der sich mit etwas Glück zeigt.",
-          "Frühstück & Check-out: Rückkehr zum Hotel zum Frühstück, je nach Safari-Paket.",
-          "Küstenfahrt: Fahrt Richtung Mirissa oder Weligama entlang Sri Lankas schöner Südküste.",
-          "Entspannung an der Küste: Check-in im Hotel und ein entspannter Abend, je nach Ankunftszeit."
-        ],
-        "overnight": "Boutique-Hotel in Mirissa / Weligama."
-      },
-      {
-        "title": "Erkundung der Südküste & Galle",
-        "points": [
-          "Frühstück: Genießen Sie das Frühstück im Hotel.",
-          "Mirissa: Entdecken Sie den schönen Strand und die entspannte Küstenatmosphäre.",
-          "Weligama: Erkunden Sie die sandige Bucht, bekannt für ihre Surfkultur.",
-          "Zeit am Strand: Zeit für Fotos, Entspannung oder optionale Surfstunden, sofern die Bedingungen es erlauben.",
-          "Unawatuna: Weiterfahrt entlang der Küste zu diesem beliebten Strandziel in der Nähe von Galle.",
-          "Galle: Ankunft in Galle, Check-in im Hotel und ein entspannter Abend."
-        ],
-        "overnight": "Boutique-Hotel in Galle."
-      }
-    ],
-    "hotelRecommendation": "3- bis 4-Sterne-Hotels auf der gesamten Reise, mit Unterkünften direkt am Strand in Mirissa/Galle.",
-    "transportation": "Privates klimatisiertes Fahrzeug mit Fahrer; reservierte Zugplätze von Nanu Oya nach Ella; Allrad-Safarijeep für den Yala.",
-    "meals": "Täglich Frühstück, dazu Mittagessen an Tag 3. Übrige Mahlzeiten nach eigener Wahl.",
-    "included": [
-      "9 Übernachtungen in den aufgeführten Unterkünften",
-      "Täglich Frühstück + 1 Mittagessen",
-      "Privates Fahrzeug mit Fahrer während der gesamten Reise",
-      "Reservierte Zugtickets von Nanu Oya nach Ella",
-      "2 Jeep-Safaris im Yala-Nationalpark",
-      "Bootsausflug zur Walbeobachtung (saisonabhängig)"
-    ],
-    "excluded": [
-      "Internationale Flüge",
-      "Visagebühren",
-      "Nicht aufgeführte Mahlzeiten",
-      "Persönliche Ausgaben und Trinkgelder",
-      "Reiseversicherung"
-    ],
-    "optionalExperiences": [
-      "Besuch einer Schildkrötenaufzuchtstation bei Bentota (Umweg)",
-      "Fotostopp bei den Stelzenfischern in Koggala",
-      "Private Katamaran-Fahrt bei Sonnenuntergang in Mirissa"
-    ],
-    "tourFaqs": [
-      {
-        "q": "Wann ist die Saison für Walbeobachtung?",
-        "a": "Ungefähr von November bis April vor der Südküste – außerhalb dieses Zeitraums können wir Sichtungen nicht garantieren. Teilen Sie uns daher bitte Ihre Reisedaten mit."
-      },
-      {
-        "q": "Kann man Polonnaruwa mit dem Fahrrad besuchen?",
-        "a": "Ja – das Gelände ist flach und weitläufig, daher ist eine Radtour zwischen den Ruinen eine beliebte und angenehme Art, die Stätte zu erkunden."
+        "q": "Ist Walbeobachtung das ganze Jahr über möglich?",
+        "a": "Nein. Walbeobachtungsausflüge sind saisonabhängig und richten sich nach den Abfahrtszeiten, dem Wetter und den Meeresbedingungen. Die Aktivität ist optional."
       }
     ]
   }

@@ -1,0 +1,173 @@
+{
+  "title": "Petits explorateurs : des hautes terres à la côte",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+    "Expérience auprès des éléphants de Pinnawala",
+    "Temple de la Dent sacrée",
+    "Jardins botaniques royaux de Peradeniya",
+    "Visite d'une usine de thé à Nuwara Eliya",
+    "Balade familiale en pédalo sur le lac Gregory",
+    "Voyage panoramique en train de Nanu Oya à Ella",
+    "Pont aux Neuf Arches",
+    "Chutes de Ravana",
+    "Safari fluvial sur la Bentota",
+    "Séjour détente en famille à la plage"
+  ],
+  "blurb": "Une aventure sri-lankaise adaptée aux familles, mêlant rencontres avec les éléphants, découvertes culturelles, paysages brumeux du pays du thé, mémorable trajet en train et journées de détente à la plage.",
+  "heroTitle": "Petits explorateurs : des hautes terres à la côte — 7 jours d'aventures en famille",
+  "intro": "Découvrez le Sri Lanka en famille lors d'un voyage détendu rempli de rencontres avec la faune, de sites culturels, de trajets ferroviaires panoramiques, de paysages frais des hautes terres et de plaisirs en bord de mer.",
+  "overview": "Commencez par une expérience adaptée aux familles auprès des éléphants à Pinnawala avant d'explorer les attractions culturelles et les jardins botaniques de Kandy. Poursuivez dans les hautes terres fraîches de Nuwara Eliya pour une visite d'usine de thé et du temps au lac Gregory. Profitez d'un voyage panoramique en train de Nanu Oya à Ella, découvrez le célèbre pont aux Neuf Arches, puis rendez-vous à Bentota pour la faune fluviale, la détente à la plage et du temps en famille au bord de la mer.",
+  "bestFor": "Familles avec enfants recherchant un mélange de faune, de culture, de voyage ferroviaire panoramique, de nature et de détente à la plage.",
+  "groupSize": "Véhicule privé — adapté à la taille et aux besoins de votre famille.",
+  "physicalLevel": "Facile à modéré — visites surtout tranquilles, avec marche et activités familiales optionnelles.",
+  "destinationsCovered": "Aéroport → Pinnawala → Kandy → Nuwara Eliya → Ella → Bentota → Aéroport",
+  "itinerary": [
+    {
+      "title": "Arrivée, Pinnawala et Kandy",
+      "points": [
+        "Accueil à l'aéroport : retrouvez votre chauffeur-guide à l'aéroport international Bandaranaike (CMB), qui vous aide avec vos bagages.",
+        "Route vers Pinnawala : traversez la campagne sri-lankaise en direction de la région de Pinnawala.",
+        "Expérience des éléphants de Pinnawala : profitez d'une expérience familiale auprès des éléphants et découvrez les éléphants et leurs soins.",
+        "Route vers Kandy : poursuivez vers Kandy après votre visite à Pinnawala.",
+        "Installation à l'hôtel : installez-vous dans votre hôtel familial et prenez le temps de vous reposer après le voyage.",
+        "Lac de Kandy : si le temps le permet, profitez d'une douce promenade en soirée autour du pittoresque lac de Kandy."
+      ],
+      "overnight": "Hôtel familial à Kandy."
+    },
+    {
+      "title": "Visites de Kandy",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à votre hôtel avant de commencer les visites du jour.",
+        "Temple de la Dent sacrée : visitez le Sri Dalada Maligawa, l'un des plus importants sites culturels et religieux du Sri Lanka.",
+        "Découverte culturelle : découvrez l'histoire et la signification du temple pendant votre visite.",
+        "Jardins botaniques royaux : explorez les jardins botaniques royaux de Peradeniya, réputés pour leurs plantes tropicales, leurs vastes pelouses et leurs allées ombragées.",
+        "Temps en famille dans les jardins : profitez d'une promenade détendue et de photos de famille dans le beau cadre des jardins.",
+        "Danse culturelle kandyenne optionnelle : assistez à un spectacle de danse kandyenne traditionnelle, selon le programme des spectacles."
+      ],
+      "overnight": "Hôtel familial à Kandy."
+    },
+    {
+      "title": "De Kandy à Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de quitter Kandy pour les hautes terres.",
+        "Route panoramique des hautes terres : traversez des routes sinueuses, des collines verdoyantes et des paysages de montagne changeants.",
+        "Visite d'une usine de thé : arrêtez-vous dans une usine de thé pour une courte introduction adaptée aux familles à la fabrication du thé sri-lankais, selon disponibilité.",
+        "Découverte du pays du thé : découvrez comment les feuilles de thé sont transformées et profitez des vues sur les plantations environnantes.",
+        "Lac Gregory : visitez le lac Gregory et profitez du paysage ouvert autour de l'eau.",
+        "Balade familiale en pédalo : profitez d'une balade optionnelle en pédalo, selon disponibilité et règles de sécurité locales, avant de vous installer à l'hôtel."
+      ],
+      "overnight": "Hôtel familial à Nuwara Eliya."
+    },
+    {
+      "title": "Train panoramique vers Ella",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant de vous rendre à la gare de Nanu Oya.",
+        "Arrivée à la gare : arrivez à Nanu Oya avec suffisamment de temps pour monter dans votre train prévu.",
+        "Voyage panoramique en train : montez dans le train de Nanu Oya à Ella et profitez des vues sur les plantations de thé, les paysages de montagne et les vallées luxuriantes.",
+        "Arrivée à Ella : retrouvez votre chauffeur-guide au point convenu et poursuivez avec les activités du jour.",
+        "Pont aux Neuf Arches : visitez le célèbre pont aux Neuf Arches et profitez de la verdure environnante et des points de vue panoramiques.",
+        "Ville d'Ella : passez une soirée détendue à explorer la ville d'Ella avant de regagner votre hôtel familial."
+      ],
+      "overnight": "Hôtel familial à Ella."
+    },
+    {
+      "title": "D'Ella à Bentota",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à votre hôtel avant de quitter Ella.",
+        "Visite optionnelle des chutes de Ravana : arrêtez-vous près des chutes de Ravana pour admirer la cascade et le paysage environnant.",
+        "Arrêt adapté aux familles : faites une courte pause pour les photos et les rafraîchissements en chemin.",
+        "Route panoramique vers la côte : poursuivez vers Bentota à travers les paysages changeants du Sri Lanka.",
+        "Arrivée au resort balnéaire : installez-vous dans votre resort adapté aux familles et prenez vos quartiers.",
+        "Détente à la plage : profitez de temps en famille à la plage ou à la piscine avant le dîner."
+      ],
+      "overnight": "Resort balnéaire adapté aux familles à Bentota."
+    },
+    {
+      "title": "Journée en famille à Bentota",
+      "points": [
+        "Petit-déjeuner tranquille : profitez du petit-déjeuner au resort et commencez la journée au rythme de votre famille.",
+        "Safari fluvial sur la Bentota : faites une douce excursion en bateau dans les voies d'eau bordées de mangroves, selon la météo et la disponibilité de l'opérateur.",
+        "Découverte de la faune : guettez les oiseaux et autres animaux tout en profitant du cadre naturel de la rivière.",
+        "Centre de protection des tortues : visitez un centre de protection des tortues pour en apprendre davantage sur les tortues marines et leur protection, selon les horaires d'ouverture et la disponibilité.",
+        "Plage et piscine : sinon, profitez de temps libre sur la plage de Bentota ou détendez-vous à la piscine du resort.",
+        "Soirée en famille : profitez d'une soirée détendue et d'un dîner en famille au bord de la mer."
+      ],
+      "overnight": "Resort balnéaire adapté aux familles à Bentota."
+    },
+    {
+      "title": "Matinée à la plage et départ",
+      "points": [
+        "Dernier petit-déjeuner : profitez d'un petit-déjeuner ensemble à votre resort balnéaire.",
+        "Plage ou piscine : passez une dernière matinée détendue à la plage ou à la piscine, selon votre horaire de départ.",
+        "Départ de l'hôtel : faites vos bagages et effectuez le check-out à une heure convenable.",
+        "Transfert privé à l'aéroport : entamez le trajet de Bentota vers l'aéroport international Bandaranaike (CMB).",
+        "Pause confort : faites une courte pause rafraîchissement en chemin si nécessaire.",
+        "Départ de l'aéroport : arrivez avec suffisamment d'avance pour l'enregistrement et votre vol de départ."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Hébergement adapté aux familles à Kandy et Nuwara Eliya, puis hôtel familial confortable à Ella et resort balnéaire à Bentota avec équipements adaptés aux familles et accès à la piscine.",
+  "transportation": "Véhicule privé climatisé avec chauffeur-guide dédié. Le trajet en train de Nanu Oya à Ella est organisé séparément, le chauffeur-guide retrouvant la famille au point d'arrivée convenu à Ella. Les billets de train sont soumis à disponibilité.",
+  "meals": "Petit-déjeuner quotidien. Déjeuners et dîners au choix, sauf organisation préalable.",
+  "included": [
+    "6 nuits d'hébergement",
+    "Petit-déjeuner quotidien",
+    "Véhicule privé climatisé et chauffeur-guide, sauf pendant le trajet en train",
+    "Accueil à l'aéroport et aide avec les bagages",
+    "Transferts entre les destinations décrites dans l'itinéraire",
+    "Arrêts touristiques indiqués dans l'itinéraire, selon l'accès et les horaires d'ouverture"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Déjeuners et dîners sauf indication contraire",
+    "Droits d'entrée sauf confirmation dans le devis",
+    "Frais de l'expérience auprès des éléphants de Pinnawala sauf indication contraire",
+    "Entrée ou frais de don au temple de la Dent sacrée, le cas échéant",
+    "Droits d'entrée des jardins botaniques royaux",
+    "Entrée ou visite guidée de l'usine de thé",
+    "Frais de pédalo sur le lac Gregory",
+    "Billets de train Nanu Oya–Ella sauf indication contraire",
+    "Frais du safari fluvial sur la Bentota",
+    "Entrée ou dons au centre de protection des tortues",
+    "Activités et expériences optionnelles",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Spectacle de danse culturelle kandyenne",
+    "Balade en pédalo sur le lac Gregory",
+    "Places réservées pour le voyage panoramique en train de Nanu Oya à Ella",
+    "Safari fluvial sur la Bentota",
+    "Visite d'un centre de protection des tortues",
+    "Activités supplémentaires adaptées aux familles à Ella ou Bentota"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Ce circuit convient-il aux familles avec enfants ?",
+      "a": "Oui. L'itinéraire associe attractions culturelles, jardins, expériences avec la faune, voyages panoramiques et détente à la plage. Les activités et pauses peuvent être adaptées à l'âge des enfants et au rythme de votre famille."
+    },
+    {
+      "q": "Le trajet en train de Nanu Oya à Ella est-il garanti ?",
+      "a": "Le trajet en train dépend des horaires publiés, de la disponibilité des billets et du fonctionnement du réseau ferroviaire. Une réservation à l'avance est recommandée et le trajet doit être confirmé avant la finalisation du circuit."
+    },
+    {
+      "q": "Notre chauffeur-guide voyagera-t-il avec nous dans le train ?",
+      "a": "Le chauffeur-guide voyage normalement séparément par la route et retrouve la famille au point d'arrivée convenu à Ella. L'organisation exacte doit être confirmée avant le départ."
+    },
+    {
+      "q": "L'usine de thé et le lac Gregory conviennent-ils aux enfants ?",
+      "a": "Ce sont des arrêts agréables en famille. La visite de l'usine de thé doit être organisée avec un opérateur adapté, et la participation au pédalo dépend de la disponibilité, de l'âge des enfants et des règles de sécurité locales."
+    },
+    {
+      "q": "Les droits d'entrée et les activités optionnelles sont-ils inclus ?",
+      "a": "Ils ne sont inclus que lorsqu'ils figurent expressément dans le devis confirmé. Les billets de train, les balades en bateau, les droits d'entrée et les expériences optionnelles doivent être vérifiés avant la réservation."
+    },
+    {
+      "q": "Peut-on adapter l'itinéraire pour de plus jeunes enfants ?",
+      "a": "Oui. Le circuit peut être personnalisé avec des pauses supplémentaires, des visites plus courtes et des horaires d'activités flexibles, selon les distances de trajet et l'horaire du train."
+    }
+  ],
+  "price": "À partir de 2 200 $ par pers."
+}

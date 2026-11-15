@@ -1,0 +1,198 @@
+{
+  "title": "L'ultime voyage au Sri Lanka",
+  "duration": "12 jours / 11 nuits",
+  "highlights": [
+    "Deux capitales antiques",
+    "Hautes terres en train",
+    "Safari à Yala et côte sud étendue"
+  ],
+  "blurb": "Le plus complet de nos circuits généraux — les deux capitales antiques, les hautes terres, le safari et une vraie fin de séjour sur la côte sud.",
+  "heroTitle": "Voyage complet à Ceylan — 12 jours, toutes les régions",
+  "intro": "Notre itinéraire le plus approfondi de l'île : deux capitales antiques, le Triangle culturel, le pays du thé en train, un safari animalier et une fin de séjour sans hâte sur la côte sud.",
+  "overview": "Il s'agit de notre circuit de 10 jours auquel s'ajoute Anuradhapura — première capitale antique du Sri Lanka — au début, ainsi qu'une journée supplémentaire sur la côte sud pour vraiment se détendre avant le départ.",
+  "bestFor": "Voyageurs qui disposent du temps nécessaire pour un circuit complet et sans précipitation de l'île",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable",
+  "physicalLevel": "Facile à modéré",
+  "destinationsCovered": "Negombo → Anuradhapura → Polonnaruwa → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Mirissa → Galle → Bentota → Colombo",
+  "itinerary": [
+    {
+      "title": "Arrivée, Pinnawala et Sigiriya",
+      "points": [
+        "Accueil à l'aéroport : recevez un collier de fleurs traditionnel à l'aéroport international Bandaranaike (CMB).",
+        "Accueil du chauffeur : retrouvez votre chauffeur-guide privé, qui vous aide avec vos bagages.",
+        "Route panoramique : traversez la campagne sri-lankaise vers Pinnawala.",
+        "Orphelinat d'éléphants de Pinnawala : observez les éléphants et découvrez leurs soins et leur préservation.",
+        "Route vers Sigiriya : poursuivez à travers des paysages pittoresques avec une pause rafraîchissement.",
+        "Installation à l'hôtel : arrivez à Sigiriya, reposez-vous et profitez de la soirée libre."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Forteresse du rocher de Sigiriya",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Forteresse du rocher de Sigiriya : explorez ce site classé à l'UNESCO et ses antiques ruines royales.",
+        "Jardins d'eau : découvrez les remarquables jardins paysagers et l'ingénierie antique.",
+        "Fresques de Sigiriya : admirez les peintures historiques et le Mur-Miroir.",
+        "Entrée des pattes du lion : explorez le portail emblématique avant de grimper vers le sommet.",
+        "Vues du sommet : profitez de vues panoramiques sur la campagne, selon la météo et votre condition physique."
+      ],
+      "overnight": "Hôtel de charme à Sigiriya."
+    },
+    {
+      "title": "Temple troglodytique de Dambulla et Kandy",
+      "points": [
+        "Petit-déjeuner et départ : quittez Sigiriya après le petit-déjeuner.",
+        "Temple troglodytique de Dambulla : explorez ce site classé à l'UNESCO et ses anciennes peintures murales et statues bouddhiques.",
+        "Sanctuaires troglodytiques : découvrez les peintures bouddhiques historiques et les intérieurs sacrés.",
+        "Jardin d'épices de Matale : découvrez les épices sri-lankaises et les plantes ayurvédiques traditionnelles.",
+        "Temple de la Dent sacrée : visitez ce temple sacré de la ville sainte de Kandy, classée à l'UNESCO.",
+        "Lac de Kandy : profitez d'une promenade relaxante au bord du lac avant le dîner."
+      ],
+      "overnight": "Hôtel de charme à Kandy."
+    },
+    {
+      "title": "De Kandy à Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner et départ : entamez le voyage panoramique vers les hautes terres du Sri Lanka.",
+        "Paysages de montagne : admirez les vallées luxuriantes et les plantations de thé vallonnées.",
+        "Visite d'une usine de thé : découvrez le procédé traditionnel de fabrication du thé.",
+        "Dégustation de thé : goûtez un thé de Ceylan fraîchement infusé.",
+        "Chutes de Ramboda : arrêtez-vous pour admirer la cascade et le paysage environnant.",
+        "Lac Gregory : profitez d'une promenade relaxante au bord du lac à Nuwara Eliya, selon le temps disponible."
+      ],
+      "overnight": "Hôtel de charme à Nuwara Eliya."
+    },
+    {
+      "title": "Voyage panoramique en train de Nanu Oya à Ella",
+      "points": [
+        "Petit-déjeuner et transfert : profitez du petit-déjeuner puis rendez-vous à la gare de Nanu Oya.",
+        "Voyage panoramique en train : traversez les hautes terres centrales vers Ella.",
+        "Plantations de thé : admirez les luxuriants domaines de thé le long de la voie ferrée.",
+        "Vues de montagne : profitez de montagnes brumeuses, de tunnels et d'une pittoresque campagne.",
+        "Arrivée à Ella : transfert de la gare à votre hôtel.",
+        "Ville d'Ella : installez-vous, détendez-vous et explorez la ville à votre rythme."
+      ],
+      "overnight": "Hôtel de charme à Ella."
+    },
+    {
+      "title": "Visites d'Ella et transfert vers Haputale",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Pont aux Neuf Arches : visitez cet emblématique pont ferroviaire entouré d'une verdure luxuriante.",
+        "Little Adam's Peak : profitez de vues panoramiques sur les montagnes d'Ella.",
+        "Chutes de Ravana : admirez la pittoresque cascade et son cadre naturel.",
+        "Route panoramique : poursuivez à travers les hautes terres vers Haputale.",
+        "Installation à l'hôtel : détendez-vous et préparez une visite matinale à Lipton's Seat."
+      ],
+      "overnight": "Hôtel de charme à Haputale."
+    },
+    {
+      "title": "Lipton's Seat, chutes de Diyaluma et transfert vers Yala",
+      "points": [
+        "Départ matinal : rendez-vous à Lipton's Seat pour des vues spectaculaires au petit matin.",
+        "Lipton's Seat : admirez plantations de thé, vallées et lointaines basses terres, si la météo le permet.",
+        "Paysages du pays du thé : explorez les beaux paysages autour de Haputale.",
+        "Chutes de Diyaluma : visitez l'une des plus hautes cascades du Sri Lanka et admirez sa beauté naturelle.",
+        "Route vers Yala : roulez vers la région de la faune sauvage à travers des paysages changeants.",
+        "Installation à l'hôtel : arrivez à Yala ou Tissamaharama et préparez-vous au safari."
+      ],
+      "overnight": "Hôtel de charme à Yala / Tissamaharama."
+    },
+    {
+      "title": "Safari matinal à Yala et transfert vers la côte sud",
+      "points": [
+        "Safari matinal : explorez le parc national de Yala en jeep 4x4 avec un chauffeur et un pisteur expérimentés.",
+        "Observation de la faune : cherchez éléphants, crocodiles, cerfs et oiseaux colorés.",
+        "À l'affût du léopard : guettez l'insaisissable léopard du Sri Lanka, qui peut être aperçu avec un peu de chance.",
+        "Petit-déjeuner et départ : regagnez l'hôtel pour le petit-déjeuner, selon la formule de safari.",
+        "Route côtière : roulez vers Mirissa ou Weligama le long de la côte sud.",
+        "Soirée en bord de mer : installez-vous et détendez-vous sur la plage ou profitez d'un dîner face à la mer."
+      ],
+      "overnight": "Hôtel de charme à Mirissa / Weligama."
+    },
+    {
+      "title": "Journée détente sur la côte sud",
+      "points": [
+        "Petit-déjeuner : profitez d'un petit-déjeuner tranquille à l'hôtel.",
+        "Plage de Mirissa : détendez-vous sur la plage de sable et profitez de l'atmosphère côtière tropicale.",
+        "Baie de Weligama : explorez la belle baie et sa culture du surf.",
+        "Activités nautiques : profitez de cours de surf ou de snorkeling optionnels, selon les conditions.",
+        "Expérience bien-être : choisissez en option un massage sri-lankais traditionnel.",
+        "Coucher de soleil et dîner : explorez les cafés locaux ou profitez d'un paisible dîner face à la mer."
+      ],
+      "overnight": "Hôtel de charme à Mirissa / Weligama."
+    },
+    {
+      "title": "Exploration de la côte sud et fort de Galle",
+      "points": [
+        "Petit-déjeuner et départ : profitez du petit-déjeuner avant d'explorer la côte sud.",
+        "Weligama : découvrez la baie de sable et la scène locale du surf, si vous ne l'avez pas visitée plus tôt.",
+        "Unawatuna : visitez cette plage populaire près de Galle.",
+        "Musée de la pierre de lune : explorez un musée local de la pierre de lune ou une boutique de gemmes, selon le temps disponible.",
+        "Fort de Galle : découvrez ce site classé au patrimoine mondial de l'UNESCO, ses rues historiques et son architecture coloniale.",
+        "Phare de Galle : profitez des vues sur l'océan et de la photographie avant de vous installer à l'hôtel."
+      ],
+      "overnight": "Hôtel de charme à Galle."
+    },
+    {
+      "title": "De Galle à Colombo et visite de la ville",
+      "points": [
+        "Petit-déjeuner et départ : quittez Galle après le petit-déjeuner.",
+        "Temple Gangaramaya : visitez l'un des temples bouddhiques les plus connus de Colombo.",
+        "Place de l'Indépendance : explorez ce site commémorant l'indépendance du Sri Lanka.",
+        "Marché de Pettah : découvrez le quartier commerçant animé et admirez la mosquée Jami Ul-Alfar de l'extérieur, sous réserve d'accès.",
+        "Galle Face Green : profitez d'une promenade le long de la célèbre esplanade en bord de mer de Colombo.",
+        "Shopping et installation : visitez la Lotus Tower de Colombo ou faites vos achats de souvenirs, selon le temps disponible, avant de vous installer à l'hôtel."
+      ],
+      "overnight": "Hôtel de charme à Colombo."
+    },
+    {
+      "title": "Colombo et départ à l'aéroport",
+      "points": [
+        "Petit-déjeuner : profitez du petit-déjeuner à l'hôtel.",
+        "Temps libre : détendez-vous ou profitez de temps libre, selon l'horaire de votre vol.",
+        "Dernières emplettes : flânez à la recherche de thé de Ceylan, de souvenirs ou d'artisanat local, selon le temps disponible.",
+        "Départ de l'hôtel : récupérez vos bagages et effectuez le check-out.",
+        "Transfert à l'aéroport : rendez-vous à l'aéroport international Bandaranaike (CMB) avec votre chauffeur privé.",
+        "Départ : arrivez avec suffisamment d'avance pour l'enregistrement et concluez votre voyage au Sri Lanka."
+      ],
+      "overnight": "Sans objet — jour de départ."
+    }
+  ],
+  "hotelRecommendation": "Hôtels 3 à 4 étoiles partout, avec hébergement en bord de mer sur les côtes sud et ouest.",
+  "transportation": "Véhicule privé climatisé avec chauffeur ; places de train réservées, Nanu Oya–Ella ; jeep safari 4x4 pour Yala.",
+  "meals": "Petit-déjeuner quotidien, plus déjeuner le jour 4. Autres repas au choix.",
+  "included": [
+    "11 nuits d'hébergement comme indiqué",
+    "Petit-déjeuner quotidien",
+    "Véhicule privé et chauffeur pendant tout le circuit",
+    "Billets de train réservés, Nanu Oya–Ella",
+    "Safaris en jeep dans le parc national de Yala",
+    "Sortie en bateau d'observation des baleines (saisonnière)",
+    "Safari fluvial sur la Bentota"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non spécifiés",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Extension à Trincomalee (2 à 3 jours en plus)",
+    "Cours de cuisine privé, Kandy",
+    "Paddle, rivière Bentota"
+  ],
+  "tourFaqs": [
+    {
+      "q": "12 jours, est-ce trop pour un premier voyage ?",
+      "a": "Pas du tout — cela permet de voir toutes les grandes régions sans se presser, c'est pourquoi c'est notre itinéraire long le plus populaire."
+    },
+    {
+      "q": "Peut-on remplacer Bentota par plus de temps à Galle ?",
+      "a": "Oui — cet itinéraire est un point de départ, et nous rééquilibrons volontiers les nuits entre les destinations selon vos souhaits."
+    }
+  ],
+  "price": "À partir de 1 100 $ par pers."
+}

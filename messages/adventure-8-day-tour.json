@@ -1,0 +1,149 @@
+{
+  "title": "Au-delà des hauts plateaux",
+  "duration": "8 jours / 7 nuits",
+  "highlights": [
+    "Rafting et tyrolienne à Kitulgala",
+    "Randonnée à Ella et safari à Yala",
+    "Surf à Mirissa"
+  ],
+  "blurb": "Notre circuit de 7 jours entre rivières et safari, enrichi d’une journée de surf sur la côte sud.",
+  "heroTitle": "Circuit d’Aventure à Ceylan — 8 jours de rivières, de randonnées, de safari et de surf",
+  "intro": "Rivières, forêts tropicales, sentiers de randonnée, safari animalier et journée de surf sur la côte sud : un circuit d’aventure complet à travers quatre environnements distincts.",
+  "overview": "Cet itinéraire prolonge notre circuit d’aventure de 7 jours avec une journée de surf à Mirissa, offrant une conclusion riche en sensations fortes sur la côte avant le retour à Colombo.",
+  "bestFor": "Les voyageurs actifs qui souhaitent découvrir la plus grande variété possible d’activités d’aventure",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable",
+  "physicalLevel": "Modéré à exigeant",
+  "destinationsCovered": "Kitulgala → Nuwara Eliya → Haputale → Ella → Udawalawe → Sinharaja → Colombo",
+  "itinerary": [
+    {
+      "title": "Accueil à l’aéroport et rafting en eaux vives à Kitulgala",
+      "points": [
+        "Accueil à l’aéroport : Recevez un accueil traditionnel avec une guirlande de fleurs à l’aéroport international Bandaranaike (CMB).",
+        "Rencontre avec votre guide : Récupérez vos bagages et faites connaissance avec votre guide privé.",
+        "Transfert panoramique : Traversez les paysages tropicaux du Sri Lanka en direction de Kitulgala.",
+        "Rafting en eaux vives : Découvrez les rapides de la rivière Kelani, selon votre heure d’arrivée, la météo et les conditions de la rivière.",
+        "Aventure en forêt tropicale : Profitez des paysages luxuriants au bord de la rivière et d’une promenade guidée facultative dans la jungle ou d’une activité de plein air, selon le temps disponible.",
+        "Installation à l’hôtel : Installez-vous dans votre hébergement et détendez-vous après le voyage."
+      ],
+      "overnight": "Hôtel à Kitulgala."
+    },
+    {
+      "title": "Nuwara Eliya, fabrique de thé et attractions des hauts plateaux",
+      "points": [
+        "Petit-déjeuner et départ : Prenez votre petit-déjeuner avant de quitter Kitulgala en direction de Nuwara Eliya.",
+        "Route panoramique en montagne : Parcourez des routes sinueuses offrant des vues sur les plantations de thé, les montagnes et les villages pittoresques.",
+        "Fabrique de thé de Ceylan : Découvrez la culture, la transformation et le classement du thé dans une fabrique en activité.",
+        "Dégustation de thé : Savourez du véritable thé de Ceylan et découvrez ses arômes caractéristiques.",
+        "Lac Gregory : Profitez d’une promenade au bord du lac ou d’une balade en bateau facultative, selon les disponibilités.",
+        "Attractions des hauts plateaux : Explorez le jardin botanique de Hakgala et la ville de Nuwara Eliya, en admirant ses jardins et son architecture de l’époque coloniale, selon les horaires d’ouverture."
+      ],
+      "overnight": "Hôtel à Nuwara Eliya."
+    },
+    {
+      "title": "Randonnée dans les plaines de Horton et transfert vers Haputale",
+      "points": [
+        "Départ matinal : Partez de Nuwara Eliya en direction du parc national des plaines de Horton.",
+        "Randonnée dans les plaines de Horton : Parcourez le sentier circulaire d’environ 9 km à travers les prairies d’altitude et les forêts de nuages.",
+        "World's End : Admirez cette impressionnante falaise et les vues panoramiques sur les plaines du sud, selon les conditions météorologiques.",
+        "Baker's Falls : Découvrez cette magnifique cascade entourée d’une végétation luxuriante des hauts plateaux.",
+        "Observation de la faune : Essayez d’apercevoir des oiseaux endémiques et d’autres animaux sauvages le long du sentier.",
+        "Transfert vers Haputale : Profitez d’une route panoramique à travers les montagnes et les plantations de thé avant de rejoindre votre hôtel."
+      ],
+      "overnight": "Hôtel à Haputale."
+    },
+    {
+      "title": "Lipton's Seat et route panoramique vers Ella",
+      "points": [
+        "Départ matinal : Rendez-vous à Lipton's Seat, l’un des points de vue panoramiques les plus célèbres de Haputale.",
+        "Lipton's Seat : Profitez de vues spectaculaires sur les plantations de thé vallonnées et les chaînes de montagnes lointaines, selon les conditions météorologiques.",
+        "Découverte des plantations de thé : Promenez-vous dans la campagne environnante et prenez de magnifiques photos.",
+        "Expérience du thé de Ceylan : Savourez une tasse de thé local dans un salon de thé voisin, si disponible.",
+        "Transfert panoramique : Poursuivez votre route à travers les magnifiques hauts plateaux du Sri Lanka en direction d’Ella.",
+        "Découverte d’Ella : Installez-vous dans votre hébergement et profitez de votre temps libre pour découvrir les cafés, les restaurants et le centre-ville."
+      ],
+      "overnight": "Hôtel à Ella."
+    },
+    {
+      "title": "Les incontournables d’Ella et transfert vers Udawalawe",
+      "points": [
+        "Little Adam's Peak : Partez en randonnée jusqu’au point de vue pour admirer les vallées, les montagnes et les plantations de thé d’Ella.",
+        "Pont aux neuf arches : Découvrez ce célèbre viaduc ferroviaire entouré de collines verdoyantes.",
+        "Observation des trains : Profitez de l’occasion pour voir un train traverser le pont, si les horaires ferroviaires le permettent.",
+        "Grotte de Ravana : Explorez cette grotte associée au roi Ravana dans le folklore sri-lankais.",
+        "Cascade de Ravana : Arrêtez-vous pour admirer cette cascade et prendre des photos depuis les zones d’observation aménagées.",
+        "Transfert vers Udawalawe : Profitez d’un déjeuner ou de rafraîchissements avant de rejoindre les plaines du sud et votre hébergement près du parc national."
+      ],
+      "overnight": "Hôtel près du parc national d’Udawalawe."
+    },
+    {
+      "title": "Safari aux éléphants à Udawalawe et transfert vers Sinharaja",
+      "points": [
+        "Départ matinal : Rendez-vous au parc national d’Udawalawe pour un safari guidé en jeep.",
+        "Safari à la rencontre des éléphants : Explorez les prairies, les forêts broussailleuses et les environs du réservoir à la recherche d’éléphants d’Asie sauvages.",
+        "Observation de la faune : Essayez d’apercevoir des buffles d’eau, des cerfs, des crocodiles et différentes espèces d’oiseaux.",
+        "Photographie animalière : Immortalisez vos observations tout en respectant les règles du parc et en gardant une distance de sécurité avec les animaux.",
+        "Petit-déjeuner et transfert : Retournez prendre le petit-déjeuner ou des rafraîchissements, selon l’horaire du safari, avant de prendre la route vers Sinharaja.",
+        "Arrivée en forêt tropicale : Traversez les paysages ruraux et les campagnes de la zone humide avant de vous installer dans votre lodge ou votre maison d’hôtes."
+      ],
+      "overnight": "Hôtel ou maison d’hôtes dans la région de Sinharaja."
+    },
+    {
+      "title": "Randonnée dans la forêt tropicale de Sinharaja et transfert vers Colombo",
+      "points": [
+        "Petit-déjeuner : Profitez du petit-déjeuner dans votre hébergement avant l’excursion en forêt tropicale.",
+        "Randonnée guidée en forêt tropicale : Rencontrez un guide local et explorez la réserve forestière de Sinharaja.",
+        "Biodiversité tropicale : Découvrez de grands arbres, une végétation dense, des ruisseaux forestiers et des sentiers au cœur de la jungle.",
+        "Observation de la faune : Recherchez des oiseaux endémiques, des papillons, des reptiles et d’autres animaux de la forêt tropicale avec votre guide.",
+        "Découverte de la conservation : Apprenez-en davantage sur l’importance écologique de Sinharaja et sa remarquable biodiversité.",
+        "Transfert vers Colombo : Terminez une randonnée adaptée à votre condition physique et aux conditions météorologiques, puis rejoignez Colombo et installez-vous à votre hôtel."
+      ],
+      "overnight": "Hôtel à Colombo."
+    },
+    {
+      "title": "Découverte des incontournables de Colombo et départ",
+      "points": [
+        "Petit-déjeuner : Profitez du petit-déjeuner à l’hôtel.",
+        "Galle Face Green : Promenez-vous le long de cette célèbre promenade en bord de mer à Colombo, selon le temps disponible.",
+        "Independence Square : Visitez ce monument commémorant l’indépendance du Sri Lanka.",
+        "Colombo Fort : Explorez ce quartier commercial historique et son architecture environnante, selon le temps disponible.",
+        "Shopping et gastronomie : Parcourez les marchés locaux à la recherche de souvenirs et profitez d’un déjeuner ou de rafraîchissements dans un restaurant local.",
+        "Transfert de départ : Rejoignez l’aéroport international Bandaranaike (CMB) pour votre vol ou terminez le circuit au point de dépose convenu à Colombo."
+      ],
+      "overnight": "Sans nuitée — jour du départ."
+    }
+  ],
+  "hotelRecommendation": "Lodges d’aventure, hôtels sur les collines d’Ella, hébergements de safari près de Yala et hôtels adaptés aux amateurs de surf à Mirissa.",
+  "transportation": "Véhicule privé climatisé avec chauffeur ; guides pour le rafting et la tyrolienne ; jeep de safari ; moniteur de surf local.",
+  "meals": "Petit-déjeuner quotidien et un déjeuner le jour du rafting et de la tyrolienne. Les autres repas sont à votre convenance.",
+  "included": [
+    "7 nuits d’hébergement comme indiqué",
+    "Petit-déjeuner quotidien et 1 déjeuner",
+    "Véhicule privé et chauffeur pendant tout le circuit",
+    "Rafting en eaux vives et tyrolienne",
+    "2 safaris en jeep dans le parc national de Yala",
+    "1 cours de surf à Weligama"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non mentionnés",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Séances de surf supplémentaires",
+    "Excursion d’observation des baleines au départ de Mirissa",
+    "Canyoning près de Kitulgala"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Faut-il avoir de l’expérience en surf ?",
+      "a": "Non. La baie de Weligama, près de Mirissa, est l’un des meilleurs endroits d’Asie pour les débutants, avec des vagues douces et régulières."
+    },
+    {
+      "q": "Quelle est la meilleure période de l’année pour effectuer ce circuit ?",
+      "a": "De janvier à avril est la période la plus adaptée pour profiter à la fois des hauts plateaux et de la côte sud."
+    }
+  ],
+  "price": "À partir de 1 680 $ par personne"
+}

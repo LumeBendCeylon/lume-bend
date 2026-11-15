@@ -1,0 +1,710 @@
+﻿{
+    "highlands-ella-luxury-7-day":  {
+                                        "title":  "Highlands \u0026 Ella Luxury Journey",
+                                        "duration":  "7 Days / 6 Nights",
+                                        "highlights":  [
+                                                           "Sigiriya Rock Fortress",
+                                                           "Sacred City of Kandy",
+                                                           "Ceylon tea plantation and factory visit",
+                                                           "Scenic Nanu Oya to Ella railway journey",
+                                                           "Nine Arch Bridge and Ella viewpoints"
+                                                       ],
+                                        "blurb":  "Journey from ancient rock citadels into misty tea country and Ella\u0027s spectacular highlands on a private luxury escape.",
+                                        "heroTitle":  "Highlands \u0026 Ella Luxury Journey â€” 7 Days",
+                                        "intro":  "Experience Sri Lanka\u0027s Cultural Triangle and central highlands through a private luxury journey combining ancient heritage, tea-country scenery and memorable railway landscapes. Discover Sigiriya, Kandy, Nuwara Eliya and Ella before returning to Colombo in the comfort of a dedicated chauffeur-driven vehicle.",
+                                        "overview":  "A seven-day private journey focused on cultural landmarks and the scenic hill country. The itinerary allows time for the Sigiriya and Kandy heritage sites, tea estates, a highland train journey and Ella\u0027s iconic landscapes.",
+                                        "bestFor":  "Couples, nature lovers and cultural luxury travellers",
+                                        "groupSize":  "Private â€” just you and your travel companions",
+                                        "physicalLevel":  "Moderate, with optional hikes and rock climbs",
+                                        "destinationsCovered":  "Sigiriya â†’ Kandy â†’ Nuwara Eliya â†’ Ella â†’ Colombo",
+                                        "itinerary":  [
+                                                          {
+                                                              "title":  "Arrival \u0026 Sigiriya",
+                                                              "points":  [
+                                                                             "Airport Welcome: Meet your chauffeur-guide at CMB with traditional flower garlands.",
+                                                                             "Private Transfer: Travel to Sigiriya with a refreshment stop along the way.",
+                                                                             "Hotel Check-in: Settle into your luxury resort.",
+                                                                             "Afternoon at Leisure: Relax by the pool or enjoy the surrounding countryside.",
+                                                                             "Dinner: Enjoy dinner at the hotel."
+                                                                         ],
+                                                              "overnight":  "Five-star luxury resort in Sigiriya."
+                                                          },
+                                                          {
+                                                              "title":  "Sigiriya Rock Fortress \u0026 Dambulla",
+                                                              "points":  [
+                                                                             "Breakfast: Enjoy breakfast at the resort.",
+                                                                             "Sigiriya Rock Fortress: Explore the UNESCO World Heritage Site, royal gardens and historic rock citadel.",
+                                                                             "Frescoes and Lion\u0027s Paw: Discover the celebrated frescoes and monumental entrance.",
+                                                                             "Dambulla Cave Temple: Visit the UNESCO-listed cave complex and its Buddhist murals and statues.",
+                                                                             "Lunch \u0026 Return: Enjoy lunch and return to your resort.",
+                                                                             "Evening at Leisure: Relax and enjoy dinner."
+                                                                         ],
+                                                              "overnight":  "Five-star luxury resort in Sigiriya."
+                                                          },
+                                                          {
+                                                              "title":  "Sigiriya to Kandy",
+                                                              "points":  [
+                                                                             "Breakfast \u0026 Check-out: Depart after breakfast.",
+                                                                             "Scenic Drive: Travel towards Kandy through the central plains.",
+                                                                             "Matale Spice Garden: Discover Sri Lankan spices and traditional herbal plants.",
+                                                                             "Temple of the Sacred Tooth Relic: Visit the sacred temple in Kandy\u0027s UNESCO-listed historic city.",
+                                                                             "Kandy Lake: Enjoy a peaceful walk beside the lake.",
+                                                                             "Hotel Check-in: Enjoy dinner at your hotel."
+                                                                         ],
+                                                              "overnight":  "Five-star hotel in Kandy."
+                                                          },
+                                                          {
+                                                              "title":  "Kandy to Nuwara Eliya",
+                                                              "points":  [
+                                                                             "Breakfast \u0026 Departure: Begin the scenic drive into the hill country.",
+                                                                             "Tea Plantation: Visit a tea estate and learn about Ceylon tea cultivation.",
+                                                                             "Tea Factory: Discover the traditional tea-making process.",
+                                                                             "Tea Tasting: Sample freshly brewed Ceylon tea.",
+                                                                             "Ramboda Falls: Stop to admire the waterfall and mountain scenery.",
+                                                                             "Nuwara Eliya: Check in and enjoy a relaxed evening."
+                                                                         ],
+                                                              "overnight":  "Five-star hotel or luxury heritage property in Nuwara Eliya."
+                                                          },
+                                                          {
+                                                              "title":  "Nuwara Eliya Highlands",
+                                                              "points":  [
+                                                                             "Breakfast: Enjoy breakfast at the hotel.",
+                                                                             "Colonial Town: Explore Nuwara Eliya\u0027s historic architecture and gardens.",
+                                                                             "Gregory Lake: Enjoy lakeside scenery and optional activities.",
+                                                                             "Tea Country Views: Explore nearby tea landscapes and mountain viewpoints.",
+                                                                             "Lunch: Enjoy a relaxed lunch at a selected restaurant.",
+                                                                             "Evening at Leisure: Return to the hotel for dinner and relaxation."
+                                                                         ],
+                                                              "overnight":  "Five-star hotel or luxury heritage property in Nuwara Eliya."
+                                                          },
+                                                          {
+                                                              "title":  "Scenic Train Journey to Ella",
+                                                              "points":  [
+                                                                             "Breakfast \u0026 Transfer: Travel to Nanu Oya Railway Station.",
+                                                                             "Highland Railway: Enjoy the scenic train journey towards Ella, subject to train schedules and reserved-seat availability.",
+                                                                             "Tea Plantations: Admire the rolling tea estates and mountain valleys along the route.",
+                                                                             "Arrival in Ella: Meet your chauffeur at the station.",
+                                                                             "Nine Arch Bridge: Visit the iconic railway bridge if time and arrival schedules permit.",
+                                                                             "Hotel Check-in: Relax and enjoy dinner in Ella."
+                                                                         ],
+                                                              "overnight":  "Five-star or premium luxury hotel in Ella."
+                                                          },
+                                                          {
+                                                              "title":  "Ella to Colombo \u0026 Departure",
+                                                              "points":  [
+                                                                             "Breakfast: Enjoy breakfast at the hotel.",
+                                                                             "Ella Viewpoint: Enjoy a short scenic stop if time permits.",
+                                                                             "Private Transfer: Begin the journey to Colombo or directly to CMB.",
+                                                                             "Lunch: Enjoy lunch en route.",
+                                                                             "Airport Arrival: Arrive with sufficient time for airline check-in."
+                                                                         ],
+                                                              "overnight":  "N/A â€” departure day."
+                                                          }
+                                                      ],
+                                        "hotelRecommendation":  "Selected five-star and premium luxury properties in Sigiriya, Kandy, Nuwara Eliya and Ella, prioritising scenery, comfort, attentive service and convenient access to sightseeing.",
+                                        "transportation":  "Private air-conditioned luxury vehicle with English-speaking chauffeur-guide. The Nanu Oyaâ€“Ella train journey is subject to railway schedules and reserved-seat availability.",
+                                        "meals":  "Daily breakfast, lunch and dinner from Day 1 to Day 6, with breakfast and lunch on departure Day 7. Meals during travel are arranged at selected hotels and restaurants.",
+                                        "included":  [
+                                                         "6 nights in selected five-star or premium luxury accommodation",
+                                                         "Daily breakfast, lunch and dinner according to the stated meal plan",
+                                                         "Private chauffeur-guide and air-conditioned vehicle",
+                                                         "Sigiriya Rock Fortress entrance fee",
+                                                         "Dambulla Cave Temple entrance fee",
+                                                         "Temple of the Sacred Tooth Relic admission",
+                                                         "Tea factory visit and tasting where confirmed",
+                                                         "Nanu Oyaâ€“Ella train ticket in the confirmed class, subject to availability",
+                                                         "Entrance fees for other attractions specifically listed in the confirmed itinerary"
+                                                     ],
+                                        "excluded":  [
+                                                         "International flights and visa fees",
+                                                         "Travel insurance",
+                                                         "Personal expenses and gratuities",
+                                                         "Alcoholic beverages",
+                                                         "Optional activities and spa treatments",
+                                                         "Train upgrades or alternative transport beyond the agreed package"
+                                                     ],
+                                        "optionalExperiences":  [
+                                                                    "Guided sunrise climb at Sigiriya",
+                                                                    "Private tea-estate experience",
+                                                                    "Little Adam\u0027s Peak guided walk",
+                                                                    "Private dining experience in the hill country",
+                                                                    "In-hotel wellness treatment"
+                                                                ],
+                                        "tourFaqs":  [
+                                                         {
+                                                             "q":  "Is the Ella train journey guaranteed?",
+                                                             "a":  "Train travel depends on railway schedules and reserved-seat availability. A private road transfer can be arranged if train tickets are unavailable or services are disrupted."
+                                                         },
+                                                         {
+                                                             "q":  "Does the itinerary include all meals?",
+                                                             "a":  "Yes. Breakfast, lunch and dinner are included according to the package meal plan. Drinks and premium dining supplements may cost extra."
+                                                         },
+                                                         {
+                                                             "q":  "Can the journey be customised?",
+                                                             "a":  "Yes. Sightseeing, hotel categories and optional experiences can be adjusted to your interests and travel dates."
+                                                         }
+                                                     ]
+                                    },
+    "highlands-wildlife-luxury-8-day":  {
+                                            "title":  "Highlands \u0026 Wildlife Luxury Escape",
+                                            "duration":  "8 Days / 7 Nights",
+                                            "highlights":  [
+                                                               "Luxury arrival in Negombo",
+                                                               "Sigiriya and Dambulla heritage",
+                                                               "Kandy\u0027s sacred cultural landmarks",
+                                                               "Scenic tea-country railway journey",
+                                                               "Private Yala National Park safari"
+                                                           ],
+                                            "blurb":  "Combine Sri Lanka\u0027s ancient heritage, misty tea hills and unforgettable wildlife landscapes in one private luxury journey.",
+                                            "heroTitle":  "Highlands \u0026 Wildlife Luxury Escape â€” 8 Days",
+                                            "intro":  "Discover Sri Lanka through a carefully curated journey combining the Cultural Triangle, sacred Kandy, misty tea plantations, Ella\u0027s dramatic scenery and the wildlife of Yala National Park. Private transfers, luxury accommodation and planned sightseeing allow you to experience the island\u0027s contrasting landscapes in comfort.",
+                                            "overview":  "An eight-day private circuit connecting Negombo with Sigiriya, Kandy, Nuwara Eliya, Ella and Yala before departure from Colombo. The route combines heritage sightseeing, tea-country experiences, scenic rail travel and a dedicated wildlife safari.",
+                                            "bestFor":  "Couples, luxury travellers, wildlife enthusiasts and photographers",
+                                            "groupSize":  "Private â€” just you and your travel companions",
+                                            "physicalLevel":  "Moderate, with optional hikes and rock climbs",
+                                            "destinationsCovered":  "Negombo â†’ Sigiriya â†’ Kandy â†’ Nuwara Eliya â†’ Ella â†’ Yala â†’ Colombo",
+                                            "itinerary":  [
+                                                              {
+                                                                  "title":  "Arrival in Negombo",
+                                                                  "points":  [
+                                                                                 "Airport Welcome: Receive traditional flower garlands at CMB.",
+                                                                                 "Chauffeur Greeting: Meet your private chauffeur-guide and receive luggage assistance.",
+                                                                                 "Transfer to Negombo: Travel to your beachfront hotel.",
+                                                                                 "Hotel Check-in: Enjoy lunch and settle into your room.",
+                                                                                 "Coastal Relaxation: Spend the afternoon at leisure before dinner."
+                                                                             ],
+                                                                  "overnight":  "Five-star beachfront hotel in Negombo."
+                                                              },
+                                                              {
+                                                                  "title":  "Negombo to Sigiriya",
+                                                                  "points":  [
+                                                                                 "Breakfast \u0026 Check-out: Begin the journey to Sri Lanka\u0027s Cultural Triangle.",
+                                                                                 "Scenic Drive: Travel through rural landscapes with a refreshment stop.",
+                                                                                 "Lunch En Route: Enjoy lunch at a selected restaurant.",
+                                                                                 "Sigiriya Arrival: Check in to your luxury resort.",
+                                                                                 "Afternoon at Leisure: Relax and enjoy the resort\u0027s surroundings.",
+                                                                                 "Dinner: Enjoy a meal at the hotel."
+                                                                             ],
+                                                                  "overnight":  "Five-star luxury resort in Sigiriya."
+                                                              },
+                                                              {
+                                                                  "title":  "Sigiriya Rock Fortress \u0026 Dambulla",
+                                                                  "points":  [
+                                                                                 "Breakfast: Enjoy breakfast at the hotel.",
+                                                                                 "Sigiriya Rock Fortress: Explore the UNESCO World Heritage Site and its ancient royal landscape.",
+                                                                                 "Water Gardens: Discover the historic landscaped gardens and water features.",
+                                                                                 "Dambulla Cave Temple: Visit the UNESCO-listed complex of Buddhist caves, murals and statues.",
+                                                                                 "Lunch: Enjoy lunch during the sightseeing day.",
+                                                                                 "Evening at Leisure: Return to the resort for dinner and relaxation."
+                                                                             ],
+                                                                  "overnight":  "Five-star luxury resort in Sigiriya."
+                                                              },
+                                                              {
+                                                                  "title":  "Sigiriya to Kandy",
+                                                                  "points":  [
+                                                                                 "Breakfast \u0026 Departure: Travel towards Kandy.",
+                                                                                 "Matale Spice Garden: Learn about local spices and traditional herbal plants.",
+                                                                                 "Temple of the Sacred Tooth Relic: Visit the sacred temple in Kandy\u0027s UNESCO-listed city.",
+                                                                                 "Kandy Lake: Enjoy a gentle walk beside the lake.",
+                                                                                 "Lunch \u0026 Check-in: Enjoy lunch before checking in to the hotel.",
+                                                                                 "Evening at Leisure: Enjoy dinner and relax."
+                                                                             ],
+                                                                  "overnight":  "Five-star hotel in Kandy."
+                                                              },
+                                                              {
+                                                                  "title":  "Kandy to Nuwara Eliya",
+                                                                  "points":  [
+                                                                                 "Breakfast: Depart after breakfast.",
+                                                                                 "Tea Country Drive: Admire mountain scenery and rolling tea estates.",
+                                                                                 "Tea Factory Visit: Discover the process behind Ceylon tea.",
+                                                                                 "Tea Tasting: Sample freshly brewed tea.",
+                                                                                 "Ramboda Falls: Stop to admire the waterfall, time permitting.",
+                                                                                 "Nuwara Eliya Check-in: Enjoy dinner and a relaxing evening."
+                                                                             ],
+                                                                  "overnight":  "Five-star hotel or luxury heritage property in Nuwara Eliya."
+                                                              },
+                                                              {
+                                                                  "title":  "Nuwara Eliya to Ella",
+                                                                  "points":  [
+                                                                                 "Breakfast \u0026 Transfer: Travel to Nanu Oya Railway Station.",
+                                                                                 "Scenic Train Journey: Travel through tea plantations and misty mountain scenery towards Ella, subject to train availability.",
+                                                                                 "Arrival in Ella: Meet your chauffeur at the railway station.",
+                                                                                 "Nine Arch Bridge: Visit the iconic railway bridge if timing permits.",
+                                                                                 "Ella Town: Explore the town or nearby viewpoints at a relaxed pace.",
+                                                                                 "Hotel Check-in: Enjoy dinner at your luxury property."
+                                                                             ],
+                                                                  "overnight":  "Five-star or premium luxury hotel in Ella."
+                                                              },
+                                                              {
+                                                                  "title":  "Ella to Yala Wildlife Experience",
+                                                                  "points":  [
+                                                                                 "Breakfast \u0026 Check-out: Enjoy breakfast before departing Ella.",
+                                                                                 "Scenic Drive: Travel south through changing highland and lowland landscapes.",
+                                                                                 "Yala Arrival: Check in to your luxury safari lodge.",
+                                                                                 "Private Jeep Safari: Enjoy an afternoon safari if arrival time and park schedules permit.",
+                                                                                 "Wildlife Watching: Look for elephants, crocodiles, deer and birdlife; leopard sightings are not guaranteed.",
+                                                                                 "Dinner: Return to the lodge for dinner and relaxation."
+                                                                             ],
+                                                                  "overnight":  "Luxury safari lodge in Yala or Tissamaharama."
+                                                              },
+                                                              {
+                                                                  "title":  "Yala to Colombo \u0026 Departure",
+                                                                  "points":  [
+                                                                                 "Breakfast: Enjoy breakfast at the lodge.",
+                                                                                 "Morning Safari Option: If the safari was not completed on Day 7, a morning safari may be arranged before departure, subject to flight time.",
+                                                                                 "Private Transfer: Travel towards Colombo and Bandaranaike International Airport.",
+                                                                                 "Lunch: Enjoy lunch en route.",
+                                                                                 "Departure: Arrive at CMB with sufficient time for check-in."
+                                                                             ],
+                                                                  "overnight":  "N/A â€” departure day."
+                                                              }
+                                                          ],
+                                            "hotelRecommendation":  "Selected five-star hotels and luxury resorts in Negombo, Sigiriya, Kandy, Nuwara Eliya and Ella, followed by a premium safari lodge in the Yala region.",
+                                            "transportation":  "Private air-conditioned luxury vehicle with an English-speaking chauffeur-guide throughout the road itinerary. The hill-country railway segment is subject to timetable and seat availability. Yala safari uses a separate 4WD vehicle.",
+                                            "meals":  "Daily breakfast, lunch and dinner from Day 1 to Day 7, plus breakfast and lunch on Day 8. Safari timing may affect the order in which breakfast is served.",
+                                            "included":  [
+                                                             "7 nights in selected five-star hotels, luxury resorts and a premium safari lodge",
+                                                             "Daily breakfast, lunch and dinner according to the meal plan",
+                                                             "Private chauffeur-guide and air-conditioned vehicle",
+                                                             "Airport meet-and-greet",
+                                                             "Sigiriya Rock Fortress and Dambulla Cave Temple admission",
+                                                             "Temple of the Sacred Tooth Relic admission",
+                                                             "Confirmed tea factory visit and tasting",
+                                                             "Nanu Oyaâ€“Ella train ticket in the agreed class, subject to availability",
+                                                             "Yala National Park admission and one standard 4WD jeep safari",
+                                                             "Other entrance fees specifically listed in the final confirmed itinerary"
+                                                         ],
+                                            "excluded":  [
+                                                             "International flights and visa fees",
+                                                             "Travel insurance",
+                                                             "Personal expenses and gratuities",
+                                                             "Alcoholic beverages and premium drinks",
+                                                             "Optional activities not listed as included",
+                                                             "Additional safaris beyond the confirmed package",
+                                                             "Room upgrades and spa treatments"
+                                                         ],
+                                            "optionalExperiences":  [
+                                                                        "Private sunrise climb at Sigiriya",
+                                                                        "Guided Little Adam\u0027s Peak walk",
+                                                                        "Premium tea-estate experience",
+                                                                        "Additional Yala safari",
+                                                                        "Private dining at the safari lodge"
+                                                                    ],
+                                            "tourFaqs":  [
+                                                             {
+                                                                 "q":  "Is a leopard sighting guaranteed in Yala?",
+                                                                 "a":  "No. Yala is famous for leopards, but sightings depend on wildlife movement and conditions. The safari also offers opportunities to see elephants, birds and other animals."
+                                                             },
+                                                             {
+                                                                 "q":  "Is the safari jeep included?",
+                                                                 "a":  "One standard 4WD jeep safari is included in the proposed package, along with park admission. Any additional safari must be confirmed separately."
+                                                             },
+                                                             {
+                                                                 "q":  "Can we take the train to Ella?",
+                                                                 "a":  "The itinerary includes the scenic train journey where reserved seats and railway schedules allow. If unavailable, a private scenic road transfer can be arranged."
+                                                             }
+                                                         ]
+                                        },
+    "grand-ceylon-luxury-10-day":  {
+                                       "title":  "Grand Ceylon Luxury Tour",
+                                       "duration":  "10 Days / 9 Nights",
+                                       "highlights":  [
+                                                          "Polonnaruwa UNESCO World Heritage Site",
+                                                          "Sigiriya Rock Fortress and Dambulla Cave Temple",
+                                                          "Luxury tea-country experience",
+                                                          "Scenic train journey to Ella",
+                                                          "Yala wildlife safari",
+                                                          "Mirissa and historic Galle Fort"
+                                                      ],
+                                       "blurb":  "Explore Sri Lanka\u0027s ancient kingdoms, highland tea estates, wildlife reserves and southern coast on a private ten-day luxury journey.",
+                                       "heroTitle":  "Grand Ceylon Luxury Tour â€” 10 Days Across the Island",
+                                       "intro":  "Journey across Sri Lanka through a carefully curated blend of ancient kingdoms, spectacular hill-country scenery, wildlife and coastal heritage. Explore Polonnaruwa and Sigiriya, discover Kandy\u0027s sacred traditions, travel through tea plantations and visit Ella before experiencing Yala\u0027s wilderness and the historic coast around Mirissa and Galle.",
+                                       "overview":  "A ten-day private route designed for travellers who want a broad introduction to Sri Lanka\u0027s cultural and natural highlights. Luxury accommodation, a dedicated chauffeur-guide, a scenic railway experience and a wildlife safari bring together the island\u0027s most memorable landscapes.",
+                                       "bestFor":  "Luxury couples, cultural travellers and wildlife enthusiasts",
+                                       "groupSize":  "Private â€” just you and your travel companions",
+                                       "physicalLevel":  "Moderate, with optional climbs and nature walks",
+                                       "destinationsCovered":  "Negombo â†’ Polonnaruwa â†’ Sigiriya â†’ Kandy â†’ Nuwara Eliya â†’ Ella â†’ Yala â†’ Mirissa â†’ Galle â†’ Colombo",
+                                       "itinerary":  [
+                                                         {
+                                                             "title":  "Arrival in Negombo",
+                                                             "points":  [
+                                                                            "Airport Welcome: Receive traditional flower garlands at CMB.",
+                                                                            "Chauffeur Greeting: Meet your private chauffeur-guide and receive luggage assistance.",
+                                                                            "Transfer to Negombo: Travel to your luxury beachfront hotel.",
+                                                                            "Lunch \u0026 Relaxation: Enjoy lunch and unwind after your flight.",
+                                                                            "Coastal Evening: Relax at the hotel before dinner."
+                                                                        ],
+                                                             "overnight":  "Five-star beachfront hotel in Negombo."
+                                                         },
+                                                         {
+                                                             "title":  "Negombo to Polonnaruwa",
+                                                             "points":  [
+                                                                            "Breakfast \u0026 Check-out: Begin the drive towards Polonnaruwa.",
+                                                                            "Scenic Countryside: Travel through Sri Lanka\u0027s rural landscapes.",
+                                                                            "Lunch Stop: Enjoy lunch en route.",
+                                                                            "Polonnaruwa Arrival: Visit selected archaeological monuments if time permits.",
+                                                                            "Hotel Check-in: Settle into your hotel and enjoy dinner."
+                                                                        ],
+                                                             "overnight":  "Five-star or premium luxury hotel in the Polonnaruwa area."
+                                                         },
+                                                         {
+                                                             "title":  "Polonnaruwa Ancient City \u0026 Sigiriya",
+                                                             "points":  [
+                                                                            "Breakfast: Enjoy breakfast before exploring the ancient city.",
+                                                                            "Polonnaruwa UNESCO Site: Discover the historic royal capital and its archaeological remains.",
+                                                                            "Royal Palace Complex: Explore selected palace ruins and ancient structures.",
+                                                                            "Gal Vihara: Admire the renowned rock-cut Buddha statues.",
+                                                                            "Transfer to Sigiriya: Continue towards the Cultural Triangle after lunch.",
+                                                                            "Resort Check-in: Relax and enjoy dinner at your hotel."
+                                                                        ],
+                                                             "overnight":  "Five-star luxury resort in Sigiriya."
+                                                         },
+                                                         {
+                                                             "title":  "Sigiriya Rock Fortress \u0026 Dambulla",
+                                                             "points":  [
+                                                                            "Breakfast: Enjoy breakfast at the resort.",
+                                                                            "Sigiriya Rock Fortress: Explore the UNESCO-listed rock citadel, royal gardens and historic frescoes.",
+                                                                            "Lion\u0027s Paw Entrance: Discover the iconic gateway and surrounding archaeological landscape.",
+                                                                            "Dambulla Cave Temple: Visit the UNESCO-listed cave complex and its historic Buddhist art.",
+                                                                            "Lunch: Enjoy lunch during the sightseeing day.",
+                                                                            "Evening at Leisure: Return to your resort for dinner."
+                                                                        ],
+                                                             "overnight":  "Five-star luxury resort in Sigiriya."
+                                                         },
+                                                         {
+                                                             "title":  "Sigiriya to Kandy",
+                                                             "points":  [
+                                                                            "Breakfast \u0026 Departure: Travel towards Kandy.",
+                                                                            "Matale Spice Garden: Discover Sri Lankan spices and traditional herbal plants.",
+                                                                            "Temple of the Sacred Tooth Relic: Visit the sacred temple in Kandy\u0027s UNESCO-listed city.",
+                                                                            "Kandy Lake: Enjoy a leisurely walk beside the lake.",
+                                                                            "Hotel Check-in: Relax before dinner."
+                                                                        ],
+                                                             "overnight":  "Five-star hotel in Kandy."
+                                                         },
+                                                         {
+                                                             "title":  "Kandy to Nuwara Eliya",
+                                                             "points":  [
+                                                                            "Breakfast: Depart Kandy after breakfast.",
+                                                                            "Scenic Mountain Drive: Admire lush valleys and tea plantations.",
+                                                                            "Tea Factory Visit: Learn about Ceylon tea production.",
+                                                                            "Tea Tasting: Sample freshly brewed tea.",
+                                                                            "Ramboda Falls: Stop for photographs and views, time permitting.",
+                                                                            "Nuwara Eliya Check-in: Enjoy dinner and a relaxed evening."
+                                                                        ],
+                                                             "overnight":  "Five-star hotel or luxury heritage property in Nuwara Eliya."
+                                                         },
+                                                         {
+                                                             "title":  "Nuwara Eliya to Ella",
+                                                             "points":  [
+                                                                            "Breakfast \u0026 Transfer: Travel to Nanu Oya Railway Station.",
+                                                                            "Scenic Train Journey: Travel through tea estates and mountain scenery towards Ella, subject to availability.",
+                                                                            "Arrival in Ella: Meet your chauffeur at the station.",
+                                                                            "Nine Arch Bridge: Visit the iconic railway bridge if timing permits.",
+                                                                            "Ella Town: Enjoy selected viewpoints or a relaxed town visit.",
+                                                                            "Hotel Check-in: Enjoy dinner at your hotel."
+                                                                        ],
+                                                             "overnight":  "Five-star or premium luxury hotel in Ella."
+                                                         },
+                                                         {
+                                                             "title":  "Ella to Yala Wildlife Experience",
+                                                             "points":  [
+                                                                            "Breakfast \u0026 Check-out: Begin the journey south.",
+                                                                            "Scenic Drive: Travel through hill-country and lowland landscapes.",
+                                                                            "Yala Arrival: Check in to the safari lodge.",
+                                                                            "Afternoon Safari: Enjoy a 4WD jeep safari if arrival time and park schedules permit.",
+                                                                            "Wildlife Watching: Look for elephants, crocodiles, deer and birdlife; leopard sightings are not guaranteed.",
+                                                                            "Dinner: Relax at the safari lodge."
+                                                                        ],
+                                                             "overnight":  "Luxury safari lodge in Yala or Tissamaharama."
+                                                         },
+                                                         {
+                                                             "title":  "Yala, Mirissa \u0026 Galle Fort",
+                                                             "points":  [
+                                                                            "Early Safari: If not completed on Day 8, enjoy a morning safari, subject to timing.",
+                                                                            "Breakfast \u0026 Check-out: Return to the lodge and prepare for the coastal drive.",
+                                                                            "Mirissa Coast: Stop at Mirissa for a short coastal visit if time allows.",
+                                                                            "Galle Fort: Explore the UNESCO World Heritage Site, historic ramparts and colonial streets.",
+                                                                            "Galle Lighthouse: Enjoy ocean views and photography.",
+                                                                            "Hotel Check-in: Relax and enjoy dinner in the Galle area."
+                                                                        ],
+                                                             "overnight":  "Five-star or premium luxury hotel in Galle."
+                                                         },
+                                                         {
+                                                             "title":  "Galle to Colombo \u0026 Departure",
+                                                             "points":  [
+                                                                            "Breakfast: Enjoy breakfast at the hotel.",
+                                                                            "Coastal Drive: Travel north towards Colombo.",
+                                                                            "Optional Colombo Stop: Visit Galle Face Green or a selected landmark if flight time permits.",
+                                                                            "Lunch: Enjoy lunch en route or in Colombo.",
+                                                                            "Airport Transfer: Continue to Bandaranaike International Airport.",
+                                                                            "Departure: Arrive with sufficient time for airline check-in."
+                                                                        ],
+                                                             "overnight":  "N/A â€” departure day."
+                                                         }
+                                                     ],
+                                       "hotelRecommendation":  "Selected five-star hotels, luxury resorts and a premium safari lodge in Negombo, Polonnaruwa, Sigiriya, Kandy, Nuwara Eliya, Ella, Yala and Galle. Final property selection is subject to availability and confirmed package rates.",
+                                       "transportation":  "Private air-conditioned luxury vehicle with dedicated English-speaking chauffeur-guide for the full road itinerary. The Nanu Oyaâ€“Ella railway segment is subject to timetable and seat availability. Yala safari uses a separate 4WD vehicle.",
+                                       "meals":  "Daily breakfast, lunch and dinner from Day 1 through Day 9, with breakfast and lunch on departure Day 10. Meal timing may be adjusted for early safaris and railway schedules.",
+                                       "included":  [
+                                                        "9 nights in selected five-star hotels, luxury resorts and a premium safari lodge",
+                                                        "Daily breakfast, lunch and dinner according to the meal plan",
+                                                        "Private chauffeur-guide and air-conditioned vehicle",
+                                                        "Airport meet-and-greet",
+                                                        "Polonnaruwa archaeological site admission",
+                                                        "Sigiriya Rock Fortress and Dambulla Cave Temple admission",
+                                                        "Temple of the Sacred Tooth Relic admission",
+                                                        "Confirmed tea factory visit and tasting",
+                                                        "Nanu Oyaâ€“Ella train ticket in the agreed class, subject to availability",
+                                                        "Yala National Park admission and one standard 4WD jeep safari",
+                                                        "Galle Fort and other attraction admission fees specifically listed in the confirmed itinerary"
+                                                    ],
+                                       "excluded":  [
+                                                        "International flights and visa fees",
+                                                        "Travel insurance",
+                                                        "Personal expenses and gratuities",
+                                                        "Alcoholic beverages",
+                                                        "Additional safaris beyond the package allowance",
+                                                        "Optional experiences not listed as included",
+                                                        "Hotel upgrades and spa treatments"
+                                                    ],
+                                       "optionalExperiences":  [
+                                                                   "Private village experience near Sigiriya",
+                                                                   "Sunrise climb at Sigiriya",
+                                                                   "Additional wildlife safari in Yala",
+                                                                   "Private tea-estate experience",
+                                                                   "Romantic coastal dining in Galle or Mirissa"
+                                                               ],
+                                       "tourFaqs":  [
+                                                        {
+                                                            "q":  "Does the itinerary include UNESCO sites?",
+                                                            "a":  "Yes. The route includes the UNESCO-listed ancient city of Polonnaruwa, Sigiriya Rock Fortress, Dambulla Cave Temple, and the Sacred City of Kandy."
+                                                        },
+                                                        {
+                                                            "q":  "Can we see both Mirissa and Galle?",
+                                                            "a":  "Yes. Both are included in the route. Sightseeing order and time spent at each destination depend on safari timing and road conditions."
+                                                        },
+                                                        {
+                                                            "q":  "Is the safari included?",
+                                                            "a":  "The proposed package includes one standard Yala jeep safari and park admission. Additional safaris can be arranged at an extra cost."
+                                                        }
+                                                    ]
+                                   },
+    "ultimate-ceylon-luxury-12-day":  {
+                                          "title":  "The Ultimate Ceylon Luxury Journey",
+                                          "duration":  "12 Days / 11 Nights",
+                                          "highlights":  [
+                                                             "Anuradhapura and Polonnaruwa UNESCO heritage",
+                                                             "Sigiriya Rock Fortress and Dambulla Cave Temple",
+                                                             "Sacred Kandy and the Temple of the Tooth",
+                                                             "Tea plantations and scenic hill-country railway",
+                                                             "Yala National Park wildlife safari",
+                                                             "Mirissa, Galle Fort and Bentota coastline"
+                                                         ],
+                                          "blurb":  "Experience Sri Lanka\u0027s ancient kingdoms, tea-covered mountains, wildlife and southern coastline on an exceptional private luxury journey.",
+                                          "heroTitle":  "The Ultimate Ceylon Luxury Journey â€” 12 Days of Private Discovery",
+                                          "intro":  "Experience Sri Lanka in depth on a private twelve-day journey connecting ancient capitals, dramatic rock fortresses, sacred temples, misty highlands, wildlife reserves and tropical beaches. Discover the island\u0027s rich heritage in Anuradhapura and Polonnaruwa, travel through the tea country, enjoy a wildlife safari in Yala and finish along the historic southern and western coast. Every stage is designed around private touring, luxury accommodation and memorable local experiences.",
+                                          "overview":  "A comprehensive luxury circuit through Sri Lanka\u0027s cultural, natural and coastal highlights. The route combines UNESCO World Heritage Sites, tea-country landscapes, a scenic train journey, a wildlife safari and coastal heritage in Mirissa, Galle and Bentota, supported by a private chauffeur-guide.",
+                                          "bestFor":  "Luxury travellers, couples, honeymooners, culture lovers and wildlife enthusiasts",
+                                          "groupSize":  "Private â€” just you and your travel companions",
+                                          "physicalLevel":  "Moderate, with optional climbs, archaeological walks and highland viewpoints",
+                                          "destinationsCovered":  "Negombo â†’ Anuradhapura â†’ Polonnaruwa â†’ Sigiriya â†’ Kandy â†’ Nuwara Eliya â†’ Ella â†’ Yala â†’ Mirissa â†’ Galle â†’ Bentota â†’ Colombo",
+                                          "itinerary":  [
+                                                            {
+                                                                "title":  "Arrival in Negombo",
+                                                                "points":  [
+                                                                               "Airport Welcome: Receive traditional flower garlands at Bandaranaike International Airport.",
+                                                                               "Private Chauffeur Greeting: Meet your English-speaking chauffeur-guide and receive luggage assistance.",
+                                                                               "Transfer to Negombo: Travel to your luxury beachfront hotel.",
+                                                                               "Lunch \u0026 Relaxation: Enjoy lunch and recover from your journey.",
+                                                                               "Coastal Evening: Relax by the coast before dinner."
+                                                                           ],
+                                                                "overnight":  "Five-star beachfront hotel in Negombo."
+                                                            },
+                                                            {
+                                                                "title":  "Negombo to Anuradhapura",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Check-out: Depart Negombo after breakfast.",
+                                                                               "Scenic Drive: Travel through Sri Lanka\u0027s rural countryside towards the ancient northern kingdom.",
+                                                                               "Refreshment Stop: Enjoy a break during the journey.",
+                                                                               "Anuradhapura Arrival: Check in to your hotel and enjoy lunch.",
+                                                                               "Leisure Time: Relax or visit a nearby site if arrival time permits.",
+                                                                               "Dinner: Enjoy dinner at the hotel."
+                                                                           ],
+                                                                "overnight":  "Five-star or premium luxury hotel in Anuradhapura."
+                                                            },
+                                                            {
+                                                                "title":  "Anuradhapura Ancient Kingdom",
+                                                                "points":  [
+                                                                               "Breakfast: Enjoy breakfast at the hotel.",
+                                                                               "UNESCO Heritage Site: Explore the ancient city of Anuradhapura.",
+                                                                               "Ruwanwelisaya Stupa: Visit the monumental stupa and sacred surroundings.",
+                                                                               "Jaya Sri Maha Bodhi: Discover the revered sacred Bodhi tree area.",
+                                                                               "Ancient Monuments: Explore selected historic monasteries and archaeological remains.",
+                                                                               "Return to the Hotel: Enjoy lunch and dinner, with time to relax."
+                                                                           ],
+                                                                "overnight":  "Five-star or premium luxury hotel in Anuradhapura."
+                                                            },
+                                                            {
+                                                                "title":  "Anuradhapura to Polonnaruwa",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Check-out: Depart Anuradhapura after breakfast.",
+                                                                               "Scenic Drive: Travel towards Polonnaruwa through Sri Lanka\u0027s dry-zone landscapes.",
+                                                                               "Polonnaruwa UNESCO Site: Explore the ancient royal city and its historic remains.",
+                                                                               "Royal Palace Complex: Discover selected palace ruins and archaeological structures.",
+                                                                               "Gal Vihara: Admire the renowned rock-cut Buddha statues.",
+                                                                               "Hotel Check-in: Enjoy dinner and relax after sightseeing."
+                                                                           ],
+                                                                "overnight":  "Five-star or premium luxury hotel in Polonnaruwa or nearby."
+                                                            },
+                                                            {
+                                                                "title":  "Polonnaruwa to Sigiriya",
+                                                                "points":  [
+                                                                               "Breakfast: Enjoy breakfast at the hotel.",
+                                                                               "Final Heritage Visit: Explore an additional Polonnaruwa monument if time permits.",
+                                                                               "Transfer to Sigiriya: Travel through the Cultural Triangle\u0027s countryside.",
+                                                                               "Lunch: Enjoy lunch en route or at the resort.",
+                                                                               "Luxury Resort Check-in: Settle into your accommodation.",
+                                                                               "Afternoon at Leisure: Relax before dinner."
+                                                                           ],
+                                                                "overnight":  "Five-star luxury resort in Sigiriya."
+                                                            },
+                                                            {
+                                                                "title":  "Sigiriya Rock Fortress \u0026 Dambulla",
+                                                                "points":  [
+                                                                               "Breakfast: Enjoy breakfast at the resort.",
+                                                                               "Sigiriya Rock Fortress: Explore the UNESCO World Heritage Site and its ancient royal landscape.",
+                                                                               "Water Gardens: Discover the remarkable gardens and historic engineering.",
+                                                                               "Frescoes \u0026 Lion\u0027s Paw Entrance: Explore the famous frescoes and monumental gateway.",
+                                                                               "Dambulla Cave Temple: Visit the UNESCO-listed cave complex and its Buddhist murals and statues.",
+                                                                               "Return to the Resort: Enjoy dinner and a relaxing evening."
+                                                                           ],
+                                                                "overnight":  "Five-star luxury resort in Sigiriya."
+                                                            },
+                                                            {
+                                                                "title":  "Sigiriya to Kandy",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Check-out: Depart Sigiriya after breakfast.",
+                                                                               "Scenic Drive: Travel towards Kandy through the central plains.",
+                                                                               "Matale Spice Garden: Learn about local spices and traditional herbal plants.",
+                                                                               "Temple of the Sacred Tooth Relic: Visit this sacred temple in the UNESCO-listed Sacred City of Kandy.",
+                                                                               "Kandy Lake: Enjoy a relaxing walk beside the lake.",
+                                                                               "Hotel Check-in: Enjoy dinner at your luxury hotel."
+                                                                           ],
+                                                                "overnight":  "Five-star hotel in Kandy."
+                                                            },
+                                                            {
+                                                                "title":  "Kandy to Nuwara Eliya",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Departure: Begin the scenic journey into the hill country.",
+                                                                               "Tea Country Drive: Admire lush valleys, mountain views and rolling tea plantations.",
+                                                                               "Tea Factory Visit: Discover the traditional Ceylon tea-making process.",
+                                                                               "Tea Tasting: Sample freshly brewed tea.",
+                                                                               "Ramboda Falls: Stop to admire the waterfall and surrounding scenery, time permitting.",
+                                                                               "Nuwara Eliya Check-in: Enjoy dinner and a relaxed evening."
+                                                                           ],
+                                                                "overnight":  "Five-star hotel or luxury heritage property in Nuwara Eliya."
+                                                            },
+                                                            {
+                                                                "title":  "Scenic Train Journey to Ella",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Transfer: Travel to Nanu Oya Railway Station.",
+                                                                               "Scenic Train Journey: Travel through tea estates, misty mountains and picturesque countryside towards Ella, subject to train availability.",
+                                                                               "Arrival in Ella: Meet your chauffeur at the railway station.",
+                                                                               "Nine Arch Bridge: Visit the iconic railway bridge if timing permits.",
+                                                                               "Ella Town: Explore the town or enjoy a scenic viewpoint.",
+                                                                               "Hotel Check-in: Enjoy dinner and relax."
+                                                                           ],
+                                                                "overnight":  "Five-star or premium luxury hotel in Ella."
+                                                            },
+                                                            {
+                                                                "title":  "Ella to Yala Wildlife Experience",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Check-out: Depart Ella after breakfast.",
+                                                                               "Scenic Transfer: Travel south through the highlands and lowlands.",
+                                                                               "Yala Arrival: Check in to your luxury safari lodge.",
+                                                                               "Afternoon Safari: Enjoy a 4WD jeep safari if arrival time and park schedules permit.",
+                                                                               "Wildlife Watching: Look for elephants, crocodiles, deer and birdlife; leopard sightings are not guaranteed.",
+                                                                               "Dinner: Enjoy dinner and relax at the lodge."
+                                                                           ],
+                                                                "overnight":  "Luxury safari lodge in Yala or Tissamaharama."
+                                                            },
+                                                            {
+                                                                "title":  "Yala, Mirissa \u0026 Galle Fort",
+                                                                "points":  [
+                                                                               "Early-Morning Safari: Enjoy a morning safari if it was not completed on Day 10, subject to timing.",
+                                                                               "Breakfast \u0026 Check-out: Return to the lodge and prepare for the coastal journey.",
+                                                                               "Mirissa Coast: Enjoy a coastal stop and views of the Indian Ocean.",
+                                                                               "Galle Fort: Explore the UNESCO World Heritage Site, its historic streets and colonial architecture.",
+                                                                               "Galle Lighthouse: Enjoy ocean views and photography.",
+                                                                               "Hotel Check-in: Enjoy dinner in the Galle area."
+                                                                           ],
+                                                                "overnight":  "Five-star or premium luxury hotel in Galle."
+                                                            },
+                                                            {
+                                                                "title":  "Galle, Bentota \u0026 Colombo Departure",
+                                                                "points":  [
+                                                                               "Breakfast \u0026 Check-out: Enjoy breakfast before departure.",
+                                                                               "Coastal Journey: Travel north along Sri Lanka\u0027s western and southern coastline.",
+                                                                               "Bentota Stop: Enjoy a short coastal visit if time permits.",
+                                                                               "Lunch: Enjoy lunch at a selected restaurant en route.",
+                                                                               "Airport Transfer: Continue to Bandaranaike International Airport (CMB).",
+                                                                               "Departure: Arrive with sufficient time for airline check-in."
+                                                                           ],
+                                                                "overnight":  "N/A â€” departure day."
+                                                            }
+                                                        ],
+                                          "hotelRecommendation":  "A curated selection of five-star hotels, luxury resorts and premium safari lodges across Negombo, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Nuwara Eliya, Ella, Yala and Galle. Final properties are selected according to availability, travel dates and the agreed package rate.",
+                                          "transportation":  "Private air-conditioned luxury vehicle with a dedicated English-speaking chauffeur-guide throughout the road itinerary. The Nanu Oyaâ€“Ella train journey is subject to railway schedules and reserved-seat availability. Yala safari is operated in a separate 4WD vehicle.",
+                                          "meals":  "Daily breakfast, lunch and dinner from Day 1 to Day 11, with breakfast and lunch on departure Day 12. Meal timing may be adjusted for early safaris and train schedules.",
+                                          "included":  [
+                                                           "11 nights in selected five-star hotels, luxury resorts and a premium safari lodge",
+                                                           "Daily breakfast, lunch and dinner according to the stated meal plan",
+                                                           "Private chauffeur-guide and air-conditioned vehicle",
+                                                           "Airport meet-and-greet with traditional flower garlands",
+                                                           "Anuradhapura archaeological site admission",
+                                                           "Polonnaruwa archaeological site admission",
+                                                           "Sigiriya Rock Fortress and Dambulla Cave Temple admission",
+                                                           "Temple of the Sacred Tooth Relic admission",
+                                                           "Confirmed tea factory visit and tasting",
+                                                           "Nanu Oyaâ€“Ella train ticket in the agreed class, subject to availability",
+                                                           "Yala National Park admission and one standard 4WD jeep safari",
+                                                           "Entrance fees to other attractions explicitly listed in the confirmed itinerary"
+                                                       ],
+                                          "excluded":  [
+                                                           "International flights and visa fees",
+                                                           "Travel insurance",
+                                                           "Personal expenses and gratuities",
+                                                           "Alcoholic beverages and premium drinks",
+                                                           "Optional experiences not listed as included",
+                                                           "Additional wildlife safaris beyond the package allowance",
+                                                           "Spa treatments and room upgrades"
+                                                       ],
+                                          "optionalExperiences":  [
+                                                                      "Private village experience in the Cultural Triangle",
+                                                                      "Guided sunrise climb at Sigiriya",
+                                                                      "Premium tea-estate experience",
+                                                                      "Additional Yala wildlife safari",
+                                                                      "Private romantic dinner on the southern coast",
+                                                                      "Private wellness treatment at selected luxury hotels"
+                                                                  ],
+                                          "tourFaqs":  [
+                                                           {
+                                                               "q":  "Which UNESCO World Heritage Sites are included?",
+                                                               "a":  "The route includes Anuradhapura, Polonnaruwa, Sigiriya Rock Fortress, Dambulla Cave Temple and the Sacred City of Kandy."
+                                                           },
+                                                           {
+                                                               "q":  "Are all meals and entrance fees included?",
+                                                               "a":  "The proposed package includes daily breakfast, lunch and dinner and admission to attractions specifically listed in the confirmed itinerary. Optional activities may incur additional charges."
+                                                           },
+                                                           {
+                                                               "q":  "Are all accommodations five-star?",
+                                                               "a":  "The tour is designed around five-star hotels, luxury resorts and premium safari lodges. Specific properties are confirmed according to availability and the final package price."
+                                                           },
+                                                           {
+                                                               "q":  "Can the itinerary be customised?",
+                                                               "a":  "Yes. Hotel choices, sightseeing pace, optional activities and special dining arrangements can be tailored to your preferences."
+                                                           }
+                                                       ]
+                                      }
+}

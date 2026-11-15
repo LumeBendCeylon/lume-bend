@@ -1,0 +1,187 @@
+{
+  "title": "Le grand voyage de noces",
+  "duration": "10 jours / 9 nuits",
+  "highlights": [
+    "Forteresse rocheuse de Sigiriya",
+    "Temple de la Dent sacrée",
+    "Plantations de thé de Nuwara Eliya",
+    "Voyage en train panoramique vers Ella",
+    "Safari dans le parc national de Yala",
+    "Fort de Galle et plage de Mirissa"
+  ],
+  "blurb": "Un voyage romantique complet associant patrimoine ancien, collines de thé brumeuses, rencontres avec la faune sauvage et beauté de la côte sud du Sri Lanka.",
+  "heroTitle": "Le grand voyage de noces — 10 jours à travers le Sri Lanka",
+  "intro": "Célébrez votre union lors d'un long voyage privé à travers les paysages les plus mémorables du Sri Lanka, des sites antiques du Triangle culturel aux montagnes couvertes de thé, en passant par les espaces sauvages riches en faune et la côte sud.",
+  "overview": "Découvrez l'impressionnante citadelle antique de Sigiriya, plongez dans le patrimoine sacré de Kandy et traversez les hauts plateaux du centre jusqu'à Ella. Continuez vers Yala pour un safari animalier avant de vous détendre sur la côte sud à Galle et Mirissa.",
+  "bestFor": "Les couples souhaitant une lune de miel complète et luxueuse mêlant culture, voyages panoramiques, faune sauvage et détente sur la plage.",
+  "groupSize": "Véhicule privé avec chauffeur-guide dédié — séjour personnalisable pour les couples.",
+  "physicalLevel": "Facile à modéré",
+  "destinationsCovered": "Aéroport → Sigiriya → Kandy → Nuwara Eliya → Ella → Yala → Galle → Mirissa → Aéroport",
+  "itinerary": [
+    {
+      "title": "Accueil à l'aéroport et arrivée à Sigiriya",
+      "points": [
+        "Accueil à l'aéroport : Retrouvez votre chauffeur-guide à l'aéroport international Bandaranaike (CMB) et recevez des guirlandes de fleurs traditionnelles.",
+        "Transfert privé : Commencez votre voyage vers le Triangle culturel à bord d'un véhicule climatisé confortable.",
+        "Route à travers la campagne : Admirez les villages ruraux et les paysages variés du Sri Lanka.",
+        "Pause rafraîchissement : Faites une halte pour prendre un rafraîchissement ou un repas selon votre heure d'arrivée.",
+        "Arrivée à Sigiriya : Rejoignez votre hébergement et procédez à l'installation.",
+        "Soirée romantique : Détendez-vous après votre vol et profitez d'un dîner à votre convenance."
+      ],
+      "overnight": "Hôtel à Sigiriya ou Habarana."
+    },
+    {
+      "title": "Forteresse rocheuse de Sigiriya et Triangle culturel",
+      "points": [
+        "Petit-déjeuner : Prenez votre petit-déjeuner avant de découvrir Sigiriya.",
+        "Site inscrit au patrimoine mondial de l'UNESCO : Découvrez l'ancienne cité de Sigiriya, connue pour ses vestiges archéologiques et son ancienne citadelle royale.",
+        "Forteresse rocheuse : Gravissez le rocher de Sigiriya, selon votre condition physique et la météo, et explorez les vestiges de l'ancien complexe royal.",
+        "Fresques et jardins aquatiques : Découvrez les célèbres fresques du site et ses jardins paysagers.",
+        "Expérience villageoise : Profitez d'une expérience villageoise facultative et d'un repas traditionnel sri-lankais.",
+        "Soirée détente : Retournez à votre hôtel et profitez d'une soirée paisible à deux."
+      ],
+      "overnight": "Hôtel à Sigiriya ou Habarana."
+    },
+    {
+      "title": "Route vers Kandy et patrimoine sacré",
+      "points": [
+        "Départ matinal : Prenez votre petit-déjeuner et quittez Sigiriya pour rejoindre Kandy.",
+        "Paysages de campagne : Traversez la région centrale du Sri Lanka et faites une pause rafraîchissement si nécessaire.",
+        "Arrivée à Kandy : Installez-vous à votre hôtel et détendez-vous.",
+        "Temple de la Dent sacrée : Visitez ce temple sacré situé dans la ville sacrée de Kandy, inscrite au patrimoine mondial de l'UNESCO.",
+        "Lac de Kandy : Profitez d'une promenade paisible au bord du lac et admirez les collines environnantes.",
+        "Soirée romantique : Dînez à votre hôtel ou organisez un dîner privé spécial."
+      ],
+      "overnight": "Hôtel à Kandy."
+    },
+    {
+      "title": "Patrimoine de Kandy et région du thé de Nuwara Eliya",
+      "points": [
+        "Petit-déjeuner à Kandy : Commencez la journée par un petit-déjeuner détendu.",
+        "Jardins botaniques royaux : Explorez les jardins tropicaux de Peradeniya, selon le temps disponible.",
+        "Route panoramique dans les montagnes : Traversez les hauts plateaux du centre en direction de Nuwara Eliya.",
+        "Point de vue sur une cascade : Arrêtez-vous à un point de vue adapté le long de la route, selon les conditions.",
+        "Visite d'une plantation de thé : Découvrez la production du thé de Ceylan dans un domaine ou une fabrique locale, selon les horaires d'ouverture.",
+        "Arrivée à Nuwara Eliya : Installez-vous dans votre hébergement et profitez du climat frais."
+      ],
+      "overnight": "Hôtel à Nuwara Eliya."
+    },
+    {
+      "title": "Nuwara Eliya et voyage panoramique vers Ella",
+      "points": [
+        "Petit-déjeuner dans les montagnes : Prenez votre petit-déjeuner au cœur de la région du thé du Sri Lanka.",
+        "Lac Gregory : Faites une promenade tranquille au bord du lac et profitez des paysages montagneux environnants.",
+        "Plantations de thé : Admirez les collines ondulantes et les plantations de thé d'un vert émeraude.",
+        "Voyage en train panoramique : Rejoignez Ella en train si les places et les horaires le permettent.",
+        "Vues sur les montagnes : Admirez les vallées spectaculaires et les paysages verdoyants tout au long du trajet.",
+        "Arrivée à Ella : Installez-vous à votre hôtel et profitez d'une soirée libre."
+      ],
+      "overnight": "Hôtel à Ella."
+    },
+    {
+      "title": "Paysages pittoresques d'Ella et route vers Yala",
+      "points": [
+        "Petit-déjeuner avec vue sur les montagnes : Commencez la journée à votre rythme.",
+        "Pont des Neuf Arches : Découvrez le célèbre pont ferroviaire d'Ella, entouré d'une végétation luxuriante.",
+        "Little Adam's Peak : Profitez d'une randonnée facultative jusqu'à un point de vue panoramique, selon votre condition physique et la météo.",
+        "Chutes de Ravana : Arrêtez-vous pour admirer cette cascade située sur la route entre Ella et Wellawaya.",
+        "Route vers Yala : Prenez la direction du sud vers la région de Yala à travers des paysages changeants.",
+        "Installation au lodge de safari : Installez-vous dans votre hébergement et profitez d'une soirée paisible."
+      ],
+      "overnight": "Hôtel ou lodge de safari près de Yala."
+    },
+    {
+      "title": "Safari dans le parc national de Yala et romance au cœur de la nature",
+      "points": [
+        "Départ matinal pour le safari : Partez pour un safari animalier à l'horaire prévu.",
+        "Parc national de Yala : Explorez certaines zones du parc avec un opérateur de safari agréé afin d'observer la faune du Sri Lanka.",
+        "Observation de la faune : Essayez d'apercevoir des éléphants, des cerfs, des crocodiles et différentes espèces d'oiseaux ; les observations ne sont jamais garanties.",
+        "Retour au lodge : Prenez votre petit-déjeuner ou un repas selon les arrangements de votre hébergement et du safari.",
+        "Après-midi détente : Profitez d'un moment de repos dans votre lodge ou découvrez l'environnement naturel.",
+        "Soirée paisible : Savourez un dîner et l'atmosphère sauvage du Sri Lanka."
+      ],
+      "overnight": "Hôtel ou lodge de safari près de Yala."
+    },
+    {
+      "title": "De Yala à Galle et découverte du patrimoine côtier historique",
+      "points": [
+        "Petit-déjeuner et départ : Prenez votre petit-déjeuner avant de quitter la région de Yala.",
+        "Voyage côtier : Rejoignez Galle à travers les paysages de la côte sud du Sri Lanka.",
+        "Fort de Galle : Explorez la vieille ville et ses fortifications historiques, inscrites au patrimoine mondial de l'UNESCO.",
+        "Phare de Galle : Promenez-vous le long des remparts et admirez les vues sur l'océan autour du phare.",
+        "Rues historiques : Découvrez l'architecture de l'époque coloniale, les petites galeries et les boutiques.",
+        "Soirée romantique : Installez-vous à votre hôtel et profitez d'un dîner à votre convenance."
+      ],
+      "overnight": "Hôtel à Galle."
+    },
+    {
+      "title": "De Galle à Mirissa et détente sur la côte sud",
+      "points": [
+        "Petit-déjeuner en toute tranquillité : Commencez la journée paisiblement à Galle.",
+        "Route côtière : Continuez vers Mirissa en longeant la côte sud.",
+        "Plage de Mirissa : Profitez de la plage de sable et des vues tropicales sur l'océan.",
+        "Observation des baleines en option : Organisez une excursion saisonnière, sous réserve de la météo, des conditions de la mer et des disponibilités.",
+        "Détente au bord de la plage : Passez du temps ensemble sur la plage ou explorez les environs côtiers.",
+        "Dîner romantique : Profitez d'un dîner spécial à votre hôtel ou dans un restaurant voisin."
+      ],
+      "overnight": "Hôtel à Mirissa."
+    },
+    {
+      "title": "Mirissa et départ",
+      "points": [
+        "Dernier petit-déjeuner : Profitez de votre dernier petit-déjeuner ensemble.",
+        "Départ de l'hôtel : Préparez-vous pour votre transfert de départ.",
+        "Transfert privé : Prenez la route vers l'aéroport international Bandaranaike (CMB).",
+        "Voyage panoramique : Admirez les paysages côtiers et ruraux tout au long du trajet.",
+        "Pause rafraîchissement : Faites une halte selon votre horaire.",
+        "Départ : Arrivez à l'aéroport suffisamment tôt pour votre vol international."
+      ],
+      "overnight": "Sans nuitée — jour du départ."
+    }
+  ],
+  "hotelRecommendation": "Hébergements de luxe ou de charme à Sigiriya, Kandy, Nuwara Eliya et Ella, suivis d'un lodge de safari de qualité près de Yala et d'hôtels côtiers à Galle et Mirissa.",
+  "transportation": "Véhicule privé climatisé avec chauffeur-guide dédié ; le véhicule de safari et les billets de train dépendent des arrangements sélectionnés.",
+  "meals": "Petit-déjeuner quotidien. Les repas pendant les séjours en lodge de safari dépendent de l'hébergement choisi et du forfait confirmé.",
+  "included": [
+    "9 nuits d'hébergement",
+    "Petit-déjeuner quotidien",
+    "Véhicule privé climatisé et chauffeur-guide",
+    "Accueil et assistance à l'aéroport",
+    "Visites mentionnées dans l'itinéraire, sous réserve des conditions d'accès et des horaires d'ouverture"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Déjeuners et dîners, sauf indication contraire",
+    "Frais d'entrée au parc et véhicule de safari, sauf confirmation dans le devis",
+    "Billets de train, sauf confirmation",
+    "Observation des baleines en option",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage",
+    "Prestations romantiques spéciales, sauf confirmation préalable"
+  ],
+  "optionalExperiences": [
+    "Dîner romantique privé",
+    "Voyage en train panoramique",
+    "Safari animalier à Yala",
+    "Soin spa pour couple",
+    "Observation saisonnière des baleines",
+    "Dégustation privée de thé",
+    "Décoration de chambre pour la lune de miel"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Le safari à Yala garantit-il l'observation de léopards ?",
+      "a": "Non. Yala est réputé pour sa faune sauvage, mais les observations dépendent des conditions naturelles et des déplacements des animaux. Le safari offre une occasion de rechercher la faune, sans garantir l'observation d'espèces particulières."
+    },
+    {
+      "q": "Pouvons-nous prendre le train jusqu'à Ella ?",
+      "a": "Oui, sous réserve des horaires de train et de la disponibilité des places. Si aucun billet adapté n'est disponible, le trajet peut être effectué en véhicule privé."
+    },
+    {
+      "q": "Ce circuit peut-il être personnalisé pour une lune de miel ?",
+      "a": "Oui. L'hébergement, les repas et les expériences facultatives peuvent être adaptés à vos préférences, sous réserve de disponibilité et de confirmation préalable."
+    }
+  ],
+  "price": "2 499 USD par couple"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Les Sentiers de l’Aventure à Ceylan",
+  "duration": "7 jours / 6 nuits",
+  "highlights": [
+    "Rafting et tyrolienne à Kitulgala",
+    "Sentiers de randonnée à Ella",
+    "Safari en jeep à Yala"
+  ],
+  "blurb": "Notre circuit d’aventure de 5 jours prolongé par un safari animalier pour une expérience plus complète mêlant adrénaline et nature.",
+  "heroTitle": "Les Sentiers de l’Aventure à Ceylan — 7 jours de rivières, de randonnées et de safari",
+  "intro": "Le même circuit d’aventure entre rivières et montagnes, prolongé vers le sud jusqu’à Yala pour des safaris en jeep à la recherche des léopards, avec une nouvelle dimension consacrée à la faune sauvage.",
+  "overview": "Cet itinéraire reprend notre circuit d’aventure de 5 jours, puis se poursuit vers le sud jusqu’au parc national de Yala pour deux safaris avant le retour à Colombo.",
+  "bestFor": "Les voyageurs actifs qui souhaitent également profiter d’un véritable safari animalier",
+  "groupSize": "Véhicule privé — taille du groupe personnalisable",
+  "physicalLevel": "Modéré à exigeant",
+  "destinationsCovered": "Kitulgala → Nuwara Eliya → Haputale → Ella → Udawalawe → Colombo",
+  "itinerary": [
+    {
+      "title": "Accueil à l’aéroport et aventure à Kitulgala",
+      "points": [
+        "Accueil à l’aéroport : Recevez un accueil traditionnel avec une guirlande de fleurs à l’aéroport international Bandaranaike (CMB).",
+        "Rencontre avec votre guide : Faites connaissance avec votre guide et bénéficiez d’une assistance pour vos bagages.",
+        "Route panoramique : Traversez les paysages tropicaux du Sri Lanka en direction de Kitulgala.",
+        "Rafting en eaux vives : Découvrez les rapides de la rivière Kelani, selon votre heure d’arrivée et les conditions de la rivière.",
+        "Aventure en pleine nature : Profitez d’une promenade facultative dans la jungle ou d’une activité d’aventure proposée localement, selon le temps disponible.",
+        "Installation à l’hôtel : Profitez du dîner et détendez-vous au cœur des paysages de forêt tropicale de Kitulgala."
+      ],
+      "overnight": "Hôtel à Kitulgala."
+    },
+    {
+      "title": "Route panoramique vers Nuwara Eliya et découverte du pays du thé",
+      "points": [
+        "Petit-déjeuner et départ : Quittez Kitulgala en direction des hauts plateaux du centre du Sri Lanka.",
+        "Route panoramique en montagne : Admirez les cascades, les vallées verdoyantes et les plantations de thé pittoresques.",
+        "Fabrique de thé de Ceylan : Découvrez les méthodes traditionnelles de production et de transformation du thé.",
+        "Dégustation de thé : Savourez du véritable thé de Ceylan et découvrez ses arômes caractéristiques.",
+        "Lac Gregory : Profitez d’une promenade au bord du lac ou d’une balade en bateau facultative, selon les disponibilités.",
+        "Jardin botanique de Hakgala : Explorez les plantes des hauts plateaux et les jardins paysagers, selon les horaires d’ouverture."
+      ],
+      "overnight": "Hôtel à Nuwara Eliya."
+    },
+    {
+      "title": "Randonnée dans les plaines de Horton et découverte de World's End",
+      "points": [
+        "Départ matinal : Partez de Nuwara Eliya en direction du parc national des plaines de Horton.",
+        "Randonnée dans les plaines de Horton : Parcourez le sentier circulaire d’environ 9 km à travers les forêts de nuages et les prairies.",
+        "World's End : Admirez cette impressionnante falaise et ses vues panoramiques, selon les conditions météorologiques.",
+        "Baker's Falls : Découvrez cette magnifique cascade entourée d’une végétation luxuriante.",
+        "Observation de la faune : Essayez d’apercevoir des cerfs sambar et différentes espèces d’oiseaux des hauts plateaux.",
+        "Transfert vers Haputale : Profitez d’une route panoramique en montagne avant de rejoindre votre hôtel."
+      ],
+      "overnight": "Hôtel à Haputale."
+    },
+    {
+      "title": "Lipton's Seat et transfert vers Ella",
+      "points": [
+        "Départ matinal : Rendez-vous à Lipton's Seat, un célèbre point de vue situé dans la région des plantations de thé du Sri Lanka.",
+        "Lipton's Seat : Profitez de vues panoramiques sur les plantations de thé et les chaînes de montagnes, selon les conditions météorologiques.",
+        "Promenade dans les plantations de thé : Explorez la campagne environnante et prenez de magnifiques photos.",
+        "Thé de Ceylan : Savourez une tasse de thé local rafraîchissante, si disponible.",
+        "Transfert panoramique : Poursuivez votre route à travers les magnifiques hauts plateaux en direction d’Ella.",
+        "Ville d’Ella : Installez-vous à votre hôtel et découvrez les cafés et restaurants locaux à votre rythme."
+      ],
+      "overnight": "Hôtel à Ella."
+    },
+    {
+      "title": "Randonnée à Ella, pont aux neuf arches et transfert vers Udawalawe",
+      "points": [
+        "Little Adam's Peak : Partez en randonnée jusqu’au point de vue pour admirer les montagnes et les plantations de thé.",
+        "Pont aux neuf arches : Découvrez le célèbre viaduc ferroviaire d’Ella, entouré de collines verdoyantes.",
+        "Observation des trains : Photographiez le passage d’un train si les horaires ferroviaires le permettent.",
+        "Grotte de Ravana : Explorez cette grotte associée au roi Ravana dans le folklore local.",
+        "Cascade de Ravana : Admirez cette magnifique cascade depuis les zones d’observation aménagées.",
+        "Transfert vers Udawalawe : Rejoignez les plaines du sud et installez-vous dans votre hébergement près du parc national."
+      ],
+      "overnight": "Hôtel près du parc national d’Udawalawe."
+    },
+    {
+      "title": "Safari dans le parc national d’Udawalawe et transfert vers Colombo",
+      "points": [
+        "Départ matinal : Rendez-vous au parc national d’Udawalawe pour un safari guidé en jeep.",
+        "Safari à la rencontre des éléphants : Partez à la recherche des éléphants d’Asie sauvages dans les prairies et les forêts broussailleuses.",
+        "Observation de la faune : Essayez d’apercevoir des buffles d’eau, des cerfs, des crocodiles et différentes espèces d’oiseaux.",
+        "Photographie animalière : Immortalisez vos rencontres avec la faune tout en respectant les règles du parc.",
+        "Petit-déjeuner et transfert : Retournez prendre le petit-déjeuner si le programme le permet, puis prenez la route vers Colombo.",
+        "Arrivée à Colombo : Installez-vous à votre hôtel et reposez-vous après le trajet."
+      ],
+      "overnight": "Hôtel à Colombo."
+    },
+    {
+      "title": "Découverte de Colombo et fin du circuit",
+      "points": [
+        "Petit-déjeuner : Profitez du petit-déjeuner à l’hôtel.",
+        "Galle Face Green : Promenez-vous le long de cette célèbre promenade en bord de mer à Colombo, selon le temps disponible.",
+        "Independence Square : Visitez ce monument commémorant l’indépendance du Sri Lanka.",
+        "Colombo Fort : Explorez ce quartier commercial historique et son architecture environnante.",
+        "Shopping et gastronomie : Parcourez les marchés locaux à la recherche de souvenirs et dégustez des spécialités sri-lankaises.",
+        "Départ ou transfert : Terminez votre circuit par un transfert vers la destination convenue."
+      ],
+      "overnight": "Sans nuitée — jour du départ."
+    }
+  ],
+  "hotelRecommendation": "Lodges d’aventure à Kitulgala, hôtels sur les collines d’Ella et hébergements de style safari près de Yala.",
+  "transportation": "Véhicule privé climatisé avec chauffeur ; guides certifiés pour le rafting et la tyrolienne ; jeep 4x4 pour les safaris à Yala.",
+  "meals": "Petit-déjeuner quotidien et un déjeuner le jour du rafting et de la tyrolienne. Les autres repas sont à votre convenance.",
+  "included": [
+    "6 nuits d’hébergement comme indiqué",
+    "Petit-déjeuner quotidien et 1 déjeuner",
+    "Véhicule privé et chauffeur pendant tout le circuit",
+    "Rafting en eaux vives et tyrolienne",
+    "2 safaris en jeep dans le parc national de Yala"
+  ],
+  "excluded": [
+    "Vols internationaux",
+    "Frais de visa",
+    "Repas non mentionnés",
+    "Dépenses personnelles et pourboires",
+    "Assurance voyage"
+  ],
+  "optionalExperiences": [
+    "Excursion supplémentaire au lever du soleil à Ella Rock",
+    "Canyoning près de Kitulgala",
+    "Séance de safari supplémentaire à Yala"
+  ],
+  "tourFaqs": [
+    {
+      "q": "Yala est-il inclus sous la forme d’un véritable safari ou simplement d’un trajet en voiture à travers le parc ?",
+      "a": "Le programme comprend deux safaris dédiés en jeep avec un guide-pisteur spécialisé, organisés à l’aube et au crépuscule, lorsque la faune est la plus active."
+    },
+    {
+      "q": "Pouvons-nous faire davantage de rafting au lieu du safari ?",
+      "a": "Oui. Cet itinéraire constitue une base personnalisable : nous pouvons remplacer certaines activités par des journées supplémentaires consacrées à la rivière si vous le souhaitez."
+    }
+  ],
+  "price": "À partir de 1 470 $ par personne"
+}

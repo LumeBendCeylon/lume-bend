@@ -336,12 +336,12 @@
   "Tours": {
     "items": {
       "golden-grand-escape-5-day": {
-        "title": "Escapade Dorée à Ceylan",
-        "blurb": "Découvrez forteresses antiques, temples sacrés et cœur culturel du Sri Lanka lors d’une escapade de luxe de cinq jours, guidée en privé.",
+        "title": "Évasion dorée à Ceylan",
+        "blurb": "Cinq jours de luxe privé à travers le Triangle culturel du Sri Lanka et Kandy, la capitale des montagnes, avec chaque détail soigneusement préparé.",
         "highlights": {
-          "0": "Voyage privé à travers le Triangle culturel du Sri Lanka",
-          "1": "Expérience avec les éléphants de Pinnawala",
-          "2": "Forteresse rocheuse de Sigiriya et temple troglodyte de Dambulla",
+          "0": "Ascension privée du rocher de Sigiriya au lever du soleil",
+          "1": "Dîner aux chandelles sur un toit-terrasse",
+          "2": "Cérémonie du soir au Temple de la Dent",
           "3": "Temple de la Dent sacrée",
           "4": "Circuit de luxe avec chauffeur-guide"
         },
@@ -868,5 +868,22 @@
     "tourHighlights": "Points forts du circuit",
     "startPlanning": "Commencez à planifier votre voyage au Sri Lanka",
     "planIntro": "Donnez-nous autant d’informations que possible afin que nous puissions bien cerner vos besoins. Notre équipe vous enverra le meilleur devis sous 48 heures."
+  },
+    "Contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Envoyez à Lume Bend Ceylon vos dates de voyage et vos centres d'intérêt, et recevez une proposition d'itinéraire sur mesure pour le Sri Lanka.",
+    "eyebrow": "Prenons contact",
+    "title": "Contactez-nous",
+    "subtitle": "Parlez-nous du voyage dont vous rêvez.",
+    "reachTitle": "Nous joindre directement",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "office": "Bureau",
+    "officeValue": "Matale, Sri Lanka",
+    "whatsapp": "Discuter sur WhatsApp",
+    "otherPlatforms": "Retrouvez-nous sur d'autres plateformes",
+    "mapPlaceholder": "Emplacement Google Maps – intégrez ici votre adresse",
+    "enquiryTitle": "Envoyer une demande"
   }
 }
+

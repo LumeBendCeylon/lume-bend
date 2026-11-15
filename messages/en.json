@@ -337,11 +337,11 @@
     "items": {
       "golden-grand-escape-5-day": {
         "title": "Golden Ceylon Escape",
-        "blurb": "Discover ancient fortresses, sacred temples and Sri Lanka's cultural heart on a privately guided five-day luxury escape.",
+        "blurb": "Five days of private luxury across Sri Lanka's Cultural Triangle and hill capital, with nothing left to chance.",
         "highlights": {
-          "0": "Private journey through Sri Lanka's Cultural Triangle",
-          "1": "Pinnawala elephant experience",
-          "2": "Sigiriya Rock Fortress and Dambulla Cave Temple",
+          "0": "Private sunrise Sigiriya climb",
+          "1": "Candlelit rooftop dinner",
+          "2": "Temple of the Tooth evening ceremony",
           "3": "Temple of the Sacred Tooth Relic",
           "4": "Luxury chauffeur-guided touring"
         },
@@ -868,5 +868,23 @@
     "tourHighlights": "Tour Highlights",
     "startPlanning": "Start Planning Your Sri Lanka Tour",
     "planIntro": "Please give as much information as you can so that we can get a good idea about your requirements. Our team will send you the best quote within 48 hours."
+  },
+
+
+  "Contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Send Lume Bend Ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
+    "eyebrow": "Get in Touch",
+    "title": "Contact Us",
+    "subtitle": "Tell us about the trip you're imagining.",
+    "reachTitle": "Reach Us Directly",
+    "phone": "Phone",
+    "email": "Email",
+    "office": "Office",
+    "officeValue": "Matale, Sri Lanka",
+    "whatsapp": "Chat on WhatsApp",
+    "otherPlatforms": "Find Us on Other Platforms",
+    "mapPlaceholder": "Google Map placeholder — embed your location here",
+    "enquiryTitle": "Send an Enquiry"
   }
 }

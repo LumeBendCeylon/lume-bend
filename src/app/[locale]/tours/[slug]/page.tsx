@@ -31,8 +31,7 @@ const detailedTours = tours.filter((t) => t.itinerary && t.itinerary.length > 0)
 // Admin-added tours are stored in Firestore and aren't known at build
 // time, so this page also checks there when a slug isn't in the static
 // list. Revalidate periodically so admin edits show up without a rebuild.
-export const revalidate = 60;
-
+export const dynamic = "force-dynamic";
 function customTourToTour(c: CustomTour): Tour {
   return {
     slug: c.slug,
