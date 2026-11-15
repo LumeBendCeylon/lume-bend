@@ -5681,8 +5681,47 @@
     "destinations": "目的地",
     "services": "服务",
     "untitled": "无标题"
+  },
+    "AuthPages": {
+    "login": {
+      "eyebrow": "欢迎回来",
+      "title": "登录",
+      "email": "电子邮箱",
+      "password": "密码",
+      "submit": "登录",
+      "noAccount": "还没有账户？",
+      "createOne": "立即注册",
+      "errorGeneric": "无法登录，请检查您的信息后重试。"
+    },
+    "signup": {
+      "eyebrow": "加入 Lume Bend Ceylon",
+      "title": "创建账户",
+      "fullName": "姓名",
+      "email": "电子邮箱",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "submit": "创建账户",
+      "haveAccount": "已有账户？",
+      "signIn": "登录",
+      "passwordMismatch": "两次输入的密码不一致。",
+      "errorGeneric": "无法创建账户，请重试。"
+    },
+    "account": {
+      "eyebrow": "我的账户",
+      "welcome": "欢迎，{name}",
+      "adminDashboard": "管理后台",
+      "signOut": "退出登录",
+      "myEnquiries": "我的咨询",
+      "loading": "正在加载您的咨询...",
+      "errorLoad": "无法加载您的咨询。",
+      "empty": "您还没有提交过咨询。",
+      "startEnquiry": "发起咨询",
+      "generalEnquiry": "一般咨询",
+      "travellers": "{count} 位旅客"
+    }
   }
 }
+
 
 
 

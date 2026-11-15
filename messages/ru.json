@@ -1087,8 +1087,47 @@
     "destinations": "Направления",
     "services": "Услуги",
     "untitled": "Без названия"
+  },
+    "AuthPages": {
+    "login": {
+      "eyebrow": "С возвращением",
+      "title": "Вход",
+      "email": "Эл. почта",
+      "password": "Пароль",
+      "submit": "Войти",
+      "noAccount": "Нет аккаунта?",
+      "createOne": "Создать аккаунт",
+      "errorGeneric": "Не удалось войти. Проверьте данные и попробуйте ещё раз."
+    },
+    "signup": {
+      "eyebrow": "Присоединяйтесь к Lume Bend Ceylon",
+      "title": "Создать аккаунт",
+      "fullName": "Полное имя",
+      "email": "Эл. почта",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердите пароль",
+      "submit": "Создать аккаунт",
+      "haveAccount": "Уже есть аккаунт?",
+      "signIn": "Войти",
+      "passwordMismatch": "Пароли не совпадают.",
+      "errorGeneric": "Не удалось создать аккаунт. Пожалуйста, попробуйте ещё раз."
+    },
+    "account": {
+      "eyebrow": "Мой аккаунт",
+      "welcome": "Добро пожаловать, {name}",
+      "adminDashboard": "Панель администратора",
+      "signOut": "Выйти",
+      "myEnquiries": "Мои запросы",
+      "loading": "Загрузка ваших запросов...",
+      "errorLoad": "Не удалось загрузить ваши запросы.",
+      "empty": "Вы ещё не отправляли запросов.",
+      "startEnquiry": "Отправить запрос",
+      "generalEnquiry": "Общий запрос",
+      "travellers": "{count, plural, one {# путешественник} few {# путешественника} many {# путешественников} other {# путешественника}}"
+    }
   }
 }
+
 
 
 

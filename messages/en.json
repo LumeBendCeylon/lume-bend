@@ -1087,6 +1087,45 @@
     "destinations": "Destinations",
     "services": "Services",
     "untitled": "Untitled"
+  },
+    "AuthPages": {
+    "login": {
+      "eyebrow": "Welcome Back",
+      "title": "Sign In",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "createOne": "Create one",
+      "errorGeneric": "Could not sign in. Please check your details and try again."
+    },
+    "signup": {
+      "eyebrow": "Join Lume Bend Ceylon",
+      "title": "Create Account",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Create Account",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "passwordMismatch": "Passwords do not match.",
+      "errorGeneric": "Could not create your account. Please try again."
+    },
+    "account": {
+      "eyebrow": "My Account",
+      "welcome": "Welcome, {name}",
+      "adminDashboard": "Admin Dashboard",
+      "signOut": "Sign Out",
+      "myEnquiries": "My Enquiries",
+      "loading": "Loading your enquiries...",
+      "errorLoad": "Could not load your enquiries.",
+      "empty": "You haven't submitted an enquiry yet.",
+      "startEnquiry": "Start an Enquiry",
+      "generalEnquiry": "General Enquiry",
+      "travellers": "{count, plural, one {# traveller} other {# travellers}}"
+    }
   }
 }
+
 

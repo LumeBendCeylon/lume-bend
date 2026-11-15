@@ -1086,8 +1086,47 @@
     "destinations": "Destinations",
     "services": "Services",
     "untitled": "Sans titre"
+  },
+    "AuthPages": {
+    "login": {
+      "eyebrow": "Bon retour",
+      "title": "Connexion",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "submit": "Se connecter",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "createOne": "Créer un compte",
+      "errorGeneric": "Connexion impossible. Veuillez vérifier vos informations et réessayer."
+    },
+    "signup": {
+      "eyebrow": "Rejoignez Lume Bend Ceylon",
+      "title": "Créer un compte",
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "Créer un compte",
+      "haveAccount": "Vous avez déjà un compte ?",
+      "signIn": "Se connecter",
+      "passwordMismatch": "Les mots de passe ne correspondent pas.",
+      "errorGeneric": "Impossible de créer votre compte. Veuillez réessayer."
+    },
+    "account": {
+      "eyebrow": "Mon compte",
+      "welcome": "Bienvenue, {name}",
+      "adminDashboard": "Tableau de bord admin",
+      "signOut": "Se déconnecter",
+      "myEnquiries": "Mes demandes",
+      "loading": "Chargement de vos demandes...",
+      "errorLoad": "Impossible de charger vos demandes.",
+      "empty": "Vous n'avez pas encore envoyé de demande.",
+      "startEnquiry": "Envoyer une demande",
+      "generalEnquiry": "Demande générale",
+      "travellers": "{count, plural, one {# voyageur} other {# voyageurs}}"
+    }
   }
 }
+
 
 
 
