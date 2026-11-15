@@ -1,6 +1,8 @@
+
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, Loader2, ImagePlus, X } from "lucide-react";
 import { submitReview } from "@/lib/firebase";
@@ -39,6 +41,7 @@ function compressImageToBase64(file: File, maxDimension = 900, quality = 0.7): P
 }
 
 export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }) {
+  const t = useTranslations("ReviewsPage.form");
   const [rating, setRating] = useState(5);
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -53,24 +56,24 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
 
     const room = MAX_PHOTOS - photos.length;
     if (room <= 0) {
-      setPhotoError(`You can add up to ${MAX_PHOTOS} photos.`);
+      setPhotoError(t("maxPhotos", { max: MAX_PHOTOS }));
       return;
     }
     const toProcess = files.slice(0, room);
+    if (toProcess.some((f) => !f.type.startsWith("image/"))) {
+      setPhotoError(t("notImage"));
+      return;
+    }
     if (files.length > room) {
-      setPhotoError(`Only added ${room} — max ${MAX_PHOTOS} photos per review.`);
+      setPhotoError(t("onlyAdded", { room, max: MAX_PHOTOS }));
     }
 
     try {
-      const compressed = await Promise.all(
-        toProcess.map((f) => {
-          if (!f.type.startsWith("image/")) throw new Error("One of the files isn't an image.");
-          return compressImageToBase64(f);
-        })
-      );
+      const compressed = await Promise.all(toProcess.map((f) => compressImageToBase64(f)));
       setPhotos((prev) => [...prev, ...compressed]);
-    } catch {
-      setPhotoError("Couldn't process one of those photos — try again.");
+    } catch (err) {
+      console.error(err);
+      setPhotoError(t("processError"));
     }
   }
 
@@ -95,8 +98,9 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
       setStatus("success");
       onSubmitted?.();
     } catch (err) {
+      console.error(err);
       setStatus("error");
-      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setErrorMsg(t("errorGeneric"));
     }
   }
 
@@ -108,10 +112,8 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
         className="flex flex-col items-center justify-center rounded-2xl bg-mist p-10 text-center"
       >
         <CheckCircle2 className="h-12 w-12 text-forest" />
-        <h3 className="mt-4 font-display text-xl text-forest-dark">Thank You!</h3>
-        <p className="mt-2 max-w-sm text-sm text-ink/70">
-          Your review has been submitted and will appear shortly.
-        </p>
+        <h3 className="mt-4 font-display text-xl text-forest-dark">{t("successTitle")}</h3>
+        <p className="mt-2 max-w-sm text-sm text-ink/70">{t("successText")}</p>
       </motion.div>
     );
   }
@@ -120,7 +122,7 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
     <form onSubmit={handleSubmit} className="space-y-5 rounded-2xl border border-forest/10 bg-white p-6">
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
         <div>
-          <label htmlFor="name" className="mb-1.5 block text-sm font-medium text-ink/80">Your Name</label>
+          <label htmlFor="name" className="mb-1.5 block text-sm font-medium text-ink/80">{t("name")}</label>
           <input
             id="name"
             name="name"
@@ -129,7 +131,7 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
           />
         </div>
         <div>
-          <label htmlFor="country" className="mb-1.5 block text-sm font-medium text-ink/80">Country</label>
+          <label htmlFor="country" className="mb-1.5 block text-sm font-medium text-ink/80">{t("country")}</label>
           <input
             id="country"
             name="country"
@@ -139,40 +141,41 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
       </div>
 
       <div>
-        <label htmlFor="tourTitle" className="mb-1.5 block text-sm font-medium text-ink/80">Which tour did you take?</label>
+        <label htmlFor="tourTitle" className="mb-1.5 block text-sm font-medium text-ink/80">{t("tourTitle")}</label>
         <input
           id="tourTitle"
           name="tourTitle"
-          placeholder="e.g. The Golden Palm Grand Escape"
+          placeholder={t("tourPlaceholder")}
           className="w-full rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
         />
       </div>
 
       <div>
-        <label className="mb-1.5 block text-sm font-medium text-ink/80">Your Rating</label>
+        <label className="mb-1.5 block text-sm font-medium text-ink/80">{t("rating")}</label>
         <StarRatingInput value={rating} onChange={setRating} />
       </div>
 
       <div>
-        <label htmlFor="comment" className="mb-1.5 block text-sm font-medium text-ink/80">Your Review</label>
+        <label htmlFor="comment" className="mb-1.5 block text-sm font-medium text-ink/80">{t("review")}</label>
         <textarea
           id="comment"
           name="comment"
           required
           rows={4}
-          placeholder="Tell other travellers about your experience..."
+          placeholder={t("reviewPlaceholder")}
           className="w-full rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
         />
       </div>
 
       <div>
         <label className="mb-1.5 block text-sm font-medium text-ink/80">
-          Add Photos (optional, up to {MAX_PHOTOS})
+          {t("addPhotos", { max: MAX_PHOTOS })}
         </label>
         <div className="flex flex-wrap gap-3">
           {photos.map((src, i) => (
             <div key={i} className="relative">
-              <img src={src} alt={`Selected ${i + 1}`} className="h-24 w-24 rounded-lg object-cover" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={src} alt={t("selectedAlt", { n: i + 1 })} className="h-24 w-24 rounded-lg object-cover" />
               <button
                 type="button"
                 onClick={() => removePhoto(i)}
@@ -185,7 +188,7 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
           {photos.length < MAX_PHOTOS && (
             <label className="flex h-24 w-24 cursor-pointer flex-col items-center justify-center gap-1 rounded-lg border-2 border-dashed border-forest/20 text-ink/50 transition-colors hover:border-gold hover:text-gold-dark">
               <ImagePlus className="h-5 w-5" />
-              <span className="text-[11px]">Add photo</span>
+              <span className="text-[11px]">{t("addPhoto")}</span>
               <input type="file" accept="image/*" multiple onChange={handlePhotoChange} className="hidden" />
             </label>
           )}
@@ -212,7 +215,7 @@ export default function ReviewForm({ onSubmitted }: { onSubmitted?: () => void }
         className="flex items-center justify-center gap-2 rounded-full bg-forest px-8 py-3 text-sm font-medium text-white transition-colors hover:bg-forest-light disabled:opacity-70"
       >
         {status === "submitting" && <Loader2 className="h-4 w-4 animate-spin" />}
-        Submit Review
+        {t("submit")}
       </button>
     </form>
   );

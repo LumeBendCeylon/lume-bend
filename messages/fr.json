@@ -1019,8 +1019,53 @@
     "eyebrow": "Nos voyages",
     "title": "Circuits",
     "subtitle": "Chaque style de circuit est un point de départ pour votre propre itinéraire."
+  },
+    "ReviewsPage": {
+    "page": {
+      "metaTitle": "Avis",
+      "metaDescription": "Découvrez ce que nos voyageurs disent de leur voyage avec Lume Bend Ceylon et partagez votre propre avis."
+    },
+    "content": {
+      "eyebrow": "Récits de voyageurs",
+      "title": "Avis",
+      "subtitle": "Ce que disent nos voyageurs — et un espace pour partager votre propre voyage.",
+      "recentEyebrow": "De nos voyageurs",
+      "recentTitle": "Avis récents",
+      "writeEyebrow": "Partagez votre voyage",
+      "writeTitle": "Écrire un avis"
+    },
+    "list": {
+      "readMore": "Lire la suite",
+      "showLess": "Réduire",
+      "photoAlt": "Photo {n} de {name}",
+      "fullPhotoAlt": "Photo de l'avis en taille réelle"
+    },
+    "form": {
+      "name": "Votre nom",
+      "country": "Pays",
+      "tourTitle": "Quel circuit avez-vous fait ?",
+      "tourPlaceholder": "p. ex. The Grand Escape",
+      "rating": "Votre note",
+      "review": "Votre avis",
+      "reviewPlaceholder": "Parlez de votre expérience aux autres voyageurs...",
+      "addPhotos": "Ajouter des photos (facultatif, jusqu'à {max})",
+      "addPhoto": "Ajouter une photo",
+      "selectedAlt": "Photo sélectionnée {n}",
+      "maxPhotos": "Vous pouvez ajouter jusqu'à {max} photos.",
+      "onlyAdded": "Seulement {room} ajoutée(s) — maximum {max} photos par avis.",
+      "notImage": "L'un des fichiers n'est pas une image.",
+      "processError": "Impossible de traiter l'une des photos — réessayez.",
+      "submit": "Envoyer l'avis",
+      "successTitle": "Merci !",
+      "successText": "Votre avis a été envoyé et apparaîtra sous peu.",
+      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "stars": {
+      "label": "{n, plural, one {# étoile} other {# étoiles}}"
+    }
   }
 }
+
 
 
   

@@ -1019,6 +1019,51 @@
     "eyebrow": "Unsere Reisen",
     "title": "Touren",
     "subtitle": "Jeder Tourstil ist ein Ausgangspunkt für Ihre ganz persönliche Reiseroute."
+  },
+
+  "ReviewsPage": {
+    "page": {
+      "metaTitle": "Bewertungen",
+      "metaDescription": "Lesen Sie, was unsere Gäste über ihre Reise mit Lume Bend Ceylon sagen, und teilen Sie Ihre eigene Reisebewertung."
+    },
+    "content": {
+      "eyebrow": "Reisegeschichten",
+      "title": "Bewertungen",
+      "subtitle": "Was unsere Gäste sagen – und ein Ort, um Ihre eigene Reise zu teilen.",
+      "recentEyebrow": "Von unseren Gästen",
+      "recentTitle": "Neueste Bewertungen",
+      "writeEyebrow": "Teilen Sie Ihre Reise",
+      "writeTitle": "Bewertung schreiben"
+    },
+    "list": {
+      "readMore": "Mehr lesen",
+      "showLess": "Weniger anzeigen",
+      "photoAlt": "Foto {n} von {name}",
+      "fullPhotoAlt": "Bewertungsfoto in voller Größe"
+    },
+    "form": {
+      "name": "Ihr Name",
+      "country": "Land",
+      "tourTitle": "Welche Reise haben Sie gemacht?",
+      "tourPlaceholder": "z. B. The Grand Escape",
+      "rating": "Ihre Bewertung",
+      "review": "Ihre Rezension",
+      "reviewPlaceholder": "Erzählen Sie anderen Reisenden von Ihrem Erlebnis ...",
+      "addPhotos": "Fotos hinzufügen (optional, bis zu {max})",
+      "addPhoto": "Foto hinzufügen",
+      "selectedAlt": "Ausgewähltes Foto {n}",
+      "maxPhotos": "Sie können bis zu {max} Fotos hinzufügen.",
+      "onlyAdded": "Nur {room} hinzugefügt – maximal {max} Fotos pro Bewertung.",
+      "notImage": "Eine der Dateien ist kein Bild.",
+      "processError": "Eines der Fotos konnte nicht verarbeitet werden – bitte erneut versuchen.",
+      "submit": "Bewertung absenden",
+      "successTitle": "Vielen Dank!",
+      "successText": "Ihre Bewertung wurde gesendet und erscheint in Kürze.",
+      "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+    },
+    "stars": {
+      "label": "{n, plural, one {# Stern} other {# Sterne}}"
+    }
   }
 }
 

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useTranslations } from "next-intl";
 import { Star } from "lucide-react";
 
 export default function StarRatingInput({
@@ -10,6 +11,7 @@ export default function StarRatingInput({
   value: number;
   onChange: (v: number) => void;
 }) {
+  const t = useTranslations("ReviewsPage.stars");
   const [hover, setHover] = useState(0);
 
   return (
@@ -21,7 +23,7 @@ export default function StarRatingInput({
           onMouseEnter={() => setHover(n)}
           onMouseLeave={() => setHover(0)}
           onClick={() => onChange(n)}
-          aria-label={`${n} star${n > 1 ? "s" : ""}`}
+          aria-label={t("label", { n })}
           className="p-0.5"
         >
           <Star

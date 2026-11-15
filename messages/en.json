@@ -1020,5 +1020,49 @@
     "eyebrow": "Our Journeys",
     "title": "Tours",
     "subtitle": "Every tour style is a starting point for your own itinerary."
+  },
+    "ReviewsPage": {
+    "page": {
+      "metaTitle": "Reviews",
+      "metaDescription": "Read what our guests say about travelling with Lume Bend Ceylon, and share your own trip review."
+    },
+    "content": {
+      "eyebrow": "Traveller Stories",
+      "title": "Reviews",
+      "subtitle": "What our guests say — and a place to share your own trip.",
+      "recentEyebrow": "From Our Guests",
+      "recentTitle": "Recent Reviews",
+      "writeEyebrow": "Share Your Trip",
+      "writeTitle": "Write a Review"
+    },
+    "list": {
+      "readMore": "Read more",
+      "showLess": "Show less",
+      "photoAlt": "Photo {n} from {name}",
+      "fullPhotoAlt": "Full size review photo"
+    },
+    "form": {
+      "name": "Your Name",
+      "country": "Country",
+      "tourTitle": "Which tour did you take?",
+      "tourPlaceholder": "e.g. The Grand Escape",
+      "rating": "Your Rating",
+      "review": "Your Review",
+      "reviewPlaceholder": "Tell other travellers about your experience...",
+      "addPhotos": "Add Photos (optional, up to {max})",
+      "addPhoto": "Add photo",
+      "selectedAlt": "Selected photo {n}",
+      "maxPhotos": "You can add up to {max} photos.",
+      "onlyAdded": "Only added {room} — max {max} photos per review.",
+      "notImage": "One of the files isn't an image.",
+      "processError": "Couldn't process one of those photos — try again.",
+      "submit": "Submit Review",
+      "successTitle": "Thank You!",
+      "successText": "Your review has been submitted and will appear shortly.",
+      "errorGeneric": "Something went wrong. Please try again."
+    },
+    "stars": {
+      "label": "{n, plural, one {# star} other {# stars}}"
+    }
   }
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useTranslations } from "next-intl";
 import { Quote, Loader2, X, ChevronLeft, ChevronRight } from "lucide-react";
 import { getReviews, type Review } from "@/lib/firebase";
 import StarRatingDisplay from "@/components/StarRatingDisplay";
@@ -10,6 +11,7 @@ const COMMENT_LIMIT = 160;
 const fallbackReviews: Review[] = [];
 
 function ReviewComment({ comment }: { comment: string }) {
+  const t = useTranslations("ReviewsPage.list");
   const [expanded, setExpanded] = useState(false);
   const isLong = comment.length > COMMENT_LIMIT;
   const shown = expanded || !isLong ? comment : comment.slice(0, COMMENT_LIMIT).trimEnd() + "…";
@@ -23,7 +25,7 @@ function ReviewComment({ comment }: { comment: string }) {
           onClick={() => setExpanded((v) => !v)}
           className="ml-1.5 text-sm font-medium text-gold-dark hover:underline"
         >
-          {expanded ? "Show less" : "Read more"}
+          {expanded ? t("showLess") : t("readMore")}
         </button>
       )}
     </blockquote>
@@ -33,6 +35,7 @@ function ReviewComment({ comment }: { comment: string }) {
 type LightboxState = { images: string[]; index: number };
 
 export default function ReviewsList({ max }: { max?: number }) {
+  const t = useTranslations("ReviewsPage.list");
   const [reviews, setReviews] = useState<Review[] | null>(null);
   const [lightbox, setLightbox] = useState<LightboxState | null>(null);
 
@@ -80,9 +83,10 @@ export default function ReviewsList({ max }: { max?: number }) {
                       onClick={() => setLightbox({ images, index: i })}
                       className="relative block aspect-square cursor-zoom-in overflow-hidden rounded-lg"
                     >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={src}
-                        alt={`Photo ${i + 1} from ${r.name}`}
+                        alt={t("photoAlt", { n: i + 1, name: r.name })}
                         className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
                       />
                       {i === 2 && images.length > 3 && (
@@ -134,9 +138,10 @@ export default function ReviewsList({ max }: { max?: number }) {
             </button>
           )}
 
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={lightbox.images[lightbox.index]}
-            alt="Full size review photo"
+            alt={t("fullPhotoAlt")}
             className="max-h-[85vh] max-w-full rounded-lg object-contain"
             onClick={(e) => e.stopPropagation()}
           />

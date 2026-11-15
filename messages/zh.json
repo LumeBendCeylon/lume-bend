@@ -5614,8 +5614,53 @@
     "eyebrow": "我们的旅程",
     "title": "旅行线路",
     "subtitle": "每一种旅行风格，都是您专属行程的起点。"
+  },
+    "ReviewsPage": {
+    "page": {
+      "metaTitle": "客户评价",
+      "metaDescription": "了解客人对 Lume Bend Ceylon 旅程的评价，并分享您自己的旅行点评。"
+    },
+    "content": {
+      "eyebrow": "旅行者故事",
+      "title": "客户评价",
+      "subtitle": "听听客人怎么说——也欢迎分享您自己的旅程。",
+      "recentEyebrow": "来自我们的客人",
+      "recentTitle": "最新评价",
+      "writeEyebrow": "分享您的旅程",
+      "writeTitle": "撰写评价"
+    },
+    "list": {
+      "readMore": "展开阅读",
+      "showLess": "收起",
+      "photoAlt": "{name} 的照片 {n}",
+      "fullPhotoAlt": "评价照片大图"
+    },
+    "form": {
+      "name": "您的姓名",
+      "country": "国家/地区",
+      "tourTitle": "您参加了哪条线路？",
+      "tourPlaceholder": "例如：The Grand Escape",
+      "rating": "您的评分",
+      "review": "您的评价",
+      "reviewPlaceholder": "向其他旅行者分享您的体验...",
+      "addPhotos": "添加照片（可选，最多 {max} 张）",
+      "addPhoto": "添加照片",
+      "selectedAlt": "已选照片 {n}",
+      "maxPhotos": "最多可添加 {max} 张照片。",
+      "onlyAdded": "仅添加了 {room} 张——每条评价最多 {max} 张照片。",
+      "notImage": "其中一个文件不是图片。",
+      "processError": "其中一张照片无法处理，请重试。",
+      "submit": "提交评价",
+      "successTitle": "谢谢您！",
+      "successText": "您的评价已提交，稍后将显示。",
+      "errorGeneric": "出错了，请重试。"
+    },
+    "stars": {
+      "label": "{n} 星"
+    }
   }
 }
+
 
 
 
