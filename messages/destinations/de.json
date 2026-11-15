@@ -238,5 +238,624 @@
         "description": "Genießen Sie Panoramablicke über Kandy von diesem malerischen Hügel mit der ikonischen weißen Buddha-Statue, umgeben von üppigen Bergen. Ein wunderschöner Ort für Fotos und um die Landschaft Kandys auf sich wirken zu lassen."
       }
     ]
+  },
+    "pinnawala": {
+    "name": "Pinnawala",
+    "region": "Kulturelles Dreieck und Hochland",
+    "description": "Pinnawala ist eines der markantesten Reiseziele Sri Lankas, um die majestätischen Elefanten der Insel zu erleben. Bekannt für seine lange Verbindung mit Elefantenpflege und Artenschutz, ermöglicht Pinnawala Reisenden, die sanften Riesen aus nächster Nähe zu beobachten und unvergessliche Momente bei ihrem Tagesablauf zu erleben. Für Besucher, die sich für die Tierwelt Sri Lankas und seine tiefe kulturelle Verbindung zu Elefanten interessieren, ist Pinnawala ein einzigartiger und bedeutungsvoller Halt zwischen der West- und der Zentralregion der Insel.",
+    "highlightCards": ["Elefantenwaisenhaus Pinnawala", "Elefanten am Fluss", "Elefantenpflege und Artenschutz"],
+    "articleSections": [
+      {
+        "title": "Die Elefanten von Pinnawala",
+        "description": "Pinnawala ist eng mit den Asiatischen Elefanten Sri Lankas verbunden und damit ein besonderes Ziel für Reisende, die diese majestätischen Tiere aus nächster Nähe erleben möchten. Die Elefanten stehen im Mittelpunkt, und sie gemeinsam in ihrer vertrauten Umgebung zu sehen, ist eine unvergessliche Begegnung mit einem der ikonischsten Tiere Sri Lankas. Das Erlebnis lässt Reisende Größe, Charakter und sanftes Wesen dieser bemerkenswerten Geschöpfe schätzen."
+      },
+      {
+        "title": "Leben an der Seite der Herden",
+        "description": "Einer der eindrucksvollsten Aspekte eines Besuchs in Pinnawala ist es, die Elefanten bei ihrem Tagesablauf zu sehen, vor allem am Fluss. Die Herde beim Zusammenkommen, Laufen und Miteinander zu beobachten, ist immersiver, als Wildtiere nur aus der Ferne zu betrachten. Umgeben von der tropischen Landschaft Zentral-Sri-Lankas erlauben diese Momente, das natürliche Verhalten und den sozialen Charakter der Elefanten in besonderer Umgebung zu erleben."
+      },
+      {
+        "title": "Elefantenpflege und Artenschutz",
+        "description": "Über unvergessliche Fotos hinaus vermittelt Pinnawala ein Verständnis für die Bedeutung von Elefantenpflege und Artenschutz in Sri Lanka. Reisende erfahren, welche Herausforderungen der Schutz der Asiatischen Elefanten mit sich bringt und welche Rolle engagierte Pflege für Tiere spielt, die menschliche Hilfe brauchen. Für Besucher mit Interesse an Wildtieren bietet Pinnawala eine bedeutungsvolle Perspektive auf Sri Lankas dauerhafte Beziehung zu seinen Elefanten."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Die Elefanten von Pinnawala treffen",
+        "description": "Verbringen Sie Zeit damit, die majestätischen Elefanten von Pinnawala zu beobachten, und erleben Sie eine der markantesten Tierbegegnungen Sri Lankas."
+      },
+      {
+        "title": "Elefanten am Fluss beobachten",
+        "description": "Erleben Sie den unvergesslichen Anblick von Elefanten, die sich am Fluss versammeln und bewegen – eines der bekanntesten Erlebnisse Pinnawalas."
+      },
+      {
+        "title": "Elefantenpflege und Artenschutz entdecken",
+        "description": "Erfahren Sie mehr über die Pflege der Elefanten und Sri Lankas fortlaufende Bemühungen, diese majestätischen Tiere zu schützen und zu erhalten."
+      }
+    ]
+  },
+  "matale": {
+    "name": "Matale",
+    "region": "Hochland",
+    "description": "Matale ist ein faszinierendes Reiseziel im zentralen Hochland Sri Lankas, wo nebelverhangene Berge, ruhige Seen, Gewürzgärten und antikes Erbe zusammentreffen. Von den dramatischen Landschaften von Riverston und der stillen Schönheit des Sembuwatta-Sees über den historischen Aluvihare-Felsentempel bis zum duftenden Gewürzland rund um die Stadt bietet Matale eine lohnende Reise abseits der bekannteren Hochlandziele. Die Region ist ideal für Reisende, die Natur, Kultur und landschaftliche Erlebnisse in ruhigerer Umgebung suchen.",
+    "highlightCards": ["Riverston und Knuckles-Gebirge", "Sembuwatta-See und Hochlandlandschaft", "Gewürzland und antikes Erbe"],
+    "articleSections": [
+      {
+        "title": "In die nebligen Berge von Riverston",
+        "description": "Die Berge rund um Riverston bieten einige der stimmungsvollsten Landschaften Zentral-Sri-Lankas. Während die Straße durch die Hügel ansteigt, verwandelt sich die Szenerie in eine Welt aus nebligen Gipfeln, sanften Grasländern, Wäldern und weiten Tälern. Die Fahrt Richtung Riverston und Pitawala Pathana ist ebenso unvergesslich wie die Aussichtspunkte selbst, mit wechselndem Wetter und dramatischer Bergkulisse. Für Reisende, die gern wandern, fotografieren und unberührte Hochlandlandschaften schätzen, bietet diese ruhigere Ecke der Knuckles-Region ein Erlebnis weitab der belebteren Touristenrouten."
+      },
+      {
+        "title": "Sembuwatta und die Hochlandlandschaften",
+        "description": "Versteckt zwischen den Hügeln von Matale ist der Sembuwatta-See von Wäldern, teebedeckten Hängen und friedlicher Hochlandkulisse umgeben. Die Fahrt zum See führt durch die Landschaft und zeigt eine sanftere Seite der Berge Sri Lankas, in der kühle Luft und grüne Landschaften den Trubel des Tieflands ersetzen. Der ruhige See, die umliegenden Hügel und das nahe Teeland machen Sembuwatta zu einem reizvollen Rückzugsort für Reisende, die die Natur des zentralen Hochlands in aller Ruhe erleben möchten."
+      },
+      {
+        "title": "Gewürze, Erbe und das Herz von Matale",
+        "description": "Neben seinen Bergen besitzt Matale einen reichen kulturellen Charakter, geprägt von jahrhundertealtem buddhistischem Erbe und traditionellem Gewürzanbau. Der antike Aluvihare-Felsentempel ist eng mit Sri Lankas religiöser und literarischer Geschichte verbunden, während die Umgebung für duftenden Zimt, Pfeffer, Kardamom und andere Gewürze bekannt ist, die lange zur Identität der Insel gehören. Ein Besuch eines Gewürzgartens und des Erbes von Aluvihare zeigt eine intimere Seite Sri Lankas, in der Geschichte, Landwirtschaft und Alltagstraditionen eng verbunden bleiben."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Riverston erkunden",
+        "description": "Reisen Sie in das neblige Hochland von Riverston und genießen Sie dramatische Bergkulisse, kühle Luft und Panoramablicke über die Knuckles-Region."
+      },
+      {
+        "title": "Pitawala Pathana entdecken",
+        "description": "Wandern Sie über die offenen Grasländer von Pitawala Pathana und genießen Sie weite Blicke über die umliegenden Täler und Berglandschaften."
+      },
+      {
+        "title": "Sembuwatta-See besuchen",
+        "description": "Entdecken Sie den friedlichen Bergsee, umgeben von Wäldern, Teeland und den kühlen grünen Landschaften des Matale-Hochlands."
+      },
+      {
+        "title": "Einen Gewürzgarten in Matale erkunden",
+        "description": "Entdecken Sie die duftende Welt der sri-lankischen Gewürze und erfahren Sie, wie Zimt, Pfeffer, Kardamom und andere Gewürze traditionell angebaut werden."
+      },
+      {
+        "title": "Aluvihare-Felsentempel besuchen",
+        "description": "Erkunden Sie den antiken Felsentempel von Aluvihare, eine bedeutende buddhistische Stätte inmitten der friedlichen Landschaften von Matale."
+      }
+    ]
+  },
+  "nuwara-eliya": {
+    "name": "Nuwara Eliya",
+    "region": "Zentrales Hochland",
+    "description": "Eine kühle, neblige Hochlandstadt, umgeben von smaragdgrünen Teeplantagen, kolonialem Charme, Wasserfällen und atemberaubenden Berglandschaften.",
+    "highlightCards": ["Teeplantagen", "Horton Plains und World's End", "Gregory-See"],
+    "articleSections": [
+      {
+        "title": "Der Hochlandcharme von Nuwara Eliya",
+        "description": "Hoch im Zentralen Hochland Sri Lankas ist Nuwara Eliya eine kühle, neblige Bergstadt, umgeben von grünen Tälern, teebedeckten Hängen, Wasserfällen und stillen Hochlandlandschaften. Oft als Little England bekannt, spiegelt die Stadt ihre koloniale Vergangenheit in Architektur, Gärten, alten Gebäuden und ihrer englisch geprägten Atmosphäre wider. Das kühle Klima und die friedliche Umgebung machen Nuwara Eliya zu einem der beliebtesten Ziele des Berglands."
+      },
+      {
+        "title": "Leben im Teeland Sri Lankas",
+        "description": "Nuwara Eliya liegt im Herzen von Sri Lankas berühmtem Teeanbaugebiet, in dem smaragdgrüne Teegüter die Berge und Täler bedecken. Ein Besuch zeigt, wie Tee angebaut und sorgfältig verarbeitet wird, wie aus frischem Teeblatt Ceylon-Tee wird, und lädt zu einer frisch gebrühten Tasse inmitten spektakulärer Hochlandkulisse ein. Jenseits der Plantagen geben Märkte, Farmen, Gärten und lokale Gemeinschaften Einblick in den gemächlicheren Rhythmus des Lebens in den Bergen."
+      },
+      {
+        "title": "Natur, Abenteuer und Hochland-Auszeiten",
+        "description": "Die Landschaften um Nuwara Eliya bieten weit mehr als schöne Ausblicke. Besucher können die Nebelwälder und Grasländer der Horton Plains erkunden, zum dramatischen Aussichtspunkt World's End wandern, Wasserfälle und Botanische Gärten entdecken oder ruhige Momente am Gregory-See genießen. Panoramafahrten durch das Teeland zeigen neblige Berge, kurvige Straßen, Plantagendörfer und kaskadierende Wasserfälle – ideal für Reisende, die Natur, frische Bergluft, Outdoor-Erlebnisse und ein langsameres Tempo suchen."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Teeplantagen- und Fabriktour",
+        "description": "Erkunden Sie das schöne Teeland rund um Nuwara Eliya und erfahren Sie, wie Ceylon-Tee angebaut, geerntet, verarbeitet und zubereitet wird. Genießen Sie Panoramablicke über die smaragdgrünen Plantagen und lernen Sie das weltberühmte Teeerbe Sri Lankas kennen."
+      },
+      {
+        "title": "Horton Plains und World's End",
+        "description": "Erkunden Sie die nebligen Grasländer und Nebelwälder des Horton-Plains-Nationalparks, bevor Sie zum dramatischen Aussichtspunkt World's End wandern. Genießen Sie atemberaubende Hochlandkulisse und eine der bemerkenswertesten Naturlandschaften Sri Lankas."
+      },
+      {
+        "title": "Gregory-See-Erlebnis",
+        "description": "Genießen Sie die friedliche Umgebung des Gregory-Sees, umgeben von grünen Hügeln und kühler Hochlandluft. Machen Sie einen entspannten Spaziergang am Ufer oder eine gemütliche Bootsfahrt und erleben Sie die landschaftliche Schönheit von Nuwara Eliya."
+      },
+      {
+        "title": "Hakgala-Botanischer-Garten",
+        "description": "Spazieren Sie durch den wunderschön angelegten Hakgala-Botanischen-Garten mit bunten Blumen, exotischen Pflanzen, hohen Bäumen und ruhigen Wegen. Ein erfrischendes Erlebnis inmitten der Naturschönheit des Hochlands."
+      },
+      {
+        "title": "Victoria Park",
+        "description": "Machen Sie einen friedlichen Spaziergang durch den Victoria Park, eine gepflegte Grünanlage im Herzen von Nuwara Eliya. Entdecken Sie bunte Blumen, alte Bäume, ruhige Pfade und verschiedene Hochlandvögel."
+      },
+      {
+        "title": "Koloniales Nuwara Eliya",
+        "description": "Entdecken Sie den besonderen kolonialen Charakter von Nuwara Eliya anhand historischer Gebäude, eleganter Hotels, Kirchen, Gärten und ruhiger Straßen. Erleben Sie die einzigartige Atmosphäre, die der Stadt den Spitznamen Little England einbrachte."
+      },
+      {
+        "title": "Erdbeerfarm-Erlebnis",
+        "description": "Besuchen Sie eine Erdbeerfarm im Hochland und erfahren Sie, wie Erdbeeren im kühlen Klima von Nuwara Eliya angebaut werden. Genießen Sie die friedliche Farmumgebung und probieren Sie frische lokale Erdbeeren und Erdbeerspezialitäten."
+      },
+      {
+        "title": "Moon Plains",
+        "description": "Reisen Sie in die offenen Hochlandlandschaften der Moon Plains und genießen Sie weite Blicke über die umliegenden Berge und Täler. Die friedliche Szenerie macht sie zu einem unvergesslichen Ort für Fotografie und Naturliebhaber."
+      },
+      {
+        "title": "Ambewela-Farm-Erlebnis",
+        "description": "Besuchen Sie die malerische Gegend um Ambewela und entdecken Sie Sri Lankas Milchwirtschaftslandschaft im Hochland. Umgeben von grünen Hügeln und kühler Bergluft bietet das Farmerlebnis eine andere Perspektive auf das Leben im Zentralen Hochland."
+      },
+      {
+        "title": "Panorama-Zugfahrt ab Nanu Oya",
+        "description": "Erleben Sie eine der unvergesslichsten Bahnfahrten Sri Lankas durch neblige Berge, Teeplantagen, tiefe Täler und üppige Hochlandlandschaften. Die Fahrt zeigt auf wunderbare Weise die wechselnden Landschaften rund um Nuwara Eliya."
+      },
+      {
+        "title": "Ramboda-Wasserfälle",
+        "description": "Entdecken Sie die spektakulären Ramboda-Wasserfälle inmitten üppiger Berglandschaft und nebliger Hochlandkulisse. Genießen Sie die erfrischende Atmosphäre und die schönen Ausblicke auf einen der malerischsten Wasserfälle des Zentralen Hochlands."
+      },
+      {
+        "title": "Seetha-Amman-Tempel",
+        "description": "Besuchen Sie den farbenfrohen Seetha-Amman-Tempel, eine heilige Stätte, die mit dem Ramayana und der Geschichte von Sita Devi verbunden ist. Erkunden Sie den Tempel, den nahen Bach und die Umgebung und entdecken Sie die Legenden dieses friedlichen Ortes."
+      },
+      {
+        "title": "Sri-Bhaktha-Hanuman-Tempel",
+        "description": "Besuchen Sie den Sri-Bhaktha-Hanuman-Tempel in den Hügeln von Ramboda, eine wichtige Station auf Sri Lankas Ramayana-Pfad. Bewundern Sie die beeindruckende Hanuman-Statue, erleben Sie die ruhige Tempelumgebung und genießen Sie Panoramablicke über das Kotmale-Tal."
+      }
+    ]
+  },
+  "kitulgala": {
+    "name": "Kitulgala",
+    "region": "Hochland",
+    "description": "Kitulgala ist ein üppiges Abenteuerziel in den westlichen Ausläufern Sri Lankas, umgeben von Regenwald, gewundenen Flüssen und dramatischen tropischen Landschaften. Vor allem für Wildwasser-Rafting auf dem Kelani bekannt, bietet Kitulgala eine spannende Kombination aus Outdoor-Abenteuer und unberührter Natur. Jenseits des Flusses können Reisende Regenwaldpfade erkunden, versteckte Wasserfälle entdecken und die friedliche Atmosphäre einer der schönsten Naturregionen Sri Lankas erleben – ein idealer Rückzugsort für alle, die Abenteuer abseits der belebteren Touristenrouten suchen.",
+    "highlightCards": ["Kelani-Fluss und Wildwasser-Rafting", "Kitulgala-Regenwald", "Abenteuer- und Naturerlebnisse"],
+    "articleSections": [
+      {
+        "title": "Abenteuer auf dem Kelani-Fluss",
+        "description": "Der Kelani-Fluss steht im Mittelpunkt von Kitulgalas Abenteuergeist. Umgeben von dichter tropischer Vegetation und steilen bewaldeten Hügeln bietet sein Wasser den Rahmen für aufregendes Wildwasser-Rafting und andere Flusserlebnisse. Die Fahrt durch die Stromschnellen verbindet Nervenkitzel mit wunderschöner Natur und führt durch eine Landschaft, die wunderbar grün und unberührt geblieben ist."
+      },
+      {
+        "title": "In den Regenwald von Kitulgala",
+        "description": "Jenseits des Flusses öffnet sich Kitulgala in eine reiche Regenwaldwelt mit hohen Bäumen, Bächen, Vögeln und verborgenen Winkeln. Ein Spaziergang durch den Wald zeigt eine ruhigere Seite des Ziels, in der das Rauschen des Wassers und die Geräusche der Tiere den Lärm der Städte ersetzen. Für Reisende, die Natur, Fotografie und intensive Outdoor-Erlebnisse lieben, ist der Regenwald eine wunderbare Gelegenheit, Artenvielfalt und Atmosphäre der Feuchtzone Sri Lankas zu entdecken."
+      },
+      {
+        "title": "Eine Welt der Entdeckungen im Freien",
+        "description": "Kitulgala bietet mehr als ein einzelnes Abenteuer: Höhlen, Wasserfälle, Waldpfade und malerische Flüsse schaffen ein abwechslungsreiches Erlebnis für aktive Reisende. Die umliegende Landschaft lässt sich zwischen den abenteuerlicheren Aktivitäten entspannt erkunden, und die Kombination aus Regenwald und Flusslandschaften vermittelt das Gefühl, ganz in der Natur zu sein. Ob für einen adrenalingeladenen Tag oder eine tiefere Verbindung zur Wildnis Sri Lankas: Kitulgala bietet ein Erlebnis, das sich deutlich von den traditionelleren Zielen der Insel unterscheidet."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Wildwasser-Rafting",
+        "description": "Erleben Sie die Stromschnellen des Kelani-Flusses bei einem der aufregendsten Outdoor-Abenteuer Sri Lankas, umgeben von üppigem Regenwald und dramatischer Flusslandschaft."
+      },
+      {
+        "title": "Den Kitulgala-Regenwald erkunden",
+        "description": "Wagen Sie sich in den üppigen Regenwald rund um Kitulgala und entdecken Sie eine reiche Naturwelt voller tropischer Vegetation, Bäche und Tiere."
+      },
+      {
+        "title": "Trekking durch den Wald",
+        "description": "Folgen Sie Naturpfaden durch den Feuchtzonenwald und erleben Sie die friedliche Atmosphäre und Artenvielfalt der Wildnis rund um Kitulgala."
+      },
+      {
+        "title": "Versteckte Wasserfälle entdecken",
+        "description": "Erkunden Sie die bewaldete Umgebung von Kitulgala auf der Suche nach wunderschönen Wasserfällen und stillen Naturbecken, die im Grün verborgen liegen."
+      },
+      {
+        "title": "Kitulgalas Höhlen erkunden",
+        "description": "Entdecken Sie die Höhlen und felsigen Landschaften in den Wäldern rund um Kitulgala – eine abenteuerlichere Seite des Reiseziels."
+      },
+      {
+        "title": "Ein malerisches Flusserlebnis genießen",
+        "description": "Entschleunigen Sie am Kelani-Fluss und genießen Sie die friedliche Verbindung aus fließendem Wasser, Regenwald und umliegender Berglandschaft."
+      }
+    ]
+  },
+  "sinharaja": {
+    "name": "Sinharaja",
+    "region": "Natur und Tierwelt",
+    "description": "Sinharaja ist Sri Lankas berühmtestes Regenwaldziel, eine weite tropische Wildnis voller uralter Bäume, endemischer Vögel, seltener Tiere und verborgener Bäche. Für seine außergewöhnliche Artenvielfalt anerkannt, bietet der Wald ein intensives Erlebnis weitab der belebten Touristenrouten. Geführte Wanderungen führen tief in den Regenwald, wo Vogelstimmen, fließendes Wasser und dichte tropische Vegetation eine völlig andere Seite Sri Lankas erschaffen. Für Naturliebhaber, Fotografen und Reisende, die eine echte Verbindung zur Wildnis der Insel suchen, ist Sinharaja eine unvergessliche Reise ins Herz des Regenwalds.",
+    "highlightCards": ["Sinharaja-Regenwald", "Endemische Tier- und Vogelwelt", "Regenwald-Trekking und Natur"],
+    "articleSections": [
+      {
+        "title": "Ins Herz von Sinharaja",
+        "description": "Der Gang nach Sinharaja fühlt sich an wie das Betreten einer anderen Welt: Hohe Bäume bilden ein dichtes grünes Blätterdach über Pfaden, die von Farnen, Lianen und tropischer Vegetation gesäumt sind. Der Regenwald ist erfüllt von den Klängen von Vögeln, Insekten und fließendem Wasser, während Nebel und wechselndes Licht dem Wald den ganzen Tag über eine stimmungsvolle Aura verleihen. Mit einem kundigen Guide entdecken Sie Details, die man leicht übersieht, von winzigen Waldbewohnern bis zu uralten Bäumen und dem vernetzten Leben dieses bemerkenswerten Ökosystems."
+      },
+      {
+        "title": "Eine Welt endemischer Tiere",
+        "description": "Sinharaja ist einer der wichtigsten Lebensräume für endemische Tiere in Sri Lanka und damit besonders lohnend für Vogelbeobachter und Naturfreunde. Der Wald beherbergt viele Arten, die nirgendwo sonst auf der Welt vorkommen, und geduldiges Beobachten kann farbenprächtige Vögel, Reptilien, Amphibien und andere Tiere zwischen der dichten Vegetation sichtbar machen. Statt Tierbegegnungen aus dem Fahrzeug lädt Sinharaja dazu ein, langsamer zu werden, genau hinzuhören und den Wald als lebendiges Ökosystem zu erleben."
+      },
+      {
+        "title": "Zu Fuß durch Sri Lankas Regenwald",
+        "description": "Eine Reise durch Sinharaja handelt ebenso von der Atmosphäre des Waldes wie von den Tieren selbst. Pfade queren kleine Bäche, führen unter gewaltigen Bäumen hindurch und durch Vegetationsschichten, die über Jahrhunderte tropischen Wachstums entstanden sind. Das Erlebnis ist aktiv und zugleich zutiefst friedlich und erlaubt es Reisenden, sich von belebten Routen zu lösen und sinnvolle Zeit in der Natur zu verbringen. Für alle, die ein authentisches Regenwalderlebnis in Sri Lanka suchen, ist Sinharaja eine seltene Gelegenheit, eine der kostbarsten Naturlandschaften der Insel zu erkunden."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Den Sinharaja-Regenwald erkunden",
+        "description": "Betreten Sie den uralten Regenwald und entdecken Sie eine Welt aus hohen Bäumen, dichter Vegetation, fließenden Bächen und bemerkenswerter Artenvielfalt."
+      },
+      {
+        "title": "Eine geführte Regenwald-Trekkingtour",
+        "description": "Folgen Sie Waldpfaden mit einem kundigen lokalen Guide und entdecken Sie die verborgenen Tiere, Pflanzen und Naturdetails von Sinharaja."
+      },
+      {
+        "title": "Vogelbeobachtung",
+        "description": "Halten Sie Ausschau und lauschen Sie nach den endemischen Vögeln Sri Lankas, die durch das dichte Blätterdach und die Waldumgebung ziehen."
+      },
+      {
+        "title": "Endemische Tierwelt entdecken",
+        "description": "Erkunden Sie den Wald langsam und beobachten Sie die einzigartigen Vögel, Reptilien, Amphibien und anderen Tiere, die Sinharaja ihr Zuhause nennen."
+      },
+      {
+        "title": "Waldbäche und Wasserfälle erkunden",
+        "description": "Folgen Sie Regenwaldpfaden zu klaren Bächen und kleinen Wasserfällen, die im üppigen Grün des Waldes verborgen liegen."
+      },
+      {
+        "title": "Regenwald-Fotografie erleben",
+        "description": "Halten Sie die Texturen, Tiere, das dramatische Grün und die stimmungsvollen Landschaften fest, die Sinharaja zu einem der markantesten Naturziele Sri Lankas machen."
+      }
+    ]
+  },
+    "ella": {
+    "name": "Ella",
+    "region": "Uva-Hochland",
+    "description": "Eine atemberaubende Bergstadt, umgeben von smaragdgrünen Teeplantagen, nebligen Tälern, dramatischen Aussichtspunkten, Wasserfällen und einigen der unvergesslichsten Hochland-Erlebnisse Sri Lankas.",
+    "highlightCards": ["Nine-Arch-Brücke", "Little Adam's Peak", "Ella Rock"],
+    "articleSections": [
+      {
+        "title": "Der Bergcharme von Ella",
+        "description": "Eingebettet in die nebligen Berge des Uva-Hochlands ist Ella ein friedliches Bergziel, umgeben von smaragdgrünen Teeplantagen, dramatischen Tälern, bewaldeten Hängen und atemberaubenden Aussichtspunkten. Das kühle Klima und die entspannte Atmosphäre machen es zu einer erfrischenden Auszeit vom tropischen Tiefland, und die kleine Stadt bietet eine charmante Mischung aus lokalem Leben, Cafés, Boutique-Unterkünften und malerischer Umgebung. Jenseits der Stadt führen kurvige Bergstraßen zu wunderschönen Landschaften, versteckten Wasserfällen, Teegütern und ruhigen Dörfern und schaffen ein Erlebnis, das zugleich abenteuerlich und herrlich unaufgeregt ist."
+      },
+      {
+        "title": "Teeland, Eisenbahnerbe und Hochlandleben",
+        "description": "Ella ist eng mit Sri Lankas berühmtem Teeland verbunden, in dem üppige Plantagen die umliegenden Hügel bedecken und traditionelle Teegüter den Alltag prägen. Reisende erfahren, wie Ceylon-Tee angebaut und hergestellt wird, und erleben den friedlichen Rhythmus des Hochlandlebens. Die Region bietet auch einige der unvergesslichsten Eisenbahnlandschaften Sri Lankas, darunter die ikonische Nine-Arch-Brücke und die historische Bahnstrecke durch die Berge. Eine Zugfahrt durch neblige Täler, teebedeckte Hänge, Tunnel, Brücken und kleine Gemeinden des Berglands ist eine einzigartige Art, Naturschönheit und Erbe von Ella zu erleben."
+      },
+      {
+        "title": "Natur, Abenteuer und landschaftliche Auszeiten",
+        "description": "Für Reisende, die Natur und Outdoor-Erlebnisse lieben, bietet Ella eine außergewöhnliche Kombination aus Wanderwegen, Wasserfällen, Aussichtspunkten, Wäldern und malerischen Berglandschaften. Wandern Sie zum Little Adam's Peak für Panoramablicke, trekken Sie durchs Teeland zum Ella Rock, entdecken Sie die dramatischen Ravana-Wasserfälle und die Legenden um die Ravana-Höhle oder genießen Sie einfach einen ruhigen Spaziergang durch Plantagen und Dörfer. Von abenteuerlichen Wanderungen und malerischen Zugfahrten bis zu stillen Momenten mit Blick auf die Berge bietet Ella vielfältige Erlebnisse für Reisende, die Natur, Entdeckung, Fotografie, Entspannung und authentisches Hochlandleben in Sri Lanka suchen."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Nine-Arch-Brücke",
+        "description": "Entdecken Sie Ellas ikonische Nine-Arch-Brücke, ein beeindruckendes Eisenbahnviadukt, umgeben von üppigem Dschungel und teebedeckten Hügeln. Gehen Sie zu den Aussichtspunkten rund um die Brücke und erleben Sie, wenn ein Zug vorbeifährt, eine der unvergesslichsten Bahnszenen Sri Lankas."
+      },
+      {
+        "title": "Little Adam's Peak",
+        "description": "Machen Sie eine angenehme Wanderung durch Teeplantagen zum Gipfel des Little Adam's Peak und genießen Sie weite Blicke über Ellas grüne Berge und Täler. Die relativ sanfte Wanderung ist einer der zugänglichsten Wege, die spektakuläre Landschaft rund um Ella zu erleben."
+      },
+      {
+        "title": "Ella Rock",
+        "description": "Begeben Sie sich auf eine lohnende Wanderung zum Ella Rock durch Teeplantagen, Waldpfade und wunderschöne Hochlandkulisse. Der Weg ist abenteuerlicher als der zum Little Adam's Peak und belohnt mit spektakulären Panoramablicken über die umliegenden Berge und Täler."
+      },
+      {
+        "title": "Ravana-Wasserfälle",
+        "description": "Besuchen Sie die dramatischen Ravana-Wasserfälle, einen der bekanntesten Wasserfälle der Region Ella. Umgeben von üppiger Berglandschaft ist der Wasserfall ein erfrischender Halt am Straßenrand und eng mit den antiken Legenden um König Ravana und das Ramayana verbunden."
+      },
+      {
+        "title": "Ravana-Höhle",
+        "description": "Erkunden Sie die historische Ravana-Höhle, eine Naturhöhle, die mit der legendären Geschichte von König Ravana und Sita verbunden ist. In den Bergen oberhalb von Ella gelegen, verbindet die Stätte Naturkulisse, lokale Traditionen und faszinierende Legenden, die Teil von Sri Lankas Kulturerbe sind."
+      },
+      {
+        "title": "Teeplantagen-Erlebnis in Ella",
+        "description": "Erkunden Sie die Teeanbaulandschaften rund um Ella und entdecken Sie die Geschichte hinter Sri Lankas weltberühmtem Ceylon-Tee. Besuchen Sie ein aktives Teegut oder eine Fabrik, erfahren Sie mehr über Anbau und Herstellung und genießen Sie frisch zubereiteten Tee inmitten wunderschöner Berglandschaft."
+      },
+      {
+        "title": "Panoramafahrt mit dem Hochlandzug",
+        "description": "Erleben Sie eine der unvergesslichsten Bahnfahrten Sri Lankas durch neblige Berge, smaragdgrüne Teeplantagen, tiefe Täler, Tunnel, Brücken und kleine Hochlandgemeinden. Die Fahrt ist eine wunderbare Gelegenheit, innezuhalten und die wechselnden Landschaften des sri-lankischen Berglands zu genießen."
+      },
+      {
+        "title": "Aussichtspunkt Ella Gap",
+        "description": "Genießen Sie atemberaubende Ausblicke vom Ella Gap, wo sich die Berge zu den südlichen Ebenen öffnen. An klaren Tagen schaffen der dramatische Kontrast zwischen den umliegenden Gipfeln, dem fernen Tiefland und den endlosen grünen Landschaften eines von Ellas schönsten Panoramaerlebnissen."
+      },
+      {
+        "title": "Demodara-Eisenbahnschleife",
+        "description": "Entdecken Sie die faszinierende Demodara-Eisenbahnschleife, ein beeindruckendes Stück Ingenieurskunst, bei dem sich die Bahnlinie um die Landschaft windet und unter sich selbst hindurchführt. Das Erlebnis gibt einen näheren Einblick in das Eisenbahnerbe, das Sri Lankas Bergland so einzigartig macht."
+      },
+      {
+        "title": "Flying-Ravana-Abenteuer",
+        "description": "Fügen Sie Ihrem Ella-Erlebnis mit einer aufregenden Zipline-Fahrt über die Berglandschaft eine Prise Abenteuer hinzu. Schweben Sie über grüne Täler und teebedeckte Hügel und genießen Sie spektakuläre Luftaufnahmen des umliegenden Hochlands."
+      },
+      {
+        "title": "Ayurvedische Massage und Wellness",
+        "description": "Entschleunigen Sie mit einem traditionellen ayurvedischen Wellness-Erlebnis in der ruhigen Umgebung von Ella. Genießen Sie nach einem Tag in den Bergen eine wohltuende Massage oder Wellness-Behandlung, inspiriert von Sri Lankas alten Heiltraditionen."
+      },
+      {
+        "title": "Ausflug zu den Diyaluma-Fällen",
+        "description": "Unternehmen Sie einen landschaftlich reizvollen Ausflug von Ella zu den Diyaluma-Fällen, einem der spektakulären Hochland-Wasserfälle Sri Lankas. Umgeben von dramatischen Bergen und offenen Landschaften bieten die Fälle ein unvergessliches Naturerlebnis für Reisende, die über Ellas unmittelbare Umgebung hinaus erkunden möchten."
+      }
+    ]
+  },
+  "yala": {
+    "name": "Yala",
+    "region": "Südostliches Sri Lanka",
+    "description": "Eine wilde und fesselnde Ecke Sri Lankas, in der weite Wälder, offene Ebenen, Lagunen, felsige Landschaften und Küstenwildnis den Rahmen für unvergessliche Tiererlebnisse bilden.",
+    "highlightCards": ["Wildlife-Safari im Yala", "Leopardenbegegnungen", "Yalas Wildnis und Landschaften"],
+    "articleSections": [
+      {
+        "title": "In die Wildnis: Yala entdecken",
+        "description": "Im südöstlichen Winkel Sri Lankas gelegen, ist Yala ein bemerkenswertes Wildnisziel, in dem Wälder, Grasländer, Lagunen, felsige Landschaften und Küstenlebensräume zusammenkommen. Fernab der geschäftigen Atmosphäre der Städte der Insel vermittelt der Park ein Gefühl von Weite, Stille und natürlicher Freiheit. Als Schutzgebiet ist Yala Heimat einer bemerkenswerten Vielfalt an Wildtieren und lässt Reisende Sri Lanka in seiner ungezähmtesten Form erleben. Jede Safari ist anders: Wechselnde Landschaften, Tierbewegungen, Vogelrufe und unerwartete Begegnungen schaffen ein wirklich authentisches Wildniserlebnis."
+      },
+      {
+        "title": "Die Tierwelt von Yala",
+        "description": "Yala ist für seine reiche Tierwelt bekannt und besonders berühmt für die Chance, dem Sri-Lanka-Leoparden zu begegnen. Neben diesen scheuen Großkatzen leben im Park Elefanten, Lippenbären, Krokodile, Axishirsche, Wasserbüffel, Wildschweine, Affen und viele weitere Arten. Seine Lagunen, Feuchtgebiete, Wälder und offenen Ebenen ziehen zudem eine beeindruckende Vielfalt an Stand- und Zugvögeln an. Tiersichtungen sind nie garantiert, und das macht eine Safari so besonders: Jede Fahrt in den Park birgt die Möglichkeit, etwas Unerwartetes in seiner natürlichen Umgebung zu entdecken."
+      },
+      {
+        "title": "Safari, Natur und die südliche Wildnis",
+        "description": "Ein Yala-Erlebnis beginnt früh, oft mit dem weichen Licht des Morgens, das die ersten Lebenszeichen in der Wildnis enthüllt. Reisende erkunden den Park im Safari-Jeep, folgen natürlichen Pfaden durch Wälder, Grasländer, Lagunen und felsiges Gelände und halten unterwegs nach Tieren Ausschau. Von stillen Momenten an einer vogelreichen Lagune über ferne Elefantensichtungen bis zur Möglichkeit, einen Leoparden durch die Landschaft streifen zu sehen, wird das Erlebnis von Geduld und Natur geprägt. Neben den Tieren machen Yalas dramatische Szenerie und friedliche Atmosphäre es zu einer unvergesslichen Auszeit für Reisende, die Abenteuer, Fotografie und eine tiefere Verbindung zu Sri Lankas wilden Landschaften suchen."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Safari im Yala-Nationalpark",
+        "description": "Erkunden Sie die Wildnis des Yala-Nationalparks auf einer geführten Safari durch Wälder, Grasländer, Lagunen und felsige Landschaften. Fahren Sie im Safari-Jeep auf der Suche nach Sri Lankas bemerkenswerter Tierwelt und erleben Sie die wechselnde Szenerie und friedliche Atmosphäre des Parks."
+      },
+      {
+        "title": "Leopardenbeobachtung",
+        "description": "Yala ist international bekannt für die Chance, dem Sri-Lanka-Leoparden in seinem natürlichen Lebensraum zu begegnen. Schließen Sie sich einem erfahrenen Safari-Guide an, erkunden Sie die verschiedenen Landschaften des Parks und halten Sie geduldig nach diesen scheuen und kraftvollen Großkatzen Ausschau."
+      },
+      {
+        "title": "Elefantenbegegnungen",
+        "description": "Halten Sie Ausschau nach Sri-Lanka-Elefanten, die durch Wälder, Grasländer und offene Flächen von Yala ziehen. Diese majestätischen Tiere in ihrer natürlichen Umgebung zu sehen, kann einer der unvergesslichsten Momente einer Wildlife-Safari sein."
+      },
+      {
+        "title": "Wildlife-Safari am Morgen",
+        "description": "Beginnen Sie den Tag mit einer frühen Safari, wenn die Wildnis erwacht. Die kühleren Stunden bieten oft eine wunderbare Atmosphäre, um den Park zu erkunden, Vögel zu beobachten und im weichen Morgenlicht nach Tieren zu suchen."
+      },
+      {
+        "title": "Sonnenuntergangs-Safari",
+        "description": "Erkunden Sie Yala im weicheren Licht des späten Nachmittags und erleben Sie, wie sich die Wildnis verwandelt, wenn die Sonne zu sinken beginnt. Die warme Landschaft, wechselnde Schatten und die friedliche Atmosphäre schaffen einen wunderschönen Rahmen für Tierbeobachtung und Fotografie."
+      },
+      {
+        "title": "Vogelbeobachtung",
+        "description": "Entdecken Sie die bemerkenswerte Vogelwelt Yalas in Wäldern, Feuchtgebieten, Lagunen und offenen Landschaften. Von farbenprächtigen Standvögeln bis zu saisonalen Besuchern bietet der Park lohnende Möglichkeiten für Vogelbeobachter und Naturfreunde."
+      },
+      {
+        "title": "Yalas Lagunen und Feuchtgebiete",
+        "description": "Erkunden Sie die friedlichen Lagunen und Feuchtgebietslebensräume, die über Yala verstreut sind. Diese wasserreichen Landschaften ziehen Vögel, Krokodile, Elefanten und andere Tiere an und bilden einige der schönsten und stimmungsvollsten Kulissen im Park."
+      },
+      {
+        "title": "Tierfotografie",
+        "description": "Halten Sie die Landschaften und Tiere Yalas bei einem speziellen Fotografie-Erlebnis fest. Von Leoparden und Elefanten über Vögel und Lagunen bis zu dramatischer Naturkulisse bietet der Park unzählige Gelegenheiten für unvergessliche Tierbilder."
+      },
+      {
+        "title": "Yalas Wildnislandschaften",
+        "description": "Erleben Sie die vielfältigen Landschaften, die Yala einzigartig machen, von Trockenwäldern und offenen Ebenen über felsige Aufschlüsse und Lagunen bis zu Küstenlebensräumen. Auch zwischen den Tiersichtungen bietet die wechselnde Szenerie einen faszinierenden Einblick in Sri Lankas südliche Wildnis."
+      },
+      {
+        "title": "Wildnis-Camping-Erlebnis",
+        "description": "Verbringen Sie Zeit nah an der Natur bei einem sorgfältig organisierten Wildnisaufenthalt rund um Yala. Genießen Sie friedliche Umgebung, offenen Himmel und die Atmosphäre der südlichen Wildnis Sri Lankas und verbinden Sie Komfort mit einer tieferen Naturverbundenheit."
+      }
+    ]
+  },
+  "udawalawe": {
+    "name": "Udawalawe",
+    "region": "Natur und Tierwelt",
+    "description": "Udawalawe ist eines der lohnendsten Wildtierziele Sri Lankas, berühmt für seine großen Bestände wilder Elefanten und die weiten Landschaften des Udawalawe-Nationalparks. Offene Grasländer, Stauseen, Wälder und Feuchtgebiete bilden eine wunderschöne Kulisse für Safaris, bei denen Reisende Elefanten, Büffeln, Krokodilen, Hirschen und einer Vielzahl von Vögeln begegnen können. Die Region beherbergt auch das Elefanten-Übergangshaus, in dem verwaiste junge Elefanten betreut werden, bevor sie auf die Rückkehr in die Wildnis vorbereitet werden. Für Reisende, die ein authentisches Tiererlebnis inmitten der Naturlandschaften Sri Lankas suchen, ist Udawalawe eine unvergessliche Reise ins wilde Herz der Insel.",
+    "highlightCards": ["Udawalawe-Nationalpark", "Wilde Elefanten und Tierwelt", "Elefantenschutz"],
+    "articleSections": [
+      {
+        "title": "In die Wildnis von Udawalawe",
+        "description": "Die Landschaften des Udawalawe-Nationalparks werden von offenen Grasländern, Wäldern, Feuchtgebieten und dem weiten Udawalawe-Stausee geprägt und bieten hervorragende Bedingungen für Tierbeobachtung. Safarifahrten führen Reisende durch diese vielfältigen Lebensräume auf der Suche nach Elefanten und anderen Tieren, die durch den Park ziehen. Das offene Gelände ermöglicht oft wunderbare Gelegenheiten, Wildtiere aus respektvoller Entfernung zu beobachten, während das wechselnde Licht am frühen Morgen und späten Nachmittag dem Erlebnis eine unvergessliche Atmosphäre verleiht."
+      },
+      {
+        "title": "Ein Land wilder Elefanten",
+        "description": "Elefanten stehen im Mittelpunkt des Udawalawe-Erlebnisses, denn die Region beherbergt eine der wichtigsten Wildelefantenpopulationen Sri Lankas. Während einer Safari sehen Reisende möglicherweise Herden, die sich am Wasser versammeln, über offene Grasländer ziehen oder im umliegenden Wald verschwinden. Neben Elefanten bietet der Park Gelegenheit, Wasserbüffeln, Hirschen, Krokodilen, Affen und zahlreichen Vogelarten zu begegnen, sodass jede Pirschfahrt zu einer ständig wechselnden Begegnung mit der Tierwelt Sri Lankas wird."
+      },
+      {
+        "title": "Tierwelt, Pflege und Artenschutz",
+        "description": "Udawalawe bietet zudem die Möglichkeit, die Beziehung zwischen Tierwelt und Artenschutz im Elefanten-Übergangshaus zu verstehen. Das Zentrum betreut verwaiste junge Elefanten mit dem langfristigen Ziel, geeignete Tiere in die Wildnis zurückzuführen. Zusammen mit dem Nationalpark und seiner Umgebung verleiht diese Schutzgeschichte dem Besuch eine tiefere Dimension: Reisende erleben nicht nur die Schönheit der Tierwelt Sri Lankas, sondern auch die Bemühungen, sie für die Zukunft zu bewahren."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Wildlife-Safari unternehmen",
+        "description": "Erkunden Sie den Udawalawe-Nationalpark im Safarifahrzeug und entdecken Sie Elefanten, Büffel, Hirsche, Krokodile und eine reiche Vielfalt an Vögeln."
+      },
+      {
+        "title": "Wilde Elefanten sehen",
+        "description": "Beobachten Sie Herden wilder Elefanten, die durch die offenen Grasländer und natürlichen Lebensräume des Udawalawe-Nationalparks ziehen."
+      },
+      {
+        "title": "Elefanten-Übergangshaus besuchen",
+        "description": "Erfahren Sie mehr über Elefanten-Rehabilitation und Artenschutz im Elefanten-Übergangshaus, in dem verwaiste junge Elefanten betreut werden, bevor sie möglicherweise in die Wildnis entlassen werden."
+      },
+      {
+        "title": "Udawalawe-Stausee erkunden",
+        "description": "Entdecken Sie die Landschaften rund um den Stausee, eine wichtige Wasserquelle für Wildtiere und ein prägendes Merkmal der Region."
+      },
+      {
+        "title": "Udawalawes Vogelwelt entdecken",
+        "description": "Halten Sie Ausschau nach farbenprächtigen Stand- und Zugvögeln in den Feuchtgebieten, Grasländern und Waldlebensräumen des Nationalparks."
+      },
+      {
+        "title": "Sonnenaufgangs-Safari erleben",
+        "description": "Beginnen Sie den Tag inmitten der Tierwelt von Udawalawe, während sich das frühe Morgenlicht über die offenen Landschaften des Parks ausbreitet."
+      }
+    ]
+  },
+  "bandarawela-haputale-badulla": {
+    "name": "Bandarawela, Haputale und Badulla",
+    "region": "Hochland",
+    "description": "Das Hochland rund um Bandarawela, Haputale und Badulla zeigt eine ruhigere Seite von Sri Lankas Bergland, in dem nebelverhangene Berge, sanfte Teegüter, Wasserfälle und historische Tempel die Landschaft prägen. Von den dramatischen Ausblicken Haputales und dem berühmten Teeland um Lipton's Seat über die friedliche Hochlandumgebung von Bandarawela bis zum Erbe von Badulla bietet diese Region eine reiche Mischung aus Natur, Kultur und Berglandschaft. Gemeinsam bieten diese drei Städte eine authentische Reise durch die Landschaften und Traditionen des Uva-Hochlands Sri Lankas.",
+    "highlightCards": ["Haputales Teeland und Bergblicke", "Bandarawelas Hochland und Landschaften", "Badullas Erbe und Wasserfälle"],
+    "articleSections": [
+      {
+        "title": "Haputale und das hohe Teeland",
+        "description": "Haputale liegt auf einem der dramatischsten Bergrücken Sri Lankas, wo sich Teeplantagen über neblige Hänge ziehen und sich die Landschaft zu weiten Ausblicken über die umliegenden Täler öffnet. Eine Fahrt zum Lipton's Seat ist eines der unvergesslichsten Hochlanderlebnisse der Region, während Adisham Bungalow und die umliegenden Teegüter eine weitere Schicht des kolonialen und landwirtschaftlichen Erbes der Gegend offenbaren. Das wechselnde Wetter, die kühle Bergluft und endlose grüne Hänge verleihen Haputale eine unverwechselbare Atmosphäre, die langsames Erkunden belohnt."
+      },
+      {
+        "title": "Das friedliche Hochland von Bandarawela",
+        "description": "Bandarawela bietet eine ruhigere Perspektive auf Sri Lankas Bergland, umgeben von grünen Tälern, Teegärten und friedlicher Landschaft. Die Stadt und ihre Umgebung bieten Gelegenheiten, den Alltagsrhythmus des Hochlandlebens zu erleben, von malerischen Fahrten über Bergstraßen bis zu stillen Spaziergängen durch teebedeckte Hügel und Dörfer. Sein entspannter Charakter macht es zu einem idealen Teil einer Reise durch das Uva-Hochland und verbindet die dramatischen Landschaften von Haputale mit dem Erbe und der Naturschönheit weiter Richtung Badulla."
+      },
+      {
+        "title": "Badullas Erbe und Wasserfälle",
+        "description": "Weiter im Uva-Hochland verbindet Badulla kulturelles Erbe mit einigen der schönsten Naturlandschaften der Region. Der historische Muthiyangana Raja Maha Vihara und der Dhowa-Felsentempel geben Einblicke in die lange religiöse Geschichte der Gegend, während die Dunhinda-Fälle eines der eindrucksvollsten Naturerlebnisse rund um die Stadt bieten. Die historische Bogoda-Holzbrücke und die umliegenden Täler verstärken das Gefühl der Entdeckung und machen Badulla zu einem lohnenden Ziel für Reisende, die sich für die Verbindung von Sri Lankas Erbe und Berglandschaften interessieren."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Lipton's Seat besuchen",
+        "description": "Reisen Sie durch die teebedeckten Berge von Haputale zum Lipton's Seat und genießen Sie spektakuläre Ausblicke über das umliegende Hochland und die Plantagen."
+      },
+      {
+        "title": "Adisham Bungalow erkunden",
+        "description": "Entdecken Sie den historischen Adisham Bungalow und seine friedlichen Gärten inmitten der nebligen Landschaften von Haputale."
+      },
+      {
+        "title": "Teegüter von Haputale entdecken",
+        "description": "Wandern oder fahren Sie durch das sanfte Teeland rund um Haputale und erleben Sie die Landschaften, die Sri Lankas Hochland-Teekultur prägen."
+      },
+      {
+        "title": "Bandarawela erkunden",
+        "description": "Entdecken Sie die friedliche Hochlandstadt Bandarawela und ihre Umgebung mit Landschaft, Teegärten und malerischen Berglandschaften."
+      },
+      {
+        "title": "Dhowa-Felsentempel besuchen",
+        "description": "Erkunden Sie diesen historischen buddhistischen Tempel mit seinem beeindruckenden, in den Fels gemeißelten Buddha, umgeben von den friedlichen Landschaften der Uva-Region."
+      },
+      {
+        "title": "Dunhinda-Fälle entdecken",
+        "description": "Machen Sie eine malerische Wanderung durch den Wald zu einem der berühmtesten Wasserfälle bei Badulla, wo das Wasser durch eine dramatische Naturkulisse stürzt."
+      },
+      {
+        "title": "Muthiyangana Raja Maha Vihara besuchen",
+        "description": "Entdecken Sie eine der bedeutenden buddhistischen Erbestätten Badullas und erleben Sie die spirituellen Traditionen der antiken Uva-Region."
+      },
+      {
+        "title": "Bogoda-Holzbrücke erkunden",
+        "description": "Besuchen Sie die historische Bogoda-Holzbrücke, ein elegantes traditionelles Bauwerk, umgeben von Wald und ländlichen Landschaften bei Badulla."
+      },
+      {
+        "title": "Panoramafahrt durchs Uva-Hochland",
+        "description": "Fahren Sie über kurvige Bergstraßen, durch Teeplantagen und neblige Täler und entdecken Sie die wechselnden Landschaften des Uva-Hochlands."
+      }
+    ]
+  },
+    "mirissa": {
+    "name": "Mirissa",
+    "region": "Südküste",
+    "description": "Mirissa ist ein entspanntes Küstenziel an der Südküste Sri Lankas, bekannt für warmes Meer, palmengesäumte Strände und eine der besten Möglichkeiten der Insel, Wale zu beobachten. Von frühen Ausfahrten aufs offene Meer über Sonnenuntergänge am Coconut Tree Hill bis zu ruhigen Buchten zum Schwimmen und Schnorcheln verbindet Mirissa Abenteuer mit unaufgeregter Tropenatmosphäre. Für Reisende, die Meer, Natur und entspannte Strandtage suchen, ist es ein idealer Halt an der Südküste.",
+    "highlightCards": ["Walbeobachtung", "Coconut Tree Hill", "Strände und Buchten von Mirissa"],
+    "articleSections": [
+      {
+        "title": "Wale und das offene Meer",
+        "description": "Vor Mirissas Küste fällt der Meeresboden schnell in große Tiefen ab, weshalb die Gegend zu den bekanntesten Zielen Sri Lankas für Walbeobachtung zählt. In der Hauptsaison, die grob von November bis April reicht, brechen Boote früh am Morgen aufs offene Meer auf, und Reisende können mit etwas Glück Blauwale, Pottwale und Delfine sehen. Sichtungen sind nie garantiert, doch die Weite des Ozeans und die Spannung der Suche machen die Fahrt zu einem unvergesslichen Erlebnis."
+      },
+      {
+        "title": "Strände, Buchten und Sonnenuntergänge",
+        "description": "Mirissas Küste ist geprägt von goldenem Sand, Palmen und geschwungenen Buchten. Der Hauptstrand lädt zum Entspannen und Schwimmen ein, der Parrot Rock ragt als markanter Fels vor dem Ufer auf, und kleinere Buchten wie Secret Beach bieten eine ruhigere Atmosphäre. Am Abend färbt sich der Himmel über dem Indischen Ozean golden und rot, besonders eindrucksvoll vom Coconut Tree Hill aus."
+      },
+      {
+        "title": "Meeresfrüchte, Schnorcheln und Küstenleben",
+        "description": "Neben den Walen bietet Mirissa viele entspannte Möglichkeiten, das Meer zu genießen. Schnorchler und Taucher erkunden die Felsriffe entlang der Küste, und in den Restaurants am Strand kommt fangfrischer Fisch auf den Tisch. Das Tempo ist langsam, die Atmosphäre herzlich, und genau darin liegt der Reiz eines Aufenthalts an dieser Küste."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Wal- und Delfinbeobachtung",
+        "description": "Begeben Sie sich auf eine Bootsfahrt am frühen Morgen in die tiefen Gewässer vor Mirissa und halten Sie Ausschau nach Blauwalen, Pottwalen und Delfinen. Sichtungen sind nie garantiert, doch das offene Meer macht die Fahrt zu einem der unvergesslichsten Erlebnisse der Insel."
+      },
+      {
+        "title": "Coconut Tree Hill",
+        "description": "Besuchen Sie die palmenbewachsene Landzunge, einen der meistfotografierten Küstenaussichtspunkte Sri Lankas, und genießen Sie weite Blicke über den Ozean, besonders zum Sonnenuntergang."
+      },
+      {
+        "title": "Mirissa-Strand und Parrot Rock",
+        "description": "Entspannen Sie auf dem goldenen Sand des Mirissa-Strands, baden Sie im warmen Meer und halten Sie Ausschau nach dem Parrot Rock, einer markanten Felsformation unmittelbar vor der Küste."
+      },
+      {
+        "title": "Secret Beach",
+        "description": "Entdecken Sie die ruhigere, geschützte Bucht zwischen Palmen und Felsen, ideal für ein entspanntes Bad und eine friedliche Pause vom belebteren Hauptstrand."
+      },
+      {
+        "title": "Schnorcheln und Tauchen",
+        "description": "Erkunden Sie die warmen Gewässer entlang der Südküste mit ihren Felsriffen und ihrer Meeresvielfalt, bei einem Schnorchelausflug oder einem Tauchgang mit erfahrenen Guides."
+      },
+      {
+        "title": "Meeresfrüchte zum Sonnenuntergang",
+        "description": "Beschließen Sie den Tag mit fangfrischen Meeresfrüchten in einem Strandrestaurant, während sich der Himmel über dem Indischen Ozean orange färbt."
+      }
+    ]
+  },
+  "bentota": {
+    "name": "Bentota",
+    "region": "Südwestküste",
+    "description": "Bentota ist eines der entspanntesten Strandziele Sri Lankas, an dessen Südwestküste ein langer goldener Strand, der ruhige Bentota-Fluss und üppige Kokospalmen aufeinandertreffen. Bekannt für Wassersport, Bootsfahrten auf dem Fluss, schöne Gärten und ayurvedisches Wohlbefinden, bietet Bentota eine ausgewogene Mischung aus Erholung und sanftem Abenteuer. Von Colombo aus gut erreichbar, ist es ideal für Reisende, die einen komfortablen Aufenthalt am Meer mit vielen Ausflugsmöglichkeiten in der Umgebung suchen.",
+    "highlightCards": ["Bentota-Strand und Wassersport", "Bootssafari auf dem Bentota-Fluss", "Gärten und Ayurveda"],
+    "articleSections": [
+      {
+        "title": "Wo der Fluss das Meer trifft",
+        "description": "Bentotas besonderer Reiz liegt in seiner Lage zwischen Ozean und Fluss. Auf der einen Seite rollen die Wellen an einen langen Sandstrand, auf der anderen fließt der Bentota-Fluss ruhig durch Palmen und Mangroven. Dieses Nebeneinander schafft eine friedliche Atmosphäre und macht es leicht, Strandtage mit Ausflügen auf dem Wasser zu verbinden."
+      },
+      {
+        "title": "Wassersport und Flussabenteuer",
+        "description": "Bentota gehört zu den bekanntesten Orten der Insel für Wassersport. Je nach Bedingungen sind Jetski, Windsurfen, Bananenboot und weitere Aktivitäten möglich. Ruhiger geht es bei einer Bootsfahrt auf dem Fluss zu, die durch Mangroven führt und mit etwas Glück Wasservögel und Warane zeigt."
+      },
+      {
+        "title": "Gärten, Wohlbefinden und die Südwestküste",
+        "description": "Jenseits von Strand und Wasser besitzt Bentota einen kultivierten, entspannten Charakter. Die Gärten von Bevis und Geoffrey Bawa in der Umgebung gehören zu den berühmtesten Landschaftsgärten Sri Lankas, ayurvedische Behandlungen laden zum Abschalten ein, und entlang der nahen Küste setzen sich Aufzuchtstationen für den Schutz der Meeresschildkröten ein."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Bentota-Strand",
+        "description": "Genießen Sie den langen goldenen Sandstrand mit Palmen, Wellen und weitem Blick auf den Ozean, ideal zum Spazieren, Baden und für entspannte Strandtage."
+      },
+      {
+        "title": "Wassersport",
+        "description": "Probieren Sie Aktivitäten wie Jetski, Windsurfen oder Bananenboot und erleben Sie Bentota von seiner aktiven Seite."
+      },
+      {
+        "title": "Bootssafari auf dem Bentota-Fluss",
+        "description": "Gleiten Sie auf dem Fluss durch Mangroven und Palmen und halten Sie Ausschau nach Wasservögeln, Waranen und dem Leben am Ufer."
+      },
+      {
+        "title": "Brief Garden und Lunuganga",
+        "description": "Spazieren Sie durch die berühmten Gärten von Bevis und Geoffrey Bawa und entdecken Sie eine der bekanntesten Landschaftsgestaltungen Sri Lankas."
+      },
+      {
+        "title": "Ayurvedische Behandlungen",
+        "description": "Gönnen Sie sich eine traditionelle ayurvedische Massage oder Wellness-Behandlung in ruhiger Umgebung nahe dem Meer."
+      },
+      {
+        "title": "Aufzuchtstation für Meeresschildkröten",
+        "description": "Erfahren Sie in einer Schildkrötenstation an der nahen Küste mehr über die Arten, die an Sri Lankas Stränden nisten, und über die Bemühungen zu ihrem Schutz."
+      }
+    ]
+  },
+  "hikkaduwa": {
+    "name": "Hikkaduwa",
+    "region": "Südwestküste",
+    "description": "Hikkaduwa ist ein lebendiger Strandort an Sri Lankas Südwestküste, berühmt für sein Korallenriff, klares Wasser und die entspannte Atmosphäre am Meer. Schnorchler und Taucher kommen, um bunte Fische, Korallengärten und Meeresschildkröten zu sehen, Surfer schätzen die Wellen, und alle Besucher lieben die Strandcafés, Sonnenuntergänge und die gelassene Stimmung. Hikkaduwa ist ein lohnender Halt für Meeresliebhaber, die Abenteuer und Erholung verbinden möchten.",
+    "highlightCards": ["Korallenriff und Schnorcheln", "Meeresschildkröten", "Surfen und Strandleben"],
+    "articleSections": [
+      {
+        "title": "Das Leben unter den Wellen",
+        "description": "Hikkaduwas Küste ist für ihre Riffe bekannt, die zu den leichter zugänglichen Schnorchelgebieten Sri Lankas zählen. Bei ruhigem Wasser zeigen sich Korallen und bunte Fische schon dicht unter der Oberfläche. Eine Fahrt im Glasbodenboot macht die Unterwasserwelt auch für alle erlebbar, die lieber nicht ins Wasser gehen."
+      },
+      {
+        "title": "Schildkröten, Wracks und Tauchen",
+        "description": "Neben dem Riff ist Hikkaduwa für seine Meeresschildkröten bekannt, die manchmal nahe am Ufer zu beobachten sind. Taucher finden in der Umgebung Riffe und Wracktauchplätze, die verschiedene Erfahrungsstufen ansprechen. Wichtig ist, Tiere und Korallen mit Respekt zu behandeln, nichts zu berühren und Abstand zu halten."
+      },
+      {
+        "title": "Wellen, Sand und der Rhythmus der Küste",
+        "description": "Über Wasser bietet Hikkaduwa Surfwellen, lange Sandstrände und Cafés, in denen man den Tag bei frischem Fisch und kühlen Getränken ausklingen lässt. Der Seenigama-Tempel auf einer kleinen Insel vor der Küste erinnert daran, dass die Region auch spirituelle und kulturelle Seiten hat. Wer zum Sonnenuntergang am Strand sitzt, erlebt die entspannte Seele dieses Ortes."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Schnorcheln am Korallenriff",
+        "description": "Erkunden Sie die Unterwasserwelt vor Hikkaduwa mit Korallen und farbenfrohen Fischen, am besten bei ruhigem Wasser."
+      },
+      {
+        "title": "Fahrt im Glasbodenboot",
+        "description": "Beobachten Sie Riff und Meeresleben bequem vom Boot aus, ohne ins Wasser zu müssen."
+      },
+      {
+        "title": "Meeresschildkröten beobachten",
+        "description": "Halten Sie in den flachen Gewässern Ausschau nach Meeresschildkröten und beobachten Sie sie respektvoll aus der Distanz, ohne sie zu berühren oder zu füttern."
+      },
+      {
+        "title": "Tauchen",
+        "description": "Entdecken Sie Riffe und Tauchplätze rund um Hikkaduwa mit einem erfahrenen, zertifizierten Anbieter."
+      },
+      {
+        "title": "Surfen",
+        "description": "Nutzen Sie die Wellen vor Hikkaduwa, ob als Anfänger im Surfkurs oder als erfahrener Surfer."
+      },
+      {
+        "title": "Seenigama Muhudu Maha Viharaya",
+        "description": "Besuchen Sie den kleinen Tempel auf einer Felseninsel vor der Küste, eine ruhige spirituelle Stätte nahe dem Strand."
+      }
+    ]
   }
 }
+
+
+
