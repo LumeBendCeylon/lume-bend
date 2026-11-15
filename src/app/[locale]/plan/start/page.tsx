@@ -1,14 +1,22 @@
-import { setRequestLocale } from "next-intl/server";
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
 import PlanWizard from "@/components/PlanWizard";
 
-export const metadata: Metadata = {
-  title: "Start Planning",
-  description: "Answer a few questions about you and your travel preferences to start planning your Sri Lanka journey.",
-  alternates: { canonical: "./", languages: languageAlternates("/plan/start") },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Plan.start" });
+  return {
+    title: t("metaTitle"),
+    description: t("metaDescription"),
+    alternates: { canonical: "./", languages: languageAlternates("/plan/start") },
+  };
+}
 
 export default async function PlanStartPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;

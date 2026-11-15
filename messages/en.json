@@ -886,5 +886,63 @@
     "otherPlatforms": "Find Us on Other Platforms",
     "mapPlaceholder": "Google Map placeholder — embed your location here",
     "enquiryTitle": "Send an Enquiry"
+  },
+    "Plan": {
+    "landing": {
+      "metaTitle": "Plan Your Journey",
+      "metaDescription": "Start planning your tailor-made Sri Lanka journey with Lume Bend Ceylon.",
+      "eyebrow": "Let's Begin",
+      "title": "Let's Plan Your Sri Lanka Journey",
+      "intro": "A few quick questions about you and your travel preferences — then our team will design a tailored itinerary and send you a proposal, usually within one business day.",
+      "step1": "Tell us a little about yourself",
+      "step2": "Share your travel preferences",
+      "step3": "Review and send your request",
+      "cta": "Let's Start Planning"
+    },
+    "start": {
+      "metaTitle": "Start Planning",
+      "metaDescription": "Answer a few questions about you and your travel preferences to start planning your Sri Lanka journey."
+    },
+    "wizard": {
+      "stepIntro": "Intro",
+      "stepAbout": "About You",
+      "stepPreference": "Preference",
+      "stepSummary": "Summary",
+      "introTitle": "Let's Get Started",
+      "introText": "This will only take a couple of minutes. We'll ask a little about you, then your travel preferences, and finally show you a summary to confirm before sending.",
+      "begin": "Let's Begin",
+      "aboutTitle": "About You",
+      "fullName": "Full Name",
+      "email": "Email",
+      "whatsapp": "WhatsApp Number",
+      "country": "Country",
+      "preferencesTitle": "Your Preferences",
+      "tourType": "Tour Type",
+      "tourTypePlaceholder": "Select a tour type",
+      "travelers": "Number of Travelers",
+      "arrivalDate": "Arrival Date",
+      "departureDate": "Departure Date",
+      "messageLabel": "Tell us about the trip you're imagining",
+      "messagePlaceholder": "Interests, pace, special occasions, must-see places...",
+      "reviewTitle": "Review Your Request",
+      "summaryName": "Name",
+      "summaryEmail": "Email",
+      "summaryWhatsapp": "WhatsApp",
+      "summaryCountry": "Country",
+      "summaryTourType": "Tour Type",
+      "summaryTravelers": "Travelers",
+      "summaryArrival": "Arrival",
+      "summaryDeparture": "Departure",
+      "summaryMessage": "Message",
+      "back": "Back",
+      "next": "Next",
+      "send": "Send My Request",
+      "successTitle": "Your Plan Request Is In!",
+      "successText": "Thank you, {name} — a specialist will follow up with a tailored proposal, usually within one business day.",
+      "travellerFallback": "traveller",
+      "backHome": "Back to Home",
+      "errorGeneric": "Something went wrong. Please try again."
+    }
   }
 }
+

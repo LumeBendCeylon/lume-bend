@@ -884,5 +884,61 @@
     "otherPlatforms": "Weitere Plattformen",
     "mapPlaceholder": "Google-Maps-Platzhalter – hier Ihren Standort einbetten",
     "enquiryTitle": "Anfrage senden"
-  }
-}
+  },
+    "Plan": {
+    "landing": {
+      "metaTitle": "Reise planen",
+      "metaDescription": "Planen Sie Ihre maßgeschneiderte Sri-Lanka-Reise mit Lume Bend Ceylon.",
+      "eyebrow": "Lassen Sie uns beginnen",
+      "title": "Planen wir Ihre Sri-Lanka-Reise",
+      "intro": "Ein paar kurze Fragen zu Ihnen und Ihren Reisewünschen – danach entwirft unser Team eine maßgeschneiderte Reiseroute und sendet Ihnen in der Regel innerhalb eines Werktags einen Vorschlag.",
+      "step1": "Erzählen Sie uns ein wenig über sich",
+      "step2": "Teilen Sie Ihre Reisewünsche mit",
+      "step3": "Prüfen und Anfrage senden",
+      "cta": "Jetzt Planung starten"
+    },
+    "start": {
+      "metaTitle": "Planung starten",
+      "metaDescription": "Beantworten Sie ein paar Fragen zu sich und Ihren Reisewünschen, um Ihre Sri-Lanka-Reise zu planen."
+    },
+    "wizard": {
+      "stepIntro": "Einführung",
+      "stepAbout": "Über Sie",
+      "stepPreference": "Wünsche",
+      "stepSummary": "Übersicht",
+      "introTitle": "Legen wir los",
+      "introText": "Das dauert nur ein paar Minuten. Wir fragen zunächst ein wenig zu Ihrer Person, dann nach Ihren Reisewünschen und zeigen Ihnen zum Schluss eine Zusammenfassung zur Bestätigung vor dem Absenden.",
+      "begin": "Los geht's",
+      "aboutTitle": "Über Sie",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "whatsapp": "WhatsApp-Nummer",
+      "country": "Land",
+      "preferencesTitle": "Ihre Wünsche",
+      "tourType": "Reiseart",
+      "tourTypePlaceholder": "Reiseart auswählen",
+      "travelers": "Anzahl der Reisenden",
+      "arrivalDate": "Anreisedatum",
+      "departureDate": "Abreisedatum",
+      "messageLabel": "Erzählen Sie uns von der Reise, die Sie sich vorstellen",
+      "messagePlaceholder": "Interessen, Reisetempo, besondere Anlässe, Orte, die Sie unbedingt sehen möchten ...",
+      "reviewTitle": "Anfrage prüfen",
+      "summaryName": "Name",
+      "summaryEmail": "E-Mail",
+      "summaryWhatsapp": "WhatsApp",
+      "summaryCountry": "Land",
+      "summaryTourType": "Reiseart",
+      "summaryTravelers": "Reisende",
+      "summaryArrival": "Anreise",
+      "summaryDeparture": "Abreise",
+      "summaryMessage": "Nachricht",
+      "back": "Zurück",
+      "next": "Weiter",
+      "send": "Anfrage senden",
+      "successTitle": "Ihre Planungsanfrage ist eingegangen!",
+      "successText": "Vielen Dank, {name} – ein Reiseexperte meldet sich in der Regel innerhalb eines Werktags mit einem maßgeschneiderten Vorschlag bei Ihnen.",
+      "travellerFallback": "Reisegast",
+      "backHome": "Zur Startseite",
+      "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+    }
+    }}

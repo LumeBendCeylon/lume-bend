@@ -884,6 +884,64 @@
     "otherPlatforms": "Retrouvez-nous sur d'autres plateformes",
     "mapPlaceholder": "Emplacement Google Maps – intégrez ici votre adresse",
     "enquiryTitle": "Envoyer une demande"
+  },
+    "Plan": {
+    "landing": {
+      "metaTitle": "Planifier votre voyage",
+      "metaDescription": "Commencez à planifier votre voyage sur mesure au Sri Lanka avec Lume Bend Ceylon.",
+      "eyebrow": "Commençons",
+      "title": "Planifions votre voyage au Sri Lanka",
+      "intro": "Quelques questions rapides sur vous et vos préférences de voyage – notre équipe concevra ensuite un itinéraire sur mesure et vous enverra une proposition, généralement sous un jour ouvré.",
+      "step1": "Parlez-nous un peu de vous",
+      "step2": "Partagez vos préférences de voyage",
+      "step3": "Vérifiez et envoyez votre demande",
+      "cta": "Commencer la planification"
+    },
+    "start": {
+      "metaTitle": "Commencer la planification",
+      "metaDescription": "Répondez à quelques questions sur vous et vos préférences de voyage pour commencer à planifier votre voyage au Sri Lanka."
+    },
+    "wizard": {
+      "stepIntro": "Introduction",
+      "stepAbout": "À propos de vous",
+      "stepPreference": "Préférences",
+      "stepSummary": "Récapitulatif",
+      "introTitle": "C'est parti",
+      "introText": "Cela ne prendra que quelques minutes. Nous vous poserons quelques questions sur vous, puis sur vos préférences de voyage, et nous vous présenterons enfin un récapitulatif à confirmer avant l'envoi.",
+      "begin": "Commençons",
+      "aboutTitle": "À propos de vous",
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "whatsapp": "Numéro WhatsApp",
+      "country": "Pays",
+      "preferencesTitle": "Vos préférences",
+      "tourType": "Type de voyage",
+      "tourTypePlaceholder": "Sélectionnez un type de voyage",
+      "travelers": "Nombre de voyageurs",
+      "arrivalDate": "Date d'arrivée",
+      "departureDate": "Date de départ",
+      "messageLabel": "Parlez-nous du voyage dont vous rêvez",
+      "messagePlaceholder": "Centres d'intérêt, rythme, occasions spéciales, lieux incontournables...",
+      "reviewTitle": "Vérifiez votre demande",
+      "summaryName": "Nom",
+      "summaryEmail": "E-mail",
+      "summaryWhatsapp": "WhatsApp",
+      "summaryCountry": "Pays",
+      "summaryTourType": "Type de voyage",
+      "summaryTravelers": "Voyageurs",
+      "summaryArrival": "Arrivée",
+      "summaryDeparture": "Départ",
+      "summaryMessage": "Message",
+      "back": "Retour",
+      "next": "Suivant",
+      "send": "Envoyer ma demande",
+      "successTitle": "Votre demande a bien été reçue !",
+      "successText": "Merci, {name} – un spécialiste vous recontactera avec une proposition sur mesure, généralement sous un jour ouvré.",
+      "travellerFallback": "voyageur",
+      "backHome": "Retour à l'accueil",
+      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
+    }
   }
 }
+
 

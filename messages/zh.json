@@ -5479,6 +5479,64 @@
     "otherPlatforms": "在其他平台关注我们",
     "mapPlaceholder": "Google 地图占位符——请在此嵌入您的位置",
     "enquiryTitle": "发送咨询"
+  },
+
+  "Plan": {
+    "landing": {
+      "metaTitle": "规划您的旅程",
+      "metaDescription": "与 Lume Bend Ceylon 一起开始规划您的定制斯里兰卡之旅。",
+      "eyebrow": "开始吧",
+      "title": "一起规划您的斯里兰卡之旅",
+      "intro": "只需回答几个关于您和旅行偏好的简单问题，我们的团队便会为您设计专属行程，并通常在一个工作日内发送方案。",
+      "step1": "简单介绍一下您自己",
+      "step2": "分享您的旅行偏好",
+      "step3": "确认并发送您的申请",
+      "cta": "开始规划"
+    },
+    "start": {
+      "metaTitle": "开始规划",
+      "metaDescription": "回答几个关于您和旅行偏好的问题，开始规划您的斯里兰卡之旅。"
+    },
+    "wizard": {
+      "stepIntro": "开始",
+      "stepAbout": "关于您",
+      "stepPreference": "偏好",
+      "stepSummary": "确认",
+      "introTitle": "让我们开始吧",
+      "introText": "只需几分钟。我们会先了解一下您的基本情况，再询问您的旅行偏好，最后在发送前向您展示摘要供确认。",
+      "begin": "开始",
+      "aboutTitle": "关于您",
+      "fullName": "姓名",
+      "email": "电子邮件",
+      "whatsapp": "WhatsApp 号码",
+      "country": "国家/地区",
+      "preferencesTitle": "您的偏好",
+      "tourType": "旅行类型",
+      "tourTypePlaceholder": "请选择旅行类型",
+      "travelers": "出行人数",
+      "arrivalDate": "抵达日期",
+      "departureDate": "离开日期",
+      "messageLabel": "告诉我们您心中的理想旅程",
+      "messagePlaceholder": "兴趣爱好、行程节奏、特别场合、必去景点……",
+      "reviewTitle": "确认您的申请",
+      "summaryName": "姓名",
+      "summaryEmail": "电子邮件",
+      "summaryWhatsapp": "WhatsApp",
+      "summaryCountry": "国家/地区",
+      "summaryTourType": "旅行类型",
+      "summaryTravelers": "出行人数",
+      "summaryArrival": "抵达",
+      "summaryDeparture": "离开",
+      "summaryMessage": "留言",
+      "back": "返回",
+      "next": "下一步",
+      "send": "发送我的申请",
+      "successTitle": "您的规划申请已收到！",
+      "successText": "谢谢，{name}！我们的顾问将通常在一个工作日内与您联系，并提供定制方案。",
+      "travellerFallback": "旅行者",
+      "backHome": "返回首页",
+      "errorGeneric": "出错了，请重试。"
+    }
   }
 }
 

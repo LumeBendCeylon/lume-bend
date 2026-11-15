@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useTranslations } from "next-intl";
 import { useRouter } from "@/i18n/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, Loader2, ArrowRight, ArrowLeft, Check } from "lucide-react";
@@ -9,7 +10,7 @@ import { useAuth } from "@/context/AuthContext";
 import { tours } from "@/lib/data";
 
 const TOUR_TYPES = [...new Set(tours.map((t) => t.category))];
-const STEPS = ["Intro", "About You", "Preference", "Summary"] as const;
+const STEP_KEYS = ["stepIntro", "stepAbout", "stepPreference", "stepSummary"] as const;
 
 type FormState = {
   fullName: string;
@@ -36,6 +37,7 @@ const initialState: FormState = {
 };
 
 export default function PlanWizard() {
+  const t = useTranslations("Plan.wizard");
   const router = useRouter();
   const { user } = useAuth();
   const [step, setStep] = useState(0);
@@ -52,7 +54,7 @@ export default function PlanWizard() {
   }
 
   function next() {
-    setStep((s) => Math.min(s + 1, STEPS.length - 1));
+    setStep((s) => Math.min(s + 1, STEP_KEYS.length - 1));
   }
   function back() {
     setStep((s) => Math.max(s - 1, 0));
@@ -78,8 +80,9 @@ export default function PlanWizard() {
       );
       setStatus("success");
     } catch (err) {
+      console.error(err);
       setStatus("error");
-      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setErrorMsg(t("errorGeneric"));
     }
   }
 
@@ -89,16 +92,15 @@ export default function PlanWizard() {
     return (
       <div className="mx-auto flex max-w-lg flex-col items-center rounded-2xl border border-forest/10 bg-white p-12 text-center">
         <CheckCircle2 className="h-14 w-14 text-forest" />
-        <h2 className="mt-5 font-display text-2xl text-forest-dark">Your Plan Request Is In!</h2>
+        <h2 className="mt-5 font-display text-2xl text-forest-dark">{t("successTitle")}</h2>
         <p className="mt-2 text-sm text-ink/70">
-          Thank you, {data.fullName || "traveller"} — a specialist will follow up with a tailored
-          proposal, usually within one business day.
+          {t("successText", { name: data.fullName || t("travellerFallback") })}
         </p>
         <button
           onClick={() => router.push("/")}
           className="mt-6 rounded-full bg-forest px-8 py-3 text-sm font-medium text-white hover:bg-forest-light"
         >
-          Back to Home
+          {t("backHome")}
         </button>
       </div>
     );
@@ -108,8 +110,8 @@ export default function PlanWizard() {
     <div className="mx-auto max-w-2xl">
       {/* Step indicator */}
       <div className="mb-10 flex items-center justify-between">
-        {STEPS.map((label, i) => (
-          <div key={label} className="flex flex-1 items-center">
+        {STEP_KEYS.map((key, i) => (
+          <div key={key} className="flex flex-1 items-center">
             <div className="flex flex-col items-center">
               <div
                 className={`flex h-9 w-9 items-center justify-center rounded-full text-sm font-medium ${
@@ -123,10 +125,10 @@ export default function PlanWizard() {
                 {i < step ? <Check className="h-4 w-4" /> : i + 1}
               </div>
               <span className={`mt-1.5 text-xs ${i === step ? "text-forest-dark font-medium" : "text-ink/40"}`}>
-                {label}
+                {t(key)}
               </span>
             </div>
-            {i < STEPS.length - 1 && (
+            {i < STEP_KEYS.length - 1 && (
               <div className={`mx-2 h-px flex-1 ${i < step ? "bg-forest" : "bg-forest/10"}`} />
             )}
           </div>
@@ -144,28 +146,25 @@ export default function PlanWizard() {
         >
           {step === 0 && (
             <div className="text-center">
-              <h2 className="font-display text-2xl text-forest-dark">Let's Get Started</h2>
-              <p className="mt-3 text-sm leading-relaxed text-ink/70">
-                This will only take a couple of minutes. We'll ask a little about you, then your
-                travel preferences, and finally show you a summary to confirm before sending.
-              </p>
+              <h2 className="font-display text-2xl text-forest-dark">{t("introTitle")}</h2>
+              <p className="mt-3 text-sm leading-relaxed text-ink/70">{t("introText")}</p>
               <button
                 onClick={next}
                 className="mt-8 inline-flex items-center gap-2 rounded-full bg-forest px-8 py-3 text-sm font-medium text-white hover:bg-forest-light"
               >
-                Let's Begin <ArrowRight className="h-4 w-4" />
+                {t("begin")} <ArrowRight className="h-4 w-4" />
               </button>
             </div>
           )}
 
           {step === 1 && (
             <div>
-              <h2 className="font-display text-2xl text-forest-dark">About You</h2>
+              <h2 className="font-display text-2xl text-forest-dark">{t("aboutTitle")}</h2>
               <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2">
-                <Field label="Full Name" value={data.fullName} onChange={(v) => update("fullName", v)} required />
-                <Field label="Email" type="email" value={data.email} onChange={(v) => update("email", v)} required />
-                <Field label="WhatsApp Number" type="tel" value={data.whatsapp} onChange={(v) => update("whatsapp", v)} />
-                <Field label="Country" value={data.country} onChange={(v) => update("country", v)} />
+                <Field label={t("fullName")} value={data.fullName} onChange={(v) => update("fullName", v)} required />
+                <Field label={t("email")} type="email" value={data.email} onChange={(v) => update("email", v)} required />
+                <Field label={t("whatsapp")} type="tel" value={data.whatsapp} onChange={(v) => update("whatsapp", v)} />
+                <Field label={t("country")} value={data.country} onChange={(v) => update("country", v)} />
               </div>
               <StepNav onBack={back} onNext={next} nextDisabled={!aboutYouValid} />
             </div>
@@ -173,34 +172,34 @@ export default function PlanWizard() {
 
           {step === 2 && (
             <div>
-              <h2 className="font-display text-2xl text-forest-dark">Your Preferences</h2>
+              <h2 className="font-display text-2xl text-forest-dark">{t("preferencesTitle")}</h2>
               <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2">
                 <div>
-                  <label className="mb-1.5 block text-sm font-medium text-ink/80">Tour Type</label>
+                  <label className="mb-1.5 block text-sm font-medium text-ink/80">{t("tourType")}</label>
                   <select
                     value={data.tourType}
                     onChange={(e) => update("tourType", e.target.value)}
                     className="w-full rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
                   >
-                    <option value="">Select a tour type</option>
-                    {TOUR_TYPES.map((t) => (
-                      <option key={t} value={t}>{t}</option>
+                    <option value="">{t("tourTypePlaceholder")}</option>
+                    {TOUR_TYPES.map((type) => (
+                      <option key={type} value={type}>{type}</option>
                     ))}
                   </select>
                 </div>
-                <Field label="Number of Travelers" type="number" value={data.travelers} onChange={(v) => update("travelers", v)} min={1} />
-                <Field label="Arrival Date" type="date" value={data.arrivalDate} onChange={(v) => update("arrivalDate", v)} />
-                <Field label="Departure Date" type="date" value={data.departureDate} onChange={(v) => update("departureDate", v)} />
+                <Field label={t("travelers")} type="number" value={data.travelers} onChange={(v) => update("travelers", v)} min={1} />
+                <Field label={t("arrivalDate")} type="date" value={data.arrivalDate} onChange={(v) => update("arrivalDate", v)} />
+                <Field label={t("departureDate")} type="date" value={data.departureDate} onChange={(v) => update("departureDate", v)} />
               </div>
               <div className="mt-5">
                 <label className="mb-1.5 block text-sm font-medium text-ink/80">
-                  Tell us about the trip you're imagining
+                  {t("messageLabel")}
                 </label>
                 <textarea
                   value={data.message}
                   onChange={(e) => update("message", e.target.value)}
                   rows={4}
-                  placeholder="Interests, pace, special occasions, must-see places..."
+                  placeholder={t("messagePlaceholder")}
                   className="w-full rounded-lg border border-forest/20 px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
                 />
               </div>
@@ -210,17 +209,17 @@ export default function PlanWizard() {
 
           {step === 3 && (
             <div>
-              <h2 className="font-display text-2xl text-forest-dark">Review Your Request</h2>
+              <h2 className="font-display text-2xl text-forest-dark">{t("reviewTitle")}</h2>
               <dl className="mt-6 divide-y divide-forest/10 text-sm">
-                <SummaryRow label="Name" value={data.fullName} />
-                <SummaryRow label="Email" value={data.email} />
-                <SummaryRow label="WhatsApp" value={data.whatsapp} />
-                <SummaryRow label="Country" value={data.country} />
-                <SummaryRow label="Tour Type" value={data.tourType} />
-                <SummaryRow label="Travelers" value={data.travelers} />
-                <SummaryRow label="Arrival" value={data.arrivalDate} />
-                <SummaryRow label="Departure" value={data.departureDate} />
-                <SummaryRow label="Message" value={data.message} />
+                <SummaryRow label={t("summaryName")} value={data.fullName} />
+                <SummaryRow label={t("summaryEmail")} value={data.email} />
+                <SummaryRow label={t("summaryWhatsapp")} value={data.whatsapp} />
+                <SummaryRow label={t("summaryCountry")} value={data.country} />
+                <SummaryRow label={t("summaryTourType")} value={data.tourType} />
+                <SummaryRow label={t("summaryTravelers")} value={data.travelers} />
+                <SummaryRow label={t("summaryArrival")} value={data.arrivalDate} />
+                <SummaryRow label={t("summaryDeparture")} value={data.departureDate} />
+                <SummaryRow label={t("summaryMessage")} value={data.message} />
               </dl>
 
               <AnimatePresence>
@@ -241,7 +240,7 @@ export default function PlanWizard() {
                   onClick={back}
                   className="flex items-center gap-1 text-sm font-medium text-ink/60 hover:text-forest-dark"
                 >
-                  <ArrowLeft className="h-4 w-4" /> Back
+                  <ArrowLeft className="h-4 w-4" /> {t("back")}
                 </button>
                 <button
                   onClick={handleFinalSubmit}
@@ -249,7 +248,7 @@ export default function PlanWizard() {
                   className="flex items-center gap-2 rounded-full bg-gold px-8 py-3 text-sm font-medium text-forest-dark hover:bg-gold-light disabled:opacity-70"
                 >
                   {status === "submitting" && <Loader2 className="h-4 w-4 animate-spin" />}
-                  Send My Request
+                  {t("send")}
                 </button>
               </div>
             </div>
@@ -269,17 +268,18 @@ function StepNav({
   onNext: () => void;
   nextDisabled?: boolean;
 }) {
+  const t = useTranslations("Plan.wizard");
   return (
     <div className="mt-8 flex items-center justify-between">
       <button onClick={onBack} className="flex items-center gap-1 text-sm font-medium text-ink/60 hover:text-forest-dark">
-        <ArrowLeft className="h-4 w-4" /> Back
+        <ArrowLeft className="h-4 w-4" /> {t("back")}
       </button>
       <button
         onClick={onNext}
         disabled={nextDisabled}
         className="flex items-center gap-2 rounded-full bg-forest px-8 py-3 text-sm font-medium text-white hover:bg-forest-light disabled:opacity-50"
       >
-        Next <ArrowRight className="h-4 w-4" />
+        {t("next")} <ArrowRight className="h-4 w-4" />
       </button>
     </div>
   );
