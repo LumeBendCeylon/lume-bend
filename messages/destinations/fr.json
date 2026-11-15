@@ -854,8 +854,424 @@
         "description": "Visitez le petit temple situé sur un îlot rocheux près du rivage, un lieu spirituel paisible à proximité de la plage."
       }
     ]
+  },
+    "galle": {
+    "name": "Galle",
+    "region": "Côte sud",
+    "description": "Galle est la ville portuaire historique de la côte sud du Sri Lanka, célèbre pour le fort de Galle, une forteresse commencée par les Portugais et agrandie par les Néerlandais au XVIIe siècle, aujourd'hui inscrite au patrimoine mondial de l'UNESCO. Derrière ses puissantes murailles, ruelles pavées, bâtiments coloniaux, cafés, boutiques et vues sur la mer composent une atmosphère unique. Pour les voyageurs qui veulent réunir histoire, architecture et vie côtière au même endroit, Galle est une étape inoubliable.",
+    "highlightCards": ["Fort de Galle", "Remparts et phare", "Patrimoine colonial et vie côtière"],
+    "articleSections": [
+      {
+        "title": "Le fort de Galle",
+        "description": "Le fort de Galle est le cœur de la ville et l'un des exemples les mieux conservés d'architecture fortifiée européenne en Asie du Sud. À l'intérieur des remparts, des ruelles étroites passent devant églises, mosquées, anciennes maisons et bâtiments coloniaux. En flânant sans plan précis, on découvre à presque chaque coin de rue un nouveau détail qui raconte l'histoire riche et stratifiée du lieu."
+      },
+      {
+        "title": "Sur les remparts",
+        "description": "Une promenade sur les remparts compte parmi les plus belles expériences de Galle. D'un côté, les vagues de l'océan Indien arrivent en roulant ; de l'autre, les toits de la vieille ville s'étendent, et le phare blanc ajoute une touche emblématique. En fin d'après-midi surtout, quand la lumière s'adoucit et que le ciel se colore, les murailles invitent à une flânerie tranquille."
+      },
+      {
+        "title": "Culture, cafés et littoral",
+        "description": "Outre son patrimoine historique, Galle a un caractère vivant et créatif. De petites galeries, boutiques, cafés et restaurants animent le fort, tandis qu'à l'extérieur des murs, des plages comme Unawatuna et des sites comme la pagode de la Paix japonaise sont faciles d'accès. Une journée à Galle se partage ainsi aisément entre histoire, gourmandise et plage."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Explorer le fort de Galle",
+        "description": "Flânez dans les ruelles de ce site du patrimoine mondial de l'UNESCO et découvrez bâtiments coloniaux, églises, mosquées, cafés et petites boutiques."
+      },
+      {
+        "title": "Promenade sur les remparts",
+        "description": "Marchez sur les anciennes murailles face à l'océan, surtout au coucher du soleil, quand le ciel se teinte d'or."
+      },
+      {
+        "title": "Phare de Galle",
+        "description": "Visitez le phare blanc situé à la pointe sud du fort, l'un des sujets de photo les plus connus de la ville."
+      },
+      {
+        "title": "Église réformée néerlandaise",
+        "description": "Découvrez l'église historique au cœur du fort, un témoignage marquant de la période coloniale néerlandaise."
+      },
+      {
+        "title": "Musées du fort",
+        "description": "Découvrez dans les musées de la vieille ville l'histoire, la tradition maritime et le patrimoine de la région."
+      },
+      {
+        "title": "Unawatuna et pagode de la Paix japonaise",
+        "description": "Prolongez votre visite du fort par une escapade vers la plage voisine d'Unawatuna et la pagode blanche de la Paix qui domine la côte."
+      }
+    ]
+  },
+  "weligama": {
+    "name": "Weligama",
+    "region": "Côte sud",
+    "description": "Weligama est une destination côtière détendue sur la côte sud du Sri Lanka, connue pour sa vaste baie en arc de cercle, ses vagues douces et l'un des meilleurs endroits de l'île pour apprendre à surfer. Au-delà de la plage, la petite île de Taprobane, l'ancienne statue rupestre de Kushtarajagala et la dentelle traditionnelle offrent un aperçu de la culture régionale. Weligama convient aux voyageurs qui souhaitent associer mer, activité et vie côtière tranquille.",
+    "highlightCards": ["Surf dans la baie de Weligama", "Île de Taprobane", "Culture et vie côtière"],
+    "articleSections": [
+      {
+        "title": "La baie de Weligama",
+        "description": "La vaste baie de Weligama, en pente douce, fait partie des tronçons de côte les plus paisibles du sud. Des palmiers bordent la longue plage de sable, de petits bateaux de pêche stationnent au large et l'eau chaude invite à la baignade. L'atmosphère est détendue et moins touristique que dans certains autres lieux de la côte."
+      },
+      {
+        "title": "Apprendre à surfer",
+        "description": "Weligama est connue pour ses vagues douces et régulières, particulièrement adaptées aux débutants. De nombreuses écoles de surf proposent des cours et des locations de planches, et les surfeurs expérimentés trouvent aussi des spots adaptés dans les environs. Se lancer sur l'eau, c'est découvrir le côté actif de la côte sud."
+      },
+      {
+        "title": "Île, patrimoine et artisanat",
+        "description": "Au large, la petite île de Taprobane et sa villa emblématique forment l'un des motifs préférés des photographes de la baie. À terre, la statue rupestre de Kushtarajagala rappelle la longue histoire de la région, et la dentelle traditionnelle montre combien l'artisanat et la culture du quotidien sont restés vivants."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Apprendre à surfer",
+        "description": "Suivez un cours de surf et exercez-vous sur les vagues douces de la baie, idéales pour les débutants."
+      },
+      {
+        "title": "Profiter de la plage et de la baie",
+        "description": "Passez des heures détendues sur la longue plage, baignez-vous dans l'eau chaude et regardez les bateaux de pêche."
+      },
+      {
+        "title": "Île de Taprobane",
+        "description": "Admirez la petite île et sa célèbre villa, un repère marquant de la baie de Weligama."
+      },
+      {
+        "title": "Kushtarajagala",
+        "description": "Visitez l'ancienne statue rupestre en bordure de ville, un site archéologique important de la région."
+      },
+      {
+        "title": "Dentelle traditionnelle",
+        "description": "Découvrez comment est fabriquée la dentelle traditionnelle de Weligama et rencontrez un artisanat toujours vivant."
+      },
+      {
+        "title": "Excursion à Mirissa",
+        "description": "Combinez votre séjour avec une escapade à Mirissa, toute proche, pour ses plages, ses couchers de soleil et l'observation des baleines."
+      }
+    ]
+  },
+  "koggala": {
+    "name": "Koggala",
+    "region": "Côte sud",
+    "description": "Koggala est une destination tranquille de la côte sud du Sri Lanka, où le vaste lac de Koggala, de petites îles, des mangroves et une longue plage se rejoignent. Connue pour les balades en bateau sur le lac, les pêcheurs sur échasses traditionnels et les sites culturels voisins, Koggala offre une expérience paisible loin des stations côtières plus animées. Pour les voyageurs en quête de nature, de culture du quotidien et de lenteur, Koggala est une étape qui en vaut la peine.",
+    "highlightCards": ["Lac de Koggala et balade en bateau", "Pêcheurs sur échasses", "Culture et plage"],
+    "articleSections": [
+      {
+        "title": "Le lac de Koggala",
+        "description": "Le lac de Koggala, proche de la mer, est marqué par des mangroves, des palmiers et de petites îles. Une balade en bateau emprunte des voies d'eau calmes, passe devant la vie des villages, les oiseaux aquatiques et la végétation, et révèle un visage doux et vert de la région côtière. Le rythme est lent, et l'atmosphère silencieuse fait du lac un contrepoint agréable aux plages."
+      },
+      {
+        "title": "Pêcheurs sur échasses et vie côtière",
+        "description": "Le long de la côte autour de Koggala, les pêcheurs sur échasses sont une image célèbre du Sri Lanka. Perchés sur des perches en bois dans l'eau, ils pêchent selon des méthodes traditionnelles. Quand on leur rend visite, il convient de rester respectueux : il s'agit d'un vrai travail et d'une part de la tradition locale."
+      },
+      {
+        "title": "Culture, plage et mémoire",
+        "description": "Outre la nature, Koggala compte des lieux culturels qui éclairent la vie de la région. Le musée du folklore consacré à l'écrivain Martin Wickramasinghe raconte le quotidien et la littérature, et l'ancien temple de Kataluwa est connu pour ses peintures murales historiques. La longue plage complète le séjour par son ampleur et sa tranquillité."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Balade en bateau sur le lac de Koggala",
+        "description": "Glissez sur le lac paisible, devant mangroves, petites îles et oiseaux aquatiques."
+      },
+      {
+        "title": "Visiter l'île de la cannelle",
+        "description": "Découvrez sur une petite île du lac la culture traditionnelle de la cannelle et sa transformation."
+      },
+      {
+        "title": "Observer les pêcheurs sur échasses",
+        "description": "Assistez à la pêche traditionnelle sur échasses le long de la côte, en gardant respect et discrétion."
+      },
+      {
+        "title": "Musée Martin Wickramasinghe",
+        "description": "Visitez le musée du folklore et découvrez la vie, la littérature et le quotidien de la région."
+      },
+      {
+        "title": "Temple de Kataluwa",
+        "description": "Découvrez ce temple bouddhiste historique et ses anciennes peintures murales dans un cadre paisible."
+      },
+      {
+        "title": "Plage de Koggala",
+        "description": "Profitez de la longue plage tranquille pour marcher et passer des heures sereines au bord de la mer."
+      }
+    ]
+  },
+    "ahangama": {
+    "name": "Ahangama",
+    "region": "Côte sud",
+    "description": "Ahangama est un village côtier détendu entre Galle et Weligama, connu pour ses spots de surf, ses pêcheurs sur échasses traditionnels, ses cafés charmants et son atmosphère tranquille. Entre palmiers, petites criques et routes paisibles, le lieu associe vie de plage, yoga, bonne cuisine et scène créative. Pour les voyageurs qui souhaitent découvrir la côte sud loin des grandes stations, Ahangama est un refuge idéal.",
+    "highlightCards": ["Spots de surf et plages", "Pêcheurs sur échasses", "Cafés et vie côtière"],
+    "articleSections": [
+      {
+        "title": "Un village au bord de la mer",
+        "description": "Ahangama s'étire le long de la côte, avec de petites criques, des palmiers et des rochers au bord de l'eau. La vie y est lente : le matin, les pêcheurs prennent la mer, la journée est consacrée au surf ou à la baignade, et le soir les cafés de plage se remplissent. Cette ambiance détendue en fait un agréable contrepoint aux grandes villes côtières."
+      },
+      {
+        "title": "Vagues et plages",
+        "description": "Dans et autour d'Ahangama, plusieurs spots de surf offrent des conditions adaptées aux débutants comme aux surfeurs expérimentés. Les écoles proposent cours et planches, et les plages voisines se prêtent aussi à la promenade et à la détente. Selon la saison et la météo, les vagues et l'état de la mer changent nettement."
+      },
+      {
+        "title": "Pêcheurs sur échasses, yoga et gourmandises",
+        "description": "Les pêcheurs sur échasses de la côte sont une image célèbre du Sri Lanka et font partie d'une tradition vivante qu'il convient de respecter. Ahangama est aussi devenue un lieu de yoga, de bien-être et de bonne cuisine, avec de petits cafés, restaurants et hébergements qui invitent à s'attarder."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Surf",
+        "description": "Profitez des vagues de la côte d'Ahangama, en cours de surf ou en autonomie."
+      },
+      {
+        "title": "Observer les pêcheurs sur échasses",
+        "description": "Assistez à la pêche traditionnelle sur échasses le long de la côte, avec respect envers les pêcheurs."
+      },
+      {
+        "title": "Profiter des journées de plage",
+        "description": "Passez des heures détendues dans des criques et sur des plages calmes bordées de palmiers, face à l'immensité de la mer."
+      },
+      {
+        "title": "Yoga et bien-être",
+        "description": "Participez à un cours de yoga ou offrez-vous un soin de bien-être dans un cadre côtier paisible."
+      },
+      {
+        "title": "Cafés et fruits de mer",
+        "description": "Savourez poisson frais, fruits et café dans l'un des nombreux petits cafés et restaurants en bord de mer."
+      },
+      {
+        "title": "Excursion à Galle",
+        "description": "Combinez votre séjour avec une escapade au fort de Galle, tout proche."
+      }
+    ]
+  },
+  "matara": {
+    "name": "Matara",
+    "region": "Côte sud",
+    "description": "Matara est la ville côtière animée à l'extrémité sud de la côte sud du Sri Lanka, avec un fort néerlandais, un temple sur un petit îlot et des plages comme Polhena. À proximité se trouve Dondra Head, le point le plus méridional de l'île, avec son phare. Matara offre aux voyageurs histoire, culture et vie côtière dans un cadre moins touristique.",
+    "highlightCards": ["Fort de Matara et Star Fort", "Temple Parey Dewa", "Polhena et Dondra Head"],
+    "articleSections": [
+      {
+        "title": "Forts et patrimoine",
+        "description": "Matara possède un fort de l'époque coloniale néerlandaise qui marque le caractère de la vieille ville, ainsi que le petit Star Fort en forme d'étoile. En se promenant, on découvre bâtiments coloniaux, marchés et vie quotidienne d'une ville côtière moins tournée vers les touristes."
+      },
+      {
+        "title": "Un temple sur l'eau",
+        "description": "Le temple Parey Dewa se trouve sur un petit îlot près de la rive, accessible par une passerelle piétonne. Avec son cadre paisible au bord de l'eau, c'est un lieu empreint d'atmosphère pour découvrir la tradition bouddhiste de la région."
+      },
+      {
+        "title": "Plage, phare et extrême sud",
+        "description": "La plage de Polhena est protégée par un récif au large et se prête bien à la baignade tranquille et au snorkeling. À quelques kilomètres, Dondra Head et son phare marquent le point le plus au sud de l'île, et le sanctuaire de Dondra Devale est l'un des lieux religieux importants de la région."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Explorer le fort de Matara",
+        "description": "Promenez-vous dans le fort historique de l'époque néerlandaise et découvrez le caractère de la vieille ville."
+      },
+      {
+        "title": "Star Fort",
+        "description": "Visitez la petite forteresse en forme d'étoile, un exemple marquant d'architecture défensive coloniale."
+      },
+      {
+        "title": "Temple Parey Dewa",
+        "description": "Traversez la passerelle jusqu'au temple sur le petit îlot et savourez l'atmosphère paisible au bord de l'eau."
+      },
+      {
+        "title": "Plage de Polhena",
+        "description": "Baignez-vous ou faites du snorkeling dans la baie abritée de Polhena, réputée pour son eau calme."
+      },
+      {
+        "title": "Dondra Head et phare",
+        "description": "Rendez-vous au point le plus méridional du Sri Lanka et visitez le phare historique face à l'océan."
+      },
+      {
+        "title": "Temple de Weherahena",
+        "description": "Visitez ce temple connu pour sa grande statue de Bouddha et les peintures colorées de son intérieur."
+      }
+    ]
+  },
+  "kalpitiya": {
+    "name": "Kalpitiya",
+    "region": "Côte nord-ouest",
+    "description": "Kalpitiya est une longue péninsule sur la côte nord-ouest du Sri Lanka, entre lagune et pleine mer, connue pour le kitesurf, l'observation des dauphins et la réserve marine de Bar Reef. Avec ses plages tranquilles, son ancien fort néerlandais et ses vastes paysages, Kalpitiya offre une expérience côtière authentique loin des destinations plus connues. Pour les voyageurs en quête de vent, d'eau et de nature, c'est une étape qui en vaut la peine.",
+    "highlightCards": ["Kitesurf", "Observation des dauphins", "Bar Reef et fort néerlandais"],
+    "articleSections": [
+      {
+        "title": "Vent et eau",
+        "description": "Les lagunes peu profondes et le vent régulier font de Kalpitiya l'une des destinations de kitesurf les plus connues du pays. La haute saison s'étend grosso modo de mai à octobre, quand le vent souffle de façon fiable. Les écoles de kitesurf proposent des cours aux débutants, et le spectacle sur l'eau est aussi impressionnant à regarder."
+      },
+      {
+        "title": "Dauphins et récif",
+        "description": "Au large de Kalpitiya, on peut souvent observer de grands groupes de dauphins, surtout des dauphins à long bec, de préférence pendant la saison plus calme, environ de novembre à avril. Bar Reef est considéré comme l'un des récifs coralliens les plus importants de l'île et constitue une réserve marine où les amateurs de snorkeling découvrent coraux et poissons."
+      },
+      {
+        "title": "Vie côtière tranquille",
+        "description": "Au-delà des activités, Kalpitiya a une atmosphère calme et rurale. Le fort néerlandais rappelle l'histoire coloniale, des villages de pêcheurs marquent le littoral, et les longues plages peu fréquentées invitent à la promenade et aux couchers de soleil."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Kitesurf",
+        "description": "Apprenez le kitesurf ou profitez des conditions de la lagune, surtout pendant la saison de vent."
+      },
+      {
+        "title": "Observation des dauphins",
+        "description": "Partez en bateau à la recherche des dauphins et profitez de la mer dans la lumière du matin."
+      },
+      {
+        "title": "Snorkeling à Bar Reef",
+        "description": "Explorez la réserve marine, ses coraux et ses poissons, quand la météo et l'état de la mer le permettent."
+      },
+      {
+        "title": "Fort néerlandais",
+        "description": "Visitez l'ancien fort de Kalpitiya, témoin de l'histoire coloniale de la côte."
+      },
+      {
+        "title": "Plages et couchers de soleil",
+        "description": "Profitez des longues plages tranquilles de la péninsule et du coucher de soleil sur la mer."
+      },
+      {
+        "title": "Lagune et villages de pêcheurs",
+        "description": "Découvrez la lagune et la vie quotidienne dans les villages de pêcheurs de la péninsule."
+      }
+    ]
+  },
+    "trincomalee": {
+    "name": "Trincomalee",
+    "region": "Côte est",
+    "description": "Trincomalee est la ville portuaire de la côte est du Sri Lanka, marquée par l'un des plus grands ports naturels du monde, des plages dorées, une eau claire et d'anciens temples. Des plages d'Uppuveli et de Nilaveli au snorkeling à Pigeon Island, jusqu'au temple de Koneswaram sur son rocher face à la mer, Trincomalee associe détente côtière, culture et histoire. Pour les voyageurs qui souhaitent découvrir la côte est pendant la saison plus sèche, c'est une destination qui en vaut la peine.",
+    "highlightCards": ["Plages d'Uppuveli et de Nilaveli", "Pigeon Island", "Temple de Koneswaram et fort Frederick"],
+    "articleSections": [
+      {
+        "title": "Plages et eaux claires",
+        "description": "Les plages de Trincomalee comptent parmi les plus belles de l'île. Uppuveli offre une atmosphère détendue avec cafés et hébergements en bord de mer, tandis que Nilaveli, plus au nord, séduit par sa longue plage de sable calme et son eau turquoise. La meilleure période de visite va grosso modo de mai à septembre, quand la côte est est plus tranquille."
+      },
+      {
+        "title": "Pigeon Island et le monde sous-marin",
+        "description": "Le parc national de Pigeon Island, au large de Nilaveli, est une réserve marine avec récifs coralliens, poissons colorés et tortues marines. Le snorkeling y est l'une des expériences les plus appréciées, et le court trajet en bateau fait partie de l'excursion. Il est important de ne toucher ni les coraux ni les animaux et de respecter les règles de la réserve."
+      },
+      {
+        "title": "Temples, fort et histoire",
+        "description": "Sur Swami Rock se dresse le temple de Koneswaram, un important site hindou dominant l'océan. À proximité se trouve le fort Frederick, témoin de l'histoire coloniale de la ville, et le vaste port naturel explique pourquoi Trincomalee a eu une telle importance stratégique pendant des siècles."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Plage d'Uppuveli",
+        "description": "Détendez-vous sur la longue plage de sable, baignez-vous dans la mer chaude et profitez de l'ambiance paisible des cafés de plage."
+      },
+      {
+        "title": "Plage de Nilaveli",
+        "description": "Profitez de l'une des plages les plus calmes et les plus belles de l'île, avec une eau claire et turquoise."
+      },
+      {
+        "title": "Snorkeling à Pigeon Island",
+        "description": "Partez en bateau vers le parc national marin et explorez coraux, poissons et tortues marines."
+      },
+      {
+        "title": "Temple de Koneswaram",
+        "description": "Visitez le temple perché sur le rocher face à la mer et profitez de la vue étendue sur la côte."
+      },
+      {
+        "title": "Fort Frederick",
+        "description": "Explorez le fort historique et découvrez le passé colonial de Trincomalee."
+      },
+      {
+        "title": "Sources chaudes de Kanniya",
+        "description": "Visitez les puits d'eau chaude de Kanniya, un petit arrêt apprécié près de la ville."
+      }
+    ]
+  },
+  "arugam-bay": {
+    "name": "Arugam Bay",
+    "region": "Côte est",
+    "description": "Arugam Bay est un village côtier détendu sur la côte est du Sri Lanka, mondialement connu pour ses vagues de surf et son ambiance décontractée. Outre le surf, les safaris en lagune, l'observation des éléphants et des oiseaux et les sites anciens des environs offrent de nombreuses possibilités aux amoureux de la nature. La meilleure période va grosso modo d'avril à octobre, quand les vagues sont régulières et que la côte est animée.",
+    "highlightCards": ["Surf à Main Point", "Safari en lagune près de Pottuvil", "Faune et sites anciens"],
+    "articleSections": [
+      {
+        "title": "Vagues et vie de village",
+        "description": "La baie d'Arugam Bay est réputée pour ses longues vagues régulières qui attirent des surfeurs du monde entier. Plusieurs spots aux alentours offrent des conditions pour différents niveaux, et les écoles de surf aident les débutants à se lancer. Le soir, visiteurs et habitants se retrouvent dans de petits cafés et restaurants sur la plage."
+      },
+      {
+        "title": "Lagune, crocodiles et oiseaux",
+        "description": "La lagune près de Pottuvil s'explore lors d'un safari en bateau. Entre mangroves et étendues d'eau apparaissent oiseaux aquatiques, varans et, avec un peu de chance, crocodiles. La sortie est paisible et convient bien au petit matin ou à la fin d'après-midi."
+      },
+      {
+        "title": "Parcs nationaux et patrimoine ancien",
+        "description": "Dans les environs se trouvent le parc national de Lahugala-Kitulana, réputé pour ses éléphants, et le parc national de Kumana, riche en oiseaux. L'ancien temple bouddhiste de Muhudu Maha Viharaya près de Pottuvil associe paysage côtier et patrimoine religieux et complète un séjour sur le plan culturel."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Surf à Main Point",
+        "description": "Profitez des longues vagues de la baie, en cours pour débutants ou en surfeur expérimenté."
+      },
+      {
+        "title": "Safari en lagune près de Pottuvil",
+        "description": "Glissez en bateau à travers les mangroves en observant oiseaux, varans et crocodiles."
+      },
+      {
+        "title": "Elephant Rock",
+        "description": "Visitez le rocher emblématique près de la baie et profitez de la vue sur la côte."
+      },
+      {
+        "title": "Parc national de Lahugala-Kitulana",
+        "description": "Guettez les éléphants sauvages dans ce paysage proche d'Arugam Bay."
+      },
+      {
+        "title": "Parc national de Kumana",
+        "description": "Découvrez des lagunes et des forêts pleines d'oiseaux aquatiques et migrateurs, idéal pour les ornithologues."
+      },
+      {
+        "title": "Muhudu Maha Viharaya",
+        "description": "Visitez l'ancien temple près de Pottuvil, en bord de côte."
+      }
+    ]
+  },
+  "pasikuda": {
+    "name": "Pasikuda",
+    "region": "Côte est",
+    "description": "Pasikuda est une destination côtière sur la côte est du Sri Lanka, connue pour sa vaste baie peu profonde, son eau calme et claire et sa plage de sable fin. L'eau peu profonde convient particulièrement bien à la baignade, y compris en famille, et dans les environs, des plages comme Kalkudah, la ville lagunaire de Batticaloa et son fort néerlandais offrent d'autres excursions. La meilleure période de visite va grosso modo d'avril à septembre.",
+    "highlightCards": ["Baie peu profonde et eau calme", "Plage de Kalkudah", "Batticaloa et sa lagune"],
+    "articleSections": [
+      {
+        "title": "Une baie pour se détendre",
+        "description": "La baie de Pasikuda est connue pour son eau exceptionnellement peu profonde, qui s'étend loin vers le large. La baignade y est calme et sûre, et l'ambiance sur la plage est sereine. Quand la visibilité est bonne, on peut observer depuis l'eau des poissons et de petites zones de récif."
+      },
+      {
+        "title": "Kalkudah et le littoral",
+        "description": "Au nord de Pasikuda se trouve la plage de Kalkudah, une longue plage de sable ouverte, avec plus d'espace et des vagues un peu plus marquées. Les promenades au matin ou au coucher du soleil révèlent le côté paisible de la côte est."
+      },
+      {
+        "title": "Batticaloa et la lagune",
+        "description": "La ville de Batticaloa se trouve à courte distance et est marquée par une grande lagune. Le fort néerlandais, le paysage lagunaire et la culture du quotidien offrent un beau contraste avec le séjour balnéaire."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Se baigner dans la baie peu profonde",
+        "description": "Profitez de l'eau calme et claire de la baie, idéale pour une baignade tranquille."
+      },
+      {
+        "title": "Plage de Kalkudah",
+        "description": "Promenez-vous sur la longue plage de sable ouverte au nord de Pasikuda."
+      },
+      {
+        "title": "Snorkeling et sports nautiques",
+        "description": "Explorez l'eau claire en snorkeling ou essayez d'autres sports nautiques quand les conditions le permettent."
+      },
+      {
+        "title": "Fort néerlandais de Batticaloa",
+        "description": "Visitez le fort historique en bordure de la lagune."
+      },
+      {
+        "title": "Balade en lagune à Batticaloa",
+        "description": "Découvrez la lagune paisible lors d'une sortie en bateau et la vie quotidienne sur ses rives."
+      },
+      {
+        "title": "Lever de soleil sur la plage",
+        "description": "Commencez la journée tôt et admirez le lever du soleil sur la mer, un atout de la côte est."
+      }
+    ]
   }
 }
+
+
 
 
 

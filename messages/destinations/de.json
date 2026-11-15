@@ -854,8 +854,425 @@
         "description": "Besuchen Sie den kleinen Tempel auf einer Felseninsel vor der Küste, eine ruhige spirituelle Stätte nahe dem Strand."
       }
     ]
+  },
+    "galle": {
+    "name": "Galle",
+    "region": "Südküste",
+    "description": "Galle ist die historische Hafenstadt an Sri Lankas Südküste, berühmt für das Galle Fort, eine von den Portugiesen begonnene und von den Niederländern im 17. Jahrhundert ausgebaute Festung, die heute zum UNESCO-Welterbe zählt. Hinter den mächtigen Mauern verbinden sich kopfsteingepflasterte Gassen, Kolonialbauten, Cafés, Boutiquen und Meerblick zu einer einzigartigen Atmosphäre. Für Reisende, die Geschichte, Architektur und Küstenleben an einem Ort erleben möchten, ist Galle ein unvergesslicher Halt.",
+    "highlightCards": ["Galle Fort", "Festungsmauern und Leuchtturm", "Koloniales Erbe und Küstenleben"],
+    "articleSections": [
+      {
+        "title": "Das Galle Fort",
+        "description": "Das Galle Fort ist das Herz der Stadt und eines der am besten erhaltenen Beispiele europäischer Festungsarchitektur in Südasien. Innerhalb der Mauern führen enge Gassen vorbei an Kirchen, Moscheen, alten Wohnhäusern und Kolonialgebäuden. Wer ohne festen Plan durch die Straßen schlendert, entdeckt hinter fast jeder Ecke ein neues Detail, das von der vielschichtigen Geschichte des Ortes erzählt."
+      },
+      {
+        "title": "Auf den Festungsmauern",
+        "description": "Ein Spaziergang auf den Festungsmauern gehört zu den schönsten Erlebnissen in Galle. Auf der einen Seite rollen die Wellen des Indischen Ozeans heran, auf der anderen liegen die Dächer der Altstadt, und der weiße Leuchtturm setzt einen markanten Akzent. Besonders am späten Nachmittag, wenn das Licht weicher wird und der Himmel sich färbt, laden die Mauern zum langsamen Flanieren ein."
+      },
+      {
+        "title": "Kultur, Cafés und Küste",
+        "description": "Neben dem historischen Erbe hat Galle einen lebendigen, kreativen Charakter. Kleine Galerien, Boutiquen, Cafés und Restaurants prägen das Bild des Forts, während sich außerhalb der Mauern Strände wie Unawatuna und Sehenswürdigkeiten wie die Japanische Friedenspagode leicht erreichen lassen. So lässt sich ein Tag in Galle gut zwischen Geschichte, Genuss und Strand aufteilen."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Galle Fort erkunden",
+        "description": "Schlendern Sie durch die Gassen des UNESCO-Welterbes und entdecken Sie Kolonialbauten, Kirchen, Moscheen, Cafés und kleine Läden."
+      },
+      {
+        "title": "Spaziergang auf den Festungsmauern",
+        "description": "Laufen Sie auf den alten Mauern mit Blick auf den Ozean, besonders zum Sonnenuntergang, wenn sich der Himmel golden färbt."
+      },
+      {
+        "title": "Leuchtturm von Galle",
+        "description": "Besuchen Sie den weißen Leuchtturm an der Südspitze des Forts, eines der bekanntesten Fotomotive der Stadt."
+      },
+      {
+        "title": "Niederländisch-reformierte Kirche",
+        "description": "Entdecken Sie die historische Kirche im Herzen des Forts, ein eindrucksvolles Zeugnis der niederländischen Kolonialzeit."
+      },
+      {
+        "title": "Museen des Forts",
+        "description": "Erfahren Sie in den Museen der Altstadt mehr über die Geschichte, die Seefahrt und das Erbe der Region."
+      },
+      {
+        "title": "Unawatuna und Japanische Friedenspagode",
+        "description": "Verbinden Sie den Fort-Besuch mit einem Abstecher zum nahen Strand von Unawatuna und zur weißen Friedenspagode oberhalb der Küste."
+      }
+    ]
+  },
+  "weligama": {
+    "name": "Weligama",
+    "region": "Südküste",
+    "description": "Weligama ist ein entspanntes Küstenziel an der Südküste Sri Lankas, bekannt für seine weit geschwungene Bucht, sanfte Wellen und eine der besten Gegenden der Insel, um Surfen zu lernen. Neben dem Strand bieten die kleine Insel Taprobane, die alte Felsstatue Kushtarajagala und die traditionelle Spitzenklöppelei einen Einblick in die Kultur der Region. Weligama passt gut zu Reisenden, die Meer, Aktivität und ruhiges Küstenleben verbinden möchten.",
+    "highlightCards": ["Surfen in der Weligama-Bucht", "Taprobane-Insel", "Kultur und Küstenleben"],
+    "articleSections": [
+      {
+        "title": "Die Bucht von Weligama",
+        "description": "Weligamas weite, flach abfallende Bucht gehört zu den ruhigeren Küstenabschnitten des Südens. Palmen säumen den langen Sandstrand, kleine Fischerboote liegen vor der Küste, und das warme Wasser lädt zum Baden ein. Die Atmosphäre ist entspannt und weniger touristisch geprägt, als man es von manchen anderen Orten der Küste kennt."
+      },
+      {
+        "title": "Surfen lernen",
+        "description": "Weligama ist für seine sanften, gleichmäßigen Wellen bekannt, die besonders für Anfänger gut geeignet sind. Zahlreiche Surfschulen bieten Kurse und Leihbretter an, und auch erfahrene Surfer finden in der Umgebung passende Spots. Wer sich aufs Wasser wagt, erlebt die Südküste von ihrer aktiven Seite."
+      },
+      {
+        "title": "Insel, Erbe und Handwerk",
+        "description": "Vor der Küste liegt die kleine Insel Taprobane mit ihrer markanten Villa, ein beliebtes Fotomotiv der Bucht. An Land erinnert die Felsstatue Kushtarajagala an die lange Geschichte der Region, und die traditionelle Spitzenklöppelei zeigt, wie Handwerk und Alltagskultur hier bis heute lebendig geblieben sind."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Surfen lernen",
+        "description": "Nehmen Sie an einem Surfkurs teil und üben Sie auf den sanften Wellen der Bucht, ideal für Anfänger."
+      },
+      {
+        "title": "Strand und Bucht genießen",
+        "description": "Verbringen Sie entspannte Stunden am langen Strand, baden Sie im warmen Wasser und beobachten Sie das Treiben der Fischerboote."
+      },
+      {
+        "title": "Taprobane-Insel",
+        "description": "Betrachten Sie die kleine Insel mit ihrer berühmten Villa, ein markantes Wahrzeichen der Bucht von Weligama."
+      },
+      {
+        "title": "Kushtarajagala",
+        "description": "Besuchen Sie die alte Felsstatue am Rand der Stadt, eine bedeutende archäologische Stätte der Region."
+      },
+      {
+        "title": "Traditionelle Spitzenklöppelei",
+        "description": "Erfahren Sie, wie die traditionelle Spitze von Weligama gefertigt wird, und lernen Sie ein lebendiges Handwerk kennen."
+      },
+      {
+        "title": "Ausflug nach Mirissa",
+        "description": "Verbinden Sie Ihren Aufenthalt mit einem Abstecher ins nahe Mirissa für Strände, Sonnenuntergänge und Walbeobachtung."
+      }
+    ]
+  },
+  "koggala": {
+    "name": "Koggala",
+    "region": "Südküste",
+    "description": "Koggala ist ein ruhiges Ziel an der Südküste Sri Lankas, wo der weite Koggala-See, kleine Inseln, Mangroven und ein langer Strand aufeinandertreffen. Bekannt für Bootsfahrten auf dem See, die traditionellen Stelzenfischer und kulturelle Stätten in der Umgebung, bietet Koggala ein friedliches Erlebnis abseits der belebteren Küstenorte. Für Reisende, die Natur, Alltagskultur und Entschleunigung suchen, ist Koggala ein lohnender Halt.",
+    "highlightCards": ["Koggala-See und Bootsfahrt", "Stelzenfischer", "Kultur und Strand"],
+    "articleSections": [
+      {
+        "title": "Der Koggala-See",
+        "description": "Der Koggala-See liegt nahe dem Meer und ist von Mangroven, Palmen und kleinen Inseln geprägt. Eine Bootsfahrt führt durch ruhige Wasserwege, vorbei an Dorfleben, Wasservögeln und Pflanzenwelt, und zeigt eine sanfte, grüne Seite der Küstenregion. Das Tempo ist langsam, und die stille Atmosphäre macht den See zu einem schönen Gegenpol zu den Stränden."
+      },
+      {
+        "title": "Stelzenfischer und Küstenleben",
+        "description": "Entlang der Küste um Koggala sind die Stelzenfischer ein bekanntes Bild Sri Lankas. Sie sitzen auf Holzstangen im Wasser und fischen mit traditionellen Methoden. Wer sie besucht, sollte respektvoll bleiben und bedenken, dass es sich um eine echte Arbeit und ein Stück lokaler Tradition handelt."
+      },
+      {
+        "title": "Kultur, Strand und Erinnerung",
+        "description": "Neben der Natur besitzt Koggala kulturelle Orte, die Einblicke in das Leben der Region geben. Das Volkskunde-Museum zu Ehren des Schriftstellers Martin Wickramasinghe erzählt von Alltag und Literatur, und der alte Kataluwa-Tempel ist für seine historischen Wandmalereien bekannt. Der lange Strand rundet den Aufenthalt mit Weite und Ruhe ab."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Bootsfahrt auf dem Koggala-See",
+        "description": "Gleiten Sie über den ruhigen See, vorbei an Mangroven, kleinen Inseln und Wasservögeln."
+      },
+      {
+        "title": "Zimtinsel besuchen",
+        "description": "Erfahren Sie auf einer kleinen Insel im See mehr über den traditionellen Zimtanbau und seine Verarbeitung."
+      },
+      {
+        "title": "Stelzenfischer beobachten",
+        "description": "Sehen Sie sich die traditionelle Stelzenfischerei an der Küste an und begegnen Sie den Fischern mit Respekt."
+      },
+      {
+        "title": "Martin-Wickramasinghe-Museum",
+        "description": "Besuchen Sie das Volkskunde-Museum und erfahren Sie mehr über Leben, Literatur und Alltag der Region."
+      },
+      {
+        "title": "Kataluwa-Tempel",
+        "description": "Entdecken Sie den historischen buddhistischen Tempel mit seinen alten Wandmalereien in ruhiger Umgebung."
+      },
+      {
+        "title": "Koggala-Strand",
+        "description": "Genießen Sie den langen, ruhigen Strand zum Spazierengehen und für gelassene Stunden am Meer."
+      }
+    ]
+  },
+    "ahangama": {
+    "name": "Ahangama",
+    "region": "Südküste",
+    "description": "Ahangama ist ein entspanntes Küstendorf zwischen Galle und Weligama, bekannt für seine Surfspots, die traditionellen Stelzenfischer, charmante Cafés und eine gelassene Atmosphäre. Zwischen Palmen, kleinen Buchten und ruhigen Straßen verbindet der Ort Strandleben, Yoga, gutes Essen und eine kreative Szene. Für Reisende, die die Südküste abseits der größeren Ferienorte erleben möchten, ist Ahangama ein idealer Rückzugsort.",
+    "highlightCards": ["Surfspots und Strände", "Stelzenfischer", "Cafés und Küstenleben"],
+    "articleSections": [
+      {
+        "title": "Ein Dorf am Meer",
+        "description": "Ahangama zieht sich an der Küste entlang, mit kleinen Buchten, Palmen und Felsen am Wasser. Das Leben verläuft langsam: Morgens gehen Fischer aufs Meer, tagsüber wird gesurft oder gebadet, und abends füllen sich die Strandcafés. Die entspannte Stimmung macht den Ort zu einem angenehmen Gegenpol zu den größeren Küstenstädten."
+      },
+      {
+        "title": "Wellen und Strände",
+        "description": "In und um Ahangama gibt es mehrere Surfspots, an denen Anfänger wie erfahrene Surfer passende Bedingungen finden. Surfschulen bieten Kurse und Bretter an, und die Strände der Umgebung eignen sich auch einfach zum Spazieren und Entspannen. Je nach Saison und Wetter verändern sich Wellen und Wasserbedingungen deutlich."
+      },
+      {
+        "title": "Stelzenfischer, Yoga und Genuss",
+        "description": "Die Stelzenfischer an der Küste sind ein bekanntes Bild Sri Lankas und Teil einer lebendigen Tradition, der man mit Respekt begegnen sollte. Daneben hat sich Ahangama zu einem Ort für Yoga, Wellness und gutes Essen entwickelt, mit kleinen Cafés, Restaurants und Unterkünften, die zum Verweilen einladen."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Surfen",
+        "description": "Nutzen Sie die Wellen an der Küste von Ahangama, ob im Surfkurs oder auf eigene Faust."
+      },
+      {
+        "title": "Stelzenfischer beobachten",
+        "description": "Sehen Sie die traditionelle Stelzenfischerei an der Küste und begegnen Sie den Fischern mit Respekt."
+      },
+      {
+        "title": "Strandtage genießen",
+        "description": "Verbringen Sie entspannte Stunden an ruhigen Buchten und Stränden mit Palmen und weitem Blick aufs Meer."
+      },
+      {
+        "title": "Yoga und Wellness",
+        "description": "Nehmen Sie an einer Yogastunde teil oder gönnen Sie sich eine Wellness-Behandlung in ruhiger Küstenumgebung."
+      },
+      {
+        "title": "Cafés und Meeresfrüchte",
+        "description": "Genießen Sie frischen Fisch, Obst und Kaffee in einem der vielen kleinen Cafés und Restaurants am Meer."
+      },
+      {
+        "title": "Ausflug nach Galle",
+        "description": "Verbinden Sie Ihren Aufenthalt mit einem Abstecher ins nahe Galle Fort."
+      }
+    ]
+  },
+  "matara": {
+    "name": "Matara",
+    "region": "Südküste",
+    "description": "Matara ist die lebhafte Küstenstadt am südlichen Ende der Südküste Sri Lankas, mit einem niederländischen Fort, einem Tempel auf einer kleinen Insel und Stränden wie Polhena. In der Nähe liegt Dondra Head, der südlichste Punkt der Insel, mit seinem Leuchtturm. Matara bietet Reisenden Geschichte, Kultur und Küstenleben in einer weniger touristischen Umgebung.",
+    "highlightCards": ["Matara Fort und Star Fort", "Parey Dewa Tempel", "Polhena und Dondra Head"],
+    "articleSections": [
+      {
+        "title": "Festungen und Erbe",
+        "description": "Matara besitzt ein Fort aus der niederländischen Kolonialzeit, das den Charakter der Altstadt prägt, sowie das kleine sternförmige Star Fort. Beim Spaziergang durch die Stadt zeigen sich Kolonialbauten, Märkte und das Alltagsleben einer Küstenstadt, die weniger auf Touristen ausgerichtet ist."
+      },
+      {
+        "title": "Tempel auf dem Wasser",
+        "description": "Der Parey Dewa Tempel liegt auf einer kleinen Insel nahe dem Ufer und ist über eine Fußgängerbrücke zu erreichen. Mit seinem ruhigen Umfeld am Wasser ist er ein stimmungsvoller Ort, um einen Einblick in die buddhistische Tradition der Region zu gewinnen."
+      },
+      {
+        "title": "Strand, Leuchtturm und der Süden",
+        "description": "Der Strand von Polhena ist durch ein vorgelagertes Riff geschützt und eignet sich gut zum ruhigen Baden und Schnorcheln. Wenige Kilometer entfernt liegt Dondra Head mit seinem Leuchtturm am südlichsten Punkt der Insel, und das Dondra-Devale-Heiligtum gehört zu den bedeutenden religiösen Stätten der Gegend."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Matara Fort erkunden",
+        "description": "Spazieren Sie durch das historische Fort aus der niederländischen Zeit und entdecken Sie den Charakter der Altstadt."
+      },
+      {
+        "title": "Star Fort",
+        "description": "Besuchen Sie die kleine sternförmige Festung, ein markantes Beispiel kolonialer Verteidigungsarchitektur."
+      },
+      {
+        "title": "Parey Dewa Tempel",
+        "description": "Gehen Sie über die Brücke zum Tempel auf der kleinen Insel und genießen Sie die ruhige Atmosphäre am Wasser."
+      },
+      {
+        "title": "Polhena-Strand",
+        "description": "Baden oder schnorcheln Sie in der geschützten Bucht von Polhena, die für ihr ruhiges Wasser bekannt ist."
+      },
+      {
+        "title": "Dondra Head und Leuchtturm",
+        "description": "Besuchen Sie den südlichsten Punkt Sri Lankas und den historischen Leuchtturm mit Blick auf den Ozean."
+      },
+      {
+        "title": "Weherahena-Tempel",
+        "description": "Besuchen Sie den bekannten Tempel mit der großen Buddha-Statue und den farbigen Malereien in seinem Inneren."
+      }
+    ]
+  },
+  "kalpitiya": {
+    "name": "Kalpitiya",
+    "region": "Nordwestküste",
+    "description": "Kalpitiya ist eine lange Halbinsel an Sri Lankas Nordwestküste, zwischen Lagune und offenem Meer gelegen und bekannt für Kitesurfen, Delfinbeobachtung und das Bar-Reef-Meeresschutzgebiet. Mit ruhigen Stränden, einem alten niederländischen Fort und weiten Landschaften bietet Kalpitiya eine ursprüngliche Küstenerfahrung abseits der bekannteren Ziele. Für Reisende, die Wind, Wasser und Natur suchen, ist es ein lohnender Halt.",
+    "highlightCards": ["Kitesurfen", "Delfinbeobachtung", "Bar Reef und Niederländisches Fort"],
+    "articleSections": [
+      {
+        "title": "Wind und Wasser",
+        "description": "Die flachen Lagunen und der beständige Wind machen Kalpitiya zu einem der bekanntesten Kitesurf-Ziele des Landes. Die Hauptsaison liegt grob zwischen Mai und Oktober, wenn der Wind zuverlässig weht. Kitesurf-Schulen bieten Kurse für Anfänger an, und auch zum Zuschauen ist das Spektakel auf dem Wasser eindrucksvoll."
+      },
+      {
+        "title": "Delfine und das Riff",
+        "description": "Vor der Küste von Kalpitiya lassen sich oft große Gruppen von Delfinen beobachten, vor allem Spinnerdelfine, am besten in der ruhigeren Jahreszeit von etwa November bis April. Das Bar Reef gilt als eines der bedeutendsten Korallenriffe der Insel und ist ein Meeresschutzgebiet, in dem Schnorchler Korallen und Fische entdecken können."
+      },
+      {
+        "title": "Ruhiges Küstenleben",
+        "description": "Neben den Aktivitäten besitzt Kalpitiya eine stille, ländliche Atmosphäre. Das niederländische Fort erinnert an die Kolonialgeschichte, Fischerdörfer prägen die Küste, und die langen, wenig besuchten Strände laden zu Spaziergängen und Sonnenuntergängen ein."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Kitesurfen",
+        "description": "Lernen Sie Kitesurfen oder nutzen Sie die Bedingungen der Lagune, besonders während der windreichen Saison."
+      },
+      {
+        "title": "Delfinbeobachtung",
+        "description": "Unternehmen Sie eine Bootsfahrt auf der Suche nach Delfinen und genießen Sie das Meer in der Morgenstimmung."
+      },
+      {
+        "title": "Schnorcheln am Bar Reef",
+        "description": "Erkunden Sie das Meeresschutzgebiet mit seinen Korallen und Fischen, wenn Wetter und Wasser es zulassen."
+      },
+      {
+        "title": "Niederländisches Fort",
+        "description": "Besuchen Sie das alte Fort von Kalpitiya, ein Zeugnis der kolonialen Geschichte der Küste."
+      },
+      {
+        "title": "Strände und Sonnenuntergänge",
+        "description": "Genießen Sie die langen, ruhigen Strände der Halbinsel und den Sonnenuntergang über dem Meer."
+      },
+      {
+        "title": "Lagune und Fischerdörfer",
+        "description": "Erleben Sie die Lagune und das Alltagsleben in den Fischerdörfern der Halbinsel."
+      }
+    ]
+  },
+    "trincomalee": {
+    "name": "Trincomalee",
+    "region": "Ostküste",
+    "description": "Trincomalee ist die Hafenstadt an Sri Lankas Ostküste, geprägt von einem der größten Naturhäfen der Welt, goldenen Stränden, klarem Wasser und alten Tempeln. Von den Stränden Uppuveli und Nilaveli über das Schnorcheln an der Pigeon Island bis zum Koneswaram-Tempel auf dem Felsen über dem Meer verbindet Trincomalee Küstenerholung mit Kultur und Geschichte. Für Reisende, die die Ostküste in der trockeneren Jahreszeit erleben möchten, ist es ein lohnendes Ziel.",
+    "highlightCards": ["Strände Uppuveli und Nilaveli", "Pigeon Island", "Koneswaram-Tempel und Fort Frederick"],
+    "articleSections": [
+      {
+        "title": "Strände und klares Wasser",
+        "description": "Die Strände von Trincomalee gehören zu den schönsten der Insel. Uppuveli bietet eine entspannte Atmosphäre mit Cafés und Unterkünften direkt am Meer, während Nilaveli weiter nördlich mit langem, ruhigem Sandstrand und türkisfarbenem Wasser lockt. Die beste Zeit für einen Besuch ist grob von Mai bis September, wenn die Ostküste ruhiger ist."
+      },
+      {
+        "title": "Pigeon Island und die Unterwasserwelt",
+        "description": "Der Pigeon-Island-Nationalpark vor der Küste von Nilaveli ist ein Meeresschutzgebiet mit Korallenriffen, bunten Fischen und Meeresschildkröten. Schnorcheln gehört hier zu den beliebtesten Erlebnissen, und die kurze Bootsfahrt zur Insel ist Teil des Ausflugs. Wichtig ist, Korallen und Tiere nicht zu berühren und die Regeln des Schutzgebiets zu beachten."
+      },
+      {
+        "title": "Tempel, Fort und Geschichte",
+        "description": "Auf dem Swami Rock erhebt sich der Koneswaram-Tempel, eine bedeutende hinduistische Stätte mit Blick über den Ozean. In der Nähe liegt Fort Frederick, ein Zeugnis der kolonialen Geschichte der Stadt, und der große Naturhafen erklärt, warum Trincomalee über Jahrhunderte strategisch so wichtig war."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Strand von Uppuveli",
+        "description": "Entspannen Sie am langen Sandstrand, baden Sie im warmen Meer und genießen Sie die gelassene Atmosphäre der Strandcafés."
+      },
+      {
+        "title": "Strand von Nilaveli",
+        "description": "Genießen Sie einen der ruhigsten und schönsten Strände der Insel mit klarem, türkisfarbenem Wasser."
+      },
+      {
+        "title": "Schnorcheln an der Pigeon Island",
+        "description": "Fahren Sie mit dem Boot zum Meeresnationalpark und erkunden Sie Korallen, Fische und Meeresschildkröten."
+      },
+      {
+        "title": "Koneswaram-Tempel",
+        "description": "Besuchen Sie den Tempel auf dem Felsen über dem Meer und genießen Sie den weiten Blick auf die Küste."
+      },
+      {
+        "title": "Fort Frederick",
+        "description": "Erkunden Sie das historische Fort und erfahren Sie mehr über die koloniale Vergangenheit von Trincomalee."
+      },
+      {
+        "title": "Kanniya-Quellen",
+        "description": "Besuchen Sie die Brunnen der heißen Quellen, einen kleinen und beliebten Halt in der Nähe der Stadt."
+      }
+    ]
+  },
+  "arugam-bay": {
+    "name": "Arugam Bay",
+    "region": "Ostküste",
+    "description": "Arugam Bay ist ein entspanntes Küstendorf an Sri Lankas Ostküste, weltberühmt für seine Surfwellen und die ungezwungene Atmosphäre. Neben dem Surfen bieten Lagunensafaris, Elefantenbeobachtung, Vogelbeobachtung und antike Stätten in der Umgebung viele Möglichkeiten für Naturfreunde. Die beste Zeit ist grob von April bis Oktober, wenn die Wellen zuverlässig sind und die Küste lebendig ist.",
+    "highlightCards": ["Surfen am Main Point", "Lagunensafari bei Pottuvil", "Tierwelt und antike Stätten"],
+    "articleSections": [
+      {
+        "title": "Wellen und Dorfleben",
+        "description": "Die Bucht von Arugam Bay ist für ihre langen, gleichmäßigen Wellen bekannt, die Surfer aus aller Welt anziehen. Mehrere Spots in der Umgebung bieten Bedingungen für unterschiedliche Erfahrungsstufen, und Surfschulen helfen Anfängern beim Einstieg. Abends treffen sich Gäste und Einheimische in kleinen Cafés und Restaurants am Strand."
+      },
+      {
+        "title": "Lagune, Krokodile und Vögel",
+        "description": "Die Lagune bei Pottuvil lässt sich bei einer Bootssafari erkunden. Zwischen Mangroven und Wasserflächen zeigen sich Wasservögel, Warane und mit etwas Glück Krokodile. Die Fahrt ist ruhig und eignet sich gut für den frühen Morgen oder den späten Nachmittag."
+      },
+      {
+        "title": "Nationalparks und antikes Erbe",
+        "description": "In der Umgebung liegen der Lahugala-Kitulana-Nationalpark, bekannt für Elefanten, und der Kumana-Nationalpark mit seiner reichen Vogelwelt. Der alte buddhistische Tempel Muhudu Maha Viharaya bei Pottuvil verbindet Küstenlandschaft mit religiösem Erbe und rundet einen Aufenthalt kulturell ab."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Surfen am Main Point",
+        "description": "Nutzen Sie die langen Wellen der Bucht, ob im Anfängerkurs oder als erfahrener Surfer."
+      },
+      {
+        "title": "Lagunensafari bei Pottuvil",
+        "description": "Gleiten Sie mit dem Boot durch Mangroven und beobachten Sie Vögel, Warane und Krokodile."
+      },
+      {
+        "title": "Elephant Rock",
+        "description": "Besuchen Sie den markanten Felsen in der Nähe der Bucht und genießen Sie den Blick auf die Küste."
+      },
+      {
+        "title": "Lahugala-Kitulana-Nationalpark",
+        "description": "Halten Sie Ausschau nach wilden Elefanten in dieser Landschaft nahe Arugam Bay."
+      },
+      {
+        "title": "Kumana-Nationalpark",
+        "description": "Entdecken Sie Lagunen und Wälder voller Wasser- und Zugvögel, ideal für Vogelbeobachter."
+      },
+      {
+        "title": "Muhudu Maha Viharaya",
+        "description": "Besuchen Sie den antiken Tempel bei Pottuvil an der Küste."
+      }
+    ]
+  },
+  "pasikuda": {
+    "name": "Pasikuda",
+    "region": "Ostküste",
+    "description": "Pasikuda ist ein Küstenziel an Sri Lankas Ostküste, bekannt für seine weite, flache Bucht mit ruhigem, klarem Wasser und feinem Sandstrand. Das seichte Wasser eignet sich besonders gut zum Baden, auch für Familien, und in der Umgebung bieten Strände wie Kalkudah, die Lagunenstadt Batticaloa und ihr niederländisches Fort weitere Ausflugsziele. Die beste Zeit für einen Besuch ist grob von April bis September.",
+    "highlightCards": ["Flache Bucht und ruhiges Wasser", "Kalkudah-Strand", "Batticaloa und Lagune"],
+    "articleSections": [
+      {
+        "title": "Eine Bucht zum Entspannen",
+        "description": "Pasikudas Bucht ist für ihr ungewöhnlich flaches Wasser bekannt, das sich weit ins Meer hinaus erstreckt. Dadurch ist das Baden ruhig und sicher, und die Atmosphäre am Strand ist gelassen. Bei klarer Sicht lassen sich vom Wasser aus Fische und kleine Riffbereiche beobachten."
+      },
+      {
+        "title": "Kalkudah und die Küste",
+        "description": "Nördlich von Pasikuda liegt der Strand von Kalkudah, ein langer, offener Sandstrand mit mehr Platz und etwas kräftigeren Wellen. Spaziergänge am Morgen oder zum Sonnenuntergang zeigen die ruhige Seite der Ostküste."
+      },
+      {
+        "title": "Batticaloa und die Lagune",
+        "description": "Die Stadt Batticaloa liegt nur kurze Fahrt entfernt und ist von einer großen Lagune geprägt. Das niederländische Fort, die Lagunenlandschaft und die lokale Alltagskultur bieten einen schönen Kontrast zum Strandaufenthalt."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Baden in der flachen Bucht",
+        "description": "Genießen Sie das ruhige, klare Wasser der Bucht, ideal zum entspannten Baden."
+      },
+      {
+        "title": "Strand von Kalkudah",
+        "description": "Spazieren Sie am langen offenen Sandstrand nördlich von Pasikuda."
+      },
+      {
+        "title": "Schnorcheln und Wassersport",
+        "description": "Erkunden Sie das klare Wasser beim Schnorcheln oder probieren Sie weitere Wassersportarten aus, wenn die Bedingungen es erlauben."
+      },
+      {
+        "title": "Niederländisches Fort Batticaloa",
+        "description": "Besuchen Sie das historische Fort am Rand der Lagune."
+      },
+      {
+        "title": "Lagunenfahrt in Batticaloa",
+        "description": "Erleben Sie die ruhige Lagune bei einer Bootsfahrt und das Alltagsleben an ihren Ufern."
+      },
+      {
+        "title": "Sonnenaufgang am Strand",
+        "description": "Beginnen Sie den Tag früh und erleben Sie den Sonnenaufgang über dem Meer, ein Vorteil der Ostküste."
+      }
+    ]
   }
 }
+
+
+
 
 
 
