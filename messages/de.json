@@ -1064,8 +1064,32 @@
     "stars": {
       "label": "{n, plural, one {# Stern} other {# Sterne}}"
     }
+  },
+    "GalleryPage": {
+    "metaTitle": "Galerie",
+    "metaDescription": "Eine visuelle Reise durch die Reiseziele, die Lume Bend Ceylon in Sri Lanka zusammenstellt.",
+    "eyebrow": "Ein Einblick",
+    "title": "Galerie",
+    "videoGallery": "Videogalerie",
+    "video1": "Die Insel im Überblick",
+    "video2": "Hochland in Bewegung",
+    "video3": "Südküste bei Sonnenuntergang",
+    "close": "Schließen"
+  },
+  "SearchPage": {
+    "metaTitle": "Suche",
+    "eyebrow": "Suche",
+    "titleEmpty": "Website durchsuchen",
+    "resultsFor": "Ergebnisse für „{q}“",
+    "hint": "Geben Sie etwas in das Suchfeld ein (z. B. „Sigiriya“, „Flitterwochen“, „Chauffeur“).",
+    "noResults": "Nichts gefunden für „{q}“. Versuchen Sie ein anderes Wort oder stöbern Sie in <tours>allen Touren</tours> oder <destinations>Reisezielen</destinations>.",
+    "tours": "Touren",
+    "destinations": "Reiseziele",
+    "services": "Leistungen",
+    "untitled": "Ohne Titel"
   }
 }
+
 
 
 

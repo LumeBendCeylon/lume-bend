@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useTranslations } from "next-intl";
 import { AnimatePresence, motion } from "framer-motion";
 import { X, PlayCircle, Loader2 } from "lucide-react";
 import Motif from "@/components/Motif";
@@ -10,12 +11,15 @@ import { getGalleryItems, type GalleryItem } from "@/lib/firebase";
 const heights = ["h-64", "h-48", "h-56", "h-72", "h-48", "h-60", "h-52", "h-64", "h-48", "h-56", "h-60"];
 
 export default function GalleryMasonry() {
+  const t = useTranslations("GalleryPage");
   const [active, setActive] = useState<number | null>(null);
   const [photos, setPhotos] = useState<GalleryItem[] | null>(null);
 
   useEffect(() => {
     getGalleryItems().then(setPhotos);
   }, []);
+
+  const videoTitles = [t("video1"), t("video2"), t("video3")];
 
   return (
     <>
@@ -44,7 +48,7 @@ export default function GalleryMasonry() {
             </button>
           ))}
 
-          {/* Destinations — gallery-specific photo if set, else the main destination photo, else illustrated placeholder */}
+          {/* Destinations */}
           {destinations.map((d, i) => (
             <button
               key={d.slug}
@@ -75,9 +79,9 @@ export default function GalleryMasonry() {
       )}
 
       <div className="mt-20">
-        <h2 className="font-display text-2xl text-forest-dark">Video Gallery</h2>
+        <h2 className="font-display text-2xl text-forest-dark">{t("videoGallery")}</h2>
         <div className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {["Island Overview", "Hill Country in Motion", "Southern Coast at Sunset"].map((title) => (
+          {videoTitles.map((title) => (
             <div
               key={title}
               className="group relative flex h-48 items-center justify-center overflow-hidden rounded-xl bg-gradient-to-br from-forest-dark to-forest"
@@ -99,7 +103,7 @@ export default function GalleryMasonry() {
             onClick={() => setActive(null)}
           >
             <button
-              aria-label="Close"
+              aria-label={t("close")}
               className="absolute right-6 top-6 text-white/80 hover:text-gold"
               onClick={() => setActive(null)}
             >

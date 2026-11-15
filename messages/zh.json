@@ -5658,8 +5658,32 @@
     "stars": {
       "label": "{n} 星"
     }
+  },
+    "GalleryPage": {
+    "metaTitle": "图库",
+    "metaDescription": "通过图片浏览 Lume Bend Ceylon 精选的斯里兰卡各大目的地。",
+    "eyebrow": "一瞥",
+    "title": "图库",
+    "videoGallery": "视频图库",
+    "video1": "岛屿全景",
+    "video2": "流动的高地风光",
+    "video3": "南部海岸日落",
+    "close": "关闭"
+  },
+  "SearchPage": {
+    "metaTitle": "搜索",
+    "eyebrow": "搜索",
+    "titleEmpty": "搜索本站",
+    "resultsFor": "“{q}”的搜索结果",
+    "hint": "请在搜索框中输入关键词（例如“Sigiriya”“蜜月”“司机”）。",
+    "noResults": "未找到与“{q}”相关的内容。请尝试其他关键词，或浏览<tours>所有线路</tours>或<destinations>目的地</destinations>。",
+    "tours": "旅行线路",
+    "destinations": "目的地",
+    "services": "服务",
+    "untitled": "无标题"
   }
 }
+
 
 
 

@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import * as data from "@/lib/data";
 
@@ -5,10 +7,10 @@ type Item = Record<string, unknown>;
 
 // Which exports of "@/lib/data" are searched, and where their pages live.
 const SOURCES = [
-  { key: "tours", label: "Tours", base: "/tours" },
-  { key: "destinations", label: "Destinations", base: "/destinations" },
-  { key: "services", label: "Services", base: "/services" },
-];
+  { key: "tours", base: "/tours" },
+  { key: "destinations", base: "/destinations" },
+  { key: "services", base: "/services" },
+] as const;
 
 const str = (v: unknown) => (typeof v === "string" ? v : "");
 
@@ -21,13 +23,29 @@ function haystack(item: Item) {
     .toLowerCase();
 }
 
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "SearchPage" });
+  return { title: t("metaTitle") };
+}
+
 export default async function SearchPage({
+  params,
   searchParams,
 }: {
+  params: Promise<{ locale: string }>;
   searchParams: Promise<{ q?: string }>;
 }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("SearchPage");
   const { q = "" } = await searchParams;
-  const words = q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const query = q.trim();
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean);
   const all = data as unknown as Record<string, unknown>;
 
   const groups = SOURCES.map((src) => {
@@ -38,36 +56,36 @@ export default async function SearchPage({
           return words.every((w) => h.includes(w));
         })
       : [];
-    return { ...src, results };
+    return { ...src, label: t(src.key), results };
   });
 
   const total = groups.reduce((n, g) => n + g.results.length, 0);
 
   return (
     <main className="mx-auto max-w-5xl px-6 pb-20 pt-36 lg:px-10 lg:pt-32">
-      <p className="eyebrow text-gold-dark">Search</p>
+      <p className="eyebrow text-gold-dark">{t("eyebrow")}</p>
       <h1 className="mt-2 font-display text-3xl text-forest-dark sm:text-4xl">
-        {q.trim() ? <>Results for “{q.trim()}”</> : "Search the site"}
+        {query ? t("resultsFor", { q: query }) : t("titleEmpty")}
       </h1>
 
-      {!q.trim() && (
-        <p className="mt-4 text-ink/70">
-          Type something in the search box (e.g. “Sigiriya”, “honeymoon”, “chauffeur”).
-        </p>
-      )}
+      {!query && <p className="mt-4 text-ink/70">{t("hint")}</p>}
 
-      {q.trim() && total === 0 && (
+      {query && total === 0 && (
         <div className="mt-8 rounded-2xl border border-forest/10 bg-mist p-8">
           <p className="text-ink/80">
-            Nothing found for “{q.trim()}”. Try another word, or browse{" "}
-            <Link href="/tours" className="text-gold-dark underline">
-              all tours
-            </Link>{" "}
-            or{" "}
-            <Link href="/destinations" className="text-gold-dark underline">
-              destinations
-            </Link>
-            .
+            {t.rich("noResults", {
+              q: query,
+              tours: (chunks) => (
+                <Link href="/tours" className="text-gold-dark underline">
+                  {chunks}
+                </Link>
+              ),
+              destinations: (chunks) => (
+                <Link href="/destinations" className="text-gold-dark underline">
+                  {chunks}
+                </Link>
+              ),
+            })}
           </p>
         </div>
       )}
@@ -82,7 +100,7 @@ export default async function SearchPage({
 
             <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {g.results.map((item, i) => {
-                const title = str(item.title) || str(item.name) || "Untitled";
+                const title = str(item.title) || str(item.name) || t("untitled");
                 const desc =
                   str(item.description) ||
                   str(item.excerpt) ||

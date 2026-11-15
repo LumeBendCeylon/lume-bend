@@ -1063,8 +1063,32 @@
     "stars": {
       "label": "{n, plural, one {# étoile} other {# étoiles}}"
     }
+  },
+    "GalleryPage": {
+    "metaTitle": "Galerie",
+    "metaDescription": "Un voyage visuel à travers les destinations que Lume Bend Ceylon sélectionne au Sri Lanka.",
+    "eyebrow": "Un aperçu",
+    "title": "Galerie",
+    "videoGallery": "Galerie vidéo",
+    "video1": "Vue d'ensemble de l'île",
+    "video2": "Les hautes terres en mouvement",
+    "video3": "La côte sud au coucher du soleil",
+    "close": "Fermer"
+  },
+  "SearchPage": {
+    "metaTitle": "Recherche",
+    "eyebrow": "Recherche",
+    "titleEmpty": "Rechercher sur le site",
+    "resultsFor": "Résultats pour « {q} »",
+    "hint": "Saisissez un mot dans la barre de recherche (p. ex. « Sigiriya », « lune de miel », « chauffeur »).",
+    "noResults": "Aucun résultat pour « {q} ». Essayez un autre mot ou parcourez <tours>tous les circuits</tours> ou <destinations>les destinations</destinations>.",
+    "tours": "Circuits",
+    "destinations": "Destinations",
+    "services": "Services",
+    "untitled": "Sans titre"
   }
 }
+
 
 
 

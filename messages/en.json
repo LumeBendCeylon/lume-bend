@@ -1064,5 +1064,29 @@
     "stars": {
       "label": "{n, plural, one {# star} other {# stars}}"
     }
+  },
+    "GalleryPage": {
+    "metaTitle": "Gallery",
+    "metaDescription": "A visual tour of the destinations Lume Bend Ceylon curates across Sri Lanka.",
+    "eyebrow": "A Glimpse",
+    "title": "Gallery",
+    "videoGallery": "Video Gallery",
+    "video1": "Island Overview",
+    "video2": "Hill Country in Motion",
+    "video3": "Southern Coast at Sunset",
+    "close": "Close"
+  },
+  "SearchPage": {
+    "metaTitle": "Search",
+    "eyebrow": "Search",
+    "titleEmpty": "Search the site",
+    "resultsFor": "Results for “{q}”",
+    "hint": "Type something in the search box (e.g. “Sigiriya”, “honeymoon”, “chauffeur”).",
+    "noResults": "Nothing found for “{q}”. Try another word, or browse <tours>all tours</tours> or <destinations>destinations</destinations>.",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "services": "Services",
+    "untitled": "Untitled"
   }
 }
+
