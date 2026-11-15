@@ -941,4 +941,41 @@
       "backHome": "Zur Startseite",
       "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
     }
-    }}
+    },
+        "form": {
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "whatsapp": "WhatsApp-Nummer",
+      "country": "Land",
+      "arrivalDate": "Anreisedatum",
+      "departureDate": "Abreisedatum",
+      "travelers": "Anzahl der Reisenden",
+      "tourType": "Reiseart",
+      "tourTypePlaceholder": "Reiseart auswählen",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von der Reise, die Sie sich vorstellen ...",
+      "submit": "Anfrage senden",
+      "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+      "successTitle": "Anfrage gesendet",
+      "successText": "Vielen Dank – ein Reiseexperte meldet sich innerhalb eines Werktags mit einem maßgeschneiderten Vorschlag bei Ihnen."
+    },
+      "QuoteForm": {
+    "name": "Ihr Name",
+    "startDate": "Reisebeginn",
+    "pickupLocation": "Abholort",
+    "pickupPlaceholder": "z. B. Flughafen, Hotel in Colombo ...",
+    "email": "Ihre E-Mail-Adresse",
+    "contactNumber": "Telefonnummer",
+    "nationality": "Nationalität",
+    "adults": "Erwachsene",
+    "children": "Kinder",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie uns mehr darüber, was Sie suchen ...",
+    "submit": "Meine Anfrage senden",
+    "successTitle": "Anfrage gesendet",
+    "successText": "Vielen Dank – unser Team sendet Ihnen innerhalb von 48 Stunden das beste Angebot.",
+    "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+  }
+}
+  
+

@@ -941,7 +941,43 @@
       "backHome": "Retour à l'accueil",
       "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
     }
+  },
+      "form": {
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "whatsapp": "Numéro WhatsApp",
+      "country": "Pays",
+      "arrivalDate": "Date d'arrivée",
+      "departureDate": "Date de départ",
+      "travelers": "Nombre de voyageurs",
+      "tourType": "Type de voyage",
+      "tourTypePlaceholder": "Sélectionnez un type de voyage",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous du voyage dont vous rêvez...",
+      "submit": "Envoyer la demande",
+      "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
+      "successTitle": "Demande envoyée",
+      "successText": "Merci – un spécialiste du voyage vous contactera sous un jour ouvré avec une proposition sur mesure."
+    },
+      "QuoteForm": {
+    "name": "Votre nom",
+    "startDate": "Date de début du circuit",
+    "pickupLocation": "Lieu de prise en charge",
+    "pickupPlaceholder": "p. ex. aéroport, hôtel à Colombo...",
+    "email": "Votre adresse e-mail",
+    "contactNumber": "Numéro de téléphone",
+    "nationality": "Nationalité",
+    "adults": "Adultes",
+    "children": "Enfants",
+    "message": "Message",
+    "messagePlaceholder": "Dites-nous-en plus sur ce que vous recherchez...",
+    "submit": "Envoyer ma demande",
+    "successTitle": "Demande envoyée",
+    "successText": "Merci – notre équipe vous enverra la meilleure offre sous 48 heures.",
+    "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
   }
 }
+  
+
 
 

@@ -5537,6 +5537,42 @@
       "backHome": "返回首页",
       "errorGeneric": "出错了，请重试。"
     }
+  },
+      "form": {
+      "fullName": "姓名",
+      "email": "电子邮件",
+      "whatsapp": "WhatsApp 号码",
+      "country": "国家/地区",
+      "arrivalDate": "抵达日期",
+      "departureDate": "离开日期",
+      "travelers": "出行人数",
+      "tourType": "旅行类型",
+      "tourTypePlaceholder": "请选择旅行类型",
+      "message": "留言",
+      "messagePlaceholder": "告诉我们您心中的理想旅程……",
+      "submit": "发送咨询",
+      "errorGeneric": "出错了，请重试。",
+      "successTitle": "咨询已发送",
+      "successText": "谢谢！我们的旅行顾问将在一个工作日内与您联系，并提供定制方案。"
+    },
+      "QuoteForm": {
+    "name": "您的姓名",
+    "startDate": "旅程开始日期",
+    "pickupLocation": "接送地点",
+    "pickupPlaceholder": "例如：机场、科伦坡酒店……",
+    "email": "您的电子邮箱",
+    "contactNumber": "联系电话",
+    "nationality": "国籍",
+    "adults": "成人",
+    "children": "儿童",
+    "message": "留言",
+    "messagePlaceholder": "请告诉我们更多您的需求……",
+    "submit": "发送我的申请",
+    "successTitle": "申请已发送",
+    "successText": "谢谢！我们的团队将在 48 小时内为您发送最优报价。",
+    "errorGeneric": "出错了，请重试。"
   }
 }
+  
+
 

@@ -2,6 +2,7 @@
 
 import { useState, type FormEvent } from "react";
 import { useSearchParams } from "next/navigation";
+import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, Loader2 } from "lucide-react";
 import { submitInquiry } from "@/lib/firebase";
@@ -11,6 +12,7 @@ import { tours } from "@/lib/data";
 const TOUR_TYPES = [...new Set(tours.map((t) => t.category))];
 
 export default function ContactForm() {
+  const t = useTranslations("Contact.form");
   const searchParams = useSearchParams();
   const { user } = useAuth();
   const prefillTour = searchParams.get("tour") ?? "";
@@ -41,8 +43,9 @@ export default function ContactForm() {
       );
       setStatus("success");
     } catch (err) {
+      console.error(err);
       setStatus("error");
-      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setErrorMsg(t("errorGeneric"));
     }
   }
 
@@ -54,11 +57,8 @@ export default function ContactForm() {
         className="flex flex-col items-center justify-center rounded-2xl border border-forest/10 bg-mist p-12 text-center"
       >
         <CheckCircle2 className="h-14 w-14 text-forest" />
-        <h3 className="mt-5 font-display text-2xl text-forest-dark">Enquiry Sent</h3>
-        <p className="mt-2 max-w-sm text-sm text-ink/70">
-          Thank you — a travel specialist will be in touch within one business day with a
-          tailored proposal.
-        </p>
+        <h3 className="mt-5 font-display text-2xl text-forest-dark">{t("successTitle")}</h3>
+        <p className="mt-2 max-w-sm text-sm text-ink/70">{t("successText")}</p>
       </motion.div>
     );
   }
@@ -66,16 +66,16 @@ export default function ContactForm() {
   return (
     <form onSubmit={handleSubmit} className="space-y-5">
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-        <Field label="Full Name" name="fullName" required defaultValue={user?.displayName ?? ""} />
-        <Field label="Email" name="email" type="email" required defaultValue={user?.email ?? ""} />
-        <Field label="WhatsApp Number" name="whatsapp" type="tel" required />
-        <Field label="Country" name="country" required />
-        <Field label="Arrival Date" name="arrivalDate" type="date" required />
-        <Field label="Departure Date" name="departureDate" type="date" required />
-        <Field label="Number of Travelers" name="travelers" type="number" min={1} required />
+        <Field label={t("fullName")} name="fullName" required defaultValue={user?.displayName ?? ""} />
+        <Field label={t("email")} name="email" type="email" required defaultValue={user?.email ?? ""} />
+        <Field label={t("whatsapp")} name="whatsapp" type="tel" required />
+        <Field label={t("country")} name="country" required />
+        <Field label={t("arrivalDate")} name="arrivalDate" type="date" required />
+        <Field label={t("departureDate")} name="departureDate" type="date" required />
+        <Field label={t("travelers")} name="travelers" type="number" min={1} required />
         <div>
           <label className="mb-1.5 block text-sm font-medium text-ink/80" htmlFor="tourType">
-            Tour Type
+            {t("tourType")}
           </label>
           <select
             id="tourType"
@@ -83,13 +83,13 @@ export default function ContactForm() {
             defaultValue={prefillTour}
             className="w-full rounded-lg border border-forest/20 bg-white px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
           >
-            <option value="">Select a tour type</option>
+            <option value="">{t("tourTypePlaceholder")}</option>
             {prefillTour && !TOUR_TYPES.includes(prefillTour as (typeof TOUR_TYPES)[number]) && (
               <option value={prefillTour}>{prefillTour}</option>
             )}
-            {TOUR_TYPES.map((t) => (
-              <option key={t} value={t}>
-                {t}
+            {TOUR_TYPES.map((type) => (
+              <option key={type} value={type}>
+                {type}
               </option>
             ))}
           </select>
@@ -98,13 +98,13 @@ export default function ContactForm() {
 
       <div>
         <label className="mb-1.5 block text-sm font-medium text-ink/80" htmlFor="message">
-          Message
+          {t("message")}
         </label>
         <textarea
           id="message"
           name="message"
           rows={4}
-          placeholder="Tell us about the trip you're imagining..."
+          placeholder={t("messagePlaceholder")}
           className="w-full rounded-lg border border-forest/20 bg-white px-4 py-2.5 text-sm focus:border-gold focus:outline-none"
         />
       </div>
@@ -128,7 +128,7 @@ export default function ContactForm() {
         className="flex w-full items-center justify-center gap-2 rounded-full bg-forest px-8 py-3.5 text-sm font-medium tracking-wide text-white transition-colors hover:bg-forest-light disabled:opacity-70 sm:w-auto"
       >
         {status === "submitting" && <Loader2 className="h-4 w-4 animate-spin" />}
-        Send Inquiry
+        {t("submit")}
       </button>
     </form>
   );

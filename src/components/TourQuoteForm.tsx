@@ -1,12 +1,14 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
+import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, Loader2 } from "lucide-react";
 import { submitInquiry } from "@/lib/firebase";
 import { useAuth } from "@/context/AuthContext";
 
 export default function TourQuoteForm({ tourTitle }: { tourTitle: string }) {
+  const t = useTranslations("QuoteForm");
   const { user } = useAuth();
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -38,8 +40,9 @@ export default function TourQuoteForm({ tourTitle }: { tourTitle: string }) {
       );
       setStatus("success");
     } catch (err) {
+      console.error(err);
       setStatus("error");
-      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setErrorMsg(t("errorGeneric"));
     }
   }
 
@@ -51,10 +54,8 @@ export default function TourQuoteForm({ tourTitle }: { tourTitle: string }) {
         className="flex flex-col items-center justify-center rounded-2xl bg-white/10 p-12 text-center"
       >
         <CheckCircle2 className="h-14 w-14 text-gold" />
-        <h3 className="mt-5 font-display text-2xl text-white">Request Sent</h3>
-        <p className="mt-2 max-w-sm text-sm text-white/70">
-          Thank you — our team will send you the best quote within 48 hours.
-        </p>
+        <h3 className="mt-5 font-display text-2xl text-white">{t("successTitle")}</h3>
+        <p className="mt-2 max-w-sm text-sm text-white/70">{t("successText")}</p>
       </motion.div>
     );
   }
@@ -62,25 +63,25 @@ export default function TourQuoteForm({ tourTitle }: { tourTitle: string }) {
   return (
     <form onSubmit={handleSubmit} className="space-y-5">
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-        <QField label="Your Name" name="fullName" required defaultValue={user?.displayName ?? ""} />
-        <QField label="Tour Start Date" name="startDate" type="date" />
-        <QField label="Pickup Location" name="pickupLocation" placeholder="e.g. Airport, Colombo hotel..." />
-        <QField label="Your Email Address" name="email" type="email" required defaultValue={user?.email ?? ""} />
-        <QField label="Contact Number" name="contactNumber" type="tel" />
-        <QField label="Nationality" name="nationality" />
-        <QField label="Adults" name="adults" type="number" min={1} required defaultValue="2" />
-        <QField label="Children" name="children" type="number" min={0} defaultValue="0" />
+        <QField label={t("name")} name="fullName" required defaultValue={user?.displayName ?? ""} />
+        <QField label={t("startDate")} name="startDate" type="date" />
+        <QField label={t("pickupLocation")} name="pickupLocation" placeholder={t("pickupPlaceholder")} />
+        <QField label={t("email")} name="email" type="email" required defaultValue={user?.email ?? ""} />
+        <QField label={t("contactNumber")} name="contactNumber" type="tel" />
+        <QField label={t("nationality")} name="nationality" />
+        <QField label={t("adults")} name="adults" type="number" min={1} required defaultValue="2" />
+        <QField label={t("children")} name="children" type="number" min={0} defaultValue="0" />
       </div>
 
       <div>
         <label className="mb-1.5 block text-sm font-medium text-white/80" htmlFor="message">
-          Message
+          {t("message")}
         </label>
         <textarea
           id="message"
           name="message"
           rows={4}
-          placeholder="Tell us more about what you're looking for..."
+          placeholder={t("messagePlaceholder")}
           className="w-full rounded-lg border border-white/20 bg-white/10 px-4 py-2.5 text-sm text-white placeholder:text-white/40 focus:border-gold focus:outline-none"
         />
       </div>
@@ -104,7 +105,7 @@ export default function TourQuoteForm({ tourTitle }: { tourTitle: string }) {
         className="flex w-full items-center justify-center gap-2 rounded-full bg-gold px-8 py-3.5 text-sm font-medium tracking-wide text-forest-dark transition-colors hover:bg-gold-light disabled:opacity-70 sm:w-auto"
       >
         {status === "submitting" && <Loader2 className="h-4 w-4 animate-spin" />}
-        Send My Request
+        {t("submit")}
       </button>
     </form>
   );
