@@ -1,73 +1,115 @@
-import { MAP_LOCATIONS, parseRoute } from "@/lib/mapLocations";
+"use client";
 
-// A simplified, stylised outline of Sri Lanka — enough to be instantly
-// recognisable without needing a licensed map tile or GPS-accurate survey.
-const ISLAND_OUTLINE =
-  "M110 40 C 150 35, 190 55, 205 90 C 225 100, 245 130, 240 165 " +
-  "C 260 190, 250 230, 230 250 C 245 280, 235 310, 215 320 " +
-  "C 225 350, 210 385, 185 395 C 190 420, 170 450, 150 460 " +
-  "C 145 480, 120 495, 105 480 C 90 470, 95 440, 105 425 " +
-  "C 80 410, 75 380, 90 360 C 70 340, 68 310, 85 290 " +
-  "C 65 270, 68 230, 90 210 C 75 190, 78 150, 100 130 " +
-  "C 85 110, 90 75, 115 60 C 108 52, 108 45, 110 40 Z";
+import { useEffect, useRef } from "react";
+import "leaflet/dist/leaflet.css";
+import { findLocation, parseRoute, type ResolvedStop } from "@/lib/mapLocations";
 
 export default function RouteMap({ destinationsCovered }: { destinationsCovered?: string }) {
-  const stops = parseRoute(destinationsCovered).filter((s) => MAP_LOCATIONS[s]);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  const rawStops = parseRoute(destinationsCovered);
+  const stops: ResolvedStop[] = rawStops
+    .map((s) => findLocation(s))
+    .filter((s): s is ResolvedStop => s !== null);
+
+  const stopsKey = stops.map((s) => s.name).join("|");
+
+  useEffect(() => {
+    if (!containerRef.current || stops.length === 0) return;
+
+    let cancelled = false;
+    let mapInstance: import("leaflet").Map | null = null;
+
+    (async () => {
+      const L = (await import("leaflet")).default;
+      if (cancelled || !containerRef.current) return;
+
+      const map = L.map(containerRef.current, {
+        scrollWheelZoom: false,
+        zoomControl: true,
+      });
+      mapInstance = map;
+
+           L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19,
+      }).addTo(map);
+
+      const latlngs = stops.map((s) => L.latLng(s.lat, s.lng));
+
+      // Numbered markers
+      stops.forEach((s, i) => {
+        const icon = L.divIcon({
+          className: "",
+          html: `<div style="width:30px;height:30px;border-radius:9999px;background:#0f3d2e;color:#d4af37;border:2px solid #d4af37;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;box-shadow:0 2px 6px rgba(0,0,0,.35)">${i + 1}</div>`,
+          iconSize: [30, 30],
+          iconAnchor: [15, 15],
+        });
+        L.marker([s.lat, s.lng], { icon })
+          .addTo(map)
+          .bindPopup(`<strong>Stop ${i + 1}</strong><br/>${s.name}`);
+      });
+
+      if (latlngs.length > 1) {
+        // Draw a straight dashed line first (instant), then replace with the real road route.
+        const fallback = L.polyline(latlngs, {
+          color: "#2563eb",
+          weight: 4,
+          opacity: 0.7,
+          dashArray: "8 8",
+        }).addTo(map);
+
+        map.fitBounds(L.latLngBounds(latlngs), { padding: [40, 40] });
+
+        try {
+          const coords = stops.map((s) => `${s.lng},${s.lat}`).join(";");
+          const res = await fetch(
+            `https://router.project-osrm.org/route/v1/driving/${coords}?overview=full&geometries=geojson`,
+          );
+          if (!res.ok) throw new Error("routing failed");
+          const data = await res.json();
+          const geometry = data?.routes?.[0]?.geometry;
+          if (!geometry || cancelled) return;
+
+          map.removeLayer(fallback);
+          const road = L.geoJSON(geometry, {
+            style: { color: "#2563eb", weight: 6, opacity: 0.9 },
+          }).addTo(map);
+          map.fitBounds(road.getBounds(), { padding: [40, 40] });
+        } catch (err) {
+          console.error("Road route unavailable, showing straight line", err);
+        }
+      } else {
+        map.setView(latlngs[0], 10);
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+      if (mapInstance) mapInstance.remove();
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [stopsKey]);
+
+  if (stops.length === 0) {
+    return (
+      <div className="rounded-2xl border border-forest/10 bg-mist p-6 text-center text-sm text-ink/50">
+        Add matching location names to lib/mapLocations.ts to plot this route.
+      </div>
+    );
+  }
 
   return (
     <div className="overflow-hidden rounded-2xl border border-forest/10 bg-mist">
-      <svg viewBox="0 0 300 520" className="mx-auto h-[420px] w-full max-w-xs py-6">
-        {/* Island shape */}
-        <path
-          d={ISLAND_OUTLINE}
-          fill="var(--color-forest)"
-          fillOpacity={0.08}
-          stroke="var(--color-forest)"
-          strokeOpacity={0.4}
-          strokeWidth={1.5}
-        />
-
-        {/* Route line connecting the stops in order */}
-        {stops.length > 1 && (
-          <polyline
-            points={stops.map((s) => `${MAP_LOCATIONS[s].x},${MAP_LOCATIONS[s].y}`).join(" ")}
-            fill="none"
-            stroke="var(--color-gold)"
-            strokeWidth={2}
-            strokeDasharray="6 5"
-            strokeLinecap="round"
-          />
-        )}
-
-        {/* Numbered pins */}
-        {stops.map((s, i) => {
-          const { x, y } = MAP_LOCATIONS[s];
-          return (
-            <g key={s}>
-              <circle cx={x} cy={y} r={9} fill="var(--color-forest-dark)" stroke="var(--color-gold)" strokeWidth={1.5} />
-              <text x={x} y={y + 3.5} textAnchor="middle" fontSize={9} fill="var(--color-gold)" fontWeight={700}>
-                {i + 1}
-              </text>
-              <text
-                x={x}
-                y={y - 14}
-                textAnchor="middle"
-                fontSize={10}
-                fill="var(--color-forest-dark)"
-                fontWeight={600}
-              >
-                {s}
-              </text>
-            </g>
-          );
-        })}
-      </svg>
-
-      {stops.length === 0 && (
-        <p className="pb-6 text-center text-sm text-ink/50">
-          Add matching location names to lib/mapLocations.ts to plot this route.
-        </p>
-      )}
+      <div ref={containerRef} className="h-[360px] w-full sm:h-[460px]" />
+      <ol className="flex flex-wrap gap-x-4 gap-y-1 border-t border-forest/10 px-4 py-3 text-xs text-ink/70">
+        {stops.map((s, i) => (
+          <li key={`${s.name}-${i}`}>
+            <span className="font-semibold text-forest-dark">{i + 1}.</span> {s.name}
+          </li>
+        ))}
+      </ol>
     </div>
   );
 }

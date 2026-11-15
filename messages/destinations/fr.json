@@ -717,698 +717,958 @@
       }
     ]
   },
-    "mirissa": {
+    
+  "mirissa": {
     "name": "Mirissa",
     "region": "Côte sud",
-    "description": "Mirissa est une destination côtière détendue sur la côte sud du Sri Lanka, connue pour sa mer chaude, ses plages bordées de palmiers et l'une des meilleures occasions d'observer des baleines sur l'île. Des sorties matinales en pleine mer aux couchers de soleil à Coconut Tree Hill, en passant par des criques tranquilles pour nager et faire du snorkeling, Mirissa associe aventure et ambiance tropicale sans hâte. Pour les voyageurs en quête de mer, de nature et de journées de plage décontractées, c'est une étape idéale sur la côte sud.",
-    "highlightCards": ["Observation des baleines", "Coconut Tree Hill", "Plages et criques de Mirissa"],
+    "description": "Une magnifique escapade tropicale en bord de mer, où les plages dorées, les cocotiers ondulants, les eaux turquoise et les expériences inoubliables sur l’océan créent le cadre idéal pour un séjour paisible dans le sud du Sri Lanka.",
+    "highlightCards": [
+      "Plage de Mirissa",
+      "Observation des baleines",
+      "Coconut Tree Hill"
+    ],
     "articleSections": [
       {
-        "title": "Les baleines et le grand large",
-        "description": "Au large de Mirissa, les fonds marins plongent rapidement vers de grandes profondeurs, ce qui fait de la région l'une des destinations les plus réputées du Sri Lanka pour l'observation des baleines. En haute saison, grosso modo de novembre à avril, des bateaux partent tôt le matin vers le large, et les voyageurs peuvent, avec un peu de chance, apercevoir des baleines bleues, des cachalots et des dauphins. Les observations ne sont jamais garanties, mais l'immensité de l'océan et le suspense de la recherche font de la sortie une expérience inoubliable."
+        "title": "Le charme tropical de Mirissa",
+        "description": "Sur la magnifique côte sud du Sri Lanka, Mirissa est une escapade tropicale paisible où les plages dorées, les cocotiers ondulants, les eaux turquoise et les brises marines créent une atmosphère côtière accueillante. Autrefois petit village de pêcheurs tranquille, Mirissa est devenue une destination très appréciée tout en conservant une grande partie de son caractère détendu et de sa beauté naturelle. Les journées s’y déroulent à un rythme tranquille, entre matinées paisibles au bord de la mer, couchers de soleil colorés, fruits de mer frais et plaisir simple d’être entouré par l’océan Indien. Son atmosphère intime séduit particulièrement les couples, les amoureux de la plage et les voyageurs qui souhaitent ralentir et découvrir la côte sud du Sri Lanka."
       },
       {
-        "title": "Plages, criques et couchers de soleil",
-        "description": "Le littoral de Mirissa est fait de sable doré, de palmiers et de criques en arc de cercle. La plage principale invite à la détente et à la baignade, Parrot Rock se dresse comme un rocher emblématique près du rivage, et des criques plus petites comme Secret Beach offrent une atmosphère plus calme. Le soir, le ciel se teinte d'or et de rouge au-dessus de l'océan Indien, de façon particulièrement spectaculaire depuis Coconut Tree Hill."
+        "title": "La vie au bord de l’océan Indien",
+        "description": "L’océan occupe une place centrale dans la vie quotidienne de Mirissa et façonne les traditions, les moyens de subsistance et le caractère de cette charmante communauté côtière. Des bateaux de pêche traditionnels sont encore visibles le long du rivage, tandis que les restaurants et cafés locaux associent fruits de mer fraîchement pêchés et esprit décontracté du sud du Sri Lanka. Au-delà de la plage, les visiteurs peuvent découvrir un aspect plus paisible de la vie côtière en parcourant les rues locales, en rencontrant les habitants et en observant les pêcheurs se préparer à prendre la mer. Ce lien entre les habitants et l’océan confère à Mirissa une authenticité qui va bien au-delà de ses belles plages et permet aux voyageurs de découvrir une culture côtière vivante plutôt qu’une simple destination balnéaire."
       },
       {
-        "title": "Fruits de mer, snorkeling et vie côtière",
-        "description": "Outre les baleines, Mirissa offre de nombreuses façons détendues de profiter de la mer. Les amateurs de snorkeling et de plongée explorent les récifs rocheux le long de la côte, et les restaurants de plage servent du poisson tout juste pêché. Le rythme est lent, l'ambiance chaleureuse, et c'est précisément ce qui fait le charme d'un séjour sur cette côte."
+        "title": "Aventures océaniques et escapades dans le Sud",
+        "description": "Mirissa propose une grande variété d’expériences sur l’eau et le long de la côte environnante. Les matinées peuvent commencer par une sortie en mer dans l’océan Indien à la recherche des baleines et des dauphins, tandis que les eaux côtières limpides invitent à la baignade, au snorkeling ou au surf. Les points de vue entourés de cocotiers offrent de magnifiques endroits pour admirer le littoral, tandis que les excursions en bateau et les promenades paisibles sur la plage permettent de découvrir différentes perspectives de la côte sud. À la fin de la journée, Mirissa devient particulièrement envoûtante, avec sa lumière dorée du soir, ses vagues douces et ses couchers de soleil inoubliables."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Observation des baleines et des dauphins",
-        "description": "Embarquez pour une sortie matinale dans les eaux profondes au large de Mirissa et guettez baleines bleues, cachalots et dauphins. Les observations ne sont jamais garanties, mais l'océan ouvert fait de cette sortie l'une des expériences les plus mémorables de l'île."
+        "title": "Plage de Mirissa",
+        "description": "Détendez-vous sur l’une des plus belles plages du sud du Sri Lanka, où le sable doré, les cocotiers ondulants et les eaux turquoise créent un cadre tropical paisible. Profitez d’une baignade, d’une promenade tranquille sur la plage ou prenez simplement le temps d’apprécier l’atmosphère détendue du littoral."
+      },
+      {
+        "title": "Observation des baleines",
+        "description": "Partez du port de Mirissa tôt le matin pour une excursion en mer à la recherche des baleines et des dauphins. Les eaux au large de la côte sud sont réputées pour leur faune marine, notamment les baleines bleues et plusieurs espèces de dauphins, faisant de cette sortie une expérience inoubliable sur l’océan Indien."
       },
       {
         "title": "Coconut Tree Hill",
-        "description": "Visitez cette colline couverte de palmiers, l'un des points de vue côtiers les plus photographiés du Sri Lanka, et profitez de vues étendues sur l'océan, surtout au coucher du soleil."
+        "description": "Visitez le célèbre Coconut Tree Hill et admirez les magnifiques vues sur l’océan Indien depuis cette colline bordée de grands cocotiers. Son cadre paisible et ses paysages côtiers spectaculaires en font l’un des endroits les plus mémorables de Mirissa pour la photographie et la découverte du paysage."
       },
       {
-        "title": "Plage de Mirissa et Parrot Rock",
-        "description": "Détendez-vous sur le sable doré de la plage de Mirissa, baignez-vous dans la mer chaude et repérez Parrot Rock, une formation rocheuse emblématique juste au large du rivage."
+        "title": "Parrot Rock",
+        "description": "Traversez la partie peu profonde du rivage pour rejoindre Parrot Rock et profitez de vues panoramiques sur la plage de Mirissa et l’océan environnant. Ce petit promontoire rocheux offre une perspective différente sur la côte et devient particulièrement beau sous la douce lumière du soir."
       },
       {
-        "title": "Secret Beach",
-        "description": "Découvrez cette crique abritée et plus tranquille, entourée de palmiers et de rochers, idéale pour une baignade paisible loin de la plage principale plus animée."
+        "title": "Observation des dauphins",
+        "description": "Participez à une excursion en mer à la recherche des dauphins joueurs qui traversent les eaux au large de Mirissa. Observer les dauphins évoluer en pleine mer peut être un souvenir marquant d’une matinée passée sur l’océan Indien."
       },
       {
-        "title": "Snorkeling et plongée",
-        "description": "Explorez les eaux chaudes de la côte sud, avec leurs récifs rocheux et leur vie marine, lors d'une sortie snorkeling ou d'une plongée avec des guides expérimentés."
+        "title": "Surf",
+        "description": "Profitez des vagues de la côte sud et découvrez l’ambiance décontractée du surf à Mirissa. Que vous souhaitiez apprendre les bases ou simplement regarder les surfeurs expérimentés depuis le rivage, la plage offre une agréable manière de ressentir l’énergie de l’océan Indien."
       },
       {
-        "title": "Fruits de mer au coucher du soleil",
-        "description": "Terminez la journée avec des fruits de mer tout juste pêchés dans un restaurant de plage, pendant que le ciel s'embrase au-dessus de l'océan Indien."
+        "title": "Snorkeling et baignade",
+        "description": "Passez du temps dans les eaux tropicales chaudes autour de Mirissa en profitant d’une baignade rafraîchissante ou d’une séance de snorkeling tranquille. Découvrez la clarté de l’environnement côtier tout en appréciant le rythme paisible de la vie au bord de l’océan Indien."
+      },
+      {
+        "title": "Découverte d’un village de pêcheurs",
+        "description": "Découvrez le côté traditionnel de Mirissa en explorant son patrimoine lié à la pêche et en observant le quotidien de la communauté côtière locale. Des bateaux de pêche sur le rivage aux prises fraîches débarquées au port, cette expérience offre un aperçu authentique de la vie au bord de l’océan."
+      },
+      {
+        "title": "Fruits de mer et restauration en bord de mer",
+        "description": "Savourez les spécialités de la côte sud du Sri Lanka avec des fruits de mer fraîchement préparés et des plats locaux traditionnels. Détendez-vous au bord de l’océan tout en découvrant les liens de la région avec la pêche, les ingrédients tropicaux et la culture culinaire dynamique du Sud."
+      },
+      {
+        "title": "Coucher de soleil sur l’océan",
+        "description": "Terminez la journée sur la côte tandis que la chaude lumière du soir se répand sur l’océan Indien. Une promenade tranquille sur la plage, une boisson dans une ambiance détendue ou simplement l’observation des couleurs changeantes du ciel offrent une manière paisible et mémorable de découvrir Mirissa."
+      },
+      {
+        "title": "Découverte de la côte sud",
+        "description": "Faites de Mirissa votre point de départ pour découvrir la côte sud dans son ensemble, avec ses plages, ses communautés de pêcheurs, ses points de vue panoramiques et ses charmantes villes côtières. Un voyage privé le long du littoral permet de découvrir la région à un rythme détendu et d’explorer des endroits au-delà des principales attractions touristiques."
+      }
+    ]
+  },
+
+  "bentota": {
+    "name": "Bentota",
+    "region": "Côte sud-ouest",
+    "description": "Une élégante escapade tropicale en bord de mer, où plages dorées, voies navigables luxuriantes, complexes hôteliers de luxe et activités nautiques passionnantes se réunissent pour créer des vacances mémorables au bord de l’océan.",
+    "highlightCards": [
+      "Plage de Bentota",
+      "Rivière et lagune de Bentota",
+      "Sports nautiques et aventures côtières"
+    ],
+    "articleSections": [
+      {
+        "title": "L’élégance côtière de Bentota",
+        "description": "S’étendant le long de la magnifique côte sud-ouest du Sri Lanka, Bentota est une escapade tropicale raffinée où plages dorées, palmiers ondulants, eaux chaudes de l’océan et complexes hôteliers élégants se réunissent pour créer une atmosphère de vacances à la fois détendue et sophistiquée. La destination séduit particulièrement les voyageurs à la recherche d’un équilibre entre confort, beauté naturelle et expériences côtières. Ses longues plages de sable offrent beaucoup d’espace pour les promenades paisibles, la baignade, les bains de soleil et les couchers de soleil inoubliables. Au-delà de la plage, les paysages verdoyants et le caractère accueillant de Bentota invitent à voyager à un rythme plus lent, ce qui en fait un cadre idéal pour les couples, les familles et les voyageurs en quête d’une escapade relaxante au bord de la mer."
+      },
+      {
+        "title": "Là où la rivière rencontre l’océan",
+        "description": "L’une des caractéristiques les plus remarquables de Bentota est la rencontre entre la rivière Bentota et l’océan Indien, qui crée un magnifique paysage composé de voies navigables, de mangroves, de zones humides, de petites îles et de végétation tropicale. Une excursion en bateau sur la rivière permet de découvrir la région sous un tout autre angle, en traversant des voies d’eau paisibles où les voyageurs peuvent apercevoir des varans, des oiseaux, des papillons colorés et d’autres animaux sauvages parmi les mangroves. L’environnement calme de la rivière offre un merveilleux contraste avec la plage ouverte, tandis que l’exploration des voies navigables environnantes permet de découvrir un aspect plus tranquille et naturel de Bentota, loin des principaux complexes côtiers. Ensemble, la rivière et l’océan donnent à Bentota un paysage unique qui associe détente tropicale et douce aventure."
+      },
+      {
+        "title": "Eau, bien-être et escapades tropicales",
+        "description": "Bentota offre un équilibre attrayant entre aventure et détente, avec un large éventail d’expériences disponibles sur l’eau et le long de la côte. Les voyageurs peuvent pratiquer des activités telles que le kayak, le jet-ski, la planche à voile, le ski nautique, les promenades en bateau et d’autres aventures océaniques. Ceux qui préfèrent un séjour plus tranquille peuvent passer la journée au bord de la plage ou profiter d’un soin ayurvédique traditionnel dans un cadre paisible. Les traditions de bien-être de la région, ses jardins tropicaux, ses excursions fluviales et ses magnifiques paysages côtiers permettent de créer des vacances à son propre rythme, qu’il s’agisse d’une journée active à explorer les voies navigables ou d’un après-midi calme suivi d’un superbe coucher de soleil sur l’océan Indien."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Plage de Bentota",
+        "description": "Détendez-vous sur le sable doré de la plage de Bentota et profitez des eaux chaudes de l’océan Indien. Passez une matinée paisible à nager, promenez-vous tranquillement le long du rivage ou reposez-vous simplement sous les palmiers tropicaux en appréciant l’atmosphère détendue de la côte sud-ouest du Sri Lanka."
+      },
+      {
+        "title": "Safari sur la rivière Bentota",
+        "description": "Explorez les voies navigables paisibles de la rivière Bentota lors d’un safari guidé en bateau à travers les mangroves, les zones humides, les îles et la végétation tropicale. Observez les varans, les oiseaux, les papillons et d’autres animaux sauvages tout en découvrant un côté plus tranquille du paysage côtier."
+      },
+      {
+        "title": "Découverte des mangroves de Bentota",
+        "description": "Découvrez les écosystèmes délicats de mangroves qui entourent les voies navigables de Bentota et apprenez l’importance de ces habitats naturels. Glissez à travers des canaux étroits bordés d’une végétation tropicale dense tout en observant la faune qui vit parmi les racines et les cours d’eau."
+      },
+      {
+        "title": "Sports nautiques",
+        "description": "Découvrez le côté aventureux de Bentota grâce à une sélection d’activités nautiques passionnantes le long de la côte et de la rivière. Selon les conditions, les voyageurs peuvent pratiquer le jet-ski, la planche à voile, le ski nautique, le kayak et d’autres activités aquatiques."
+      },
+      {
+        "title": "Jet-ski",
+        "description": "Profitez d’une sortie exaltante en jet-ski sur les eaux chaudes autour de Bentota. Ressentez l’excitation de glisser à grande vitesse sur l’eau tout en admirant le littoral tropical sous une perspective totalement différente."
+      },
+      {
+        "title": "Kayak",
+        "description": "Pagayez sur les voies navigables plus calmes autour de Bentota et découvrez les paysages tropicaux de la région à un rythme plus lent. Le kayak offre une manière agréable d’explorer l’environnement fluvial, les mangroves et les paysages côtiers paisibles."
+      },
+      {
+        "title": "Planche à voile",
+        "description": "Découvrez le vent et les vagues de la côte sud-ouest lors d’une aventure passionnante en planche à voile. Les eaux côtières de Bentota offrent un cadre idéal aux voyageurs qui souhaitent associer les paysages océaniques à une activité de plein air dynamique."
+      },
+      {
+        "title": "Expérience de pêche",
+        "description": "Découvrez les traditions de pêche côtière de Bentota et la relation étroite entre les communautés locales et l’océan Indien. Une expérience de pêche guidée permet d’en apprendre davantage sur les pratiques traditionnelles tout en passant du temps sur les magnifiques voies navigables de la région."
+      },
+      {
+        "title": "Ayurveda et bien-être",
+        "description": "Prenez le temps de ralentir avec une expérience traditionnelle de bien-être ayurvédique, entourée des paisibles paysages tropicaux de Bentota. Profitez d’un massage relaxant ou d’un soin personnalisé inspiré des traditions ayurvédiques sri-lankaises, vieilles de plusieurs siècles."
+      },
+      {
+        "title": "Coucher de soleil au bord de la rivière",
+        "description": "Découvrez l’atmosphère paisible de Bentota lorsque la lumière du soir se pose sur la rivière et les paysages tropicaux environnants. Une promenade tranquille en bateau ou un moment au bord de la rivière au coucher du soleil offre une belle manière de terminer une journée d’exploration côtière."
+      },
+      {
+        "title": "Cyclisme côtier",
+        "description": "Explorez à vélo les routes plus tranquilles et les environs tropicaux de Bentota. Parcourez les communautés côtières, les chemins bordés de palmiers et les campagnes verdoyantes tout en découvrant le rythme de vie plus lent au-delà des principales zones hôtelières."
+      },
+      {
+        "title": "Conservation des tortues à Kosgoda",
+        "description": "Visitez la région côtière voisine de Kosgoda et découvrez les tortues marines du Sri Lanka ainsi que les efforts de conservation. Apprenez l’importance de protéger ces remarquables animaux marins tout en approfondissant votre connaissance du patrimoine naturel de la côte sud."
       }
     ]
   },
   "bentota": {
     "name": "Bentota",
     "region": "Côte sud-ouest",
-    "description": "Bentota est l'une des destinations balnéaires les plus paisibles du Sri Lanka, où une longue plage dorée, la rivière Bentota tranquille et de luxuriants cocotiers se rejoignent sur la côte sud-ouest. Connue pour les sports nautiques, les balades en bateau sur la rivière, de beaux jardins et le bien-être ayurvédique, Bentota offre un équilibre entre détente et aventure douce. Facile d'accès depuis Colombo, elle convient aux voyageurs qui souhaitent un séjour confortable en bord de mer avec de nombreuses excursions à proximité.",
-    "highlightCards": ["Plage de Bentota et sports nautiques", "Safari en bateau sur la rivière Bentota", "Jardins et ayurveda"],
+    "description": "Une élégante escapade tropicale en bord de mer, où plages dorées, voies navigables luxuriantes, complexes hôteliers de luxe et activités nautiques passionnantes se réunissent pour créer des vacances mémorables au bord de l’océan.",
+    "highlightCards": [
+      "Plage de Bentota",
+      "Rivière et lagune de Bentota",
+      "Sports nautiques et aventures côtières"
+    ],
     "articleSections": [
       {
-        "title": "Là où la rivière rejoint la mer",
-        "description": "Le charme particulier de Bentota tient à sa position entre l'océan et la rivière. D'un côté, les vagues roulent sur une longue plage de sable ; de l'autre, la rivière Bentota s'écoule paisiblement entre palmiers et mangroves. Cette proximité crée une atmosphère sereine et permet de combiner facilement journées de plage et sorties sur l'eau."
+        "title": "L’élégance côtière de Bentota",
+        "description": "S’étendant le long de la magnifique côte sud-ouest du Sri Lanka, Bentota est une escapade tropicale raffinée où plages dorées, palmiers ondulants, eaux chaudes de l’océan et complexes hôteliers élégants se réunissent pour créer une atmosphère de vacances à la fois détendue et sophistiquée. La destination séduit particulièrement les voyageurs à la recherche d’un équilibre entre confort, beauté naturelle et expériences côtières. Ses longues plages de sable offrent beaucoup d’espace pour les promenades paisibles, la baignade, les bains de soleil et les couchers de soleil inoubliables. Au-delà de la plage, les paysages verdoyants et le caractère accueillant de Bentota invitent à voyager à un rythme plus lent, ce qui en fait un cadre idéal pour les couples, les familles et les voyageurs en quête d’une escapade relaxante au bord de la mer."
       },
       {
-        "title": "Sports nautiques et aventures fluviales",
-        "description": "Bentota compte parmi les lieux les plus réputés de l'île pour les sports nautiques. Selon les conditions, on peut y pratiquer le jet-ski, la planche à voile, la bouée tractée et d'autres activités. Plus tranquille, une balade en bateau sur la rivière traverse des mangroves et permet, avec un peu de chance, d'observer des oiseaux aquatiques et des varans."
+        "title": "Là où la rivière rencontre l’océan",
+        "description": "L’une des caractéristiques les plus remarquables de Bentota est la rencontre entre la rivière Bentota et l’océan Indien, qui crée un magnifique paysage composé de voies navigables, de mangroves, de zones humides, de petites îles et de végétation tropicale. Une excursion en bateau sur la rivière permet de découvrir la région sous un tout autre angle, en traversant des voies d’eau paisibles où les voyageurs peuvent apercevoir des varans, des oiseaux, des papillons colorés et d’autres animaux sauvages parmi les mangroves. L’environnement calme de la rivière offre un merveilleux contraste avec la plage ouverte, tandis que l’exploration des voies navigables environnantes permet de découvrir un aspect plus tranquille et naturel de Bentota, loin des principaux complexes côtiers. Ensemble, la rivière et l’océan donnent à Bentota un paysage unique qui associe détente tropicale et douce aventure."
       },
       {
-        "title": "Jardins, bien-être et côte sud-ouest",
-        "description": "Au-delà de la plage et de l'eau, Bentota possède un caractère raffiné et détendu. Les jardins de Bevis et de Geoffrey Bawa aux alentours comptent parmi les jardins paysagers les plus célèbres du Sri Lanka, les soins ayurvédiques invitent à la détente, et le long de la côte voisine, des centres d'élevage œuvrent à la protection des tortues marines."
+        "title": "Eau, bien-être et escapades tropicales",
+        "description": "Bentota offre un équilibre attrayant entre aventure et détente, avec un large éventail d’expériences disponibles sur l’eau et le long de la côte. Les voyageurs peuvent pratiquer des activités telles que le kayak, le jet-ski, la planche à voile, le ski nautique, les promenades en bateau et d’autres aventures océaniques. Ceux qui préfèrent un séjour plus tranquille peuvent passer la journée au bord de la plage ou profiter d’un soin ayurvédique traditionnel dans un cadre paisible. Les traditions de bien-être de la région, ses jardins tropicaux, ses excursions fluviales et ses magnifiques paysages côtiers permettent de créer des vacances à son propre rythme, qu’il s’agisse d’une journée active à explorer les voies navigables ou d’un après-midi calme suivi d’un superbe coucher de soleil sur l’océan Indien."
       }
     ],
     "thingsToDo": [
       {
         "title": "Plage de Bentota",
-        "description": "Profitez de la longue plage de sable doré bordée de palmiers, de vagues et de larges vues sur l'océan, idéale pour se promener, se baigner et savourer des journées de plage décontractées."
+        "description": "Détendez-vous sur le sable doré de la plage de Bentota et profitez des eaux chaudes de l’océan Indien. Passez une matinée paisible à nager, promenez-vous tranquillement le long du rivage ou reposez-vous simplement sous les palmiers tropicaux en appréciant l’atmosphère détendue de la côte sud-ouest du Sri Lanka."
+      },
+      {
+        "title": "Safari sur la rivière Bentota",
+        "description": "Explorez les voies navigables paisibles de la rivière Bentota lors d’un safari guidé en bateau à travers les mangroves, les zones humides, les îles et la végétation tropicale. Observez les varans, les oiseaux, les papillons et d’autres animaux sauvages tout en découvrant un côté plus tranquille du paysage côtier."
+      },
+      {
+        "title": "Découverte des mangroves de Bentota",
+        "description": "Découvrez les écosystèmes délicats de mangroves qui entourent les voies navigables de Bentota et apprenez l’importance de ces habitats naturels. Glissez à travers des canaux étroits bordés d’une végétation tropicale dense tout en observant la faune qui vit parmi les racines et les cours d’eau."
       },
       {
         "title": "Sports nautiques",
-        "description": "Essayez des activités comme le jet-ski, la planche à voile ou la bouée tractée et découvrez le côté actif de Bentota."
+        "description": "Découvrez le côté aventureux de Bentota grâce à une sélection d’activités nautiques passionnantes le long de la côte et de la rivière. Selon les conditions, les voyageurs peuvent pratiquer le jet-ski, la planche à voile, le ski nautique, le kayak et d’autres activités aquatiques."
       },
       {
-        "title": "Safari en bateau sur la rivière Bentota",
-        "description": "Glissez sur la rivière à travers mangroves et palmiers en guettant oiseaux aquatiques, varans et la vie des berges."
+        "title": "Jet-ski",
+        "description": "Profitez d’une sortie exaltante en jet-ski sur les eaux chaudes autour de Bentota. Ressentez l’excitation de glisser à grande vitesse sur l’eau tout en admirant le littoral tropical sous une perspective totalement différente."
       },
       {
-        "title": "Brief Garden et Lunuganga",
-        "description": "Promenez-vous dans les célèbres jardins de Bevis et de Geoffrey Bawa et découvrez l'un des plus fameux aménagements paysagers du Sri Lanka."
+        "title": "Kayak",
+        "description": "Pagayez sur les voies navigables plus calmes autour de Bentota et découvrez les paysages tropicaux de la région à un rythme plus lent. Le kayak offre une manière agréable d’explorer l’environnement fluvial, les mangroves et les paysages côtiers paisibles."
       },
       {
-        "title": "Soins ayurvédiques",
-        "description": "Offrez-vous un massage ayurvédique traditionnel ou un soin de bien-être dans un cadre paisible près de la mer."
+        "title": "Planche à voile",
+        "description": "Découvrez le vent et les vagues de la côte sud-ouest lors d’une aventure passionnante en planche à voile. Les eaux côtières de Bentota offrent un cadre idéal aux voyageurs qui souhaitent associer les paysages océaniques à une activité de plein air dynamique."
       },
       {
-        "title": "Centre de protection des tortues marines",
-        "description": "Découvrez dans un centre de la côte voisine les espèces qui viennent pondre sur les plages du Sri Lanka et les efforts menés pour les protéger."
-      }
-    ]
-  },
-  "hikkaduwa": {
-    "name": "Hikkaduwa",
-    "region": "Côte sud-ouest",
-    "description": "Hikkaduwa est une station balnéaire animée sur la côte sud-ouest du Sri Lanka, célèbre pour son récif corallien, ses eaux claires et son ambiance décontractée en bord de mer. Les adeptes de snorkeling et de plongée viennent y voir poissons colorés, jardins de corail et tortues marines, les surfeurs apprécient les vagues, et tous les visiteurs aiment les cafés de plage, les couchers de soleil et l'énergie détendue. Hikkaduwa est une étape enrichissante pour les amoureux de la mer qui veulent associer aventure et détente.",
-    "highlightCards": ["Récif corallien et snorkeling", "Tortues marines", "Surf et vie de plage"],
-    "articleSections": [
-      {
-        "title": "La vie sous les vagues",
-        "description": "Le littoral de Hikkaduwa est connu pour ses récifs, parmi les sites de snorkeling les plus accessibles du Sri Lanka. Quand l'eau est calme, coraux et poissons colorés se laissent voir tout près de la surface. Un tour en bateau à fond de verre permet aussi de découvrir le monde sous-marin sans se mettre à l'eau."
+        "title": "Expérience de pêche",
+        "description": "Découvrez les traditions de pêche côtière de Bentota et la relation étroite entre les communautés locales et l’océan Indien. Une expérience de pêche guidée permet d’en apprendre davantage sur les pratiques traditionnelles tout en passant du temps sur les magnifiques voies navigables de la région."
       },
       {
-        "title": "Tortues, épaves et plongée",
-        "description": "Outre son récif, Hikkaduwa est connue pour ses tortues marines, parfois visibles près du rivage. Les plongeurs trouvent dans les environs des récifs et des sites d'épaves adaptés à différents niveaux. Il est essentiel de respecter les animaux et les coraux, de ne rien toucher et de garder ses distances."
+        "title": "Ayurveda et bien-être",
+        "description": "Prenez le temps de ralentir avec une expérience traditionnelle de bien-être ayurvédique, entourée des paisibles paysages tropicaux de Bentota. Profitez d’un massage relaxant ou d’un soin personnalisé inspiré des traditions ayurvédiques sri-lankaises, vieilles de plusieurs siècles."
       },
       {
-        "title": "Vagues, sable et rythme du bord de mer",
-        "description": "Hors de l'eau, Hikkaduwa offre des vagues pour le surf, de longues plages et des cafés où l'on termine la journée avec du poisson frais et des boissons fraîches. Le temple de Seenigama, sur un petit îlot près du rivage, rappelle que la région a aussi un côté spirituel et culturel. S'asseoir sur la plage au coucher du soleil, c'est goûter à l'âme détendue du lieu."
-      }
-    ],
-    "thingsToDo": [
-      {
-        "title": "Snorkeling sur le récif corallien",
-        "description": "Explorez le monde sous-marin au large de Hikkaduwa, avec ses coraux et ses poissons colorés, de préférence quand l'eau est calme."
+        "title": "Coucher de soleil au bord de la rivière",
+        "description": "Découvrez l’atmosphère paisible de Bentota lorsque la lumière du soir se pose sur la rivière et les paysages tropicaux environnants. Une promenade tranquille en bateau ou un moment au bord de la rivière au coucher du soleil offre une belle manière de terminer une journée d’exploration côtière."
       },
       {
-        "title": "Tour en bateau à fond de verre",
-        "description": "Observez le récif et la vie marine confortablement depuis le bateau, sans avoir à vous mettre à l'eau."
+        "title": "Cyclisme côtier",
+        "description": "Explorez à vélo les routes plus tranquilles et les environs tropicaux de Bentota. Parcourez les communautés côtières, les chemins bordés de palmiers et les campagnes verdoyantes tout en découvrant le rythme de vie plus lent au-delà des principales zones hôtelières."
       },
       {
-        "title": "Observer les tortues marines",
-        "description": "Guettez les tortues marines dans les eaux peu profondes et observez-les avec respect, à distance, sans les toucher ni les nourrir."
-      },
-      {
-        "title": "Plongée sous-marine",
-        "description": "Découvrez les récifs et sites de plongée autour de Hikkaduwa avec un opérateur expérimenté et certifié."
-      },
-      {
-        "title": "Surf",
-        "description": "Profitez des vagues de Hikkaduwa, que vous soyez débutant en cours de surf ou surfeur confirmé."
-      },
-      {
-        "title": "Seenigama Muhudu Maha Viharaya",
-        "description": "Visitez le petit temple situé sur un îlot rocheux près du rivage, un lieu spirituel paisible à proximité de la plage."
+        "title": "Conservation des tortues à Kosgoda",
+        "description": "Visitez la région côtière voisine de Kosgoda et découvrez les tortues marines du Sri Lanka ainsi que les efforts de conservation. Apprenez l’importance de protéger ces remarquables animaux marins tout en approfondissant votre connaissance du patrimoine naturel de la côte sud."
       }
     ]
   },
     "galle": {
     "name": "Galle",
     "region": "Côte sud",
-    "description": "Galle est la ville portuaire historique de la côte sud du Sri Lanka, célèbre pour le fort de Galle, une forteresse commencée par les Portugais et agrandie par les Néerlandais au XVIIe siècle, aujourd'hui inscrite au patrimoine mondial de l'UNESCO. Derrière ses puissantes murailles, ruelles pavées, bâtiments coloniaux, cafés, boutiques et vues sur la mer composent une atmosphère unique. Pour les voyageurs qui veulent réunir histoire, architecture et vie côtière au même endroit, Galle est une étape inoubliable.",
-    "highlightCards": ["Fort de Galle", "Remparts et phare", "Patrimoine colonial et vie côtière"],
+    "description": "Galle est une ville côtière fascinante où plusieurs siècles d’histoire, l’architecture coloniale et l’océan Indien se rencontrent. En son cœur se trouve la vieille ville de Galle et ses fortifications, inscrites au patrimoine mondial de l’UNESCO. Cette ville historique magnifiquement préservée a été façonnée par les influences portugaises et néerlandaises, puis adaptée aux traditions sri-lankaises. Au-delà des remparts, Galle offre des rues pleines de charme, des bâtiments historiques, des promenades au bord de l’océan, des cafés locaux et l’atmosphère détendue de la côte sud. C’est une destination idéale pour les voyageurs en quête de culture, d’histoire et de charme intemporel.",
+    "highlightCards": [
+      "Fort de Galle et remparts",
+      "Galle coloniale",
+      "Le patrimoine côtier de Galle"
+    ],
     "articleSections": [
       {
-        "title": "Le fort de Galle",
-        "description": "Le fort de Galle est le cœur de la ville et l'un des exemples les mieux conservés d'architecture fortifiée européenne en Asie du Sud. À l'intérieur des remparts, des ruelles étroites passent devant églises, mosquées, anciennes maisons et bâtiments coloniaux. En flânant sans plan précis, on découvre à presque chaque coin de rue un nouveau détail qui raconte l'histoire riche et stratifiée du lieu."
+        "title": "Le charme intemporel de Galle",
+        "description": "Galle possède un caractère immédiatement différent de celui des destinations situées à l’intérieur des terres du Sri Lanka. À l’intérieur du fort historique, des ruelles étroites serpentent entre des murs patinés par le temps, des bâtiments de l’époque coloniale, des vérandas ombragées et des cours tranquilles. Les cafés, galeries, hôtels de charme et boutiques locales donnent vie à la vieille ville. L’atmosphère est élégante tout en restant détendue, permettant aux voyageurs d’explorer à leur rythme et de découvrir les détails qui rendent Galle si authentique. De la texture de son architecture historique à la vie quotidienne qui se poursuit dans le fort, Galle offre une véritable identité où le passé fait toujours partie du présent."
       },
       {
-        "title": "Sur les remparts",
-        "description": "Une promenade sur les remparts compte parmi les plus belles expériences de Galle. D'un côté, les vagues de l'océan Indien arrivent en roulant ; de l'autre, les toits de la vieille ville s'étendent, et le phare blanc ajoute une touche emblématique. En fin d'après-midi surtout, quand la lumière s'adoucit et que le ciel se colore, les murailles invitent à une flânerie tranquille."
+        "title": "Une ville vivante inscrite au patrimoine mondial",
+        "description": "L’histoire de Galle a été façonnée par des siècles d’échanges culturels. Fondée par les Portugais au XVIe siècle et largement développée sous la domination néerlandaise au XVIIIe siècle, la ville fortifiée reflète une planification et une architecture européennes adaptées au climat, au paysage et aux traditions du Sri Lanka. Aujourd’hui, le fort reste une ville historique vivante plutôt qu’un simple site archéologique, avec des habitations, des édifices religieux, des musées et des commerces qui occupent toujours son réseau de rues d’origine. Explorer Galle avec un guide expérimenté permet aux voyageurs de remarquer les détails architecturaux, les histoires et les différentes influences culturelles qui pourraient facilement passer inaperçus lors d’une simple promenade."
       },
       {
-        "title": "Culture, cafés et littoral",
-        "description": "Outre son patrimoine historique, Galle a un caractère vivant et créatif. De petites galeries, boutiques, cafés et restaurants animent le fort, tandis qu'à l'extérieur des murs, des plages comme Unawatuna et des sites comme la pagode de la Paix japonaise sont faciles d'accès. Une journée à Galle se partage ainsi aisément entre histoire, gourmandise et plage."
+        "title": "Là où le patrimoine rencontre l’océan",
+        "description": "La situation de Galle au bord de l’océan Indien donne à son caractère historique un cadre particulièrement mémorable. Les fortifications s’ouvrent sur de vastes vues océaniques, tandis que le phare, le port et les remparts offrent de magnifiques endroits pour une promenade côtière tranquille ou une expérience au coucher du soleil. Au-delà des murs, la côte sud environnante invite à découvrir les plages, les traditions de pêche, les fruits de mer et le rythme de vie détendu du littoral sri-lankais. Cette combinaison de patrimoine et d’océan fait de Galle bien plus qu’une simple étape historique : c’est une destination où l’architecture, la culture, les saveurs locales et la mer se découvrent ensemble dans un cadre naturellement élégant."
       }
     ],
     "thingsToDo": [
       {
         "title": "Explorer le fort de Galle",
-        "description": "Flânez dans les ruelles de ce site du patrimoine mondial de l'UNESCO et découvrez bâtiments coloniaux, églises, mosquées, cafés et petites boutiques."
+        "description": "Découvrez le cœur historique de Galle en vous promenant dans ses rues pleines de charme, ses bâtiments coloniaux, ses cours intérieures, ses établissements de charme et ses boutiques locales, tout en appréciant le caractère unique de cette ville inscrite au patrimoine mondial de l’UNESCO."
       },
       {
-        "title": "Promenade sur les remparts",
-        "description": "Marchez sur les anciennes murailles face à l'océan, surtout au coucher du soleil, quand le ciel se teinte d'or."
+        "title": "Se promener sur les remparts du fort de Galle",
+        "description": "Profitez d’une promenade tranquille le long des fortifications historiques et admirez les vastes vues sur l’océan Indien, la vieille ville et le littoral environnant. Le paysage est particulièrement beau dans la lumière douce du petit matin ou au coucher du soleil."
       },
       {
-        "title": "Phare de Galle",
-        "description": "Visitez le phare blanc situé à la pointe sud du fort, l'un des sujets de photo les plus connus de la ville."
+        "title": "Visiter le phare de Galle",
+        "description": "Découvrez l’un des monuments côtiers les plus reconnaissables de Galle, situé à côté des fortifications historiques, avec l’océan Indien en toile de fond spectaculaire. C’est une étape agréable pour découvrir le patrimoine et prendre des photos."
       },
       {
-        "title": "Église réformée néerlandaise",
-        "description": "Découvrez l'église historique au cœur du fort, un témoignage marquant de la période coloniale néerlandaise."
+        "title": "Découvrir l’église réformée néerlandaise",
+        "description": "Entrez dans l’un des monuments religieux historiques du fort et découvrez son architecture coloniale distinctive, son intérieur paisible et ses liens avec la période néerlandaise de Galle."
       },
       {
-        "title": "Musées du fort",
-        "description": "Découvrez dans les musées de la vieille ville l'histoire, la tradition maritime et le patrimoine de la région."
+        "title": "Explorer l’ancien hôpital néerlandais",
+        "description": "Visitez l’un des bâtiments historiques magnifiquement restaurés du fort de Galle, aujourd’hui transformé en un espace animé comprenant des restaurants, des cafés et des boutiques tout en conservant son caractère architectural colonial."
       },
       {
-        "title": "Unawatuna et pagode de la Paix japonaise",
-        "description": "Prolongez votre visite du fort par une escapade vers la plage voisine d'Unawatuna et la pagode blanche de la Paix qui domine la côte."
+        "title": "Visiter le musée national de Galle",
+        "description": "Découvrez des collections liées au patrimoine culturel du sud du Sri Lanka, notamment de l’artisanat traditionnel, des masques, des sculptures et des objets qui reflètent la diversité de l’histoire de la région."
+      },
+      {
+        "title": "Explorer les rues de la vieille ville de Galle",
+        "description": "Flânez dans les rues plus tranquilles de la ville historique pour découvrir d’anciennes résidences, des vérandas ombragées, des cours intérieures, de petites galeries, des boutiques indépendantes et des scènes de la vie quotidienne à l’intérieur du fort."
+      },
+      {
+        "title": "Faire une promenade à la découverte de l’architecture coloniale",
+        "description": "Découvrez le mélange distinctif des idées architecturales européennes et des traditions sri-lankaises à travers les rues du fort, les maisons historiques, les églises, les bâtiments publics et les façades préservées."
+      },
+      {
+        "title": "Admirer le coucher du soleil depuis le fort",
+        "description": "Trouvez un endroit paisible le long des remparts tandis que le soleil descend vers l’horizon, offrant de magnifiques vues sur l’océan Indien et une fin mémorable à une journée de découverte de Galle."
+      },
+      {
+        "title": "Découvrir les cafés locaux et la cuisine du Sud",
+        "description": "Prenez le temps de savourer les saveurs sri-lankaises ainsi que les cafés et restaurants contemporains à l’intérieur et autour du fort. Cette expérience associe les traditions culinaires locales à l’atmosphère internationale et détendue de Galle."
+      },
+      {
+        "title": "Explorer la côte sud environnante",
+        "description": "Prolongez votre découverte de Galle au-delà du centre historique grâce à un agréable voyage le long du littoral sud environnant, à la découverte des plages voisines et des paysages tropicaux qui donnent à la région son caractère côtier."
+      },
+      {
+        "title": "Visiter la plage d’Unawatuna",
+        "description": "Partez à quelques minutes de Galle vers Unawatuna pour profiter d’une expérience côtière détendue, de paysages tropicaux, de possibilités de baignade et de l’atmosphère décontractée de la culture balnéaire du sud du Sri Lanka."
       }
     ]
   },
-  "weligama": {
-    "name": "Weligama",
+  "hikkaduwa": {
+    "name": "Hikkaduwa",
     "region": "Côte sud",
-    "description": "Weligama est une destination côtière détendue sur la côte sud du Sri Lanka, connue pour sa vaste baie en arc de cercle, ses vagues douces et l'un des meilleurs endroits de l'île pour apprendre à surfer. Au-delà de la plage, la petite île de Taprobane, l'ancienne statue rupestre de Kushtarajagala et la dentelle traditionnelle offrent un aperçu de la culture régionale. Weligama convient aux voyageurs qui souhaitent associer mer, activité et vie côtière tranquille.",
-    "highlightCards": ["Surf dans la baie de Weligama", "Île de Taprobane", "Culture et vie côtière"],
+    "description": "Hikkaduwa est une destination côtière animée sur la côte sud du Sri Lanka, connue pour ses plages dorées, ses récifs coralliens, sa vie marine tropicale et son atmosphère balnéaire détendue. De l’exploration du monde sous-marin aux sessions de surf, en passant par des moments paisibles au bord de l’océan, Hikkaduwa offre une merveilleuse combinaison de vie de plage, d’expériences marines, d’aventure et de charme côtier du Sud.",
+    "highlightCards": [
+      "Plage de Hikkaduwa",
+      "Récif corallien et vie marine",
+      "Surf et aventures côtières"
+    ],
     "articleSections": [
       {
-        "title": "La baie de Weligama",
-        "description": "La vaste baie de Weligama, en pente douce, fait partie des tronçons de côte les plus paisibles du sud. Des palmiers bordent la longue plage de sable, de petits bateaux de pêche stationnent au large et l'eau chaude invite à la baignade. L'atmosphère est détendue et moins touristique que dans certains autres lieux de la côte."
+        "title": "L’esprit côtier de Hikkaduwa",
+        "description": "Hikkaduwa possède un caractère qui lui est propre, où les sables dorés rencontrent les eaux tropicales chaudes et où le rythme détendu de la vie côtière du Sud crée une atmosphère accueillante. La plage est entourée d’un mélange animé de petits restaurants, de cafés et d’espaces en bord de mer, tandis que le littoral offre suffisamment d’espace pour ralentir et profiter du cadre tropical. Que ce soit lors d’une matinée paisible au bord de l’océan, d’une promenade sur le rivage ou en admirant les couleurs changeantes du ciel en soirée, Hikkaduwa offre aux voyageurs une première découverte agréable et facile de la côte sud du Sri Lanka."
       },
       {
-        "title": "Apprendre à surfer",
-        "description": "Weligama est connue pour ses vagues douces et régulières, particulièrement adaptées aux débutants. De nombreuses écoles de surf proposent des cours et des locations de planches, et les surfeurs expérimentés trouvent aussi des spots adaptés dans les environs. Se lancer sur l'eau, c'est découvrir le côté actif de la côte sud."
+        "title": "Sous les eaux de Hikkaduwa",
+        "description": "L’environnement marin est l’une des expériences emblématiques de Hikkaduwa. Ses eaux riches en coraux permettent de découvrir des poissons tropicaux colorés et d’autres formes de vie marine grâce au snorkeling et à des excursions en bateau tranquilles. Les voyageurs peuvent découvrir le littoral sous un angle totalement différent en explorant les fonds marins ou en observant le récif depuis un bateau à fond de verre. La combinaison des eaux chaudes, des formations coralliennes et de la vie marine tropicale rend Hikkaduwa particulièrement attrayante pour ceux qui aiment se rapprocher de l’environnement naturel du Sri Lanka."
       },
       {
-        "title": "Île, patrimoine et artisanat",
-        "description": "Au large, la petite île de Taprobane et sa villa emblématique forment l'un des motifs préférés des photographes de la baie. À terre, la statue rupestre de Kushtarajagala rappelle la longue histoire de la région, et la dentelle traditionnelle montre combien l'artisanat et la culture du quotidien sont restés vivants."
+        "title": "Surf, mer et vie côtière du Sud",
+        "description": "La vie à Hikkaduwa tourne naturellement autour de la mer. Le surf apporte une dimension dynamique à la destination, tandis que le front de mer offre un cadre détendu pour savourer les spécialités locales, profiter des soirées tropicales et découvrir l’atmosphère décontractée de la côte sud. L’environnement marin environnant permet également des excursions en bateau et des rencontres avec la faune. La plage devient particulièrement belle à la fin de la journée. Hikkaduwa se découvre idéalement sans se presser, afin de profiter à la fois de son côté aventureux et de son caractère côtier paisible."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Apprendre à surfer",
-        "description": "Suivez un cours de surf et exercez-vous sur les vagues douces de la baie, idéales pour les débutants."
+        "title": "Faire du snorkeling au récif corallien de Hikkaduwa",
+        "description": "Explorez le monde sous-marin de Hikkaduwa en nageant parmi les formations coralliennes et la vie marine tropicale dans les eaux côtières chaudes."
       },
       {
-        "title": "Profiter de la plage et de la baie",
-        "description": "Passez des heures détendues sur la longue plage, baignez-vous dans l'eau chaude et regardez les bateaux de pêche."
+        "title": "Explorer le sanctuaire de corail",
+        "description": "Découvrez l’environnement marin autour de Hikkaduwa et appréciez la beauté naturelle de ses eaux côtières riches en coraux."
       },
       {
-        "title": "Île de Taprobane",
-        "description": "Admirez la petite île et sa célèbre villa, un repère marquant de la baie de Weligama."
+        "title": "Faire du surf à Hikkaduwa",
+        "description": "Profitez des vagues le long de la célèbre côte de surf de Hikkaduwa, que vous essayiez le surf pour la première fois ou que vous soyez déjà à l’aise dans l’eau."
       },
       {
-        "title": "Kushtarajagala",
-        "description": "Visitez l'ancienne statue rupestre en bordure de ville, un site archéologique important de la région."
+        "title": "Faire une excursion en bateau à fond de verre",
+        "description": "Admirez les récifs coralliens et la vie marine depuis la surface de l’eau lors d’une excursion tranquille à bord d’un bateau à fond de verre."
       },
       {
-        "title": "Dentelle traditionnelle",
-        "description": "Découvrez comment est fabriquée la dentelle traditionnelle de Weligama et rencontrez un artisanat toujours vivant."
+        "title": "Visiter un centre de conservation des tortues",
+        "description": "Apprenez-en davantage sur les tortues marines du Sri Lanka et sur les efforts de conservation qui soutiennent ces remarquables animaux marins le long de la côte sud."
       },
       {
-        "title": "Excursion à Mirissa",
-        "description": "Combinez votre séjour avec une escapade à Mirissa, toute proche, pour ses plages, ses couchers de soleil et l'observation des baleines."
+        "title": "Admirer le coucher du soleil sur la plage de Hikkaduwa",
+        "description": "Ralentissez à la fin de la journée et observez depuis la plage les couleurs changeantes du ciel se refléter sur l’océan Indien."
       }
     ]
   },
+    "weligama": {
+    "name": "Weligama",
+    "region": "Côte sud",
+    "description": "Weligama est une destination côtière animée sur la côte sud du Sri Lanka, connue pour sa vaste baie, sa culture du surf accueillante, ses plages de sable doré et son atmosphère balnéaire détendue. Des vagues douces de la baie de Weligama à la remarquable île de Taprobane située juste au large, la région offre une merveilleuse combinaison d’expériences balnéaires, de patrimoine de pêche traditionnel, de vie côtière locale et d’aventures océaniques. Avec son atmosphère décontractée et son magnifique littoral, Weligama est une destination accueillante pour les voyageurs qui souhaitent découvrir le caractère paisible de la côte sud du Sri Lanka.",
+    "highlightCards": [
+      "Baie de Weligama et surf",
+      "Île de Taprobane",
+      "Vie côtière du Sud"
+    ],
+    "articleSections": [
+      {
+        "title": "La beauté côtière de Weligama",
+        "description": "Weligama est façonnée par sa magnifique baie en arc de cercle, sa vaste plage de sable et son atmosphère tropicale détendue. Son littoral abrité offre un cadre accueillant pour la baignade, les promenades sur la plage et les plaisirs des eaux chaudes de la côte sud. Le paysage environnant associe des rivages bordés de palmiers au caractère quotidien d’une ville côtière traditionnelle. D’une matinée paisible au bord de l’océan à une soirée passée à admirer les couleurs changeantes au-dessus de la baie, Weligama permet aux voyageurs de ralentir et de profiter de la beauté simple de la vie au bord de la mer."
+      },
+      {
+        "title": "Culture du surf et patrimoine côtier",
+        "description": "Weligama est devenue l’une des destinations les plus connues du Sri Lanka pour découvrir la culture du surf de l’île, notamment pour les voyageurs qui souhaitent apprendre à surfer pour la première fois. À côté de sa scène de surf moderne, la ville conserve un lien fort avec la vie côtière traditionnelle, où la pêche demeure une partie importante du caractère local. En explorant les rues, en rencontrant les communautés locales et en observant le rythme de vie autour de la baie, les voyageurs découvrent un aspect de la côte sud à la fois accueillant et authentique."
+      },
+      {
+        "title": "Vues sur l’île et expériences océaniques",
+        "description": "Juste au large, la remarquable île de Taprobane ajoute un caractère unique aux paysages côtiers de Weligama. Les eaux et le littoral environnants offrent également des possibilités d’excursions en bateau, d’exploration côtière et de moments paisibles au bord de l’océan. Les voyageurs peuvent associer un séjour relaxant à la plage au surf, aux fruits de mer, aux couchers de soleil et à la découverte des régions côtières voisines. Weligama est ainsi une destination polyvalente pour ceux qui recherchent à la fois des activités et du temps pour se détendre."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Faire du surf dans la baie de Weligama",
+        "description": "Découvrez les vagues de la baie de Weligama, l’une des destinations de surf les plus accueillantes du Sri Lanka et un lieu apprécié aussi bien des débutants que des surfeurs expérimentés."
+      },
+      {
+        "title": "Prendre un cours de surf",
+        "description": "Rejoignez un moniteur de surf local et apprenez les bases du surf dans les eaux douces de la baie de Weligama tout en profitant de l’atmosphère détendue de la côte sud."
+      },
+      {
+        "title": "Se détendre sur la plage de Weligama",
+        "description": "Passez une journée paisible sur la vaste plage de sable, en profitant de l’océan chaud, des paysages tropicaux et de l’atmosphère décontractée qui entoure la baie."
+      },
+      {
+        "title": "Découvrir l’île de Taprobane",
+        "description": "Admirez la remarquable île de Taprobane juste au large et profitez de l’une des vues côtières les plus reconnaissables autour de la baie de Weligama."
+      },
+      {
+        "title": "Découvrir la vie locale de la pêche",
+        "description": "Découvrez le patrimoine traditionnel de la pêche sur la côte sud et observez le mode de vie côtier quotidien qui reste une partie importante de Weligama."
+      },
+      {
+        "title": "Déguster des fruits de mer frais",
+        "description": "Goûtez aux fruits de mer fraîchement préparés et aux plats côtiers sri-lankais tout en profitant de l’atmosphère détendue des restaurants autour de la baie de Weligama."
+      },
+      {
+        "title": "Faire du vélo le long de la côte",
+        "description": "Explorez les routes côtières environnantes à vélo et profitez des vues sur les plages, les palmiers, les communautés de pêcheurs et les paysages paisibles de la côte sud."
+      },
+      {
+        "title": "Explorer les plages voisines",
+        "description": "Partez pour un agréable voyage le long de la côte sud et découvrez les petites plages et les villages côtiers qui entourent Weligama."
+      },
+      {
+        "title": "Profiter d’une excursion en bateau le long de la côte",
+        "description": "Partez sur l’eau et découvrez le littoral sous une perspective différente tout en appréciant la beauté paisible des mers du Sud."
+      },
+      {
+        "title": "Admirer le coucher du soleil sur la baie",
+        "description": "Terminez la journée au bord de la baie de Weligama tandis que la lumière du soir crée de magnifiques vues sur l’océan et le rivage sablonneux."
+      }
+    ]
+  },
+
+
   "koggala": {
     "name": "Koggala",
     "region": "Côte sud",
-    "description": "Koggala est une destination tranquille de la côte sud du Sri Lanka, où le vaste lac de Koggala, de petites îles, des mangroves et une longue plage se rejoignent. Connue pour les balades en bateau sur le lac, les pêcheurs sur échasses traditionnels et les sites culturels voisins, Koggala offre une expérience paisible loin des stations côtières plus animées. Pour les voyageurs en quête de nature, de culture du quotidien et de lenteur, Koggala est une étape qui en vaut la peine.",
-    "highlightCards": ["Lac de Koggala et balade en bateau", "Pêcheurs sur échasses", "Culture et plage"],
+    "description": "Koggala est une destination côtière paisible située sur la côte sud du Sri Lanka, réputée pour son magnifique lagon, ses traditions de pêche, ses plantations de cannelle et son atmosphère villageoise décontractée. De l'exploration des eaux tranquilles du lac Koggala et de ses petites îles à la découverte de la pêche traditionnelle sur échasses et de la culture de la cannelle, Koggala révèle une facette plus calme et authentique de la côte sud. Entourée d'une végétation tropicale et située à proximité de belles plages, cette destination est idéale pour les amoureux de la nature et les voyageurs à la recherche de découvertes culturelles et d'expériences côtières paisibles.",
+    "highlightCards": [
+      "Lac Koggala et découverte des îles",
+      "Pêche traditionnelle sur échasses",
+      "Tradition de la cannelle et vie villageoise"
+    ],
     "articleSections": [
       {
-        "title": "Le lac de Koggala",
-        "description": "Le lac de Koggala, proche de la mer, est marqué par des mangroves, des palmiers et de petites îles. Une balade en bateau emprunte des voies d'eau calmes, passe devant la vie des villages, les oiseaux aquatiques et la végétation, et révèle un visage doux et vert de la région côtière. Le rythme est lent, et l'atmosphère silencieuse fait du lac un contrepoint agréable aux plages."
+        "title": "La beauté naturelle du lac Koggala",
+        "description": "Le lac Koggala est l'un des éléments naturels les plus remarquables de la région. Il offre un paysage paisible composé d'eaux calmes, de végétation tropicale et de petites îles situées non loin de la côte. Une excursion en bateau sur le lagon permet aux voyageurs de ralentir le rythme et d'observer cet environnement naturel où les oiseaux, les mangroves et la vie locale font partie intégrante de l'expérience. L'atmosphère tranquille du lac contraste agréablement avec les destinations balnéaires plus animées de la côte sud et permet aux visiteurs de découvrir la nature tropicale du Sri Lanka à un rythme plus détendu."
       },
       {
-        "title": "Pêcheurs sur échasses et vie côtière",
-        "description": "Le long de la côte autour de Koggala, les pêcheurs sur échasses sont une image célèbre du Sri Lanka. Perchés sur des perches en bois dans l'eau, ils pêchent selon des méthodes traditionnelles. Quand on leur rend visite, il convient de rester respectueux : il s'agit d'un vrai travail et d'une part de la tradition locale."
+        "title": "Traditions locales et patrimoine côtier",
+        "description": "Koggala est étroitement liée aux modes de vie traditionnels et au patrimoine culturel de la côte sud du Sri Lanka. La célèbre pêche sur échasses offre un aperçu d'une ancienne méthode de pêche côtière, tandis que les villages environnants reflètent un mode de vie plus calme et traditionnel. Les voyageurs peuvent également découvrir les récits locaux, l'artisanat et les coutumes au musée folklorique Martin Wickramasinghe, afin de mieux comprendre l'identité culturelle de la région méridionale."
       },
       {
-        "title": "Culture, plage et mémoire",
-        "description": "Outre la nature, Koggala compte des lieux culturels qui éclairent la vie de la région. Le musée du folklore consacré à l'écrivain Martin Wickramasinghe raconte le quotidien et la littérature, et l'ancien temple de Kataluwa est connu pour ses peintures murales historiques. La longue plage complète le séjour par son ampleur et sa tranquillité."
+        "title": "Cannelle, villages et expériences tropicales",
+        "description": "Au-delà du lac et du littoral, Koggala est entourée de jardins tropicaux, de communautés villageoises et de plantations de cannelle qui révèlent une autre facette du sud du Sri Lanka. Les visiteurs peuvent en apprendre davantage sur la production traditionnelle de cannelle, explorer la campagne environnante et profiter du rythme paisible de la vie rurale. Associées aux découvertes naturelles, à la cuisine locale et à la plage toute proche, ces activités font de Koggala une destination où les voyageurs peuvent découvrir les paysages et les traditions authentiques de la côte sud."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Balade en bateau sur le lac de Koggala",
-        "description": "Glissez sur le lac paisible, devant mangroves, petites îles et oiseaux aquatiques."
+        "title": "Faire une excursion en bateau sur le lac Koggala",
+        "description": "Naviguez sur les eaux paisibles du lac Koggala et découvrez les paysages tropicaux, les mangroves, la faune et l'environnement tranquille des petites îles."
       },
       {
-        "title": "Visiter l'île de la cannelle",
-        "description": "Découvrez sur une petite île du lac la culture traditionnelle de la cannelle et sa transformation."
+        "title": "Explorer les îles du lac Koggala",
+        "description": "Visitez les petites îles disséminées sur le lac Koggala et découvrez les expériences naturelles et culturelles particulières qui entourent le lagon."
       },
       {
-        "title": "Observer les pêcheurs sur échasses",
-        "description": "Assistez à la pêche traditionnelle sur échasses le long de la côte, en gardant respect et discrétion."
+        "title": "Découvrir la pêche traditionnelle sur échasses",
+        "description": "Découvrez l'une des méthodes de pêche traditionnelles les plus connues de la côte sud et apprenez-en davantage sur cet héritage culturel pratiqué depuis des échasses en bois."
       },
       {
-        "title": "Musée Martin Wickramasinghe",
-        "description": "Visitez le musée du folklore et découvrez la vie, la littérature et le quotidien de la région."
+        "title": "Visiter une plantation de cannelle",
+        "description": "Découvrez la tradition de la cannelle dans la région et apprenez-en davantage sur la culture, la récolte et la transformation traditionnelle de cette épice aromatique."
       },
       {
-        "title": "Temple de Kataluwa",
-        "description": "Découvrez ce temple bouddhiste historique et ses anciennes peintures murales dans un cadre paisible."
+        "title": "Visiter le musée folklorique Martin Wickramasinghe",
+        "description": "Visitez ce musée culturel consacré au célèbre écrivain sri-lankais Martin Wickramasinghe et découvrez des objets traditionnels, de l'artisanat et différents aspects de la vie villageoise."
       },
       {
-        "title": "Plage de Koggala",
-        "description": "Profitez de la longue plage tranquille pour marcher et passer des heures sereines au bord de la mer."
+        "title": "Observer les oiseaux",
+        "description": "Explorez le lac et les zones humides environnantes pour observer les oiseaux locaux et migrateurs dans l'environnement tropical riche en biodiversité de Koggala."
+      },
+      {
+        "title": "Se détendre sur la plage de Koggala",
+        "description": "Passez du temps au bord de la mer sur la plage de Koggala et profitez de son vaste littoral, de ses paysages tropicaux et de son atmosphère paisible."
+      },
+      {
+        "title": "Découvrir la cuisine locale",
+        "description": "Goûtez aux plats traditionnels sri-lankais et aux spécialités locales fraîches pour découvrir la culture culinaire quotidienne de la région côtière méridionale."
+      },
+      {
+        "title": "Profiter d'un moment paisible au bord du lagon",
+        "description": "Détendez-vous près des eaux tranquilles du lac Koggala et appréciez son environnement paisible, sa végétation tropicale et le rythme doux de la vie du lagon."
+      },
+      {
+        "title": "Admirer le coucher du soleil sur la côte sud",
+        "description": "Terminez la journée sur la côte tandis que la lumière chaude du soir offre de magnifiques vues sur l'océan et les paysages tropicaux environnants."
       }
     ]
   },
-    "ahangama": {
+  "ahangama": {
     "name": "Ahangama",
     "region": "Côte sud",
-    "description": "Ahangama est un village côtier détendu entre Galle et Weligama, connu pour ses spots de surf, ses pêcheurs sur échasses traditionnels, ses cafés charmants et son atmosphère tranquille. Entre palmiers, petites criques et routes paisibles, le lieu associe vie de plage, yoga, bonne cuisine et scène créative. Pour les voyageurs qui souhaitent découvrir la côte sud loin des grandes stations, Ahangama est un refuge idéal.",
-    "highlightCards": ["Spots de surf et plages", "Pêcheurs sur échasses", "Cafés et vie côtière"],
+    "description": "Ahangama est une destination côtière élégante située sur la côte sud du Sri Lanka, connue pour sa culture du surf, ses belles plages, ses paysages bordés de palmiers et son atmosphère moderne et décontractée. Des vagues très appréciées de Kabalana Beach aux portions de littoral plus tranquilles et aux cafés animés, Ahangama associe aventures marines, environnement tropical et mode de vie créatif en plein essor. Cette région attire particulièrement les voyageurs qui souhaitent découvrir une facette moderne et détendue de la côte sud du Sri Lanka, où le surf, la culture locale, la gastronomie et les magnifiques paysages côtiers se rencontrent.",
+    "highlightCards": [
+      "Kabalana Beach et surf",
+      "Littoral sud bordé de palmiers",
+      "Cafés, gastronomie et vie côtière"
+    ],
     "articleSections": [
       {
-        "title": "Un village au bord de la mer",
-        "description": "Ahangama s'étire le long de la côte, avec de petites criques, des palmiers et des rochers au bord de l'eau. La vie y est lente : le matin, les pêcheurs prennent la mer, la journée est consacrée au surf ou à la baignade, et le soir les cafés de plage se remplissent. Cette ambiance détendue en fait un agréable contrepoint aux grandes villes côtières."
+        "title": "La culture du surf et la beauté côtière d'Ahangama",
+        "description": "Ahangama est entourée de certains des plus beaux paysages côtiers du sud du Sri Lanka, avec des rivages bordés de palmiers, des plages dorées et de vastes vues sur l'océan Indien. Kabalana est l'une des plages de surf les plus connues de la région et attire aussi bien les surfeurs expérimentés que les voyageurs souhaitant apprendre à surfer. Au-delà des principaux spots de surf, des portions de côte plus tranquilles offrent des endroits paisibles pour se promener, se détendre et profiter du caractère tropical de la côte sud."
       },
       {
-        "title": "Vagues et plages",
-        "description": "Dans et autour d'Ahangama, plusieurs spots de surf offrent des conditions adaptées aux débutants comme aux surfeurs expérimentés. Les écoles proposent cours et planches, et les plages voisines se prêtent aussi à la promenade et à la détente. Selon la saison et la météo, les vagues et l'état de la mer changent nettement."
+        "title": "Un mode de vie moderne sur la côte sud",
+        "description": "Ahangama a développé un mode de vie côtier particulier, où l'environnement traditionnel sri-lankais rencontre une communauté grandissante de surfeurs, de créatifs, de cafés et d'hébergements de charme. Les voyageurs peuvent découvrir des restaurants décontractés, de petits cafés et des lieux élégants tout en observant le rythme quotidien des villages et des communautés côtières locales. Cette combinaison donne à Ahangama un caractère moderne, tout en préservant son lien avec les paysages et la culture du sud du Sri Lanka."
       },
       {
-        "title": "Pêcheurs sur échasses, yoga et gourmandises",
-        "description": "Les pêcheurs sur échasses de la côte sont une image célèbre du Sri Lanka et font partie d'une tradition vivante qu'il convient de respecter. Ahangama est aussi devenue un lieu de yoga, de bien-être et de bonne cuisine, avec de petits cafés, restaurants et hébergements qui invitent à s'attarder."
+        "title": "Des journées paisibles au bord de la mer",
+        "description": "Au-delà du surf, Ahangama est une destination où l'on peut ralentir et profiter des plaisirs simples de la vie côtière. Les visiteurs peuvent parcourir à vélo les routes bordées de palmiers, explorer les plages voisines, savourer des plats frais et observer les couleurs changeantes de l'océan au coucher du soleil. Sa situation sur la côte sud fait également d'Ahangama un point de départ idéal pour découvrir les destinations voisines, avant de retrouver en fin de journée une atmosphère plus calme et détendue."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Surf",
-        "description": "Profitez des vagues de la côte d'Ahangama, en cours de surf ou en autonomie."
+        "title": "Faire du surf à Kabalana Beach",
+        "description": "Découvrez l'un des spots de surf les plus réputés de la côte sud, avec des vagues qui attirent des surfeurs du monde entier et un magnifique cadre tropical en bord de mer."
       },
       {
-        "title": "Observer les pêcheurs sur échasses",
-        "description": "Assistez à la pêche traditionnelle sur échasses le long de la côte, avec respect envers les pêcheurs."
+        "title": "Suivre un cours de surf",
+        "description": "Apprenez les bases du surf avec un moniteur local et découvrez la culture accueillante du surf qui a fait d'Ahangama une destination côtière très appréciée."
       },
       {
-        "title": "Profiter des journées de plage",
-        "description": "Passez des heures détendues dans des criques et sur des plages calmes bordées de palmiers, face à l'immensité de la mer."
+        "title": "Se détendre sur le littoral d'Ahangama",
+        "description": "Passez une journée paisible au bord de la mer et profitez des paysages bordés de palmiers, du climat tropical chaud et de l'atmosphère décontractée de la côte sud."
       },
       {
-        "title": "Yoga et bien-être",
-        "description": "Participez à un cours de yoga ou offrez-vous un soin de bien-être dans un cadre côtier paisible."
+        "title": "Découvrir les cafés locaux",
+        "description": "Explorez la scène des cafés en plein essor à Ahangama et savourez du café frais, des boissons tropicales, des spécialités locales et des repas décontractés dans un magnifique cadre côtier."
       },
       {
-        "title": "Cafés et fruits de mer",
-        "description": "Savourez poisson frais, fruits et café dans l'un des nombreux petits cafés et restaurants en bord de mer."
+        "title": "Découvrir la gastronomie locale",
+        "description": "Goûtez aux spécialités sri-lankaises ainsi qu'aux plats côtiers modernes et découvrez le mélange de saveurs locales et internationales qui caractérise le mode de vie d'Ahangama."
       },
       {
-        "title": "Excursion à Galle",
-        "description": "Combinez votre séjour avec une escapade au fort de Galle, tout proche."
+        "title": "Explorer les spots de surf locaux",
+        "description": "Découvrez les différents spots de surf le long du littoral environnant et profitez de la diversité des vagues et des paysages côtiers autour d'Ahangama."
+      },
+      {
+        "title": "Découvrir les plages voisines",
+        "description": "Explorez les magnifiques plages de la côte sud environnante et découvrez des étendues de sable plus tranquilles, à l'écart des principales zones de surf."
+      },
+      {
+        "title": "Admirer le coucher du soleil au bord de la mer",
+        "description": "Terminez la journée sur le littoral tandis que la lumière chaude du soir colore magnifiquement l'océan et la côte bordée de palmiers."
       }
     ]
   },
   "matara": {
     "name": "Matara",
     "region": "Côte sud",
-    "description": "Matara est la ville côtière animée à l'extrémité sud de la côte sud du Sri Lanka, avec un fort néerlandais, un temple sur un petit îlot et des plages comme Polhena. À proximité se trouve Dondra Head, le point le plus méridional de l'île, avec son phare. Matara offre aux voyageurs histoire, culture et vie côtière dans un cadre moins touristique.",
-    "highlightCards": ["Fort de Matara et Star Fort", "Temple Parey Dewa", "Polhena et Dondra Head"],
+    "description": "Matara est une destination côtière historique située sur la côte sud du Sri Lanka, où le patrimoine colonial, les belles plages et la vie côtière décontractée se rencontrent. Des remparts historiques du fort de Matara et du Star Fort aux rives paisibles de Polhena, la région offre un mélange varié de culture, d'histoire et de paysages tropicaux. Matara constitue également un point de départ idéal pour découvrir la côte sud environnante, notamment la baie de surf d'Hiriketiya, les plages de Dikwella et les paysages côtiers plus tranquilles autour de Tangalle.",
+    "highlightCards": [
+      "Fort de Matara et Star Fort",
+      "Polhena Beach et côte sud",
+      "Hiriketiya, Dikwella et Tangalle"
+    ],
     "articleSections": [
       {
-        "title": "Forts et patrimoine",
-        "description": "Matara possède un fort de l'époque coloniale néerlandaise qui marque le caractère de la vieille ville, ainsi que le petit Star Fort en forme d'étoile. En se promenant, on découvre bâtiments coloniaux, marchés et vie quotidienne d'une ville côtière moins tournée vers les touristes."
+        "title": "Le patrimoine historique et la beauté côtière de Matara",
+        "description": "Matara associe un riche passé historique à la beauté naturelle de la côte sud du Sri Lanka. Les anciennes fortifications du fort de Matara et le remarquable Star Fort témoignent du passé colonial de la ville, tandis que les rues environnantes reflètent le caractère quotidien d'une communauté côtière traditionnelle. Le long du littoral, des lieux comme Polhena offrent une expérience tropicale plus détendue, où les eaux chaudes, les plages de sable et les magnifiques paysages côtiers créent un contraste paisible avec le centre historique de la ville."
       },
       {
-        "title": "Un temple sur l'eau",
-        "description": "Le temple Parey Dewa se trouve sur un petit îlot près de la rive, accessible par une passerelle piétonne. Avec son cadre paisible au bord de l'eau, c'est un lieu empreint d'atmosphère pour découvrir la tradition bouddhiste de la région."
+        "title": "Plages, surf et littoral du grand sud",
+        "description": "Le littoral autour de Matara propose une grande variété d'expériences balnéaires et convient parfaitement aux voyageurs qui souhaitent découvrir plusieurs destinations plutôt qu'un seul endroit. Dikwella offre de magnifiques portions de côte, tandis que la baie voisine d'Hiriketiya est réputée pour ses eaux abritées et sa culture du surf. Plus à l'est, Tangalle présente une atmosphère plus tranquille, avec de vastes plages, des lagons et des paysages tropicaux. Ensemble, ces destinations composent un itinéraire côtier varié à travers le sud du Sri Lanka."
       },
       {
-        "title": "Plage, phare et extrême sud",
-        "description": "La plage de Polhena est protégée par un récif au large et se prête bien à la baignade tranquille et au snorkeling. À quelques kilomètres, Dondra Head et son phare marquent le point le plus au sud de l'île, et le sanctuaire de Dondra Devale est l'un des lieux religieux importants de la région."
+        "title": "Nature, culture et découverte du littoral",
+        "description": "Au-delà des plages et des sites historiques, la région élargie de Matara offre de nombreuses possibilités de découvrir le caractère culturel et naturel du sud du Sri Lanka. Les voyageurs peuvent explorer la campagne, parcourir de belles routes côtières, visiter le temple rupestre historique de Mulkirigala près de Tangalle et profiter des paysages paisibles des lagons le long du littoral. Grâce à son mélange de patrimoine, de plages, de surf, de nature et de paysages villageois, Matara constitue un excellent point de départ pour découvrir les nombreuses facettes du grand sud."
       }
     ],
     "thingsToDo": [
       {
         "title": "Explorer le fort de Matara",
-        "description": "Promenez-vous dans le fort historique de l'époque néerlandaise et découvrez le caractère de la vieille ville."
+        "description": "Promenez-vous dans le quartier historique du fort et découvrez les anciens remparts, les rues et les vues côtières qui témoignent du patrimoine colonial de Matara."
       },
       {
-        "title": "Star Fort",
-        "description": "Visitez la petite forteresse en forme d'étoile, un exemple marquant d'architecture défensive coloniale."
+        "title": "Visiter le Star Fort",
+        "description": "Découvrez cette remarquable forteresse en forme d'étoile datant de l'époque coloniale et apprenez-en davantage sur l'importance stratégique de Matara sur la côte sud du Sri Lanka."
       },
       {
-        "title": "Temple Parey Dewa",
-        "description": "Traversez la passerelle jusqu'au temple sur le petit îlot et savourez l'atmosphère paisible au bord de l'eau."
+        "title": "Se détendre à Polhena Beach",
+        "description": "Profitez des eaux calmes et de l'environnement tropical de Polhena Beach, un lieu de détente côtier apprécié près de Matara."
       },
       {
-        "title": "Plage de Polhena",
-        "description": "Baignez-vous ou faites du snorkeling dans la baie abritée de Polhena, réputée pour son eau calme."
+        "title": "Découvrir Dikwella Beach",
+        "description": "Parcourez la côte sud jusqu'à Dikwella et profitez de sa magnifique plage de sable et de son atmosphère paisible au bord de la mer."
       },
       {
-        "title": "Dondra Head et phare",
-        "description": "Rendez-vous au point le plus méridional du Sri Lanka et visitez le phare historique face à l'océan."
+        "title": "Faire du surf dans la baie d'Hiriketiya",
+        "description": "Découvrez les vagues d'Hiriketiya, une petite baie pittoresque devenue l'une des destinations de surf les plus appréciées de la côte sud."
       },
       {
-        "title": "Temple de Weherahena",
-        "description": "Visitez ce temple connu pour sa grande statue de Bouddha et les peintures colorées de son intérieur."
+        "title": "Explorer les plages de Tangalle",
+        "description": "Découvrez les vastes plages autour de Tangalle et profitez d'une facette plus tranquille de la côte sud, entourée de paysages tropicaux."
+      },
+      {
+        "title": "Faire une excursion panoramique le long de la côte sud",
+        "description": "Suivez la route côtière pittoresque depuis Matara en direction de Dikwella, Hiriketiya et Tangalle, et découvrez en chemin des plages, des villages et des paysages côtiers variés."
+      },
+      {
+        "title": "Profiter d'un coucher de soleil sur la côte sud",
+        "description": "Terminez la journée au bord de la mer et observez la lumière chaude du soir illuminer les plages et les paysages tropicaux du sud du Sri Lanka."
       }
     ]
   },
   "kalpitiya": {
     "name": "Kalpitiya",
     "region": "Côte nord-ouest",
-    "description": "Kalpitiya est une longue péninsule sur la côte nord-ouest du Sri Lanka, entre lagune et pleine mer, connue pour le kitesurf, l'observation des dauphins et la réserve marine de Bar Reef. Avec ses plages tranquilles, son ancien fort néerlandais et ses vastes paysages, Kalpitiya offre une expérience côtière authentique loin des destinations plus connues. Pour les voyageurs en quête de vent, d'eau et de nature, c'est une étape qui en vaut la peine.",
-    "highlightCards": ["Kitesurf", "Observation des dauphins", "Bar Reef et fort néerlandais"],
+    "description": "Kalpitiya est une destination côtière singulière située sur la péninsule nord-ouest du Sri Lanka, là où l'océan Indien rencontre les eaux paisibles du lagon de Puttalam. Réputée pour ses vents puissants, ses vastes plages et son riche environnement marin, la région est devenue l'une des principales destinations du Sri Lanka pour le kitesurf et les aventures océaniques. Au-delà du littoral, les voyageurs peuvent découvrir des dauphins, des lagons bordés de mangroves, des communautés de pêcheurs traditionnelles et les remarquables paysages marins du récif de Bar. Kalpitiya offre une expérience côtière plus calme et plus aventureuse aux voyageurs qui souhaitent explorer une autre facette du Sri Lanka.",
+    "highlightCards": [
+      "Kitesurf et aventures océaniques",
+      "Dauphins et faune marine",
+      "Lagon de Puttalam et nature côtière"
+    ],
     "articleSections": [
       {
-        "title": "Vent et eau",
-        "description": "Les lagunes peu profondes et le vent régulier font de Kalpitiya l'une des destinations de kitesurf les plus connues du pays. La haute saison s'étend grosso modo de mai à octobre, quand le vent souffle de façon fiable. Les écoles de kitesurf proposent des cours aux débutants, et le spectacle sur l'eau est aussi impressionnant à regarder."
+        "title": "Là où le vent rencontre l'océan",
+        "description": "Kalpitiya est devenue l'une des destinations de kitesurf les plus connues du Sri Lanka grâce à ses vents saisonniers puissants, à son littoral ouvert et à ses vastes étendues d'eau. La combinaison de l'océan et du lagon crée un cadre varié pour les aventures nautiques, tandis que les larges plages et l'atmosphère détendue donnent à la région un caractère très différent de celui des stations balnéaires plus développées de l'île. Même les voyageurs qui ne pratiquent pas le kitesurf peuvent apprécier l'énergie unique de Kalpitiya en regardant les voiles colorées glisser sur l'eau."
       },
       {
-        "title": "Dauphins et récif",
-        "description": "Au large de Kalpitiya, on peut souvent observer de grands groupes de dauphins, surtout des dauphins à long bec, de préférence pendant la saison plus calme, environ de novembre à avril. Bar Reef est considéré comme l'un des récifs coralliens les plus importants de l'île et constitue une réserve marine où les amateurs de snorkeling découvrent coraux et poissons."
+        "title": "Dauphins, récifs et monde marin",
+        "description": "Les eaux autour de Kalpitiya abritent une extraordinaire diversité de vie marine, ce qui rend la région particulièrement intéressante pour les voyageurs passionnés par l'océan. Les excursions d'observation des dauphins permettent parfois d'apercevoir de grands groupes évoluant en pleine mer, tandis que les sorties en bateau vers le récif de Bar offrent l'occasion de découvrir des eaux riches en coraux et une vie sous-marine diversifiée. Ces expériences rapprochent les voyageurs du caractère naturel de la côte nord-ouest du Sri Lanka et révèlent un paysage marin très différent des destinations balnéaires traditionnelles de l'île."
       },
       {
-        "title": "Vie côtière tranquille",
-        "description": "Au-delà des activités, Kalpitiya a une atmosphère calme et rurale. Le fort néerlandais rappelle l'histoire coloniale, des villages de pêcheurs marquent le littoral, et les longues plages peu fréquentées invitent à la promenade et aux couchers de soleil."
+        "title": "La vie du lagon et la tranquillité de la côte nord-ouest",
+        "description": "Au-delà de l'océan ouvert, Kalpitiya est entourée par les eaux calmes du lagon de Puttalam, où les mangroves, les bancs de sable et les communautés de pêcheurs traditionnelles composent un paysage côtier paisible. Explorer le lagon permet de découvrir la région à un rythme plus lent, avec des bateaux locaux qui traversent les eaux et une lumière changeante qui se reflète sur l'immense étendue du lagon. Associées aux plages tranquilles de la péninsule et aux paysages ruraux côtiers, ces expériences offrent aux voyageurs l'occasion de découvrir une facette moins connue et plus authentique du Sri Lanka."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Kitesurf",
-        "description": "Apprenez le kitesurf ou profitez des conditions de la lagune, surtout pendant la saison de vent."
+        "title": "Faire du kitesurf à Kalpitiya",
+        "description": "Profitez des vents saisonniers puissants et des eaux ouvertes qui ont fait de Kalpitiya l'une des principales destinations de kitesurf du Sri Lanka."
       },
       {
-        "title": "Observation des dauphins",
-        "description": "Partez en bateau à la recherche des dauphins et profitez de la mer dans la lumière du matin."
+        "title": "Observer les dauphins en pleine mer",
+        "description": "Partez en excursion en bateau dans les eaux autour de Kalpitiya et cherchez les dauphins qui se déplacent en grands groupes impressionnants dans l'océan."
       },
       {
-        "title": "Snorkeling à Bar Reef",
-        "description": "Explorez la réserve marine, ses coraux et ses poissons, quand la météo et l'état de la mer le permettent."
+        "title": "Explorer le lagon de Puttalam",
+        "description": "Naviguez sur les eaux paisibles du lagon de Puttalam et découvrez les mangroves, les bancs de sable, les bateaux de pêche et les magnifiques paysages côtiers."
       },
       {
-        "title": "Fort néerlandais",
-        "description": "Visitez l'ancien fort de Kalpitiya, témoin de l'histoire coloniale de la côte."
+        "title": "Découvrir le récif de Bar",
+        "description": "Explorez l'environnement marin autour du récif de Bar et découvrez les paysages sous-marins riches en biodiversité de la côte nord-ouest du Sri Lanka."
       },
       {
-        "title": "Plages et couchers de soleil",
-        "description": "Profitez des longues plages tranquilles de la péninsule et du coucher de soleil sur la mer."
+        "title": "Se détendre sur la plage de Kalpitiya",
+        "description": "Profitez des vastes plages de sable et de l'atmosphère paisible de la péninsule, loin des stations balnéaires plus fréquentées de la côte ouest du Sri Lanka."
       },
       {
-        "title": "Lagune et villages de pêcheurs",
-        "description": "Découvrez la lagune et la vie quotidienne dans les villages de pêcheurs de la péninsule."
+        "title": "Découvrir la vie des communautés de pêcheurs",
+        "description": "Explorez les communautés de pêcheurs traditionnelles autour de Kalpitiya et découvrez la vie côtière quotidienne qui continue de façonner la région."
       }
     ]
   },
-    "trincomalee": {
+  "trincomalee": {
     "name": "Trincomalee",
     "region": "Côte est",
-    "description": "Trincomalee est la ville portuaire de la côte est du Sri Lanka, marquée par l'un des plus grands ports naturels du monde, des plages dorées, une eau claire et d'anciens temples. Des plages d'Uppuveli et de Nilaveli au snorkeling à Pigeon Island, jusqu'au temple de Koneswaram sur son rocher face à la mer, Trincomalee associe détente côtière, culture et histoire. Pour les voyageurs qui souhaitent découvrir la côte est pendant la saison plus sèche, c'est une destination qui en vaut la peine.",
-    "highlightCards": ["Plages d'Uppuveli et de Nilaveli", "Pigeon Island", "Temple de Koneswaram et fort Frederick"],
+    "description": "Trincomalee est une magnifique destination côtière située sur la côte nord-est du Sri Lanka, réputée pour ses vastes plages de sable, ses eaux bleu clair, ses temples sacrés et son riche patrimoine maritime. Des rivages paisibles de Nilaveli et Uppuveli aux falaises spectaculaires de Swami Rock et à la vie marine autour de Pigeon Island, Trincomalee offre une merveilleuse combinaison de beauté tropicale, de culture, d'histoire et d'aventures océaniques.",
+    "highlightCards": [
+      "Nilaveli Beach et côte est",
+      "Temple de Koneswaram et Swami Rock",
+      "Pigeon Island et vie marine"
+    ],
     "articleSections": [
       {
-        "title": "Plages et eaux claires",
-        "description": "Les plages de Trincomalee comptent parmi les plus belles de l'île. Uppuveli offre une atmosphère détendue avec cafés et hébergements en bord de mer, tandis que Nilaveli, plus au nord, séduit par sa longue plage de sable calme et son eau turquoise. La meilleure période de visite va grosso modo de mai à septembre, quand la côte est est plus tranquille."
+        "title": "La beauté tropicale de Trincomalee",
+        "description": "Trincomalee est une magnifique destination côtière située sur la côte nord-est du Sri Lanka, connue pour ses larges plages, ses eaux claires et son atmosphère tropicale détendue. Des plages de sable fin de Nilaveli et Uppuveli aux eaux calmes entourant le port naturel, la région révèle une facette plus paisible du littoral sri-lankais. L'association du soleil chaleureux, des magnifiques vues sur la mer et des plages spacieuses fait de Trincomalee un endroit idéal pour ralentir le rythme et profiter de la beauté naturelle de l'île. Que ce soit pour passer une matinée paisible au bord de l'océan ou explorer le littoral en bateau, les voyageurs peuvent y découvrir une atmosphère particulièrement reposante."
       },
       {
-        "title": "Pigeon Island et le monde sous-marin",
-        "description": "Le parc national de Pigeon Island, au large de Nilaveli, est une réserve marine avec récifs coralliens, poissons colorés et tortues marines. Le snorkeling y est l'une des expériences les plus appréciées, et le court trajet en bateau fait partie de l'excursion. Il est important de ne toucher ni les coraux ni les animaux et de respecter les règles de la réserve."
+        "title": "Patrimoine sacré et histoire côtière",
+        "description": "Au-delà de ses plages, Trincomalee possède un riche caractère culturel et historique façonné par des siècles de traditions maritimes et religieuses. Le temple de Koneswaram se dresse de manière spectaculaire au-dessus de l'océan, sur Swami Rock, offrant à la fois une expérience culturelle profondément importante et de magnifiques vues sur la mer. À proximité, Fort Frederick témoigne de l'histoire coloniale de la région, tandis que les anciennes rues et les sites religieux de la ville révèlent la diversité des communautés qui ont façonné Trincomalee au fil du temps. Explorer ces lieux permet aux voyageurs de découvrir une facette du Sri Lanka où spiritualité, histoire et océan sont étroitement liés."
       },
       {
-        "title": "Temples, fort et histoire",
-        "description": "Sur Swami Rock se dresse le temple de Koneswaram, un important site hindou dominant l'océan. À proximité se trouve le fort Frederick, témoin de l'histoire coloniale de la ville, et le vaste port naturel explique pourquoi Trincomalee a eu une telle importance stratégique pendant des siècles."
+        "title": "Aventures océaniques et escapades insulaires",
+        "description": "Trincomalee est également une destination idéale pour les voyageurs qui souhaitent découvrir l'environnement marin du Sri Lanka. Une excursion en bateau depuis Nilaveli peut conduire au parc national de Pigeon Island, où les récifs coralliens, les poissons de récif colorés et la vie marine peuvent être découverts en faisant de la plongée avec masque et tuba ou en nageant. Les eaux environnantes sont également réputées pour l'observation des baleines, la plongée sous-marine et d'autres expériences océaniques, tandis que les sources chaudes de Kanniya offrent un moment de détente loin de la côte. Ensemble, ces expériences font de Trincomalee une destination où plages magnifiques, lieux sacrés, faune sauvage et aventures marines se rencontrent naturellement."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Plage d'Uppuveli",
-        "description": "Détendez-vous sur la longue plage de sable, baignez-vous dans la mer chaude et profitez de l'ambiance paisible des cafés de plage."
+        "title": "Explorer Nilaveli Beach",
+        "description": "Détendez-vous sur l'une des plus belles plages de Trincomalee, connue pour son vaste rivage sablonneux, ses eaux claires et son atmosphère tropicale paisible."
       },
       {
-        "title": "Plage de Nilaveli",
-        "description": "Profitez de l'une des plages les plus calmes et les plus belles de l'île, avec une eau claire et turquoise."
+        "title": "Faire de la plongée avec masque et tuba à Pigeon Island",
+        "description": "Partez en bateau vers le parc national de Pigeon Island et découvrez en plongée avec masque et tuba des récifs coralliens colorés, des poissons tropicaux et l'environnement marin qui entoure l'île."
       },
       {
-        "title": "Snorkeling à Pigeon Island",
-        "description": "Partez en bateau vers le parc national marin et explorez coraux, poissons et tortues marines."
+        "title": "Visiter le temple de Koneswaram",
+        "description": "Visitez le temple sacré de Koneswaram sur Swami Rock et découvrez son atmosphère spirituelle ainsi que ses vues spectaculaires sur l'océan Indien."
       },
       {
-        "title": "Temple de Koneswaram",
-        "description": "Visitez le temple perché sur le rocher face à la mer et profitez de la vue étendue sur la côte."
+        "title": "Découvrir Swami Rock",
+        "description": "Admirez le littoral spectaculaire depuis les hauteurs de Swami Rock et profitez de magnifiques vues panoramiques sur l'océan Indien et les côtes environnantes de Trincomalee."
       },
       {
-        "title": "Fort Frederick",
-        "description": "Explorez le fort historique et découvrez le passé colonial de Trincomalee."
+        "title": "Explorer Fort Frederick",
+        "description": "Découvrez le fort historique de Trincomalee et explorez ses anciennes fortifications tout en profitant des vues sur le littoral et le port environnants."
       },
       {
-        "title": "Sources chaudes de Kanniya",
-        "description": "Visitez les puits d'eau chaude de Kanniya, un petit arrêt apprécié près de la ville."
+        "title": "Visiter les sources chaudes de Kanniya",
+        "description": "Découvrez les sources chaudes historiques de Kanniya et profitez d'une halte relaxante tout en découvrant l'un des sites naturels et culturels les plus connus de la région."
+      },
+      {
+        "title": "Explorer Uppuveli Beach",
+        "description": "Passez du temps sur les rivages décontractés d'Uppuveli et profitez de ses paysages tropicaux, de ses eaux chaudes et de son atmosphère côtière paisible."
+      },
+      {
+        "title": "Découvrir le port de Trincomalee",
+        "description": "Découvrez l'un des ports naturels en eau profonde les mieux abrités au monde et appréciez le lien remarquable entre le littoral, l'histoire et la vie maritime de Trincomalee."
+      },
+      {
+        "title": "Profiter d'un coucher de soleil sur la côte est",
+        "description": "Terminez la journée au bord de la côte est tandis que la lumière changeante du soir crée de magnifiques vues sur l'océan et les paysages tropicaux environnants."
       }
     ]
   },
+  
   "arugam-bay": {
     "name": "Arugam Bay",
-    "region": "Côte est",
-    "description": "Arugam Bay est un village côtier détendu sur la côte est du Sri Lanka, mondialement connu pour ses vagues de surf et son ambiance décontractée. Outre le surf, les safaris en lagune, l'observation des éléphants et des oiseaux et les sites anciens des environs offrent de nombreuses possibilités aux amoureux de la nature. La meilleure période va grosso modo d'avril à octobre, quand les vagues sont régulières et que la côte est animée.",
-    "highlightCards": ["Surf à Main Point", "Safari en lagune près de Pottuvil", "Faune et sites anciens"],
+    "region": "Côte Est",
+    "description": "Arugam Bay est l'une des destinations côtières les plus réputées du Sri Lanka, connue dans le monde entier pour ses excellentes vagues, son atmosphère décontractée et les magnifiques paysages de l'est de l'île. Cette célèbre baie en forme de croissant attire des surfeurs du monde entier, tandis que les lagunes voisines, les villages de pêcheurs et les espaces naturels riches en faune permettent de découvrir plus profondément le caractère authentique de la région. Entre les vagues du petit matin, les excursions sur les lagunes et les escapades paisibles dans la campagne environnante, Arugam Bay associe aventure, nature et douceur de vivre dans un cadre typiquement sri-lankais.",
+    "highlightCards": [
+      "Surf de renommée mondiale à Arugam Bay",
+      "Lagune de Pottuvil et nature côtière",
+      "Faune sauvage et nature préservée de l'Est"
+    ],
     "articleSections": [
       {
-        "title": "Vagues et vie de village",
-        "description": "La baie d'Arugam Bay est réputée pour ses longues vagues régulières qui attirent des surfeurs du monde entier. Plusieurs spots aux alentours offrent des conditions pour différents niveaux, et les écoles de surf aident les débutants à se lancer. Le soir, visiteurs et habitants se retrouvent dans de petits cafés et restaurants sur la plage."
+        "title": "L'esprit du surf à Arugam Bay",
+        "description": "Arugam Bay doit sa réputation internationale à la qualité de ses vagues et à la culture décontractée du surf qui l'entoure. Le spot principal et les vagues voisines attirent aussi bien les surfeurs expérimentés que les voyageurs qui souhaitent simplement découvrir l'énergie d'une destination de surf mondialement connue. Loin de l'eau, la baie conserve un rythme paisible, avec ses petits cafés, son environnement tropical et ses routes côtières sablonneuses, créant une atmosphère très différente de celle des stations balnéaires plus développées du Sri Lanka. Que l'on arrive avec une planche de surf ou que l'on recherche simplement une escapade tranquille au bord de la mer, Arugam Bay offre un lien mémorable avec l'océan."
       },
       {
-        "title": "Lagune, crocodiles et oiseaux",
-        "description": "La lagune près de Pottuvil s'explore lors d'un safari en bateau. Entre mangroves et étendues d'eau apparaissent oiseaux aquatiques, varans et, avec un peu de chance, crocodiles. La sortie est paisible et convient bien au petit matin ou à la fin d'après-midi."
+        "title": "Lagunes, villages et côte orientale",
+        "description": "Au-delà du surf, les paysages autour d'Arugam Bay s'ouvrent sur un univers plus paisible de lagunes, de zones humides, de villages et de côtes bordées de palmiers. Une excursion dans la lagune de Pottuvil permet de découvrir un environnement naturel serein, où les cours d'eau serpentent entre les mangroves et la végétation côtière. À proximité, Panama offre un aperçu de la vie traditionnelle des villages et d'un aspect plus préservé de la côte Est. Ces expériences permettent aux voyageurs de ralentir le rythme et de découvrir la région au-delà de ses plages célèbres, à travers de beaux paysages et une forte identité locale."
       },
       {
-        "title": "Parcs nationaux et patrimoine ancien",
-        "description": "Dans les environs se trouvent le parc national de Lahugala-Kitulana, réputé pour ses éléphants, et le parc national de Kumana, riche en oiseaux. L'ancien temple bouddhiste de Muhudu Maha Viharaya près de Pottuvil associe paysage côtier et patrimoine religieux et complète un séjour sur le plan culturel."
+        "title": "Faune sauvage et nature préservée de l'Est",
+        "description": "Arugam Bay constitue également une porte d'entrée vers certains des remarquables espaces naturels de l'est du Sri Lanka. La région environnante abrite des éléphants, des oiseaux et d'autres animaux sauvages, tandis que le parc national de Kumana permet d'explorer un paysage façonné par les zones humides, les forêts et les cours d'eau saisonniers. Des sites culturels anciens, comme Muhudu Maha Viharaya, ajoutent une autre dimension au voyage, faisant de cette destination un lieu où surf, nature, faune sauvage et patrimoine peuvent être découverts au cours d'un même itinéraire sur la côte orientale."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Surf à Main Point",
-        "description": "Profitez des longues vagues de la baie, en cours pour débutants ou en surfeur expérimenté."
+        "title": "Surfer à Arugam Bay",
+        "description": "Découvrez l'une des destinations de surf les plus célèbres du Sri Lanka, avec ses vagues réputées et son atmosphère côtière décontractée qui attire des surfeurs du monde entier."
       },
       {
-        "title": "Safari en lagune près de Pottuvil",
-        "description": "Glissez en bateau à travers les mangroves en observant oiseaux, varans et crocodiles."
+        "title": "Explorer la lagune de Pottuvil",
+        "description": "Partez pour une excursion paisible sur la lagune de Pottuvil et découvrez les mangroves, les voies navigables, les oiseaux et les paysages naturels plus tranquilles autour d'Arugam Bay."
       },
       {
-        "title": "Elephant Rock",
-        "description": "Visitez le rocher emblématique près de la baie et profitez de la vue sur la côte."
+        "title": "Découvrir Elephant Rock",
+        "description": "Visitez ce site côtier remarquable connu sous le nom d'Elephant Rock et profitez de vastes panoramas sur l'océan et les paysages environnants de la côte Est."
       },
       {
-        "title": "Parc national de Lahugala-Kitulana",
-        "description": "Guettez les éléphants sauvages dans ce paysage proche d'Arugam Bay."
+        "title": "Visiter Muhudu Maha Viharaya",
+        "description": "Découvrez ce site bouddhiste historique près de la côte et explorez une partie importante du patrimoine culturel du littoral oriental du Sri Lanka."
       },
       {
-        "title": "Parc national de Kumana",
-        "description": "Découvrez des lagunes et des forêts pleines d'oiseaux aquatiques et migrateurs, idéal pour les ornithologues."
+        "title": "Explorer le village de Panama",
+        "description": "Éloignez-vous des principales zones touristiques pour découvrir les paysages paisibles, l'atmosphère des villages traditionnels et la beauté naturelle des environs de Panama."
       },
       {
-        "title": "Muhudu Maha Viharaya",
-        "description": "Visitez l'ancien temple près de Pottuvil, en bord de côte."
+        "title": "Observer la faune sauvage à Kumana",
+        "description": "Explorez les zones humides et les espaces naturels de Kumana pour observer les oiseaux, les éléphants et d'autres animaux sauvages dans l'une des importantes régions naturelles de l'est du Sri Lanka."
       }
     ]
   },
+  
   "pasikuda": {
     "name": "Pasikuda",
-    "region": "Côte est",
-    "description": "Pasikuda est une destination côtière sur la côte est du Sri Lanka, connue pour sa vaste baie peu profonde, son eau calme et claire et sa plage de sable fin. L'eau peu profonde convient particulièrement bien à la baignade, y compris en famille, et dans les environs, des plages comme Kalkudah, la ville lagunaire de Batticaloa et son fort néerlandais offrent d'autres excursions. La meilleure période de visite va grosso modo d'avril à septembre.",
-    "highlightCards": ["Baie peu profonde et eau calme", "Plage de Kalkudah", "Batticaloa et sa lagune"],
+    "region": "Côte Est",
+    "description": "Pasikuda est l'une des plus belles destinations balnéaires tropicales du Sri Lanka, réputée pour ses eaux turquoise exceptionnellement peu profondes, son vaste littoral sablonneux et son atmosphère paisible. Sa baie calme s'étend vers l'océan Indien, avec des eaux chaudes et limpides idéales pour la baignade, la détente et les activités nautiques douces. Entourée de complexes hôteliers de luxe en bord de mer et des paysages tranquilles de la côte orientale du Sri Lanka, Pasikuda offre une élégante escapade balnéaire aux voyageurs en quête de soleil, de confort et de journées paisibles au bord de l'océan.",
+    "highlightCards": [
+      "Baie de Pasikuda et eaux peu profondes",
+      "Escapade sur une plage tropicale",
+      "Expériences marines et détente côtière"
+    ],
     "articleSections": [
       {
-        "title": "Une baie pour se détendre",
-        "description": "La baie de Pasikuda est connue pour son eau exceptionnellement peu profonde, qui s'étend loin vers le large. La baignade y est calme et sûre, et l'ambiance sur la plage est sereine. Quand la visibilité est bonne, on peut observer depuis l'eau des poissons et de petites zones de récif."
+        "title": "Les eaux turquoise de la baie de Pasikuda",
+        "description": "Le principal attrait de Pasikuda réside dans son littoral extraordinaire, où les eaux turquoise et limpides s'étendent sur une vaste baie en pente douce. La faible profondeur de la mer permet aux visiteurs de marcher assez loin dans l'eau tout en restant près du rivage, créant une expérience balnéaire unique, particulièrement belle sous la douce lumière du matin et du soir. La large plage de sable et les conditions maritimes généralement calmes donnent à la baie une atmosphère paisible, idéale pour les voyageurs qui souhaitent nager, se promener et profiter simplement de la douceur de la côte orientale."
       },
       {
-        "title": "Kalkudah et le littoral",
-        "description": "Au nord de Pasikuda se trouve la plage de Kalkudah, une longue plage de sable ouverte, avec plus d'espace et des vagues un peu plus marquées. Les promenades au matin ou au coucher du soleil révèlent le côté paisible de la côte est."
+        "title": "Une paisible escapade sur une plage tropicale",
+        "description": "À Pasikuda, la vie suit un rythme plus lent, rythmé par les longues journées à la plage, les eaux chaudes de l'océan et les paysages tropicaux paisibles. Le littoral abrite plusieurs élégants complexes hôteliers en bord de mer, permettant aux voyageurs d'associer la beauté naturelle de la baie au confort d'un séjour privé. Que ce soit pour profiter d'un matin tranquille près de la mer, se promener tranquillement sur le sable ou admirer les couleurs changeantes du ciel au coucher du soleil, Pasikuda offre une expérience côtière reposante qui invite à ralentir."
       },
       {
-        "title": "Batticaloa et la lagune",
-        "description": "La ville de Batticaloa se trouve à courte distance et est marquée par une grande lagune. Le fort néerlandais, le paysage lagunaire et la culture du quotidien offrent un beau contraste avec le séjour balnéaire."
+        "title": "Explorer la côte orientale depuis la mer",
+        "description": "Les eaux calmes autour de Pasikuda offrent également de belles occasions de découvrir le littoral oriental depuis la mer. Les promenades en bateau et certaines activités nautiques permettent aux voyageurs d'admirer la baie sous un autre angle, tandis que l'environnement marin ajoute une dimension supplémentaire à l'expérience balnéaire. Associées au climat chaud, au littoral ouvert et à l'atmosphère paisible de la région, ces expériences font de Pasikuda une destination particulièrement attrayante pour ceux qui recherchent une escapade tropicale raffinée où l'océan occupe une place centrale."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Se baigner dans la baie peu profonde",
-        "description": "Profitez de l'eau calme et claire de la baie, idéale pour une baignade tranquille."
+        "title": "Se baigner dans la baie de Pasikuda",
+        "description": "Profitez des eaux remarquablement peu profondes, chaudes et limpides de la baie de Pasikuda, l'une des expériences de baignade les plus caractéristiques de la côte orientale du Sri Lanka."
       },
       {
-        "title": "Plage de Kalkudah",
-        "description": "Promenez-vous sur la longue plage de sable ouverte au nord de Pasikuda."
+        "title": "Se détendre sur la plage de Pasikuda",
+        "description": "Passez une journée paisible le long de cette vaste plage de sable, entourée d'eaux turquoise et de l'atmosphère sereine de la côte Est."
       },
       {
-        "title": "Snorkeling et sports nautiques",
-        "description": "Explorez l'eau claire en snorkeling ou essayez d'autres sports nautiques quand les conditions le permettent."
+        "title": "Profiter des sports nautiques",
+        "description": "Découvrez certaines activités nautiques douces dans les eaux calmes de la baie et admirez le littoral sous une perspective différente."
       },
       {
-        "title": "Fort néerlandais de Batticaloa",
-        "description": "Visitez le fort historique en bordure de la lagune."
+        "title": "Explorer les eaux côtières",
+        "description": "Prenez le temps d'apprécier les eaux limpides et l'environnement marin de Pasikuda tout en profitant de la beauté naturelle de la baie."
       },
       {
-        "title": "Balade en lagune à Batticaloa",
-        "description": "Découvrez la lagune paisible lors d'une sortie en bateau et la vie quotidienne sur ses rives."
+        "title": "Admirer le lever du soleil sur l'océan",
+        "description": "Commencez la journée au bord de l'océan Indien et observez les premières lumières du matin transformer les eaux calmes et le rivage sablonneux."
       },
       {
-        "title": "Lever de soleil sur la plage",
-        "description": "Commencez la journée tôt et admirez le lever du soleil sur la mer, un atout de la côte est."
+        "title": "Profiter d'un séjour balnéaire de luxe",
+        "description": "Associez la beauté du littoral de Pasikuda au confort d'un séjour privé en bord de mer et profitez d'une escapade tropicale plus paisible et raffinée."
       }
     ]
   },
-    "anuradhapura": {
+  
+  "anuradhapura": {
     "name": "Anuradhapura",
-    "region": "Triangle culturel",
-    "description": "Anuradhapura est l'une des plus anciennes capitales d'Asie du Sud et l'une des villes les plus sacrées du bouddhisme, aujourd'hui inscrite au patrimoine mondial de l'UNESCO. D'immenses dagobas blanches, d'anciennes ruines de monastères, des bassins et l'arbre sacré de Sri Maha Bodhi font de la ville un lieu vivant de pèlerinage et l'une des destinations archéologiques les plus importantes du Sri Lanka. Pour les voyageurs qui souhaitent découvrir l'histoire, la spiritualité et l'héritage de l'ancien royaume, Anuradhapura est une étape inoubliable.",
-    "highlightCards": ["Sri Maha Bodhi", "Ruwanwelisaya et Jetavanaramaya", "Ruines antiques et bassins"],
+    "region": "Province du Centre-Nord",
+    "description": "Anuradhapura est l'une des villes anciennes les plus importantes du Sri Lanka, où des siècles d'histoire, de traditions bouddhistes et de paysages naturels paisibles se rencontrent. Autrefois capitale de l'ancien Sri Lanka, la ville abrite aujourd'hui de magnifiques stupas, d'anciens monastères, des arbres sacrés, des sculptures sur pierre et les vestiges d'une civilisation remarquable. Son atmosphère sacrée et ses impressionnants monuments anciens font d'Anuradhapura une destination inoubliable pour les voyageurs intéressés par le patrimoine culturel du Sri Lanka.",
+    "highlightCards": [
+      "Sri Maha Bodhi et patrimoine sacré",
+      "Ruwanwelisaya et anciens stupas",
+      "Cité antique et ruines monastiques"
+    ],
     "articleSections": [
       {
-        "title": "Une capitale sacrée de l'Antiquité",
-        "description": "Anuradhapura fut pendant de nombreux siècles la capitale d'un puissant royaume et reste aujourd'hui un centre majeur du bouddhisme. La ville allie vastes sites archéologiques et piété vivante : à côté des ruines d'un autre âge, les voyageurs croisent des pèlerins en vêtements blancs qui apportent fleurs et lampes à huile aux lieux sacrés."
+        "title": "Le cœur sacré de l'ancien Sri Lanka",
+        "description": "Anuradhapura est l'une des villes anciennes les plus importantes du Sri Lanka, où des siècles d'histoire, de traditions bouddhistes et de paysages naturels paisibles se rencontrent. Autrefois capitale de l'ancien Sri Lanka, la ville abrite aujourd'hui de magnifiques stupas, d'anciens monastères, des arbres sacrés, des sculptures sur pierre et les vestiges d'une civilisation remarquable. Explorer la cité ancienne à pied ou à vélo donne aux voyageurs l'impression de remonter le temps, avec d'immenses monuments qui s'élèvent parmi les arbres et les sentiers tranquilles. Son atmosphère paisible et son profond caractère spirituel font d'Anuradhapura un lieu exceptionnel pour découvrir le patrimoine culturel du Sri Lanka."
       },
       {
-        "title": "Dagobas et arbre bodhi sacré",
-        "description": "Les immenses dagobas comme Ruwanwelisaya, Jetavanaramaya et Abhayagiri dominent le paysage de la ville et témoignent de l'art de bâtir de l'ancien royaume. Le Sri Maha Bodhi est considéré comme un rejeton de l'arbre sous lequel le Bouddha atteignit l'éveil, et c'est l'un des sanctuaires les plus vénérés de l'île. Lors de la visite des sites sacrés, une tenue adaptée et un comportement respectueux sont importants."
+        "title": "Anciens royaumes et patrimoine bouddhiste",
+        "description": "Le cœur d'Anuradhapura est étroitement lié au bouddhisme, et nombre de ses sites les plus importants restent aujourd'hui des lieux de culte. Le Sri Maha Bodhi sacré, le Ruwanwelisaya et les autres grands stupas accueillent des pèlerins tout au long de l'année, tandis que les anciens monastères comme Abhayagiri témoignent de l'ampleur et du raffinement de la vie religieuse de la cité. Explorer ces lieux ne permet pas seulement d'admirer une architecture ancienne ; c'est aussi l'occasion de comprendre comment la religion, l'art, l'ingénierie et la vie quotidienne étaient étroitement liés dans l'ancien royaume. L'association de traditions spirituelles vivantes et de monuments vieux de plusieurs siècles confère à Anuradhapura son caractère unique."
       },
       {
-        "title": "Ruines, bassins et héritage royal",
-        "description": "Entre les grands sanctuaires se répartissent des ruines de monastères, des sculptures sur pierre, d'anciens bassins et des vestiges de palais. Les pierres de lune et les pierres gardiennes comptent parmi les plus beaux exemples d'art ancien de la pierre. Explorer les sites à vélo ou avec un guide compétent donne une bonne idée de l'ampleur de la ville antique."
-      }
-    ],
-    "thingsToDo": [
-      {
-        "title": "Visiter le Sri Maha Bodhi",
-        "description": "Découvrez l'arbre bodhi sacré et l'atmosphère paisible des pèlerins qui y déposent fleurs et lumières."
-      },
-      {
-        "title": "Ruwanwelisaya",
-        "description": "Admirez la dagoba d'un blanc éclatant, l'un des sanctuaires les plus connus du Sri Lanka."
-      },
-      {
-        "title": "Jetavanaramaya",
-        "description": "Découvrez l'immense dagoba en brique, l'une des plus grandes constructions du monde antique."
-      },
-      {
-        "title": "Monastère d'Abhayagiri",
-        "description": "Explorez les vastes ruines de l'ancien complexe monastique et sa dagoba."
-      },
-      {
-        "title": "Isurumuniya et Kuttam Pokuna",
-        "description": "Voyez le petit temple rupestre et les bassins jumeaux, réputés pour leur travail de la pierre et leur harmonie."
-      },
-      {
-        "title": "Tour à vélo de la cité antique",
-        "description": "Explorez confortablement les vastes ruines à vélo et visitez les sites à votre rythme."
+        "title": "Un voyage à travers la cité ancienne",
+        "description": "Au-delà de ses célèbres stupas, Anuradhapura regorge de détails plus discrets qui rendent l'exploration de la cité ancienne mémorable. Les sculptures anciennes sur pierre, les bassins royaux, les ruines monastiques, les réservoirs et les chemins ombragés révèlent différents aspects de la vie dans l'ancienne capitale. Les voyageurs peuvent découvrir la région à vélo, participer à une visite patrimoniale tranquille ou poursuivre leur route vers Mihintale, un site profondément lié à l'arrivée du bouddhisme au Sri Lanka. Entourée de verdure et de vastes paysages, Anuradhapura offre une expérience plus lente et contemplative, permettant aux visiteurs de découvrir l'histoire ancienne de l'île tout en profitant de la tranquillité de son paysage sacré."
       }
     ]
   },
+
   "polonnaruwa": {
     "name": "Polonnaruwa",
-    "region": "Triangle culturel",
-    "description": "Polonnaruwa fut la capitale médiévale du Sri Lanka et compte aujourd'hui parmi les sites antiques les mieux conservés de l'île, également classé au patrimoine mondial de l'UNESCO. Palais royaux, temples, bains et les célèbres statues de Bouddha sculptées dans la roche de Gal Vihara sont dispersés dans un vaste paysage verdoyant au bord du lac Parakrama Samudra. Pour les voyageurs qui souhaitent découvrir histoire, archéologie et art dans un cadre facile à parcourir, Polonnaruwa est particulièrement enrichissante.",
-    "highlightCards": ["Gal Vihara", "Complexe du palais royal", "Lac Parakrama Samudra"],
+    "region": "Province du Centre-Nord",
+    "description": "Polonnaruwa entraîne les voyageurs au cœur du passé médiéval du Sri Lanka, où d'anciennes ruines royales, d'impressionnants monuments de pierre et des paysages paisibles racontent l'histoire d'un royaume autrefois puissant. Ancienne capitale médiévale du Sri Lanka, la ville était soigneusement organisée autour de palais royaux, de temples, de monastères, de jardins et de réservoirs répartis sur un vaste territoire. Aujourd'hui, ses remarquables vestiges et ses anciennes réalisations en matière d'ingénierie offrent aux voyageurs un aperçu fascinant du patrimoine royal, religieux et architectural de l'île.",
+    "highlightCards": [
+      "Gal Vihara et chefs-d'œuvre de pierre",
+      "Ancienne cité royale",
+      "Monuments sacrés de Polonnaruwa"
+    ],
     "articleSections": [
       {
-        "title": "La capitale médiévale",
-        "description": "Polonnaruwa succéda à Anuradhapura comme capitale et connut un âge d'or sous des souverains marquants. Les ruines sont plus compactes et plus faciles à embrasser que dans d'autres cités antiques, de sorte qu'une visite se fait bien en une journée. Des arbres ombragés et de vastes pelouses donnent au site une atmosphère paisible."
+        "title": "Le royaume médiéval de Polonnaruwa",
+        "description": "Polonnaruwa entraîne les voyageurs au cœur du passé médiéval du Sri Lanka, où d'anciennes ruines royales, d'impressionnants monuments et des paysages paisibles racontent l'histoire d'un royaume autrefois puissant. Ancienne capitale médiévale du Sri Lanka, la ville était soigneusement organisée autour de palais royaux, de temples, de monastères, de jardins et de réservoirs répartis sur un vaste territoire. Aujourd'hui, les visiteurs peuvent parcourir la cité ancienne à pied ou à vélo, en passant devant des bâtiments de pierre patinés par le temps et d'immenses monuments entourés d'arbres et d'espaces ouverts. L'atmosphère est paisible, mais l'ampleur des ruines donne une idée saisissante de la civilisation qui prospérait autrefois ici."
       },
       {
-        "title": "Gal Vihara et les Bouddhas de pierre",
-        "description": "Gal Vihara compte parmi les œuvres d'art les plus impressionnantes du pays : plusieurs figures de Bouddha, sculptées directement dans un rocher de granit, le montrent assis, debout et allongé. La sérénité des visages et la finesse de l'exécution impressionnent même les visiteurs peu familiers de l'archéologie."
+        "title": "Pierre, art et patrimoine sacré",
+        "description": "L'un des plus grands attraits de Polonnaruwa réside dans son remarquable patrimoine architectural en pierre et dans le savoir-faire de ses artisans anciens. À Gal Vihara, de magnifiques statues de Bouddha ont été sculptées directement dans une immense paroi rocheuse, témoignant de la maîtrise et de la finesse artistique des artisans de l'époque. Autour du Quadrilatère sacré, les visiteurs peuvent découvrir des édifices remarquablement préservés, comme le Vatadage, ainsi que d'autres monuments religieux. Des temples tels que Lankatilaka révèlent également l'ambition architecturale du royaume médiéval. Explorer ces sites permet non seulement d'observer des ruines anciennes, mais aussi d'apprécier l'art, les croyances et le savoir-faire qui ont façonné le patrimoine culturel du Sri Lanka."
       },
       {
-        "title": "Palais, temples et lac",
-        "description": "Dans le secteur du palais, murs et fondations rappellent la grandeur de la cité royale, tandis que des ensembles comme Vatadage et Thuparama montrent l'art religieux de l'époque. Le grand lac Parakrama Samudra, réservoir médiéval, donne au paysage de l'ampleur et mérite une visite, surtout au coucher du soleil."
+        "title": "Une ancienne cité façonnée par l'eau",
+        "description": "Polonnaruwa n'était pas seulement un centre religieux et royal, mais aussi un remarquable exemple d'urbanisme ancien et de gestion de l'eau. Le vaste réservoir de Parakrama Samudra et les systèmes d'irrigation environnants soutenaient l'agriculture et contribuaient à subvenir aux besoins de la population du royaume. Aujourd'hui, le réservoir, les paysages verdoyants et les ruines anciennes créent un cadre magnifique pour explorer la région à un rythme tranquille. Les voyageurs peuvent parcourir les sites historiques à vélo, faire une pause au bord de l'eau ou continuer à travers la campagne environnante, découvrant ainsi les liens étroits entre architecture, nature et ingénierie ancienne dans la vie du Sri Lanka médiéval."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Gal Vihara",
-        "description": "Admirez les statues de Bouddha sculptées dans la roche, sommet de l'art du Sri Lanka ancien."
+        "title": "Visiter Gal Vihara",
+        "description": "Admirez les remarquables statues de Bouddha sculptées directement dans une paroi de granit et découvrez l'un des plus beaux exemples du savoir-faire ancestral de la pierre au Sri Lanka."
       },
       {
-        "title": "Complexe du palais royal",
-        "description": "Explorez les vestiges du palais et de la salle d'audience du royaume médiéval."
+        "title": "Explorer le Quadrilatère sacré",
+        "description": "Découvrez un remarquable ensemble de monuments religieux anciens réunis au cœur historique de Polonnaruwa, avec des édifices magnifiquement préservés et des détails de pierre finement travaillés."
       },
       {
-        "title": "Vatadage",
-        "description": "Visitez la maison circulaire des reliques et ses sculptures de pierre raffinées."
+        "title": "Découvrir le complexe du palais royal",
+        "description": "Explorez les vestiges de l'ancien palais royal et des structures environnantes, qui donnent un aperçu de l'ampleur et de l'organisation de Polonnaruwa médiévale."
       },
       {
-        "title": "Lac Parakrama Samudra",
-        "description": "Profitez du calme du grand réservoir, surtout en fin d'après-midi."
+        "title": "Explorer le Vatadage",
+        "description": "Admirez l'élégant Vatadage circulaire, connu pour ses sculptures détaillées, ses pierres de garde sculptées et ses entrées soigneusement conçues."
       },
       {
-        "title": "Tour à vélo des ruines",
-        "description": "Explorez les sites à vélo et prenez le temps de découvrir chaque ensemble."
+        "title": "Visiter le temple de Lankatilaka",
+        "description": "Découvrez l'impressionnante architecture en briques de Lankatilaka et explorez les vestiges de l'un des édifices religieux médiévaux les plus remarquables de Polonnaruwa."
       },
       {
-        "title": "Musée de Polonnaruwa",
-        "description": "Découvrez au musée archéologique l'histoire et l'art de la cité royale."
+        "title": "Découvrir Rankoth Vehera",
+        "description": "Visitez l'un des plus grands stupas anciens de Polonnaruwa et profitez de l'atmosphère paisible qui entoure cet impressionnant monument."
+      },
+      {
+        "title": "Explorer Nissankalata Mandapa",
+        "description": "Découvrez ce pavillon de pierre unique et appréciez ses colonnes élégantes ainsi que son architecture singulière au cœur de la cité ancienne."
+      },
+      {
+        "title": "Visiter Parakrama Samudra",
+        "description": "Découvrez cet immense réservoir ancien, témoignage remarquable des connaissances en irrigation et des réalisations techniques du Sri Lanka médiéval."
+      },
+      {
+        "title": "Parcourir la cité ancienne à vélo",
+        "description": "Explorez le site archéologique à vélo, en passant entre les temples anciens, les stupas, les ruines royales et les paisibles paysages verdoyants."
+      },
+      {
+        "title": "Découvrir les anciens systèmes d'irrigation",
+        "description": "Découvrez comment les réservoirs, les canaux et les systèmes sophistiqués de gestion de l'eau contribuaient à l'agriculture et à la vie quotidienne du royaume médiéval."
+      },
+      {
+        "title": "Explorer les anciens complexes monastiques",
+        "description": "Découvrez les vestiges des monastères, des stupas et d'autres édifices religieux répartis dans la cité ancienne, et apprenez-en davantage sur le rôle important du bouddhisme dans la Polonnaruwa médiévale."
       }
     ]
   },
+  
   "jaffna": {
     "name": "Jaffna",
-    "region": "Nord",
-    "description": "Jaffna est la capitale culturelle du nord du Sri Lanka, une ville dotée d'une tradition tamoule propre, de temples colorés, d'un fort néerlandais et d'une cuisine inimitable. Après des années de conflit, la région s'ouvre aux voyageurs qui souhaitent découvrir un visage authentique et différent du Sri Lanka, avec des îles, des lagunes et de vastes paysages. Pour les curieux qui voyagent hors des sentiers battus, Jaffna est une destination à part.",
-    "highlightCards": ["Temple Nallur Kandaswamy", "Fort de Jaffna", "Îles et côte du Nord"],
+    "region": "Nord du Sri Lanka",
+    "description": "Jaffna offre un aperçu fascinant de la culture, du patrimoine et des paysages distinctifs du nord du Sri Lanka. Du magnifique temple Nallur Kandaswamy et du fort historique de Jaffna aux îles paisibles, aux lagunes, aux palmiers palmyra et aux villages traditionnels, la péninsule possède un caractère unique dans tout le pays. Les voyageurs peuvent découvrir des siècles de patrimoine tamoul, des traditions locales vivantes, une cuisine typique du nord et des paysages côtiers paisibles, tout en faisant l'expérience d'un visage plus tranquille et plus intime du Sri Lanka.",
+    "highlightCards": [
+      "Nallur Kandaswamy Kovil et patrimoine tamoul",
+      "Fort de Jaffna et péninsule historique",
+      "Îles du Nord et paysages côtiers"
+    ],
     "articleSections": [
       {
-        "title": "La culture tamoule du Nord",
-        "description": "Jaffna possède sa propre langue, cuisine, musique et religion, qui se distinguent nettement du sud de l'île. Des temples hindous aux tours colorées, de petits marchés et une atmosphère calme et chaleureuse marquent le paysage urbain. Lors de la visite, il est bon d'entrer dans les temples avec respect et de s'informer des règles locales."
+        "title": "Le cœur culturel du nord du Sri Lanka",
+        "description": "L'identité de Jaffna est profondément liée à son héritage tamoul, avec des siècles de traditions religieuses, une architecture distinctive et des coutumes locales qui façonnent la vie quotidienne de la péninsule. Le magnifique temple Nallur Kandaswamy occupe une place centrale dans ce paysage culturel, tandis que les temples colorés, les maisons traditionnelles et les rues paisibles révèlent un caractère très différent de celui des autres régions du Sri Lanka. Pour les voyageurs, explorer Jaffna est l'occasion de découvrir la diversité culturelle de l'île à travers ses traditions vivantes plutôt que par ses seuls monuments historiques."
       },
       {
-        "title": "Fort, temples et vie urbaine",
-        "description": "Le fort néerlandais de Jaffna rappelle l'époque coloniale, tandis que le temple Nallur Kandaswamy est le cœur religieux de la ville. La bibliothèque de Jaffna, ses marchés et la cuisine locale, avec ses currys épicés et ses fruits de mer frais, donnent un bon aperçu de la vie quotidienne."
+        "title": "Forteresses, îles et horizons du Nord",
+        "description": "L'histoire de Jaffna se lit également le long de son littoral et sur ses îles, où les influences portugaises et néerlandaises côtoient des traditions locales beaucoup plus anciennes. Le fort de Jaffna domine la péninsule environnante, tandis que les excursions vers l'île de Delft et les îles du Nord ouvrent sur un univers plus paisible de paysages coralliens, de mer ouverte et de communautés isolées. Voyager à travers ces paysages permet aux visiteurs de mieux comprendre le caractère maritime de la péninsule et l'extraordinaire diversité des panoramas du nord du Sri Lanka."
       },
       {
-        "title": "Îles, côte et vastes paysages",
-        "description": "Autour de la ville, des îles et des tronçons de côte comme Delft, Casuarina Beach et le littoral de Kankesanthurai attirent les visiteurs. Le paysage plat et ouvert, les palmiers de Palmyre et le grand ciel donnent au Nord une atmosphère bien à lui, calme et ample."
+        "title": "Saveurs et vie quotidienne à Jaffna",
+        "description": "Au-delà de ses temples et de ses sites historiques, Jaffna est une destination qui se découvre surtout à travers sa vie quotidienne, sa gastronomie et ses paysages. Les palmiers palmyra sont un élément emblématique du nord, tandis que la cuisine régionale associe épices prononcées, fruits de mer, légumes et traditions culinaires tamoules distinctives. Explorer les marchés locaux, les villages et les communautés côtières permet aux voyageurs de découvrir un rythme de vie plus lent ainsi que la chaleur, les saveurs et les traditions qui rendent le nord du Sri Lanka si particulier."
       }
     ],
     "thingsToDo": [
       {
-        "title": "Temple Nallur Kandaswamy",
-        "description": "Visitez ce temple hindou important et découvrez les rituels et l'architecture colorée."
+        "title": "Visiter Nallur Kandaswamy Kovil",
+        "description": "Découvrez l'un des temples hindous les plus importants du nord du Sri Lanka et plongez dans les traditions religieuses vivantes ainsi que dans l'architecture remarquable de Jaffna."
       },
       {
-        "title": "Fort de Jaffna",
-        "description": "Explorez le fort néerlandais et ses remparts et découvrez l'histoire coloniale."
+        "title": "Explorer le fort de Jaffna",
+        "description": "Parcourez les fortifications historiques qui surplombent la péninsule et découvrez les différentes périodes de l'histoire portugaise, néerlandaise et britannique."
       },
       {
-        "title": "Bibliothèque de Jaffna",
-        "description": "Visitez le bâtiment emblématique de la bibliothèque, symbole de l'histoire de la ville."
+        "title": "Découvrir l'île de Delft",
+        "description": "Traversez la mer pour rejoindre l'île de Delft et explorez ses paysages particuliers, ses vestiges historiques, ses murs de corail et ses communautés insulaires traditionnelles."
       },
       {
-        "title": "Casuarina Beach",
-        "description": "Détendez-vous sur la plage bordée de filaos, à l'eau claire et peu profonde."
+        "title": "Explorer les îles du Nord",
+        "description": "Découvrez les îles plus tranquilles autour de la péninsule de Jaffna, où les paysages côtiers, les lagunes et les communautés locales offrent une autre perspective sur le nord du Sri Lanka."
       },
       {
-        "title": "Île de Delft",
-        "description": "Faites une excursion sur l'île isolée, ses vastes paysages et ses poneys sauvages."
-      },
-      {
-        "title": "Goûter la cuisine locale",
-        "description": "Savourez la cuisine épicée du Nord avec currys, fruits de mer et spécialités locales."
+        "title": "Visiter Nagadeepa",
+        "description": "Partez à la découverte de Nagadeepa et de son important patrimoine bouddhiste, au cœur des paysages côtiers paisibles des îles du Nord."
       }
     ]
   }
 }
-
 
 
 
