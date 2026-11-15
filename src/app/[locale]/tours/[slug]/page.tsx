@@ -61,16 +61,24 @@ function customTourToTour(c: CustomTour): Tour {
   };
 }
 
-async function findTour(slug: string, locale = "en"): Promise<Tour | null> {
+type TourWithRoute = Tour & { routeEn?: string };
+
+async function findTour(slug: string, locale = "en"): Promise<TourWithRoute | null> {
   // Firestore is checked first: if an admin has edited a built-in tour
   // (same slug, re-saved via the admin panel), that edited version should
   // win over the version baked into this file at build time.
+  // routeEn = original English route, used only for the map (map needs English place names).
   const custom = await getCustomTourBySlug(slug);
   if (custom && custom.itinerary && custom.itinerary.length > 0) {
-    return translateTour(customTourToTour(custom), locale);
+    const base = customTourToTour(custom);
+    const translated = await translateTour(base, locale);
+    return { ...translated, routeEn: base.destinationsCovered };
   }
   const staticMatch = detailedTours.find((t) => t.slug === slug);
-  if (staticMatch) return translateTour(staticMatch, locale);
+  if (staticMatch) {
+    const translated = await translateTour(staticMatch, locale);
+    return { ...translated, routeEn: staticMatch.destinationsCovered };
+  }
   return null;
 }
 
@@ -256,7 +264,7 @@ export default async function TourDetailPage({
                 </h2>
                 <p className="mt-2 text-sm text-ink/60">{tour.destinationsCovered}</p>
                 <div className="mt-4">
-                  <RouteMap destinationsCovered={tour.destinationsCovered} />
+<RouteMap destinationsCovered={tour.routeEn || tour.destinationsCovered} />
                 </div>
               </div>
             )}
