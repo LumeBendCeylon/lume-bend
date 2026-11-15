@@ -1013,5 +1013,12 @@
     "sectionEyebrow": "Full Service",
     "sectionTitle": "Built Around Your Itinerary",
     "sectionDescription": "Every service below can be booked individually or bundled into a complete tailored journey."
+  },
+    "ToursPage": {
+    "metaTitle": "Tours",
+    "metaDescription": "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
+    "eyebrow": "Our Journeys",
+    "title": "Tours",
+    "subtitle": "Every tour style is a starting point for your own itinerary."
   }
 }

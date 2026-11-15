@@ -30,7 +30,6 @@ const MEGA_MENU_CATEGORIES: { category: Tour["category"]; motif: Tour["motif"]; 
   { category: "Wildlife Tours", motif: "leaf", imageUrl: "/documents/images/tour/wildlife.png" },
   { category: "Romantic & Honeymoon Tours", motif: "sun", imageUrl: "/documents/images/tour/couple.png" },
   { category: "Cultural Heritage Tours", motif: "temple", imageUrl: "/documents/images/tour/culture.png" },
-  { category: "Ayurveda & Wellness Tours", motif: "leaf", imageUrl: "/documents/images/tour/wellness.png" },
   { category: "Ramayana Tours", motif: "temple", imageUrl: "/documents/images/tour/ramayana.png" },
 ];
 

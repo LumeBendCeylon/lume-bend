@@ -1012,8 +1012,16 @@
     "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
     "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
   }
+},
+  "ToursPage": {
+    "metaTitle": "Touren",
+    "metaDescription": "Entdecken Sie die Luxus-, Abenteuer-, Wildtier-, Strand-, Hochland-, Kultur-, Tages-, Familien- und Flitterwochen-Touren von Lume Bend Ceylon in Sri Lanka.",
+    "eyebrow": "Unsere Reisen",
+    "title": "Touren",
+    "subtitle": "Jeder Tourstil ist ein Ausgangspunkt für Ihre ganz persönliche Reiseroute."
+  }
 }
-}
+
 
 
 

@@ -1012,8 +1012,16 @@
     "sectionEyebrow": "Service complet",
     "sectionTitle": "Conçu autour de votre itinéraire",
     "sectionDescription": "Chacun des services ci-dessous peut être réservé séparément ou intégré à un voyage sur mesure complet."
+  },
+    "ToursPage": {
+    "metaTitle": "Circuits",
+    "metaDescription": "Découvrez les circuits de luxe, d'aventure, de safari, de plage, de montagne, culturels, à la journée, en famille et de lune de miel de Lume Bend Ceylon au Sri Lanka.",
+    "eyebrow": "Nos voyages",
+    "title": "Circuits",
+    "subtitle": "Chaque style de circuit est un point de départ pour votre propre itinéraire."
   }
 }
+
 
   
 
