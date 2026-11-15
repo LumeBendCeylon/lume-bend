@@ -1011,8 +1011,20 @@
     "sectionEyebrow": "Полный сервис",
     "sectionTitle": "Под ваш маршрут",
     "sectionDescription": "Каждую из услуг ниже можно заказать отдельно или включить в полностью индивидуальное путешествие."
+  },
+    "DestinationsUi": {
+    "card": {
+      "explore": "Подробнее"
+    },
+    "detail": {
+      "back": "Назад к направлениям",
+      "eyebrow": "Самое время посетить",
+      "exploreThingsToDo": "Чем заняться: {name}",
+      "highlightsOf": "Главные места: {name}"
+    }
   }
 }
+
 
 
   

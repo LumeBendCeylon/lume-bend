@@ -1013,8 +1013,20 @@
     "sectionEyebrow": "Full Service",
     "sectionTitle": "Built Around Your Itinerary",
     "sectionDescription": "Every service below can be booked individually or bundled into a complete tailored journey."
+  },
+    "DestinationsUi": {
+    "card": {
+      "explore": "Explore"
+    },
+    "detail": {
+      "back": "Back to Destinations",
+      "eyebrow": "It's time to visit",
+      "exploreThingsToDo": "Explore Things to Do In {name}",
+      "highlightsOf": "Highlights of {name}"
+    }
   }
 }
+
 
 
 

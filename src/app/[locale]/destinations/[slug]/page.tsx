@@ -1,3 +1,4 @@
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -17,9 +18,9 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
-    const { locale, slug } = await params;
+  const { locale, slug } = await params;
   const base = destinations.find((d) => d.slug === slug);
   if (!base) return {};
   const destination = localizeDestination(base, locale);
@@ -27,29 +28,32 @@ export async function generateMetadata({
     title: destination.name,
     description: destination.description,
     alternates: {
-  canonical: "./",
-  languages: languageAlternates(`/destinations/${destination.slug}`),
-},
+      canonical: "./",
+      languages: languageAlternates(`/destinations/${destination.slug}`),
+    },
   };
 }
 
 export default async function DestinationDetailPage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }) {
-  const { slug } = await params;
-    const base = destinations.find((d) => d.slug === slug);
+  const { locale, slug } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("DestinationsUi.detail");
+  const base = destinations.find((d) => d.slug === slug);
   if (!base) notFound();
   const destination = localizeDestination(base, locale);
 
- const cards = destination.highlightCards?.length
+  const cards = destination.highlightCards?.length
     ? destination.highlightCards
-    : destination.highlights.slice(0, 3).map((h) => ({ title: h, imageUrl: undefined as string | undefined }));
+    : destination.highlights
+        .slice(0, 3)
+        .map((h) => ({ title: h, imageUrl: undefined as string | undefined }));
 
-  // Up to 5 article sections, sourced from thingsToDo; falls back to
-  // activities/highlights (paired with the description) if not set.
   const articles = destination.articleSections || [];
+
   return (
     <>
       <JsonLd
@@ -86,24 +90,26 @@ export default async function DestinationDetailPage({
             href="/destinations"
             className="mb-6 flex w-fit items-center gap-1 text-sm text-white/70 hover:text-gold-light"
           >
-            <ArrowLeft className="h-4 w-4" /> Back to Destinations
+            <ArrowLeft className="h-4 w-4" /> {t("back")}
           </BackLink>
-          <p className="eyebrow text-gold-light">It's time to visit</p>
+          <p className="eyebrow text-gold-light">{t("eyebrow")}</p>
           <h1 className="mt-2 font-display text-5xl text-white sm:text-7xl">{destination.name}</h1>
           <p className="mt-5 max-w-xl text-white/75">{destination.description}</p>
           <Link
             href={`/destinations/${destination.slug}/things-to-do`}
             className="mt-7 inline-flex items-center justify-center rounded-full border border-white/40 px-7 py-3 text-sm font-medium text-white transition-colors hover:border-gold hover:text-gold-light"
           >
-            Explore Things to Do In {destination.name}
+            {t("exploreThingsToDo", { name: destination.name })}
           </Link>
         </div>
       </section>
 
-      {/* 3-card highlights — no links, photo + title only */}
+      {/* 3-card highlights */}
       <section className="bg-mist py-24">
         <div className="mx-auto max-w-5xl px-6 text-center lg:px-10">
-          <h2 className="font-display text-3xl text-forest-dark">Highlights of {destination.name}</h2>
+          <h2 className="font-display text-3xl text-forest-dark">
+            {t("highlightsOf", { name: destination.name })}
+          </h2>
           <div className="mt-14 grid grid-cols-1 gap-10 sm:grid-cols-3">
             {cards.map((item, i) => (
               <div key={i} className="flex flex-col items-center">
@@ -115,14 +121,16 @@ export default async function DestinationDetailPage({
                     <Motif motif={destination.motif} className="h-12 w-12 text-gold/70" />
                   </div>
                 )}
-                <h3 className="mt-5 font-display text-lg uppercase tracking-wide text-forest-dark">{item.title}</h3>
+                <h3 className="mt-5 font-display text-lg uppercase tracking-wide text-forest-dark">
+                  {item.title}
+                </h3>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Article sections — alternating photo/text, no links */}
+      {/* Article sections */}
       {articles.map((item, i) => {
         const reversed = i % 2 === 1;
         const dark = i % 2 === 1;
@@ -147,7 +155,11 @@ export default async function DestinationDetailPage({
                   {item.title}
                 </h2>
                 {item.description && (
-                  <p className={`mt-5 whitespace-pre-line text-sm leading-relaxed ${dark ? "text-white/70" : "text-ink/70"}`}>
+                  <p
+                    className={`mt-5 whitespace-pre-line text-sm leading-relaxed ${
+                      dark ? "text-white/70" : "text-ink/70"
+                    }`}
+                  >
                     {item.description}
                   </p>
                 )}

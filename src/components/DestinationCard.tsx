@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { ArrowUpRight } from "lucide-react";
 import Motif from "@/components/Motif";
@@ -13,6 +14,7 @@ export default function DestinationCard({
   destination: Destination;
   index?: number;
 }) {
+  const t = useTranslations("DestinationsUi.card");
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -44,7 +46,7 @@ export default function DestinationCard({
         <h3 className="relative mt-2 font-display text-2xl">{destination.name}</h3>
         <p className="relative mt-2 line-clamp-2 text-sm text-white/70">{destination.description}</p>
         <span className="relative mt-4 flex items-center gap-1 text-sm font-medium text-gold-light">
-          Explore <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+          {t("explore")} <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
         </span>
       </Link>
     </motion.div>
