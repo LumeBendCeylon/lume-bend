@@ -6,6 +6,7 @@ import DestinationCard from "@/components/DestinationCard";
 import CTASection from "@/components/CTASection";
 import ScrollRestore from "@/components/ScrollRestore";
 import { destinations } from "@/lib/data";
+import { localizeDestination } from "@/lib/localizeDestination";
 
 export async function generateMetadata({
   params,
@@ -42,7 +43,7 @@ export default async function DestinationsPage({ params }: { params: Promise<{ l
         <div className="mx-auto max-w-7xl px-6 lg:px-10">
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {destinations.map((d, i) => (
-              <DestinationCard key={d.slug} destination={d} index={i} />
+             <DestinationCard key={d.slug} destination={localizeDestination(d, locale)} index={i} />
             ))}
           </div>
         </div>

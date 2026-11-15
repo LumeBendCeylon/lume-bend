@@ -5597,8 +5597,19 @@
       "experience": "体验 {number}",
       "enquire": "咨询此项目"
     }
+  },
+    "ServicesPage": {
+    "metaTitle": "服务",
+    "metaDescription": "机场接送、私人司机、专业导游、酒店预订协助,以及遍及斯里兰卡的完全定制行程。",
+    "heroEyebrow": "我们如何帮助您",
+    "heroTitle": "服务",
+    "heroText": "从抵达到离开之间的一切,均提前安排妥当。",
+    "sectionEyebrow": "全方位服务",
+    "sectionTitle": "围绕您的行程而设计",
+    "sectionDescription": "以下每项服务均可单独预订,也可组合成完整的定制旅程。"
   }
 }
+
 
   
 

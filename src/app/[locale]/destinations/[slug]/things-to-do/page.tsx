@@ -8,6 +8,7 @@ import Motif from "@/components/Motif";
 import CTASection from "@/components/CTASection";
 import { destinations } from "@/lib/data";
 import BackLink from "@/components/BackLink";
+import { localizeDestination } from "@/lib/localizeDestination";
 
 export function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }));
@@ -19,8 +20,9 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
   const { locale, slug } = await params;
-  const destination = destinations.find((d) => d.slug === slug);
-  if (!destination) return {};
+    const base = destinations.find((d) => d.slug === slug);
+  if (!base) return {};
+  const destination = localizeDestination(base, locale);
   const t = await getTranslations({ locale, namespace: "Destinations.thingsToDo" });
   return {
     title: t("metaTitle", { name: destination.name }),
@@ -40,8 +42,9 @@ export default async function ThingsToDoPage({
   const { locale, slug } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("Destinations.thingsToDo");
-  const destination = destinations.find((d) => d.slug === slug);
-  if (!destination) notFound();
+    const base = destinations.find((d) => d.slug === slug);
+  if (!base) notFound();
+  const destination = localizeDestination(base, locale);
 
   const items = destination.thingsToDo?.length
     ? destination.thingsToDo

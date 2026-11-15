@@ -1001,8 +1001,19 @@
       "experience": "Expérience {number}",
       "enquire": "Se renseigner sur cette expérience"
     }
+  },
+    "ServicesPage": {
+    "metaTitle": "Services",
+    "metaDescription": "Transferts aéroport, chauffeurs privés, guides professionnels, aide à la réservation d'hôtels et circuits entièrement personnalisés à travers le Sri Lanka.",
+    "heroEyebrow": "Comment nous vous aidons",
+    "heroTitle": "Services",
+    "heroText": "Tout ce dont vous avez besoin entre votre arrivée et votre départ, organisé à l'avance.",
+    "sectionEyebrow": "Service complet",
+    "sectionTitle": "Conçu autour de votre itinéraire",
+    "sectionDescription": "Chacun des services ci-dessous peut être réservé séparément ou intégré à un voyage sur mesure complet."
   }
 }
+
 
   
 

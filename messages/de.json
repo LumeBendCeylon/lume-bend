@@ -1001,8 +1001,19 @@
       "experience": "Erlebnis {number}",
       "enquire": "Dazu anfragen"
     }
+  },
+    "ServicesPage": {
+    "metaTitle": "Leistungen",
+    "metaDescription": "Flughafentransfers, private Chauffeure, professionelle Reiseleiter, Hilfe bei Hotelbuchungen und individuell gestaltete Touren in ganz Sri Lanka.",
+    "heroEyebrow": "So helfen wir",
+    "heroTitle": "Leistungen",
+    "heroText": "Alles zwischen Ankunft und Abreise, im Voraus organisiert.",
+    "sectionEyebrow": "Rundum-Service",
+    "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
+    "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
   }
 }
+
 
 
   

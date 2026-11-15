@@ -8,6 +8,8 @@ import CTASection from "@/components/CTASection";
 import JsonLd from "@/components/JsonLd";
 import { destinations } from "@/lib/data";
 import BackLink from "@/components/BackLink";
+import { localizeDestination } from "@/lib/localizeDestination";
+
 export function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }));
 }
@@ -17,9 +19,10 @@ export async function generateMetadata({
 }: {
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
-  const destination = destinations.find((d) => d.slug === slug);
-  if (!destination) return {};
+    const { locale, slug } = await params;
+  const base = destinations.find((d) => d.slug === slug);
+  if (!base) return {};
+  const destination = localizeDestination(base, locale);
   return {
     title: destination.name,
     description: destination.description,
@@ -36,8 +39,9 @@ export default async function DestinationDetailPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const destination = destinations.find((d) => d.slug === slug);
-  if (!destination) notFound();
+    const base = destinations.find((d) => d.slug === slug);
+  if (!base) notFound();
+  const destination = localizeDestination(base, locale);
 
  const cards = destination.highlightCards?.length
     ? destination.highlightCards

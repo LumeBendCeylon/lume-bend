@@ -1,0 +1,68 @@
+{
+  "colombo": {
+    "name": "Colombo",
+    "region": "Westküste",
+    "description": "Colombo ist die lebendige Küstenhauptstadt Sri Lankas, in der koloniales Erbe, modernes Stadtleben, lokale Kultur und der Indische Ozean zusammentreffen. Von historischen Straßen und farbenfrohen Märkten bis zu Tempeln, Museen, stilvollen Cafés und Promenaden am Meer bietet Colombo Reisenden einen spannenden Einstieg in die Vielfalt der Insel. Die Stadt ist eine lebhafte Mischung aus Alt und Neu und damit der ideale Ausgangspunkt, um Sri Lanka zu entdecken.",
+    "highlightCards": [
+      "Koloniales Erbe in Colombo",
+      "Kultur und Alltagsleben in Colombo",
+      "Colombo am Meer"
+    ],
+    "articleSections": [
+      {
+        "title": "Der kosmopolitische Geist Colombos",
+        "description": "Colombo ist eine lebendige Küstenstadt, in der Sri Lankas Vergangenheit und Gegenwart aufeinandertreffen. Die Stadt ist voller belebter Straßen, moderner Gebäude, kolonialer Architektur, lokaler Märkte, Cafés und Restaurants und bildet so eine einzigartige Mischung aus Alt und Neu. Im historischen Fort-Viertel stehen elegante Kolonialbauten neben zeitgenössischen Hotels und Wahrzeichen der Stadt, während Orte wie Pettah Reisende dem Puls des Alltags in Colombo näherbringen. Die Stadt erlebt man am besten langsam, durch ihre Straßen, Aromen, Menschen und wechselnden Stimmungen, statt nur von Sehenswürdigkeit zu Sehenswürdigkeit zu eilen."
+      },
+      {
+        "title": "Geschichte, Kultur und Alltag in Colombo",
+        "description": "Jenseits des modernen Stadtlebens bietet Colombo viele Möglichkeiten, Sri Lankas Geschichte und Kultur zu entdecken. Das Nationalmuseum Colombo führt Reisende in das reiche Erbe der Insel ein, und der Gangaramaya-Tempel verbindet Gottesdienst, Kunst und Architektur mit Einflüssen aus verschiedenen asiatischen Traditionen. Ein Spaziergang durch Pettah zeigt eine andere Seite der Stadt: bunte Läden, geschäftige Märkte, lokales Essen und den Rhythmus des Alltags. Zusammen vermitteln diese Erlebnisse ein tieferes Verständnis von Colombo und den vielen Kulturen, die die Stadt im Lauf der Zeit geprägt haben."
+      },
+      {
+        "title": "Von den Stadtstraßen zum Indischen Ozean",
+        "description": "Colombos Lage am Meer verleiht der Stadt eine weitere schöne Dimension. Auf Galle Face Green können Reisende dem Trubel der Straßen entfliehen, entspannt am Indischen Ozean spazieren und bei Sonnenuntergang zusehen, wie sich der Himmel färbt. Die Stadt bietet zudem eine wunderbare Auswahl an Cafés, Restaurants, Einkaufsmöglichkeiten und zeitgenössischen Erlebnissen, sodass sich lokale Aromen und das moderne sri-lankische Leben gleichermaßen genießen lassen. Ob historische Gassen, traditionelle Küche, verborgene Winkel oder ein Abend am Meer: Colombo vermittelt einen unvergesslichen Eindruck vom lebendigen Geist Sri Lankas."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Colombo Fort erkunden",
+        "description": "Spazieren Sie durch das historische Herz Colombos und entdecken Sie Gebäude aus der Kolonialzeit, alte Straßen, moderne Wahrzeichen und den sich wandelnden Charakter des zentralen Geschäftsviertels."
+      },
+      {
+        "title": "Durch den Pettah-Markt schlendern",
+        "description": "Erleben Sie eines der lebhaftesten Viertel Colombos mit bunten Läden, lokalen Händlern, Streetfood und dem energiegeladenen Rhythmus des Stadtalltags."
+      },
+      {
+        "title": "Gangaramaya-Tempel besuchen",
+        "description": "Entdecken Sie einen der außergewöhnlichsten Tempel Colombos, in dem buddhistische Traditionen, farbenfrohe Architektur, religiöse Objekte und Einflüsse aus ganz Asien zusammenkommen."
+      },
+      {
+        "title": "Nationalmuseum Colombo besuchen",
+        "description": "Erkunden Sie Sri Lankas reiches Kulturerbe anhand historischer Artefakte, traditioneller Kunst, königlicher Objekte und Sammlungen, die die Geschichte der Insel erzählen."
+      },
+      {
+        "title": "Independence Square erkunden",
+        "description": "Besuchen Sie eines der eleganten Wahrzeichen Colombos, umgeben von gepflegten Gärten und beeindruckender Architektur – eine ruhige Pause vom Trubel der Straßen."
+      },
+      {
+        "title": "Galle Face Green bei Sonnenuntergang genießen",
+        "description": "Machen Sie einen entspannten Abendspaziergang am Indischen Ozean, probieren Sie lokale Snacks und beobachten Sie den Sonnenuntergang an einem der beliebtesten Orte am Wasser."
+      },
+      {
+        "title": "Spaziergang durch die Kolonialarchitektur",
+        "description": "Entdecken Sie Colombos architektonisches Erbe anhand historischer Gebäude, kolonialer Fassaden, alter Straßen und Wahrzeichen, die die lange Geschichte der Stadt als internationaler Handelshafen widerspiegeln."
+      },
+      {
+        "title": "Sri-lankische Küche erleben",
+        "description": "Kosten Sie die Aromen Colombos: traditionelles Reis mit Curry, Streetfood, Meeresfrüchte, lokale Süßigkeiten und moderne Restaurants mit zeitgenössischen Interpretationen der sri-lankischen Küche."
+      },
+      {
+        "title": "Shopping und Lifestyle in Colombo",
+        "description": "Entdecken Sie eine Mischung aus lokalem Kunsthandwerk, Mode, Schmuck, Souvenirs, zeitgenössischen Boutiquen und modernen Einkaufsflächen in der ganzen Stadt."
+      },
+      {
+        "title": "Colombos Cafés und Fine Dining entdecken",
+        "description": "Genießen Sie Colombos wachsende Gastronomie- und Café-Szene, von entspannten lokalen Cafés bis zu eleganten Restaurants mit sri-lankischer, asiatischer und internationaler Küche."
+      }
+    ]
+  }
+}
