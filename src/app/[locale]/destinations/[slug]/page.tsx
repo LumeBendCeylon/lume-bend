@@ -41,7 +41,7 @@ export default async function DestinationDetailPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
-  const t = await getTranslations("DestinationsUi.detail");
+  const t = await getTranslations("Destinations.detail");
   const base = destinations.find((d) => d.slug === slug);
   if (!base) notFound();
   const destination = localizeDestination(base, locale);
@@ -90,7 +90,7 @@ export default async function DestinationDetailPage({
             href="/destinations"
             className="mb-6 flex w-fit items-center gap-1 text-sm text-white/70 hover:text-gold-light"
           >
-            <ArrowLeft className="h-4 w-4" /> {t("back")}
+            <ArrowLeft className="h-4 w-4" /> {t("backToDestinations")}
           </BackLink>
           <p className="eyebrow text-gold-light">{t("eyebrow")}</p>
           <h1 className="mt-2 font-display text-5xl text-white sm:text-7xl">{destination.name}</h1>
@@ -108,7 +108,7 @@ export default async function DestinationDetailPage({
       <section className="bg-mist py-24">
         <div className="mx-auto max-w-5xl px-6 text-center lg:px-10">
           <h2 className="font-display text-3xl text-forest-dark">
-            {t("highlightsOf", { name: destination.name })}
+            {t("highlightsTitle", { name: destination.name })}
           </h2>
           <div className="mt-14 grid grid-cols-1 gap-10 sm:grid-cols-3">
             {cards.map((item, i) => (

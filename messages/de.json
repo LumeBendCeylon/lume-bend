@@ -1011,19 +1011,9 @@
     "sectionEyebrow": "Rundum-Service",
     "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
     "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
-  },
-    "DestinationsUi": {
-    "card": {
-      "explore": "Entdecken"
-    },
-    "detail": {
-      "back": "Zurück zu den Reisezielen",
-      "eyebrow": "Zeit für einen Besuch",
-      "exploreThingsToDo": "Aktivitäten in {name} entdecken",
-      "highlightsOf": "Highlights von {name}"
-    }
   }
 }
+
 
 
 

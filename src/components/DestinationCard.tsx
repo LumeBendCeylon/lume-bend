@@ -14,7 +14,7 @@ export default function DestinationCard({
   destination: Destination;
   index?: number;
 }) {
-  const t = useTranslations("DestinationsUi.card");
+  const t = useTranslations("Destinations.card");
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}

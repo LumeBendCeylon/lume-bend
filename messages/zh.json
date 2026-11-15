@@ -5607,18 +5607,6 @@
     "sectionEyebrow": "全方位服务",
     "sectionTitle": "围绕您的行程而设计",
     "sectionDescription": "以下每项服务均可单独预订,也可组合成完整的定制旅程。"
-  },
-
-  "DestinationsUi": {
-    "card": {
-      "explore": "探索"
-    },
-    "detail": {
-      "back": "返回目的地",
-      "eyebrow": "是时候去看看了",
-      "exploreThingsToDo": "探索{name}的精彩体验",
-      "highlightsOf": "{name}亮点"
-    }
   }
 }
 

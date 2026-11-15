@@ -1011,21 +1011,8 @@
     "sectionEyebrow": "Service complet",
     "sectionTitle": "Conçu autour de votre itinéraire",
     "sectionDescription": "Chacun des services ci-dessous peut être réservé séparément ou intégré à un voyage sur mesure complet."
-  },
-    "DestinationsUi": {
-    "card": {
-      "explore": "Explorer"
-    },
-    "detail": {
-      "back": "Retour aux destinations",
-      "eyebrow": "Il est temps de visiter",
-      "exploreThingsToDo": "Découvrir les activités à {name}",
-      "highlightsOf": "Les points forts de {name}"
-    }
   }
 }
-
-
 
   
 
