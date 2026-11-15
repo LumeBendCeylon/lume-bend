@@ -1268,8 +1268,147 @@
         "description": "Beginnen Sie den Tag früh und erleben Sie den Sonnenaufgang über dem Meer, ein Vorteil der Ostküste."
       }
     ]
+  },
+    "anuradhapura": {
+    "name": "Anuradhapura",
+    "region": "Kulturelles Dreieck",
+    "description": "Anuradhapura ist eine der ältesten Hauptstädte Südasiens und eine der heiligsten Städte des Buddhismus, heute UNESCO-Welterbe. Gewaltige weiße Dagobas, uralte Klosterruinen, Teiche und der heilige Bodhi-Baum Sri Maha Bodhi machen die Stadt zu einem lebendigen Ort der Pilgerschaft und zu einem der bedeutendsten archäologischen Ziele Sri Lankas. Für Reisende, die Geschichte, Spiritualität und das Erbe des alten Königreichs erleben möchten, ist Anuradhapura ein unvergesslicher Halt.",
+    "highlightCards": ["Sri Maha Bodhi", "Ruwanwelisaya und Jetavanaramaya", "Antike Ruinen und Teiche"],
+    "articleSections": [
+      {
+        "title": "Eine heilige Hauptstadt der Antike",
+        "description": "Anuradhapura war über viele Jahrhunderte die Hauptstadt eines mächtigen Königreichs und ist bis heute ein bedeutendes Zentrum des Buddhismus. Die Stadt verbindet weite archäologische Anlagen mit lebendiger Frömmigkeit: Neben Ruinen aus alter Zeit begegnen Reisende Pilgern in weißer Kleidung, die Blumen und Öllampen zu den heiligen Stätten bringen."
+      },
+      {
+        "title": "Dagobas und der heilige Bodhi-Baum",
+        "description": "Die riesigen Dagobas wie Ruwanwelisaya, Jetavanaramaya und Abhayagiri prägen das Stadtbild und zeugen von der Baukunst des alten Königreichs. Der Sri Maha Bodhi gilt als ein Ableger des Baumes, unter dem der Buddha die Erleuchtung erlangte, und ist eines der meistverehrten Heiligtümer der Insel. Beim Besuch heiliger Stätten sind angemessene Kleidung und respektvolles Verhalten wichtig."
+      },
+      {
+        "title": "Ruinen, Teiche und Königserbe",
+        "description": "Zwischen den großen Heiligtümern verteilen sich Klosterruinen, Steinmetzarbeiten, alte Badeteiche und Überreste von Palästen. Die Mondsteine und Wächtersteine gehören zu den schönsten Beispielen alter Steinkunst. Wer die Stätten mit dem Fahrrad oder mit einem kundigen Guide erkundet, bekommt ein gutes Gefühl für die Größe der antiken Stadt."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Sri Maha Bodhi besuchen",
+        "description": "Erleben Sie den heiligen Bodhi-Baum und die ruhige Atmosphäre der Pilger, die hier Blumen und Lichter darbringen."
+      },
+      {
+        "title": "Ruwanwelisaya",
+        "description": "Bewundern Sie die strahlend weiße Dagoba, eines der bekanntesten Heiligtümer Sri Lankas."
+      },
+      {
+        "title": "Jetavanaramaya",
+        "description": "Entdecken Sie die gewaltige Ziegelstein-Dagoba, eines der größten Bauwerke der antiken Welt."
+      },
+      {
+        "title": "Abhayagiri-Kloster",
+        "description": "Erkunden Sie die weitläufigen Ruinen des alten Klosterkomplexes mit seiner Dagoba."
+      },
+      {
+        "title": "Isurumuniya und Kuttam Pokuna",
+        "description": "Sehen Sie den kleinen Felsentempel und die Zwillingsteiche, bekannt für ihre Steinmetzkunst und ihre Ausgewogenheit."
+      },
+      {
+        "title": "Radtour durch die antike Stadt",
+        "description": "Erkunden Sie die weitläufigen Ruinen bequem mit dem Fahrrad und besuchen Sie die Stätten in eigenem Tempo."
+      }
+    ]
+  },
+  "polonnaruwa": {
+    "name": "Polonnaruwa",
+    "region": "Kulturelles Dreieck",
+    "description": "Polonnaruwa war die mittelalterliche Hauptstadt Sri Lankas und ist heute eine der besterhaltenen antiken Stätten der Insel, ebenfalls UNESCO-Welterbe. Königspaläste, Tempel, Badeanlagen und die berühmten in Fels gemeißelten Buddha-Statuen des Gal Vihara liegen verstreut in einer weitläufigen, grünen Landschaft am Parakrama-Samudra-See. Für Reisende, die Geschichte, Archäologie und Kunst in überschaubarem Rahmen erleben möchten, ist Polonnaruwa besonders lohnend.",
+    "highlightCards": ["Gal Vihara", "Königlicher Palastkomplex", "Parakrama-Samudra-See"],
+    "articleSections": [
+      {
+        "title": "Die mittelalterliche Hauptstadt",
+        "description": "Polonnaruwa löste Anuradhapura als Hauptstadt ab und erlebte unter bedeutenden Herrschern eine Blütezeit. Die Ruinen sind kompakter und besser überschaubar als in anderen antiken Städten, sodass sich ein Rundgang gut an einem Tag bewältigen lässt. Schatten spendende Bäume und weite Rasenflächen geben der Stätte eine ruhige Atmosphäre."
+      },
+      {
+        "title": "Gal Vihara und die Steinbuddhas",
+        "description": "Der Gal Vihara zählt zu den eindrucksvollsten Kunstwerken des Landes: Mehrere Buddha-Figuren, direkt aus einem Granitfelsen gemeißelt, zeigen den Buddha sitzend, stehend und liegend. Die Gelassenheit der Gesichter und die Feinheit der Ausführung beeindrucken auch Besucher, die sonst wenig mit Archäologie zu tun haben."
+      },
+      {
+        "title": "Paläste, Tempel und der See",
+        "description": "Im Palastbereich erinnern Mauern und Fundamente an die Größe der Königsstadt, während Tempelanlagen wie Vatadage und Thuparama die religiöse Kunst der Epoche zeigen. Der große Parakrama-Samudra-See, ein mittelalterlicher Stausee, verleiht der Landschaft Weite und ist besonders zum Sonnenuntergang einen Besuch wert."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Gal Vihara",
+        "description": "Bewundern Sie die in Fels gemeißelten Buddha-Statuen, ein Höhepunkt der Kunst im alten Sri Lanka."
+      },
+      {
+        "title": "Königlicher Palastkomplex",
+        "description": "Erkunden Sie die Überreste des Palastes und der Audienzhalle des mittelalterlichen Königreichs."
+      },
+      {
+        "title": "Vatadage",
+        "description": "Besuchen Sie das kreisförmige Reliquienhaus mit seinen kunstvollen Steinmetzarbeiten."
+      },
+      {
+        "title": "Parakrama-Samudra-See",
+        "description": "Genießen Sie die Ruhe am großen Stausee, besonders am späten Nachmittag."
+      },
+      {
+        "title": "Radtour durch die Ruinen",
+        "description": "Erkunden Sie die Stätten mit dem Fahrrad und lassen Sie sich Zeit für die einzelnen Anlagen."
+      },
+      {
+        "title": "Museum von Polonnaruwa",
+        "description": "Erfahren Sie im archäologischen Museum mehr über Geschichte und Kunst der Königsstadt."
+      }
+    ]
+  },
+  "jaffna": {
+    "name": "Jaffna",
+    "region": "Norden",
+    "description": "Jaffna ist die kulturelle Hauptstadt des Nordens von Sri Lanka, eine Stadt mit eigener tamilischer Tradition, farbenfrohen Tempeln, einem niederländischen Fort und einer unverwechselbaren Küche. Nach Jahren des Konflikts öffnet sich die Region für Reisende, die eine authentische und andere Seite Sri Lankas entdecken möchten, mit Inseln, Lagunen und weiten Landschaften. Für Neugierige, die abseits der bekannten Routen reisen, ist Jaffna ein besonderes Ziel.",
+    "highlightCards": ["Nallur-Kandaswamy-Tempel", "Jaffna Fort", "Inseln und Küste des Nordens"],
+    "articleSections": [
+      {
+        "title": "Tamilische Kultur im Norden",
+        "description": "Jaffna hat eine eigene Sprache, Küche, Musik und Religion, die sich deutlich vom Süden der Insel unterscheiden. Hinduistische Tempel mit farbigen Türmen, kleine Märkte und eine gelassene, herzliche Atmosphäre prägen das Stadtbild. Beim Besuch lohnt es sich, Tempel respektvoll zu betreten und sich über lokale Regeln zu informieren."
+      },
+      {
+        "title": "Fort, Tempel und Stadtleben",
+        "description": "Das niederländische Fort von Jaffna erinnert an die Kolonialzeit, während der Nallur-Kandaswamy-Tempel das religiöse Herz der Stadt bildet. Die Bibliothek von Jaffna, ihre Märkte und die lokale Küche, mit würzigen Currys und frischen Meeresfrüchten, geben einen guten Einblick in das Alltagsleben."
+      },
+      {
+        "title": "Inseln, Küste und weite Landschaften",
+        "description": "Rund um die Stadt locken Inseln und Küstenabschnitte wie Delft, Casuarina Beach und die Kankesanthurai-Küste. Die flache, offene Landschaft, die Palmyrapalmen und der weite Himmel verleihen dem Norden eine ganz eigene Stimmung, ruhig und weit."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Nallur-Kandaswamy-Tempel",
+        "description": "Besuchen Sie den bedeutenden Hindu-Tempel und erleben Sie die Rituale und die farbenfrohe Architektur."
+      },
+      {
+        "title": "Jaffna Fort",
+        "description": "Erkunden Sie das niederländische Fort und seine Mauern und lernen Sie mehr über die Kolonialgeschichte."
+      },
+      {
+        "title": "Bibliothek von Jaffna",
+        "description": "Besuchen Sie das markante Gebäude der Bibliothek, ein Symbol für die Geschichte der Stadt."
+      },
+      {
+        "title": "Casuarina Beach",
+        "description": "Entspannen Sie am Strand mit seinen Kasuarinen und flachem, klarem Wasser."
+      },
+      {
+        "title": "Insel Delft",
+        "description": "Unternehmen Sie einen Ausflug auf die abgelegene Insel mit ihren weiten Landschaften und wilden Ponys."
+      },
+      {
+        "title": "Lokale Küche probieren",
+        "description": "Genießen Sie die würzige Küche des Nordens mit Currys, Meeresfrüchten und lokalen Spezialitäten."
+      }
+    ]
   }
 }
+
 
 
 
