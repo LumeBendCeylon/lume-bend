@@ -957,8 +957,9 @@
       "travellerFallback": "Reisegast",
       "backHome": "Zur Startseite",
       "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
-    },
+    }
     
+      },
       "QuoteForm": {
     "name": "Ihr Name",
     "startDate": "Reisebeginn",
@@ -1011,8 +1012,8 @@
     "sectionEyebrow": "Rundum-Service",
     "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
     "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
-  }
-},
+  },
+
   "ToursPage": {
     "metaTitle": "Touren",
     "metaDescription": "Entdecken Sie die Luxus-, Abenteuer-, Wildtier-, Strand-, Hochland-, Kultur-, Tages-, Familien- und Flitterwochen-Touren von Lume Bend Ceylon in Sri Lanka.",
