@@ -64,5 +64,179 @@
         "description": "Genießen Sie Colombos wachsende Gastronomie- und Café-Szene, von entspannten lokalen Cafés bis zu eleganten Restaurants mit sri-lankischer, asiatischer und internationaler Küche."
       }
     ]
+  },
+    "sigiriya": {
+    "name": "Sigiriya",
+    "region": "Kulturelles Dreieck",
+    "description": "Eine Felsenfestung aus dem 5. Jahrhundert, die 200 Meter über die umliegenden Ebenen aufragt und von den Ruinen eines königlichen Palastes gekrönt wird.",
+    "highlightCards": ["Antiker Eingang", "Kunst", "Burggraben der Festung"],
+    "articleSections": [
+      {
+        "title": "Die Geschichte eines antiken Königreichs",
+        "description": "Sigiriya wurde im 5. Jahrhundert unter König Kashyapa erbaut und zählt zu den außergewöhnlichsten antiken Stätten Sri Lankas. Die beeindruckende Felsenfestung erhebt sich dramatisch über den umliegenden Ebenen und war einst eine königliche Zitadelle, umgeben von kunstvoll angelegten Gärten und Verteidigungsanlagen."
+      },
+      {
+        "title": "Eine Welt antiker Kunst",
+        "description": "Sigiriya ist nicht nur für seine Architektur berühmt, sondern auch für sein bemerkenswertes künstlerisches Erbe. Die berühmten Fresken, oft als einige der schönsten erhaltenen Beispiele antiker sri-lankischer Kunst beschrieben, bringen Farbe und Charakter in die Felswand. Rund um die Festung bereichern kunstvoll angelegte Wassergärten, Teiche und der markante Löwentatzen-Eingang die Erkundung dieser außergewöhnlichen historischen Landschaft."
+      },
+      {
+        "title": "Der Weg zum Gipfel",
+        "description": "Der Aufstieg auf Sigiriya verbindet Geschichte, Natur und Abenteuer. Wenn Sie durch die alten Gärten und an der Löwentatze vorbeigehen, öffnet sich die Landschaft allmählich zu atemberaubenden Ausblicken über die umliegenden Wälder und Ebenen. Auf dem Gipfel liegen die Überreste der antiken Festung über den Baumwipfeln und schenken einen unvergesslichen Blick auf das kulturelle Herz Sri Lankas."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Sonnenaufgang am Pidurangala",
+        "description": "Besteigen Sie den Pidurangala-Felsen am frühen Morgen und genießen Sie wunderschöne Sonnenaufgangsblicke über die üppige Landschaft von Sigiriya. Vom Gipfel aus sehen Sie den berühmten Sigiriya-Felsen atemberaubend über dem umliegenden Wald aufragen."
+      },
+      {
+        "title": "Traditionelle Dorftour",
+        "description": "Tauchen Sie in die friedliche Landschaft rund um Sigiriya ein und erleben Sie den Charme des traditionellen sri-lankischen Dorflebens. Lernen Sie einheimische Familien kennen, entdecken Sie alltägliche Traditionen und erhalten Sie Einblick in den einfachen Rhythmus des Landlebens."
+      },
+      {
+        "title": "Radtour durch die Dörfer",
+        "description": "Radeln Sie mit einem lokalen Guide durch nahegelegene Dörfer und Reisfelder."
+      },
+      {
+        "title": "Heißluftballonfahrt",
+        "description": "Schweben Sie über der wunderschönen Landschaft von Sigiriya und genießen Sie atemberaubende Ausblicke auf üppige Wälder, antike Wahrzeichen und friedliche Dorflandschaften. Eine magische Ballonfahrt bei Sonnenaufgang bietet eine einzigartige Perspektive auf die Naturschönheit Sri Lankas."
+      },
+      {
+        "title": "Sri-lankisches Kocherlebnis",
+        "description": "Entdecken Sie die reichen Aromen der sri-lankischen Küche bei einem praktischen Kocherlebnis mit einheimischen Gastgebern. Lernen Sie, traditionelle Gerichte mit frischen regionalen Zutaten und aromatischen Gewürzen zuzubereiten, und genießen Sie anschließend gemeinsam ein authentisches hausgemachtes Essen in herzlicher Dorfatmosphäre."
+      },
+      {
+        "title": "Vogelbeobachtung",
+        "description": "Entdecken Sie die reiche Vogelwelt Sigiriyas bei der Erkundung der üppigen Wälder, Feuchtgebiete und der ruhigen Landschaft. Die tropischen Landschaften Sri Lankas bieten einer bemerkenswerten Vielfalt an Vögeln ein natürliches Zuhause – ein ruhiges Erlebnis, bei dem Sie farbenprächtige Arten in ihrer natürlichen Umgebung beobachten können."
+      },
+      {
+        "title": "Wildlife-Safari im Kaudulla",
+        "description": "Begeben Sie sich in den Kaudulla-Nationalpark zu einem unvergesslichen Wildtiererlebnis zwischen üppigen Wäldern, offenen Grasländern und friedlichen Feuchtgebieten. Der Park ist besonders für die großen Versammlungen wilder Elefanten bekannt; zudem lassen sich in der Umgebung Vögel, Rotwild und andere heimische Tiere in ihrem natürlichen Lebensraum entdecken."
+      },
+      {
+        "title": "Elefantenerlebnis bei Sigiriya",
+        "description": "Begegnen Sie den majestätischen Elefanten Sri Lankas in natürlicher Umgebung nahe Sigiriya und erfahren Sie mehr über Verhalten, Lebensraum und Alltag der Tiere. Genießen Sie ein respektvolles Wildtiererlebnis in wunderschöner Landschaft und beobachten Sie die sanften Riesen aus angenehmer Distanz."
+      },
+      {
+        "title": "Fahrt im Ochsenkarren",
+        "description": "Erleben Sie den Charme des ländlichen Sri Lankas bei einer Fahrt im traditionellen Ochsenkarren über ruhige Dorfstraßen und durch malerische Landschaften. Fahren Sie gemächlich an üppigen Reisfeldern und schönen ländlichen Szenerien vorbei und entdecken Sie eine langsamere, authentischere Seite des sri-lankischen Dorflebens."
+      }
+    ]
+  },
+  "dambulla": {
+    "name": "Dambulla",
+    "region": "Kulturelles Dreieck",
+    "description": "Dambulla ist ein kultureller Schatz Sri Lankas, berühmt für seinen antiken Höhlentempel, den goldenen Buddha und wunderschön erhaltene Wandmalereien und Skulpturen. Eingebettet in die üppigen Landschaften der Insel bietet es einen faszinierenden Einblick in das spirituelle und künstlerische Erbe Sri Lankas.",
+    "highlightCards": ["Dambulla-Höhlentempel", "Goldener Tempel", "Antike Höhlenkunst"],
+    "articleSections": [
+      {
+        "title": "Dambulla-Höhlen und Goldener Tempel",
+        "description": "Erkunden Sie den heiligen Dambulla-Höhlentempel und seinen prachtvollen Goldenen Tempel mit antiken Wandmalereien, kunstvollen Buddha-Statuen und jahrhundertealtem buddhistischem Erbe. Entdecken Sie die spirituelle Schönheit und die künstlerischen Traditionen, die Dambulla zu einem kulturellen Schatz machen."
+      },
+      {
+        "title": "Einen traditionellen Gewürzgarten erkunden",
+        "description": "Tauchen Sie ein in eine duftende Welt aus Zimt, Kardamom, Pfeffer und anderen tropischen Gewürzen. Erfahren Sie mehr über die traditionelle Verwendung der besten Gewürze Sri Lankas und ihren Bezug zur lokalen Küche und zum Ayurveda."
+      },
+      {
+        "title": "Den Markt von Dambulla entdecken",
+        "description": "Erleben Sie die lebhafte Atmosphäre des lokalen Marktes von Dambulla, auf dem farbenfrohes Obst, Gemüse, Gewürze und Alltagsprodukte zusammenkommen. Eine wunderbare Möglichkeit, den authentischen Rhythmus und die Aromen des Alltagslebens zu erleben."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Dambulla-Höhlen und Goldenen Tempel besuchen",
+        "description": "Entdecken Sie antike Buddha-Statuen, lebendige Wandmalereien und heilige Höhlenschreine und bewundern Sie anschließend den berühmten Goldenen Tempel mit seiner prachtvollen Buddha-Statue."
+      },
+      {
+        "title": "Sri Lankas Gewürzerbe entdecken",
+        "description": "Spazieren Sie durch duftende Gewürzgärten und entdecken Sie Zimt, Kardamom, Pfeffer und andere tropische Gewürze. Erfahren Sie mehr über ihre traditionelle Verwendung und ihren wichtigen Platz in der sri-lankischen Küche und im Ayurveda."
+      },
+      {
+        "title": "Den lokalen Markt von Dambulla erleben",
+        "description": "Erkunden Sie den lebhaften Markt von Dambulla mit frischen tropischen Früchten, Gemüse, Gewürzen und regionalen Erzeugnissen. Erleben Sie die authentischen Farben, Aromen und den Alltagsrhythmus des sri-lankischen Lebens."
+      },
+      {
+        "title": "Rosenquarzberg erkunden",
+        "description": "Entdecken Sie Jathika Namal Uyana, die Heimat des berühmten Rosenquarzbergs Sri Lankas und eines der größten Eisenholzwälder der Insel. Wandern Sie durch die friedliche Natur und erleben Sie eine einzigartige Verbindung aus Geologie, Natur und Kulturerbe."
+      },
+      {
+        "title": "Popham's Arboretum erkunden",
+        "description": "Spazieren Sie durch dieses ruhige Waldreservat und entdecken Sie eine vielfältige Sammlung tropischer Bäume, Pflanzen und Tiere. Eine friedliche Auszeit in der Naturschönheit von Dambulla."
+      },
+      {
+        "title": "Das Dambulla-Museum entdecken",
+        "description": "Erkunden Sie faszinierende Ausstellungen zu Sri Lankas antiker Kultur, buddhistischem Erbe, traditioneller Kunst und archäologischer Geschichte. Es bietet einen tieferen Einblick in die Geschichten und Traditionen rund um Dambulla."
+      }
+    ]
+  },
+  "kandy": {
+    "name": "Kandy",
+    "region": "Zentrales Hochland",
+    "description": "Die letzte Königsstadt Sri Lankas, gelegen rund um einen ruhigen See und Heimat des Tempels des Heiligen Zahns.",
+    "highlightCards": ["Zahntempel", "Königlicher Botanischer Garten", "Traditioneller Kandy-Tanz"],
+    "articleSections": [
+      {
+        "title": "Das kulturelle Herz Sri Lankas",
+        "description": "Kandy ist eine historische Bergstadt, umgeben von üppigen Bergen und nebligen Landschaften. Als letzte Königsstadt Sri Lankas ist sie bis heute eines der wichtigsten Kulturziele der Insel, in dem alte Traditionen und Alltagsleben zusammenfinden."
+      },
+      {
+        "title": "Eine Stadt des heiligen Erbes",
+        "description": "Kandy beherbergt den verehrten Tempel des Heiligen Zahns und ist eng mit den buddhistischen Traditionen Sri Lankas verbunden. Besucher erleben jahrhundertealte Architektur, traditionelle Zeremonien, Kandy-Tanz, Musik und das reiche königliche Erbe der Stadt."
+      },
+      {
+        "title": "Natur zwischen den Bergen",
+        "description": "Neben seinen Kulturschätzen ist Kandy von wunderschönen tropischen Landschaften umgeben. Von ruhigen Spaziergängen um den Kandy-See über den üppigen Königlichen Botanischen Garten bis zu malerischen Bergblicken bietet die Stadt eine erfrischende Balance aus Kultur und Natur."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "title": "Tempel des Heiligen Zahns",
+        "description": "Entdecken Sie Sri Lankas heiligste buddhistische Stätte, in der die verehrte Zahnreliquie des Buddha aufbewahrt wird. Bewundern Sie die schöne Kandy-Architektur und erleben Sie die friedlichen täglichen Rituale des Tempels."
+      },
+      {
+        "title": "Spaziergang um den Kandy-See",
+        "description": "Machen Sie einen gemütlichen Spaziergang am ruhigen Kandy-See, umgeben von Bergen und dem historischen Herzen der Stadt. Genießen Sie friedliche Ausblicke und entdecken Sie die Atmosphäre des alten Kandy."
+      },
+      {
+        "title": "Kandy-Kulturtanz",
+        "description": "Erleben Sie die lebendigen Traditionen des Berglandes bei energiegeladenen Kandy-Tänzen, traditioneller Trommelmusik, farbenfrohen Kostümen und spektakulären zeremoniellen Aufführungen."
+      },
+      {
+        "title": "Edelsteinmuseum und Erlebnis",
+        "description": "Entdecken Sie Sri Lankas berühmtes Edelsteinerbe mit einer faszinierenden Einführung in Edelsteine, traditionelles Steinschleifen und die Handwerkskunst hinter dem renommierten Schmuck der Insel."
+      },
+      {
+        "title": "Königlicher Botanischer Garten",
+        "description": "Spazieren Sie durch den üppigen Königlichen Botanischen Garten in Peradeniya mit prachtvollen tropischen Pflanzen, Orchideen, Palmen und jahrhundertealten Bäumen. Eine friedliche Auszeit inmitten der Natur."
+      },
+      {
+        "title": "Kandy-Kunst und Kunsthandwerk",
+        "description": "Entdecken Sie die künstlerischen Traditionen der Kandy-Region mit traditioneller Holzschnitzerei, Malerei, handgefertigten Objekten und weiteren Formen sri-lankischer Handwerkskunst."
+      },
+      {
+        "title": "Waldspaziergang im Udawattakele",
+        "description": "Erkunden Sie das ruhige Waldreservat oberhalb von Kandy, das einst als Teil des königlichen Reiches geschützt wurde. Wandern Sie unter dichtem tropischem Laub und entdecken Sie die reiche Vogelwelt und Naturschönheit des Gebiets."
+      },
+      {
+        "title": "Ayurvedische Massage und Spa",
+        "description": "Erleben Sie traditionelles sri-lankisches Wellness mit einer entspannenden ayurvedischen Massage mit natürlichen Kräuterölen und bewährten Techniken, die tiefe Entspannung und Erneuerung fördern."
+      },
+      {
+        "title": "Tour über den lokalen Markt von Kandy",
+        "description": "Erkunden Sie den lebhaften Zentralmarkt von Kandy und erleben Sie die Farben, Düfte und den Alltagsrhythmus des lokalen Lebens. Entdecken Sie frische tropische Produkte, Gewürze, Tee, traditionelles Kunsthandwerk und andere lokale Schätze."
+      },
+      {
+        "title": "Batik- und Handwerkserlebnis",
+        "description": "Entdecken Sie die farbenfrohe Welt des sri-lankischen Batiks und des traditionellen Handwerks. Bewundern Sie handgefertigte Textilien, kunstvolle Muster und lokale Kreationen und erfahren Sie mehr über die über Generationen weitergegebenen künstlerischen Traditionen."
+      },
+      {
+        "title": "Nationalmuseum Kandy",
+        "description": "Erkunden Sie eine faszinierende Sammlung königlicher Artefakte, traditioneller Kunstwerke, Waffen, Kostüme und historischer Objekte, die das reiche kulturelle Erbe und die königliche Geschichte des Kandy-Königreichs lebendig machen."
+      },
+      {
+        "title": "Aussichtspunkt",
+        "description": "Genießen Sie Panoramablicke über Kandy von diesem malerischen Hügel mit der ikonischen weißen Buddha-Statue, umgeben von üppigen Bergen. Ein wunderschöner Ort für Fotos und um die Landschaft Kandys auf sich wirken zu lassen."
+      }
+    ]
   }
 }
