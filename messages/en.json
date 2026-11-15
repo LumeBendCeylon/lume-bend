@@ -977,8 +977,35 @@
     "successTitle": "Request Sent",
     "successText": "Thank you — our team will send you the best quote within 48 hours.",
     "errorGeneric": "Something went wrong. Please try again."
+  },
+    "Destinations": {
+    "list": {
+      "metaTitle": "Destinations",
+      "metaDescription": "Explore Sri Lanka's most remarkable destinations, from Sigiriya and Kandy to Yala and Mirissa, with Lume Bend Ceylon.",
+      "eyebrow": "Where to Go",
+      "title": "Destinations",
+      "subtitle": "A Journey Through the Many Faces of Sri Lanka."
+    },
+    "card": {
+      "explore": "Explore"
+    },
+    "detail": {
+      "backToDestinations": "Back to Destinations",
+      "eyebrow": "It's time to visit",
+      "exploreThingsToDo": "Explore Things to Do In {name}",
+      "highlightsTitle": "Highlights of {name}"
+    },
+    "thingsToDo": {
+      "metaTitle": "Things to Do in {name}",
+      "metaDescription": "Top things to do and experiences in {name}, Sri Lanka.",
+      "title": "Things to Do in {name}",
+      "back": "Back to {name}",
+      "experience": "Experience {number}",
+      "enquire": "Enquire about this"
+    }
   }
 }
+
 
 
 

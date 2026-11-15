@@ -1,4 +1,4 @@
-import { setRequestLocale } from "next-intl/server";
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import Motif from "@/components/Motif";
@@ -7,16 +7,24 @@ import CTASection from "@/components/CTASection";
 import ScrollRestore from "@/components/ScrollRestore";
 import { destinations } from "@/lib/data";
 
-export const metadata: Metadata = {
-  title: "Destinations",
-  description:
-    "Explore Sri Lanka's most remarkable destinations, from Sigiriya and Kandy to Yala and Mirissa, with Lume Bend Ceylon.",
-  alternates: { canonical: "./", languages: languageAlternates("/destinations") },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Destinations.list" });
+  return {
+    title: t("metaTitle"),
+    description: t("metaDescription"),
+    alternates: { canonical: "./", languages: languageAlternates("/destinations") },
+  };
+}
 
 export default async function DestinationsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations("Destinations.list");
   return (
     <>
       <ScrollRestore />
@@ -24,11 +32,9 @@ export default async function DestinationsPage({ params }: { params: Promise<{ l
       <section className="relative flex min-h-[42vh] items-center justify-center overflow-hidden bg-forest-dark pt-28">
         <Motif motif="wave" className="absolute -bottom-6 left-0 h-40 w-full text-gold/10" strokeWidth={0.6} />
         <div className="relative mx-auto max-w-3xl px-6 text-center">
-          <p className="eyebrow text-gold-light">Where to Go</p>
-          <h1 className="mt-4 font-display text-4xl text-white sm:text-5xl">Destinations</h1>
-          <p className="mt-4 text-white/70">
-            A Journey Through the Many Faces of Sri Lanka.
-          </p>
+          <p className="eyebrow text-gold-light">{t("eyebrow")}</p>
+          <h1 className="mt-4 font-display text-4xl text-white sm:text-5xl">{t("title")}</h1>
+          <p className="mt-4 text-white/70">{t("subtitle")}</p>
         </div>
       </section>
 

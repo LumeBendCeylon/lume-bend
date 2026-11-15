@@ -1,3 +1,5 @@
+import { setRequestLocale, getTranslations } from "next-intl/server";
+import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
@@ -14,24 +16,30 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
+  const { locale, slug } = await params;
   const destination = destinations.find((d) => d.slug === slug);
   if (!destination) return {};
+  const t = await getTranslations({ locale, namespace: "Destinations.thingsToDo" });
   return {
-    title: `Things to Do in ${destination.name}`,
-    description: `Top things to do and experiences in ${destination.name}, Sri Lanka.`,
-    alternates: { canonical: "./" },
+    title: t("metaTitle", { name: destination.name }),
+    description: t("metaDescription", { name: destination.name }),
+    alternates: {
+      canonical: "./",
+      languages: languageAlternates(`/destinations/${destination.slug}/things-to-do`),
+    },
   };
 }
 
 export default async function ThingsToDoPage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ locale: string; slug: string }>;
 }) {
-  const { slug } = await params;
+  const { locale, slug } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("Destinations.thingsToDo");
   const destination = destinations.find((d) => d.slug === slug);
   if (!destination) notFound();
 
@@ -54,13 +62,13 @@ export default async function ThingsToDoPage({
         <div className="relative mx-auto max-w-3xl px-6 text-center">
           <p className="eyebrow text-gold-light">{destination.region}</p>
           <h1 className="mt-4 font-display text-4xl text-white sm:text-5xl">
-            Things to Do in {destination.name}
+            {t("title", { name: destination.name })}
           </h1>
-                   <BackLink
+          <BackLink
             href={`/destinations/${destination.slug}`}
             className="mt-6 inline-flex items-center gap-1 text-sm text-white/70 hover:text-gold-light"
           >
-            <ArrowLeft className="h-4 w-4" /> Back to {destination.name}
+            <ArrowLeft className="h-4 w-4" /> {t("back", { name: destination.name })}
           </BackLink>
         </div>
       </section>
@@ -84,7 +92,7 @@ export default async function ThingsToDoPage({
                   <div className="relative -mt-12 sm:-mt-16">
                     <div className="flex items-center gap-3">
                       <span className="h-px w-8 bg-gold" />
-                      <p className="eyebrow text-gold-light">Experience {i + 1}</p>
+                      <p className="eyebrow text-gold-light">{t("experience", { number: i + 1 })}</p>
                     </div>
                     <h2 className="mt-3 font-display text-3xl text-white sm:text-4xl">
                       {item.title}
@@ -98,7 +106,7 @@ export default async function ThingsToDoPage({
                       href={`/contact?tour=${encodeURIComponent(destination.name)}`}
                       className="mt-6 inline-flex items-center gap-1.5 text-sm font-medium text-gold-light hover:text-gold"
                     >
-                      Enquire about this <ArrowRight className="h-4 w-4" />
+                      {t("enquire")} <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </div>

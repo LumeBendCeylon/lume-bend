@@ -5571,8 +5571,35 @@
     "successTitle": "申请已发送",
     "successText": "谢谢！我们的团队将在 48 小时内为您发送最优报价。",
     "errorGeneric": "出错了，请重试。"
+  },
+    "Destinations": {
+    "list": {
+      "metaTitle": "目的地",
+      "metaDescription": "与 Lume Bend Ceylon 一起探索斯里兰卡最引人入胜的目的地，从锡吉里耶、康提到雅拉和米瑞莎。",
+      "eyebrow": "去哪里",
+      "title": "目的地",
+      "subtitle": "穿越斯里兰卡的多彩面貌。"
+    },
+    "card": {
+      "explore": "探索"
+    },
+    "detail": {
+      "backToDestinations": "返回目的地",
+      "eyebrow": "是时候前往了",
+      "exploreThingsToDo": "探索{name}的游玩项目",
+      "highlightsTitle": "{name}亮点"
+    },
+    "thingsToDo": {
+      "metaTitle": "{name}的游玩项目",
+      "metaDescription": "斯里兰卡{name}的热门游玩项目与体验。",
+      "title": "{name}的游玩项目",
+      "back": "返回{name}",
+      "experience": "体验 {number}",
+      "enquire": "咨询此项目"
+    }
   }
 }
+
   
 
 
