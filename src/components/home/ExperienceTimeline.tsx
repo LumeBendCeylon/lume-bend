@@ -26,7 +26,7 @@ export default function ExperienceTimeline() {
           <div className="absolute left-0 right-0 top-6 hidden h-px bg-forest/15 lg:block" />
           <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-5">
             {experienceTimeline.map((step, i) => {
-              const text = items[String(step.step)];
+              const text = items[String(Number(step.step))];
               return (
                 <motion.div
                   key={step.step}

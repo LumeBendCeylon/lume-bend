@@ -23,7 +23,7 @@ export default async function PlanStartPage({ params }: { params: Promise<{ loca
   setRequestLocale(locale);
   return (
     <section className="relative min-h-screen bg-mist px-6 pb-20 pt-32">
-      <Motif motif="leaf" className="pointer-events-none absolute -right-10 top-24 h-56 w-56 text-forest/5" strokeWidth={0.6} />
+     <Motif motif="leaf" className="pointer-events-none absolute -right-10 top-24 hidden h-56 w-56 text-forest/5 sm:block" strokeWidth={0.6} />
       <PlanWizard />
     </section>
   );
