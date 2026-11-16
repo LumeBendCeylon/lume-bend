@@ -5464,7 +5464,7 @@
     "startPlanning": "开始规划您的斯里兰卡之旅",
     "planIntro": "请尽可能提供详细信息，以便我们了解您的需求。我们的团队将在48小时内为您发送最优报价。"
   },
-    "Contact": {
+  "Contact": {
     "metaTitle": "联系我们",
     "metaDescription": "请告知 Lume Bend Ceylon 您的出行日期和兴趣，我们将为您定制斯里兰卡行程方案。",
     "eyebrow": "与我们联系",
@@ -5497,7 +5497,6 @@
       "successText": "谢谢——旅行顾问将在一个工作日内与您联系，并提供量身定制的方案。"
     }
   },
-
   "Plan": {
     "landing": {
       "metaTitle": "规划您的旅程",
@@ -5555,7 +5554,7 @@
       "errorGeneric": "出错了，请重试。"
     }
   },
-      "QuoteForm": {
+  "QuoteForm": {
     "name": "您的姓名",
     "startDate": "旅程开始日期",
     "pickupLocation": "接送地点",
@@ -5572,7 +5571,7 @@
     "successText": "谢谢！我们的团队将在 48 小时内为您发送最优报价。",
     "errorGeneric": "出错了，请重试。"
   },
-    "Destinations": {
+  "Destinations": {
     "list": {
       "metaTitle": "目的地",
       "metaDescription": "与 Lume Bend Ceylon 一起探索斯里兰卡最引人入胜的目的地，从锡吉里耶、康提到雅拉和米瑞莎。",
@@ -5598,7 +5597,7 @@
       "enquire": "咨询此项目"
     }
   },
-    "ServicesPage": {
+  "ServicesPage": {
     "metaTitle": "服务",
     "metaDescription": "机场接送、私人司机、专业导游、酒店预订协助,以及遍及斯里兰卡的完全定制行程。",
     "heroEyebrow": "我们如何帮助您",
@@ -5608,14 +5607,14 @@
     "sectionTitle": "围绕您的行程而设计",
     "sectionDescription": "以下每项服务均可单独预订,也可组合成完整的定制旅程。"
   },
-    "ToursPage": {
+  "ToursPage": {
     "metaTitle": "旅行线路",
     "metaDescription": "浏览 Lume Bend Ceylon 在斯里兰卡的奢华、探险、野生动物、海滩、高地、文化、一日游、家庭及蜜月旅行线路。",
     "eyebrow": "我们的旅程",
     "title": "旅行线路",
     "subtitle": "每一种旅行风格，都是您专属行程的起点。"
   },
-    "ReviewsPage": {
+  "ReviewsPage": {
     "page": {
       "metaTitle": "客户评价",
       "metaDescription": "了解客人对 Lume Bend Ceylon 旅程的评价，并分享您自己的旅行点评。"
@@ -5659,7 +5658,7 @@
       "label": "{n} 星"
     }
   },
-    "GalleryPage": {
+  "GalleryPage": {
     "metaTitle": "图库",
     "metaDescription": "通过图片浏览 Lume Bend Ceylon 精选的斯里兰卡各大目的地。",
     "eyebrow": "一瞥",
@@ -5682,7 +5681,7 @@
     "services": "服务",
     "untitled": "无标题"
   },
-    "AuthPages": {
+  "AuthPages": {
     "login": {
       "eyebrow": "欢迎回来",
       "title": "登录",
@@ -5720,7 +5719,7 @@
       "travellers": "{count} 位旅客"
     }
   },
-    "SustainabilityPage": {
+  "SustainabilityPage": {
     "metaTitle": "可持续发展",
     "metaDescription": "斯里兰卡旅行须知，以及 Lume Bend Ceylon 的可持续旅游政策。",
     "eyebrow": "负责任旅行",
@@ -5743,16 +5742,48 @@
       "footprintTitle": "减少环境足迹",
       "footprintText": "我们优先使用可重复使用的材料，尽量减少一次性塑料，并鼓励客人一同践行。"
     }
+  },
+  "experiences": {
+    "title": "为体验而生",
+    "adventure": {
+      "title": "探险",
+      "cta": "探索探险之旅"
+    },
+    "culture": {
+      "title": "文化",
+      "cta": "探索文化"
+    },
+    "relaxation": {
+      "title": "放松",
+      "cta": "规划您的度假"
+    },
+    "beach": {
+      "title": "海滩",
+      "cta": "寻找您的海滩"
+    },
+    "nature": {
+      "title": "自然",
+      "cta": "探索自然"
+    },
+    "romance": {
+      "title": "浪漫",
+      "cta": "规划浪漫之旅"
+    },
+    "wildlife": {
+      "title": "野生动物",
+      "cta": "观赏野生动物"
+    },
+    "food": {
+      "title": "美食",
+      "cta": "品味斯里兰卡"
+    },
+    "heritage": {
+      "title": "遗产",
+      "cta": "探索遗产"
+    },
+    "wellness": {
+      "title": "养生",
+      "cta": "寻找养生之旅"
+    }
   }
 }
-
-
-
-
-
-
-
-
-  
-
-

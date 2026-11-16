@@ -869,7 +869,7 @@
     "startPlanning": "Commencez à planifier votre voyage au Sri Lanka",
     "planIntro": "Donnez-nous autant d’informations que possible afin que nous puissions bien cerner vos besoins. Notre équipe vous enverra le meilleur devis sous 48 heures."
   },
-    "Contact": {
+  "Contact": {
     "metaTitle": "Contact",
     "metaDescription": "Envoyez à Lume Bend Ceylon vos dates de voyage et vos centres d'intérêt, et recevez une proposition d'itinéraire sur mesure pour le Sri Lanka.",
     "eyebrow": "Prenons contact",
@@ -884,7 +884,7 @@
     "otherPlatforms": "Retrouvez-nous sur d'autres plateformes",
     "mapPlaceholder": "Emplacement Google Maps – intégrez ici votre adresse",
     "enquiryTitle": "Envoyer une demande",
-     "form": {
+    "form": {
       "fullName": "Nom complet",
       "email": "E-mail",
       "whatsapp": "Numéro WhatsApp",
@@ -902,7 +902,7 @@
       "successText": "Merci – un spécialiste du voyage vous contactera sous un jour ouvré avec une proposition sur mesure."
     }
   },
-    "Plan": {
+  "Plan": {
     "landing": {
       "metaTitle": "Planifier votre voyage",
       "metaDescription": "Commencez à planifier votre voyage sur mesure au Sri Lanka avec Lume Bend Ceylon.",
@@ -959,8 +959,7 @@
       "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
     }
   },
-      
-      "QuoteForm": {
+  "QuoteForm": {
     "name": "Votre nom",
     "startDate": "Date de début du circuit",
     "pickupLocation": "Lieu de prise en charge",
@@ -977,7 +976,7 @@
     "successText": "Merci – notre équipe vous enverra la meilleure offre sous 48 heures.",
     "errorGeneric": "Une erreur s'est produite. Veuillez réessayer."
   },
-    "Destinations": {
+  "Destinations": {
     "list": {
       "metaTitle": "Destinations",
       "metaDescription": "Découvrez les destinations les plus remarquables du Sri Lanka, de Sigiriya et Kandy à Yala et Mirissa, avec Lume Bend Ceylon.",
@@ -1003,7 +1002,7 @@
       "enquire": "Se renseigner sur cette expérience"
     }
   },
-    "ServicesPage": {
+  "ServicesPage": {
     "metaTitle": "Services",
     "metaDescription": "Transferts aéroport, chauffeurs privés, guides professionnels, aide à la réservation d'hôtels et circuits entièrement personnalisés à travers le Sri Lanka.",
     "heroEyebrow": "Comment nous vous aidons",
@@ -1013,14 +1012,14 @@
     "sectionTitle": "Conçu autour de votre itinéraire",
     "sectionDescription": "Chacun des services ci-dessous peut être réservé séparément ou intégré à un voyage sur mesure complet."
   },
-    "ToursPage": {
+  "ToursPage": {
     "metaTitle": "Circuits",
     "metaDescription": "Découvrez les circuits de luxe, d'aventure, de safari, de plage, de montagne, culturels, à la journée, en famille et de lune de miel de Lume Bend Ceylon au Sri Lanka.",
     "eyebrow": "Nos voyages",
     "title": "Circuits",
     "subtitle": "Chaque style de circuit est un point de départ pour votre propre itinéraire."
   },
-    "ReviewsPage": {
+  "ReviewsPage": {
     "page": {
       "metaTitle": "Avis",
       "metaDescription": "Découvrez ce que nos voyageurs disent de leur voyage avec Lume Bend Ceylon et partagez votre propre avis."
@@ -1064,7 +1063,7 @@
       "label": "{n, plural, one {# étoile} other {# étoiles}}"
     }
   },
-    "GalleryPage": {
+  "GalleryPage": {
     "metaTitle": "Galerie",
     "metaDescription": "Un voyage visuel à travers les destinations que Lume Bend Ceylon sélectionne au Sri Lanka.",
     "eyebrow": "Un aperçu",
@@ -1087,7 +1086,7 @@
     "services": "Services",
     "untitled": "Sans titre"
   },
-    "AuthPages": {
+  "AuthPages": {
     "login": {
       "eyebrow": "Bon retour",
       "title": "Connexion",
@@ -1125,7 +1124,7 @@
       "travellers": "{count, plural, one {# voyageur} other {# voyageurs}}"
     }
   },
-    "SustainabilityPage": {
+  "SustainabilityPage": {
     "metaTitle": "Développement durable",
     "metaDescription": "Conseils de voyage pour le Sri Lanka et politiques de tourisme durable de Lume Bend Ceylon.",
     "eyebrow": "Voyager de façon responsable",
@@ -1148,15 +1147,48 @@
       "footprintTitle": "Réduire notre empreinte",
       "footprintText": "Nous privilégions les matériaux réutilisables, limitons le plastique à usage unique et encourageons nos voyageurs à faire de même."
     }
+  },
+  "experiences": {
+    "title": "Fait pour être vécu",
+    "adventure": {
+      "title": "Aventure",
+      "cta": "Explorer l'aventure"
+    },
+    "culture": {
+      "title": "Culture",
+      "cta": "Découvrir la culture"
+    },
+    "relaxation": {
+      "title": "Détente",
+      "cta": "Planifier votre escapade"
+    },
+    "beach": {
+      "title": "Plage",
+      "cta": "Trouver votre plage"
+    },
+    "nature": {
+      "title": "Nature",
+      "cta": "Explorer la nature"
+    },
+    "romance": {
+      "title": "Romance",
+      "cta": "Planifier une escapade"
+    },
+    "wildlife": {
+      "title": "Faune",
+      "cta": "Voir la faune"
+    },
+    "food": {
+      "title": "Gastronomie",
+      "cta": "Goûter le Sri Lanka"
+    },
+    "heritage": {
+      "title": "Patrimoine",
+      "cta": "Explorer le patrimoine"
+    },
+    "wellness": {
+      "title": "Bien-être",
+      "cta": "Trouver le bien-être"
+    }
   }
 }
-
-
-
-
-
-
-  
-
-
-

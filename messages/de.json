@@ -884,7 +884,7 @@
     "otherPlatforms": "Weitere Plattformen",
     "mapPlaceholder": "Google-Maps-Platzhalter – hier Ihren Standort einbetten",
     "enquiryTitle": "Anfrage senden",
-     "form": {
+    "form": {
       "fullName": "Vollständiger Name",
       "email": "E-Mail",
       "whatsapp": "WhatsApp-Nummer",
@@ -902,7 +902,7 @@
       "successText": "Vielen Dank – ein Reiseexperte meldet sich innerhalb eines Werktags mit einem maßgeschneiderten Vorschlag bei Ihnen."
     }
   },
-    "Plan": {
+  "Plan": {
     "landing": {
       "metaTitle": "Reise planen",
       "metaDescription": "Planen Sie Ihre maßgeschneiderte Sri-Lanka-Reise mit Lume Bend Ceylon.",
@@ -958,9 +958,8 @@
       "backHome": "Zur Startseite",
       "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
     }
-    
-      },
-      "QuoteForm": {
+  },
+  "QuoteForm": {
     "name": "Ihr Name",
     "startDate": "Reisebeginn",
     "pickupLocation": "Abholort",
@@ -977,7 +976,7 @@
     "successText": "Vielen Dank – unser Team sendet Ihnen innerhalb von 48 Stunden das beste Angebot.",
     "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
   },
-    "Destinations": {
+  "Destinations": {
     "list": {
       "metaTitle": "Reiseziele",
       "metaDescription": "Entdecken Sie die bemerkenswertesten Reiseziele Sri Lankas – von Sigiriya und Kandy bis Yala und Mirissa – mit Lume Bend Ceylon.",
@@ -1003,7 +1002,7 @@
       "enquire": "Dazu anfragen"
     }
   },
-    "ServicesPage": {
+  "ServicesPage": {
     "metaTitle": "Leistungen",
     "metaDescription": "Flughafentransfers, private Chauffeure, professionelle Reiseleiter, Hilfe bei Hotelbuchungen und individuell gestaltete Touren in ganz Sri Lanka.",
     "heroEyebrow": "So helfen wir",
@@ -1013,7 +1012,6 @@
     "sectionTitle": "Auf Ihre Reiseroute zugeschnitten",
     "sectionDescription": "Jede der folgenden Leistungen kann einzeln gebucht oder zu einer komplett maßgeschneiderten Reise kombiniert werden."
   },
-
   "ToursPage": {
     "metaTitle": "Touren",
     "metaDescription": "Entdecken Sie die Luxus-, Abenteuer-, Wildtier-, Strand-, Hochland-, Kultur-, Tages-, Familien- und Flitterwochen-Touren von Lume Bend Ceylon in Sri Lanka.",
@@ -1021,7 +1019,6 @@
     "title": "Touren",
     "subtitle": "Jeder Tourstil ist ein Ausgangspunkt für Ihre ganz persönliche Reiseroute."
   },
-
   "ReviewsPage": {
     "page": {
       "metaTitle": "Bewertungen",
@@ -1066,7 +1063,7 @@
       "label": "{n, plural, one {# Stern} other {# Sterne}}"
     }
   },
-    "GalleryPage": {
+  "GalleryPage": {
     "metaTitle": "Galerie",
     "metaDescription": "Eine visuelle Reise durch die Reiseziele, die Lume Bend Ceylon in Sri Lanka zusammenstellt.",
     "eyebrow": "Ein Einblick",
@@ -1089,7 +1086,7 @@
     "services": "Leistungen",
     "untitled": "Ohne Titel"
   },
-    "AuthPages": {
+  "AuthPages": {
     "login": {
       "eyebrow": "Willkommen zurück",
       "title": "Anmelden",
@@ -1127,7 +1124,7 @@
       "travellers": "{count, plural, one {# Reisender} other {# Reisende}}"
     }
   },
-    "SustainabilityPage": {
+  "SustainabilityPage": {
     "metaTitle": "Nachhaltigkeit",
     "metaDescription": "Reisehinweise für Sri Lanka und die Richtlinien von Lume Bend Ceylon für nachhaltigen Tourismus.",
     "eyebrow": "Verantwortungsvoll reisen",
@@ -1150,16 +1147,48 @@
       "footprintTitle": "Unseren Fußabdruck verringern",
       "footprintText": "Wir bevorzugen wiederverwendbare Materialien, vermeiden Einwegplastik und ermutigen unsere Gäste, es uns gleichzutun."
     }
+  },
+  "experiences": {
+    "title": "Zum Erleben gemacht",
+    "adventure": {
+      "title": "Abenteuer",
+      "cta": "Abenteuer entdecken"
+    },
+    "culture": {
+      "title": "Kultur",
+      "cta": "Kultur entdecken"
+    },
+    "relaxation": {
+      "title": "Entspannung",
+      "cta": "Auszeit planen"
+    },
+    "beach": {
+      "title": "Strand",
+      "cta": "Ihren Strand finden"
+    },
+    "nature": {
+      "title": "Natur",
+      "cta": "Natur erkunden"
+    },
+    "romance": {
+      "title": "Romantik",
+      "cta": "Reise planen"
+    },
+    "wildlife": {
+      "title": "Tierwelt",
+      "cta": "Tiere erleben"
+    },
+    "food": {
+      "title": "Kulinarik",
+      "cta": "Sri Lanka schmecken"
+    },
+    "heritage": {
+      "title": "Erbe",
+      "cta": "Erbe entdecken"
+    },
+    "wellness": {
+      "title": "Wellness",
+      "cta": "Wellness finden"
+    }
   }
 }
-
-
-
-
-
-
-
-
-
-  
-
