@@ -99,8 +99,15 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
               </div>
             </div>
 
-            <div className="mt-10 flex h-56 items-center justify-center rounded-2xl bg-mist px-4 text-center text-sm text-ink/50">
-              {t("mapPlaceholder")}
+                        <div className="mt-10 h-56 overflow-hidden rounded-2xl bg-mist">
+              <iframe
+                title="Lume Bend Ceylon office location"
+                src="https://www.google.com/maps?q=Matale,+Sri+Lanka&output=embed"
+                className="h-full w-full border-0"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                allowFullScreen
+              />
             </div>
           </div>
 
