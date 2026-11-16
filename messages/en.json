@@ -869,8 +869,6 @@
     "startPlanning": "Start Planning Your Sri Lanka Tour",
     "planIntro": "Please give as much information as you can so that we can get a good idea about your requirements. Our team will send you the best quote within 48 hours."
   },
-
-
   "Contact": {
     "metaTitle": "Contact",
     "metaDescription": "Send Lume Bend Ceylon your travel dates and interests, and receive a tailored Sri Lanka itinerary proposal.",
@@ -886,7 +884,7 @@
     "otherPlatforms": "Find Us on Other Platforms",
     "mapPlaceholder": "Google Map placeholder — embed your location here",
     "enquiryTitle": "Send an Enquiry",
-      "form": {
+    "form": {
       "fullName": "Full Name",
       "email": "Email",
       "whatsapp": "WhatsApp Number",
@@ -904,7 +902,7 @@
       "successText": "Thank you, a travel specialist will be in touch within one business day with a tailored proposal."
     }
   },
-    "Plan": {
+  "Plan": {
     "landing": {
       "metaTitle": "Plan Your Journey",
       "metaDescription": "Start planning your tailor-made Sri Lanka journey with Lume Bend Ceylon.",
@@ -961,7 +959,7 @@
       "errorGeneric": "Something went wrong. Please try again."
     }
   },
-      "QuoteForm": {
+  "QuoteForm": {
     "name": "Your Name",
     "startDate": "Tour Start Date",
     "pickupLocation": "Pickup Location",
@@ -978,7 +976,7 @@
     "successText": "Thank you — our team will send you the best quote within 48 hours.",
     "errorGeneric": "Something went wrong. Please try again."
   },
-    "Destinations": {
+  "Destinations": {
     "list": {
       "metaTitle": "Destinations",
       "metaDescription": "Explore Sri Lanka's most remarkable destinations, from Sigiriya and Kandy to Yala and Mirissa, with Lume Bend Ceylon.",
@@ -1004,7 +1002,7 @@
       "enquire": "Enquire about this"
     }
   },
-    "ServicesPage": {
+  "ServicesPage": {
     "metaTitle": "Services",
     "metaDescription": "Airport transfers, private chauffeurs, professional guides, hotel booking assistance and fully customised tours across Sri Lanka.",
     "heroEyebrow": "How We Help",
@@ -1014,14 +1012,14 @@
     "sectionTitle": "Built Around Your Itinerary",
     "sectionDescription": "Every service below can be booked individually or bundled into a complete tailored journey."
   },
-    "ToursPage": {
+  "ToursPage": {
     "metaTitle": "Tours",
     "metaDescription": "Browse Lume Bend Ceylon's luxury, adventure, wildlife, beach, hill country, cultural, day, family and honeymoon tours across Sri Lanka.",
     "eyebrow": "Our Journeys",
     "title": "Tours",
     "subtitle": "Every tour style is a starting point for your own itinerary."
   },
-    "ReviewsPage": {
+  "ReviewsPage": {
     "page": {
       "metaTitle": "Reviews",
       "metaDescription": "Read what our guests say about travelling with Lume Bend Ceylon, and share your own trip review."
@@ -1065,7 +1063,7 @@
       "label": "{n, plural, one {# star} other {# stars}}"
     }
   },
-    "GalleryPage": {
+  "GalleryPage": {
     "metaTitle": "Gallery",
     "metaDescription": "A visual tour of the destinations Lume Bend Ceylon curates across Sri Lanka.",
     "eyebrow": "A Glimpse",
@@ -1088,7 +1086,7 @@
     "services": "Services",
     "untitled": "Untitled"
   },
-    "AuthPages": {
+  "AuthPages": {
     "login": {
       "eyebrow": "Welcome Back",
       "title": "Sign In",
@@ -1149,7 +1147,48 @@
       "footprintTitle": "Reducing Our Footprint",
       "footprintText": "We favour reusable materials, minimise single-use plastics, and encourage guests to do the same."
     }
+  },
+  "experiences": {
+    "title": "Made to Be Lived",
+    "adventure": {
+      "title": "Adventure",
+      "cta": "Explore Adventures"
+    },
+    "culture": {
+      "title": "Culture",
+      "cta": "Discover Culture"
+    },
+    "relaxation": {
+      "title": "Relaxation",
+      "cta": "Plan Your Escape"
+    },
+    "beach": {
+      "title": "Beach",
+      "cta": "Find Your Beach"
+    },
+    "nature": {
+      "title": "Nature",
+      "cta": "Explore Nature"
+    },
+    "romance": {
+      "title": "Romance",
+      "cta": "Plan a Getaway"
+    },
+    "wildlife": {
+      "title": "Wildlife",
+      "cta": "See Wildlife"
+    },
+    "food": {
+      "title": "Food",
+      "cta": "Taste Sri Lanka"
+    },
+    "heritage": {
+      "title": "Heritage",
+      "cta": "Explore Heritage"
+    },
+    "wellness": {
+      "title": "Wellness",
+      "cta": "Find Wellness"
+    }
   }
 }
-
-

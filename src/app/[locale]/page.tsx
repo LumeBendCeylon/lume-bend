@@ -2,6 +2,7 @@ import { languageAlternates } from "@/i18n/metadata";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import Hero from "@/components/home/Hero";
+import ExperienceCards from "@/components/home/ExperienceCards";
 import FeaturedTours from "@/components/home/FeaturedTours";
 import PopularDestinations from "@/components/home/PopularDestinations";
 import WhyChooseUs from "@/components/home/WhyChooseUs";
@@ -12,6 +13,7 @@ import FindUsOnline from "@/components/home/FindUsOnline";
 import FAQSection from "@/components/home/FAQSection";
 import CTASection from "@/components/CTASection";
 import VacationCollage from "@/components/home/VacationCollage";
+
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -33,6 +35,7 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       <Hero />
+      <ExperienceCards />
       <PopularDestinations />
       <WhyChooseUs />
       <VacationCollage />
